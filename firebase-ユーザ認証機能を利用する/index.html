@@ -1,0 +1,126 @@
+<!doctype html><html class=no-js lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><title>Firebase ユーザ認証機能を利用する - Programmers Office</title><script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script><meta name=description content><meta property="og:title" content="Firebase ユーザ認証機能を利用する"><meta property="og:description" content="今回もこちらの続き。Vuetify の基本 今回も参考はこちら。 Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加] https://note.mu/tkugimot/n/n80c2e4b33bbc で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出"><meta property="og:type" content="article"><meta property="og:url" content="http://example.org/firebase-%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/"><meta property="article:published_time" content="2019-06-01T05:09:33+00:00"><meta property="article:modified_time" content="2019-06-01T05:09:33+00:00"><meta itemprop=name content="Firebase ユーザ認証機能を利用する"><meta itemprop=description content="今回もこちらの続き。Vuetify の基本 今回も参考はこちら。 Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加] https://note.mu/tkugimot/n/n80c2e4b33bbc で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出"><meta itemprop=datePublished content="2019-06-01T05:09:33+00:00"><meta itemprop=dateModified content="2019-06-01T05:09:33+00:00"><meta itemprop=wordCount content="2084"><meta itemprop=keywords content="Firebase,Nuxt.js,Vuetify,"><meta name=twitter:card content="summary"><meta name=twitter:title content="Firebase ユーザ認証機能を利用する"><meta name=twitter:description content="今回もこちらの続き。Vuetify の基本 今回も参考はこちら。 Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加] https://note.mu/tkugimot/n/n80c2e4b33bbc で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/custom.css><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class=logo><a class=logo__link href=/ title="Programmers Office" rel=home><div class="logo__item logo__text"><div class=logo__title>Programmers Office</div><div class=logo__tagline>中華圏に興味があるプログラマのラグジュアリーな生活</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
+<span class=menu__btn-title tabindex=-1>メニュー</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/><span class=menu__text>プログラミング</span></a></li><li class=menu__item><a class=menu__link href=/><span class=menu__text>ホーム</span></a></li><li class=menu__item><a class=menu__link href=/categories/%E4%B8%AD%E5%9B%BD%E8%AA%9E/><span class=menu__text>中国語</span></a></li><li class=menu__item><a class=menu__link href=/categories/%E4%B8%AD%E8%8F%AF%E4%B8%96%E7%95%8C/><span class=menu__text>中華世界</span></a></li><li class=menu__item><a class=menu__link href=/categories/%E6%97%85%E8%A1%8C/><span class=menu__text>旅行</span></a></li><li class=menu__item><a class=menu__link href=/categories/%E6%9B%B8%E7%B1%8D/><span class=menu__text>書籍</span></a></li><li class=menu__item><a class=menu__link href=/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/><span class=menu__text>関心ごと</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Firebase ユーザ認証機能を利用する</h1><div class="post__meta meta"><div class="meta__item-author meta__item"><svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2.0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class=meta__text>JayQ</span></div><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2019-06-01T05:09:33Z>2019-06-01</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class=meta__text><a class=meta__link href=/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/ rel=category>プログラミング</a></span></div></div></header><div class="post__toc toc"><div class=toc__title>目次</div><div class=toc__menu><nav id=TableOfContents><ul><li><a href=#firebase-authentication機能の利用>Firebase Authentication機能の利用</a></li><li><a href=#サービスの設定>サービスの設定</a></li><li><a href=#bootstrapベースのpugからvuetifyへの書き換え>bootstrapベースのpugからvuetifyへの書き換え</a></li></ul></nav></div></div><div class="content post__content clearfix"><p>今回もこちらの続き。<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-programmers-office"></p><div class=wp-block-embed__wrapper><blockquote class=wp-embedded-content data-secret=TPSQSM8PbP><a href=https://www.programmers-office.ml/vuetify-%e3%81%ae%e5%9f%ba%e6%9c%ac/>Vuetify の基本</a></blockquote></div></figure><p>今回も参考はこちら。<br>Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加]<br><a rel="noreferrer noopener" aria-label="(opens in a new tab)" href=https://note.mu/tkugimot/n/n80c2e4b33bbc target=_blank><a href=https://note.mu/tkugimot/n/n80c2e4b33bbc>https://note.mu/tkugimot/n/n80c2e4b33bbc</a></a></p><p>で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出ている。</p><pre class=wp-block-code><code>This dependency was not found:
+nuxt_plugin_bootstrapvue_69bcb01f in ./.nuxt/index.js
+To install it, you can run: npm install --save nuxt_plugin_bootstrapvue_69bcb01f</code></pre><p>書いてある通りnpm installしてもNot Foundと言われるだけ。<br>しかし、<br>docker-compose down<br>docker-compose up -d<br>で復旧。なんのこっちゃ。</p><h2 id=firebase-authentication機能の利用>Firebase Authentication機能の利用</h2><p>手順としては、まず、package.jsonにfirebaseの記述を追加して、npm updateを実行するところから始まるのですが、ここで早速大量エラー。<br>概ねこんな感じ。</p><pre class=wp-block-code><code>Can't find Python executable "python", you can set the PYTHON env variable.
+
+Failed at the grpc@1.20.0 install script.
+This is probably not a problem with npm. There is likely additional logging output above.</code></pre><p>python・・・こっちでは使っていないはずだけどね・・・<br>試行錯誤色々・・・<br>結論としては、package.jsonへ追記するfirebaseのバージョンが、参考サイトの内容だと^5.11.1なのですが、これを^6.1.0 にすることで解消。なぜ・・・</p><p>なお、なぜこのバージョンを指定したかというと、試行錯誤の中で、ncuコマンドを知ったため、実行してみると、</p><pre class=wp-block-code><code># ncu
+Checking /app/package.json
+[====================] 21/21 100%
+
+ axios                    0.18.0  →  0.19.0 
+ nuxt                      2.6.3  →   2.8.0 
+ ts-node                   8.1.0  →   8.2.0 
+ vue-property-decorator    8.1.0  →   8.1.1 
+ vuex-module-decorators    0.9.8  →   0.9.9 
+ firebase                ^5.11.1  →  ^6.1.0 
+ @nuxt/typescript          2.6.3  →   2.8.0 
+ cypress                   3.2.0  →   3.3.1 </code></pre><p>と表示されたため。</p><p>これにより、npm updateはできるようになったのですが、まだyarn run devではエラーになっています。</p><pre class=wp-block-code><code>Error: Cannot find module 'bootstrap-vue/nuxt'</code></pre><p>元々は、書籍検索のサンプルで使用されているために、組み込んでいたのですが、いずれveutifyに統一することも考えると、ここで外すことにしてしまいます。</p><pre class=wp-block-code><code>yarn remove bootstrap-vue -S</code></pre><p>これだけではダメで、nuxt.config.ts　からも削除する必要があり、それで先ほどのエラーは解消。しかし、次は、また新たなエラー。（「あらたな」と打つと「新たなエラー」を予測変換で出してくるのウケる（ウケない））</p><pre class=wp-block-code><code>ERROR  Failed to compile with 3 errors                                                           friendly-errors 20:06:12
+
+This dependency was not found:                                                                    friendly-errors 20:06:12
+* ~/store/modules/users in ./node_modules/babel-loader/lib??ref--3-0!./node_modules/ts-loader??ref--3-1!./node_modules/vuetify-loader/lib/loader.js!./node_modules/vue-loader/lib??vue-loader-options!./components/GoogleSignin.vue?vue&type=script&lang=ts&
+To install it, you can run: npm install --save ~/store/modules/users                              friendly-errors 20:06:12
+
+These relative modules were not found:                                                            friendly-errors 20:06:12
+* ../assets/images/btn_google_signin_dark_normal_web.png in ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--5-oneOf-1-2!./node_modules/vuetify-loader/lib/loader.js!./node_modules/vue-loader/lib??vue-loader-options!./components/GoogleSignin.vue?vue&type=style&index=0&id=08720496&scoped=true&lang=css&
+* ../store/modules/userTypes in ./node_modules/babel-loader/lib??ref--3-0!./node_modules/ts-loader??ref--3-1!./node_modules/vuetify-loader/lib/loader.js!./node_modules/vue-loader/lib??vue-loader-options!./pages/login.vue?vue&type=script&lang=ts&
+</code></pre><p>参考サイトでは、ログインページを作成したところで一旦表示させているのですが、その時点では、store/modules/users、store/modules/userTypesを使用していないためにエラーになります。ですので、一旦最後まで作成はしてしまいます。</p><p>また、btn_google_signin_dark_normal_web.pngがないと言われているので、<br><a href="https://developers.google.com/identity/branding-guidelines?hl=ja">https://developers.google.com/identity/branding-guidelines?hl=ja</a><br>から入手します。しかし、また新たなエラーです。</p><pre class=wp-block-code><code>no such file or directory, scandir '/app/node_modules/node-sass/vendor</code></pre><p>これはnpm install node-sassで解消。ログインページが開くようになります。</p><h2 id=サービスの設定>サービスの設定</h2><p>アプリコーディングと並行して、サービスの設定も必要です。<br>順番が前後しますが、plugins/firebase.tsを追加するために、FirebaseのAPIキー等の取得が必要です。<br>参考サイトでは、アプリを追加をクリックと書かれており、その通りなのですが、全然関係ない画面のように思われるので、ちょっと不安になります。不安に負けずに進めば必要な情報が表示されます。</p><p>ところが、それだけでは、ログインしようとすると、下記のエラーが発生します。<figure class=wp-block-image></p><p><img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-5.50.54.png?ssl=1" alt class=wp-image-2968 srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-5.50.54.png?w=400&ssl=1 400w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-5.50.54.png?resize=300%2C240&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims=1></figure></p><pre class=wp-block-code><code>エラー 403: restricted_client
+This app is not yet configured to make OAuth requests. To do that, set up the app’s OAuth consent screen in the Google Cloud Console.</code></pre><p>consent screen、すなわち（今分かった！）同意画面の設定が必要です。<br>GCPにログインして、OAuth同意画面で、メールアドレス等を登録して、保存します。一部項目は最初から入力されていますが、保存ボタンを押せない状態になっており、メールアドレスを入力しないと保存できず、これをしないと先ほどのエラーが出る状態です。<figure class=wp-block-image></p><p><img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.03.43.png?ssl=1" alt class=wp-image-2969 srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.03.43.png?w=400&ssl=1 400w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.03.43.png?resize=300%2C260&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims=1></figure><figure class=wp-block-image><img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.04.04.png?ssl=1" alt class=wp-image-2970 srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.04.04.png?w=400&ssl=1 400w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/スクリーンショット-2019-06-01-10.04.04.png?resize=300%2C173&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims=1></figure></p><p>これでやっと、認証も動くようになりました。（ログアウトがないな・・・）</p><h2 id=bootstrapベースのpugからvuetifyへの書き換え>bootstrapベースのpugからvuetifyへの書き換え</h2><p>最後に、先ほど、bootstrapを外してしまったために、書籍検索がちゃんと表示されなくなってしまっていますので、書き換えます。見よう見まねでやったものの、いまいち綺麗に表示されていませんが、何かの役にたつと思うので、書き換え前後を置いておきます。</p><p>pages/book/index.vue 書き換え前</p><pre class=wp-block-code><code>&lt;template lang="pug">
+  section
+    b-container
+      b-row.row
+        b-col
+          b-form(@submit="onSubmit")
+            b-input-group(size="lg")
+              b-form-input(
+                size="sm",
+                class="mr-sm-2",
+                type="text",
+                placeholder="キーワードを入力してください。",
+                @change="handleChange"
+                :value="query"
+              )
+              b-button(size="sm",class="my-2 my-sm-0",type="submit") 検索する
+        b-col
+      div.cards
+        book-list-item(
+          v-for='book in books',
+          :key='book.id',
+          :book='book',
+        )
+&lt;/template></code></pre><p>pages/book/index.vue 書き換え後</p><pre class=wp-block-code><code>&lt;template>
+    &lt;div>
+        &lt;form @submit.prevent="onSubmit">
+          &lt;v-container>
+            &lt;v-layout row wrap>
+              &lt;v-flex xs8>
+              &lt;v-text-field
+              placeholder="キーワードを入力してください。"
+              outline
+              size="sm"
+              class="mr-sm-2"
+              @change="handleChange"
+              :value="query"
+              >&lt;/v-text-field>
+              &lt;/v-flex>
+              &lt;v-flex xs4>
+              &lt;v-btn round size="sm" class="my-2 my-sm-0" type="submit">
+                検索する&lt;/v-btn>
+              &lt;/v-flex>
+            &lt;/v-layout>
+          &lt;/v-container>
+        &lt;/form>
+        &lt;div class="cards">
+            &lt;div class="column">
+                &lt;book-list-item v-for='book in books'
+                :key='book.id'
+                :book='book' />
+            &lt;/div>
+        &lt;/div>
+    &lt;/div>
+&lt;/template></code></pre><p>BookListItem.vue 書き換え前</p><pre class=wp-block-code><code>&lt;template lang="pug">
+b-card.mb-2.card(:title="title", :img-src='thumbnail', img-alt='Image', img-top='', tag='article', style='max-width: 20rem;')
+  p.card-text {{description}}
+  router-link(:to="'/book/books/' + id") 
+    b-button(variant='primary') 詳細を見る
+&lt;/template></code></pre><p>BookListItem.vue 書き換え後</p><pre class=wp-block-code><code>&lt;template>
+    &lt;v-card>
+        &lt;v-img
+        :src="thumbnail"
+        style='max-width: 20rem;'>&lt;/v-img>
+        &lt;v-card-title primary-title>
+            &lt;div>
+                &lt;h3 class="headline mb-0">{{ title }}&lt;/h3>
+                &lt;div> {{ description }} &lt;/div>
+            &lt;/div>
+        &lt;/v-card-title>
+
+        &lt;v-card-actions>
+            &lt;router-link :to="'/book/books/' + id">
+                &lt;v-btn variant='primary'>
+                    詳細を見る
+                &lt;/v-btn>
+            &lt;/router-link>
+        &lt;/v-card-actions>
+    &lt;/v-card>
+&lt;/template></code></pre><p>BookDetailItem.vue 書き換え前</p><pre class=wp-block-code><code>&lt;template lang="pug">
+div.card
+  div.thumbnail
+    b-img(:src="thumbnail",fluid,alt="Responsive image")
+  div.content
+    h2 {{title}}
+    p.card-text {{description}}
+&lt;/template></code></pre><p>BookDetailItem.vue 書き換え後</p><pre class=wp-block-code><code>&lt;template>
+    &lt;v-card>
+        &lt;v-img
+        :src="thumbnail"
+        fluid>&lt;/v-img>
+        &lt;v-card-title primary-title>
+            &lt;div>
+                &lt;h2>{{ title }}&lt;/h2>
+                &lt;div> {{ description }} &lt;/div>
+            &lt;/div>
+        &lt;/v-card-title>
+    &lt;/v-card>
+&lt;/template></code></pre><p>以上で、基本的な手習いは終わりです。</p><p><a rel="noreferrer noopener" aria-label="(opens in a new tab)" href=https://titanicfire-d43cd.web.app/ target=_blank><a href=https://titanicfire-d43cd.web.app/>https://titanicfire-d43cd.web.app/</a></a></p><div class=kaerebalink-box style=text-align:left;padding-bottom:20px;font-size:small;zoom:1;overflow:hidden><div class=kaerebalink-image style="float:left;margin:0 15px 10px 0"><a href="//af.moshimo.com/af/c/click?a_id=1238335&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15656572%2F" target=_blank rel="noopener noreferrer"><img src="https://i2.wp.com/thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8615/9784844398615.jpg?ssl=1" style=border:none data-recalc-dims=1></a><img src="//i.moshimo.com/af/i/impression?a_id=1238335&p_id=54&pc_id=54&pl_id=616" width=1 height=1 style=border:none></div><div class=kaerebalink-info style=line-height:120%;zoom:1;overflow:hidden><div class=kaerebalink-name style=margin-bottom:10px;line-height:120%><a href="//af.moshimo.com/af/c/click?a_id=1238335&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15656572%2F" target=_blank rel="noopener noreferrer">OD＞Vue．JsとFirebaseで作るミニWebサービス改訂新版 （技術の泉シリーズ（NextPublishing）） [ 渡邊達明 ]</a><img src="//i.moshimo.com/af/i/impression?a_id=1238335&p_id=54&pc_id=54&pl_id=616" width=1 height=1 style=border:none><div class=kaerebalink-powered-date style=font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%>posted with <a href=https://kaereba.com rel="nofollow noopener noreferrer" target=_blank>カエレバ</a></div></div><div class=kaerebalink-detail style=margin-bottom:5px></div><div class=kaerebalink-link1 style=margin-top:10px><div class=shoplinkrakuten style=display:inline;margin-right:5px><a href="//af.moshimo.com/af/c/click?a_id=1238335&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Ffirebase%2520%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" target=_blank rel="noopener noreferrer">楽天市場</a><img src="//i.moshimo.com/af/i/impression?a_id=1238335&p_id=54&pc_id=54&pl_id=616" width=1 height=1 style=border:none></div><div class=shoplinkamazon style=display:inline;margin-right:5px><a href="//af.moshimo.com/af/c/click?a_id=1238337&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3Dfirebase%2520%26__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A" target=_blank rel="noopener noreferrer">Amazon</a><img src="//i.moshimo.com/af/i/impression?a_id=1238337&p_id=170&pc_id=185&pl_id=4062" width=1 height=1 style=border:none></div></div></div><div class=booklink-footer style=clear:left></div></div></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5.0 11V3C0 1.5.8.8.8.8S1.5.0 3 0h8c1.5.0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 100-6 3 3 0 000 6z"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/firebase/ rel=tag>Firebase</a></li><li class=tags__item><a class="tags__link btn" href=/tags/nuxt.js/ rel=tag>Nuxt.js</a></li><li class=tags__item><a class="tags__link btn" href=/tags/vuetify/ rel=tag>Vuetify</a></li></ul></div></footer></article></main><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/firebase-hosting%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4/ rel=prev><span class=pager__subtitle>«&#8201;前の投稿</span><p class=pager__title>Firebase Hostingにデプロイ</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/ rel=next><span class=pager__subtitle>次の投稿&#8201;»</span><p class=pager__title>ぬるさく画面に再チャレンジ</p></a></div></nav></div></div><footer class=footer><div class="container footer__container flex"><div class=footer__links><a class=footer__link href=/privacy/>プライバシーポリシー</a></div><div class=footer__copyright>&copy; 2020 JayQ.
+<span class=footer__copyright-credits>このサイトは <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> と <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> テーマで生成されています。</span></div></div></footer></div><script async defer src=/js/menu.js></script><script src=/js/custom.js></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script></body></html>
