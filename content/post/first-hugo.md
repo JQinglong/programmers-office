@@ -33,3 +33,5 @@ draft: false
 [HUGOのテーマ「Mainroad」の設定方法を紹介](https://itsys-tech.com/list/hugo/007/)
 
 [Hugo によるブログ作成と mainroad テーマのカスタマイズ](https://terashim.com/posts/create-hugo-blog-and-customize-mainroad-theme/)
+
+[GitHub Actions による GitHub Pages への自動デプロイ](https://qiita.com/peaceiris/items/d401f2e5724fdcb0759d)
