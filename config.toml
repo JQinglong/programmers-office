@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jqinglong.github.io/programmers-office/"
 DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
 title = "Programmers Office"
