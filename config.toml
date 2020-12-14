@@ -121,6 +121,6 @@ summaryLength = 120 # サマリーの長さを120単語にする
       unsafe = true
 
 [taxonomies]
-	tag = "tags"
-	category = "categories"
+  tag = "tags"
+  category = "categories"
   archive = "archives"
