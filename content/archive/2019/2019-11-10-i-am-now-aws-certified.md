@@ -3,6 +3,8 @@ title: I am Now AWS Certified
 author: KONNO Kiyotaka
 type: post
 date: 2019-11-10T00:20:41+00:00
+archives:
+    - 2019
 url: /i-am-now-aws-certified/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

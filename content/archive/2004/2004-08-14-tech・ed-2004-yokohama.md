@@ -2,6 +2,8 @@
 title: Tech・Ed 2004 Yokohama
 type: post
 date: 2004-08-14T13:19:29+00:00
+archives:
+    - 2004
 url: /tech・ed-2004-yokohama/
 post_views_count:
   - 63

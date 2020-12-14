@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ ついに完了！
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-05T02:23:12+00:00
+archives:
+    - 2019
 url: /code4startup-～-ubereatsを作ろう-～-ついに完了！/
 featured_image: /wp-content/uploads/2018/12/Code4Startup.jpg
 post_views_count:

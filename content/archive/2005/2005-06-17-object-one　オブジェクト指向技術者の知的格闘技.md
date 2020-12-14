@@ -2,6 +2,8 @@
 title: Object-One　オブジェクト指向技術者の知的格闘技
 type: post
 date: 2005-06-17T14:45:25+00:00
+archives:
+    - 2005
 url: /object-one　オブジェクト指向技術者の知的格闘技/
 post_views_count:
   - 812

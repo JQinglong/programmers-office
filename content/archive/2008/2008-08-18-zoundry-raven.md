@@ -2,6 +2,8 @@
 title: Zoundry Raven
 type: post
 date: 2008-08-17T15:19:40+00:00
+archives:
+    - 2008
 url: /zoundry-raven/
 post_views_count:
   - 112

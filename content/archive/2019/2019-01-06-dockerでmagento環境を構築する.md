@@ -3,6 +3,8 @@ title: DockerでMagento環境を構築する
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-06T09:52:07+00:00
+archives:
+    - 2019
 url: /dockerでmagento環境を構築する/
 featured_image: /wp-content/uploads/2019/01/2019-01-06-18.50.10.png
 post_views_count:

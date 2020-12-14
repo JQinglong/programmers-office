@@ -2,6 +2,8 @@
 title: Snipping Tool
 type: post
 date: 2007-02-04T01:21:31+00:00
+archives:
+    - 2007
 url: /snipping-tool/
 post_views_count:
   - 84

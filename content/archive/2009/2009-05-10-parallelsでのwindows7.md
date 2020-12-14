@@ -2,6 +2,8 @@
 title: ParallelsでのWindows7
 type: post
 date: 2009-05-09T18:02:23+00:00
+archives:
+    - 2009
 url: /parallelsでのwindows7/
 post_views_count:
   - 118

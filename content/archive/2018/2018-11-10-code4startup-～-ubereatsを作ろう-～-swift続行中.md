@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Swift続行中
 author: KONNO Kiyotaka
 type: post
 date: 2018-11-10T03:22:20+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-swift続行中/
 post_views_count:
   - 1100

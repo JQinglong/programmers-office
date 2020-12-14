@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Stripeの使用
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-08T02:45:59+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-stripeの使用/
 post_views_count:
   - 1077

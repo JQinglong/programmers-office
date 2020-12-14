@@ -2,6 +2,8 @@
 title: no one came up with any better ideas than what was on the initial list of requirements
 type: post
 date: 2007-04-08T06:12:36+00:00
+archives:
+    - 2007
 url: /no-one-came-up-with-any-better-ideas-than-what-was-on-the-initial-list-of-requirements/
 post_views_count:
   - 57

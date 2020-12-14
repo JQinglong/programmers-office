@@ -3,6 +3,8 @@ title: Realworld app – VueJS and Typescript
 author: KONNO Kiyotaka
 type: post
 date: 2020-04-19T09:00:59+00:00
+archives:
+    - 2020
 url: /realworld-app-vuejs-and-typescript/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

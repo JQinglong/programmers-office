@@ -3,6 +3,8 @@ title: WC Marketplace（商品機能）
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-13T15:53:13+00:00
+archives:
+    - 2019
 url: /wc-marketplace（商品機能）/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-13-15.55.13.png
 post_views_count:

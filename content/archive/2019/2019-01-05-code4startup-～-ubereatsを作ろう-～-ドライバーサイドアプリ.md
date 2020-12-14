@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ ドライバーサイドアプ�
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-04T23:09:11+00:00
+archives:
+    - 2019
 url: /code4startup-～-ubereatsを作ろう-～-ドライバーサイドアプリ/
 featured_image: /wp-content/uploads/2018/12/Code4Startup.jpg
 post_views_count:

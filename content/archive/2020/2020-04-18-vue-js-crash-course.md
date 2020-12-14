@@ -3,6 +3,8 @@ title: Vue JS Crash Course
 author: KONNO Kiyotaka
 type: post
 date: 2020-04-18T07:40:45+00:00
+archives:
+    - 2020
 url: /vue-js-crash-course/
 featured_image: /wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png
 post_views_count:

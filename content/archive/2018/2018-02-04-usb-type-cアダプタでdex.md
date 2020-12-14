@@ -3,6 +3,8 @@ title: USB type-CアダプタでDeX
 author: KONNO Kiyotaka
 type: post
 date: 2018-02-04T12:09:42+00:00
+archives:
+    - 2018
 url: /usb-type-cアダプタでdex/
 post_views_count:
   - 1067

@@ -3,6 +3,8 @@ title: '6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSys
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-13T02:12:50+00:00
+archives:
+    - 2019
 url: /6-2　画面のライフサイクル-ajaxのエクササイズ（outsystems-セ/
 featured_image: /wp-content/uploads/2019/06/20190616_231627.jpg
 post_views_count:

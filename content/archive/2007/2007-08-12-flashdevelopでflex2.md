@@ -2,6 +2,8 @@
 title: FlashDevelopでFlex2
 type: post
 date: 2007-08-12T14:16:54+00:00
+archives:
+    - 2007
 url: /flashdevelopでflex2/
 post_views_count:
   - 96

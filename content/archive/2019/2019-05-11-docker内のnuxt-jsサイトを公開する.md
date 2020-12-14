@@ -3,6 +3,8 @@ title: Docker内のNuxt.jsサイトを公開する
 author: KONNO Kiyotaka
 type: post
 date: 2019-05-10T20:49:51+00:00
+archives:
+    - 2019
 url: /docker内のnuxt-jsサイトを公開する/
 featured_image: /wp-content/uploads/2019/05/NuxtTypeScriptStarter.png
 post_views_count:

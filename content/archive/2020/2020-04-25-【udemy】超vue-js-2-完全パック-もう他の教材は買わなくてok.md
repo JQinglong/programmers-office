@@ -3,6 +3,8 @@ title: 【Udemy】超Vue JS 2 完全パック – もう他の教材は買わな
 author: KONNO Kiyotaka
 type: post
 date: 2020-04-25T00:53:40+00:00
+archives:
+    - 2020
 url: /【udemy】超vue-js-2-完全パック-もう他の教材は買わなくてok/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

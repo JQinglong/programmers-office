@@ -2,6 +2,8 @@
 title: Microsoft Visual Studio 2005によるWebアプリケーション構築技法
 type: post
 date: 2007-01-03T13:12:06+00:00
+archives:
+    - 2007
 url: /microsoft-visual-studio-2005によるwebアプリケーション構築技法/
 post_views_count:
   - 109

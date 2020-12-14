@@ -2,6 +2,8 @@
 title: FxCopUnit
 type: post
 date: 2007-02-25T06:19:50+00:00
+archives:
+    - 2007
 url: /fxcopunit/
 post_views_count:
   - 85

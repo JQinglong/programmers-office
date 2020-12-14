@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ API呼び出し
 author: KONNO Kiyotaka
 type: post
 date: 2018-11-17T01:07:21+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-api呼び出し/
 post_views_count:
   - 842

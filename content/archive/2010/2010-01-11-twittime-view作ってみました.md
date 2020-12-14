@@ -2,6 +2,8 @@
 title: Twittime View作ってみました
 type: post
 date: 2010-01-11T13:24:58+00:00
+archives:
+    - 2010
 url: /twittime-view作ってみました/
 post_views_count:
   - 84

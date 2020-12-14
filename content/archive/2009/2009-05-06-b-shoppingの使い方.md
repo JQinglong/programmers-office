@@ -2,6 +2,8 @@
 title: B-Shoppingの使い方
 type: post
 date: 2009-05-06T01:52:44+00:00
+archives:
+    - 2009
 url: /b-shoppingの使い方/
 post_views_count:
   - 97

@@ -2,6 +2,8 @@
 title: ついでにmacから by Qumana
 type: post
 date: 2007-01-28T23:48:27+00:00
+archives:
+    - 2007
 url: /ついでにmacから-by-qumana/
 post_views_count:
   - 89

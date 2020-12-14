@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-17T00:01:38+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-淡々とページ追加/
 post_views_count:
   - 885

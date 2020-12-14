@@ -2,6 +2,8 @@
 title: Yahoo!オークションWeb API
 type: post
 date: 2009-06-21T16:05:18+00:00
+archives:
+    - 2009
 url: /yahooオークションweb-api/
 post_views_count:
   - 883

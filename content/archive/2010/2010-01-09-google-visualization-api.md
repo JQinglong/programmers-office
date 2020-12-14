@@ -2,6 +2,8 @@
 title: Google Visualization API
 type: post
 date: 2010-01-09T13:28:02+00:00
+archives:
+    - 2010
 url: /google-visualization-api/
 post_views_count:
   - 99

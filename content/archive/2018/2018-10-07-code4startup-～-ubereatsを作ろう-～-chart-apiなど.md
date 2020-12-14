@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Chart APIなど
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-07T08:25:00+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-chart-apiなど/
 post_views_count:
   - 971

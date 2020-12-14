@@ -2,6 +2,8 @@
 title: Enterprise Libraryの.NET2.0環境へのインストールは難航しています
 type: post
 date: 2005-05-07T18:14:16+00:00
+archives:
+    - 2005
 url: /enterprise-libraryの-net2-0環境へのインストールは難航しています/
 post_views_count:
   - 89

@@ -3,6 +3,8 @@ title: Monaca Onsen UI V2 Vueで外部JSON取得
 author: KONNO Kiyotaka
 type: post
 date: 2018-07-12T09:11:26+00:00
+archives:
+    - 2018
 url: /monaca-onsen-ui-v2-vueで外部json取得/
 post_views_count:
   - 1100

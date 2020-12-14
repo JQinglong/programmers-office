@@ -2,6 +2,8 @@
 title: '[VS2005]Visual Controls　以外の非表示'
 type: post
 date: 2005-05-22T15:27:31+00:00
+archives:
+    - 2005
 url: /vs2005visual-controls　以外の非表示/
 post_views_count:
   - 89

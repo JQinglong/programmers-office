@@ -2,6 +2,8 @@
 title: Atlas March 2006 CTP
 type: post
 date: 2006-03-25T05:04:33+00:00
+archives:
+    - 2006
 url: /atlas-march-2006-ctp/
 post_views_count:
   - 232

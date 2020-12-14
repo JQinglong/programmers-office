@@ -2,6 +2,8 @@
 title: GridViewの情報をExcelファイルに出力する
 type: post
 date: 2006-04-29T19:39:17+00:00
+archives:
+    - 2006
 url: /gridviewの情報をexcelファイルに出力する/
 post_views_count:
   - 900

@@ -2,6 +2,8 @@
 title: .NET Framework 3.5 と、.NET Framework 3.0および2.0 の関係
 type: post
 date: 2007-12-16T05:16:26+00:00
+archives:
+    - 2007
 url: /net-framework-3-5-と、-net-framework-3-0および2-0-の関係/
 post_views_count:
   - 112

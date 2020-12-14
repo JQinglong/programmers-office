@@ -2,6 +2,8 @@
 title: WFSamplesの歩き方(4)：WorkflowWithParameters
 type: post
 date: 2006-09-03T04:13:18+00:00
+archives:
+    - 2006
 url: /wfsamplesの歩き方4：workflowwithparameters/
 post_views_count:
   - 102

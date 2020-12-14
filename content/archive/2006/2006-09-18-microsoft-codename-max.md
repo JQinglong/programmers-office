@@ -2,6 +2,8 @@
 title: Microsoft Codename Max
 type: post
 date: 2006-09-17T17:44:51+00:00
+archives:
+    - 2006
 url: /microsoft-codename-max/
 post_views_count:
   - 97

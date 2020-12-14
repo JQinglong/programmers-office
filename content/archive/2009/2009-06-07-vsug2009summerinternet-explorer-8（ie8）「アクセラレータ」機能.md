@@ -2,6 +2,8 @@
 title: '[vsug2009summer]Internet Explorer 8（IE8）「アクセラレータ」機能'
 type: post
 date: 2009-06-07T11:24:10+00:00
+archives:
+    - 2009
 url: /vsug2009summerinternet-explorer-8（ie8）「アクセラレータ」機能/
 post_views_count:
   - 1295

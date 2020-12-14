@@ -2,6 +2,8 @@
 title: Visual Studioでの正規表現　第二弾
 type: post
 date: 2006-04-29T09:53:10+00:00
+archives:
+    - 2006
 url: /visual-studioでの正規表現　第二弾/
 post_views_count:
   - 882

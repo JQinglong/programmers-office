@@ -2,6 +2,8 @@
 title: nunit-server.exe
 type: post
 date: 2006-02-05T14:10:31+00:00
+archives:
+    - 2006
 url: /nunit-server-exe/
 post_views_count:
   - 217

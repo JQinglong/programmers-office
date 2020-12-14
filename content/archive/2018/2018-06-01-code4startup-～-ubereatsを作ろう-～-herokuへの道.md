@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ herokuへの道
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-01T13:13:48+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-herokuへの道/
 post_views_count:
   - 1112

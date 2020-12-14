@@ -2,6 +2,8 @@
 title: bootcamp上のvistaをWindows7にupgrade
 type: post
 date: 2009-05-09T17:00:43+00:00
+archives:
+    - 2009
 url: /bootcamp上のvistaをwindows7にupgrade/
 post_views_count:
   - 112

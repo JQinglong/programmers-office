@@ -2,6 +2,8 @@
 title: App Engine 開発環境
 type: post
 date: 2008-05-24T16:01:53+00:00
+archives:
+    - 2008
 url: /app-engine-開発環境/
 post_views_count:
   - 96

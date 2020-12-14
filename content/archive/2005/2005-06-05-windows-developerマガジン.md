@@ -2,6 +2,8 @@
 title: Windows Developerマガジン
 type: post
 date: 2005-06-04T16:05:08+00:00
+archives:
+    - 2005
 url: /windows-developerマガジン/
 post_views_count:
   - 526

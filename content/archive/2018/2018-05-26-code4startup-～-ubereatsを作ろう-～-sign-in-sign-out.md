@@ -3,6 +3,8 @@ title: 'Code4StartUp ～ UberEatsを作ろう ～ Sign In & Sign Out'
 author: KONNO Kiyotaka
 type: post
 date: 2018-05-26T00:19:17+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-sign-in-sign-out/
 post_views_count:
   - 1075

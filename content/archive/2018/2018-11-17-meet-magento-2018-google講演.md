@@ -3,6 +3,8 @@ title: Meet Magento 2018 – Google講演
 author: KONNO Kiyotaka
 type: post
 date: 2018-11-17T07:39:32+00:00
+archives:
+    - 2018
 url: /meet-magento-2018-google講演/
 post_views_count:
   - 768

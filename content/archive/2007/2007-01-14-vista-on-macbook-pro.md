@@ -2,6 +2,8 @@
 title: Vista on MacBook Pro
 type: post
 date: 2007-01-14T13:44:41+00:00
+archives:
+    - 2007
 url: /vista-on-macbook-pro/
 post_views_count:
   - 86

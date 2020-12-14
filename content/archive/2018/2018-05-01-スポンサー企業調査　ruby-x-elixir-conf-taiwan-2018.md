@@ -3,6 +3,8 @@ title: スポンサー企業調査　Ruby X Elixir Conf Taiwan 2018
 author: KONNO Kiyotaka
 type: post
 date: 2018-05-01T05:43:34+00:00
+archives:
+    - 2018
 url: /スポンサー企業調査　ruby-x-elixir-conf-taiwan-2018/
 post_views_count:
   - 1633

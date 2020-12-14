@@ -2,6 +2,8 @@
 title: 続App Engine
 type: post
 date: 2008-06-12T13:23:58+00:00
+archives:
+    - 2008
 url: /続app-engine/
 post_views_count:
   - 71

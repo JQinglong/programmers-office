@@ -3,6 +3,8 @@ title: WCFM Marketplace ショップページ
 author: KONNO Kiyotaka
 type: post
 date: 2019-02-03T01:26:35+00:00
+archives:
+    - 2019
 url: /wcfm-marketplace-ショップページ/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-20-22.17.58.jpg
 post_views_count:

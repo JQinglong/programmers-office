@@ -2,6 +2,8 @@
 title: VSUG DAY 2013 Summer
 type: post
 date: 2013-07-20T14:05:54+00:00
+archives:
+    - 2013
 url: /vsug-day-2013-summer/
 post_views_count:
   - 192

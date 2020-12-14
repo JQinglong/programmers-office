@@ -2,6 +2,8 @@
 title: NUnitとJUnit
 type: post
 date: 2005-10-16T12:33:02+00:00
+archives:
+    - 2005
 url: /nunitとjunit/
 post_views_count:
   - 782

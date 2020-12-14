@@ -3,6 +3,8 @@ title: 6.4　ウェブブロックとUIを再利用してみよう（OutSystems 
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-13T05:45:17+00:00
+archives:
+    - 2019
 url: /6-4　ウェブブロックとuiを再利用してみよう（outsystems-セ/
 featured_image: /wp-content/uploads/2019/06/20190616_231627.jpg
 post_views_count:

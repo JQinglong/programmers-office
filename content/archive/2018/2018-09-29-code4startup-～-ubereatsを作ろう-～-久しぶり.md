@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ 久しぶり
 author: KONNO Kiyotaka
 type: post
 date: 2018-09-29T13:59:15+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-久しぶり/
 post_views_count:
   - 925

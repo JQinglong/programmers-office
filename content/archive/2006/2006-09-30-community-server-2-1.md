@@ -2,6 +2,8 @@
 title: Community Server 2.1
 type: post
 date: 2006-09-30T06:36:04+00:00
+archives:
+    - 2006
 url: /community-server-2-1/
 post_views_count:
   - 193

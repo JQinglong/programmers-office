@@ -2,6 +2,8 @@
 title: CSS Dock Menu
 type: post
 date: 2007-06-23T04:06:24+00:00
+archives:
+    - 2007
 url: /css-dock-menu/
 post_views_count:
   - 77

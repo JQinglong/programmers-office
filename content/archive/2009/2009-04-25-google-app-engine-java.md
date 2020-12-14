@@ -2,6 +2,8 @@
 title: Google App Engine Java
 type: post
 date: 2009-04-25T02:14:13+00:00
+archives:
+    - 2009
 url: /google-app-engine-java/
 post_views_count:
   - 218

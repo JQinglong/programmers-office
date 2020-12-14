@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Swift環境
 author: KONNO Kiyotaka
 type: post
 date: 2018-05-02T02:15:27+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-swift環境/
 post_views_count:
   - 1139

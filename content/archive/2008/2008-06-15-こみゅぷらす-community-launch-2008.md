@@ -2,6 +2,8 @@
 title: こみゅぷらす Community Launch 2008
 type: post
 date: 2008-06-15T14:59:28+00:00
+archives:
+    - 2008
 url: /こみゅぷらす-community-launch-2008/
 post_views_count:
   - 84

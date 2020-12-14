@@ -3,6 +3,8 @@ title: AWS Loft vs YAHOO LODGE
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-06T03:29:59+00:00
+archives:
+    - 2018
 url: /aws-loft-vs-yahoo-lodge/
 featured_image: /wp-content/uploads/2018/12/20181002_111350.jpg
 post_views_count:

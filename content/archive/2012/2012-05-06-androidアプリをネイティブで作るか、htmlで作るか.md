@@ -2,6 +2,8 @@
 title: Androidアプリをネイティブで作るか、HTMLで作るか
 type: post
 date: 2012-05-06T05:10:45+00:00
+archives:
+    - 2012
 url: /androidアプリをネイティブで作るか、htmlで作るか/
 post_views_count:
   - 1372

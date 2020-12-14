@@ -2,6 +2,8 @@
 title: '[vsug2009summer]Azure開発'
 type: post
 date: 2009-06-07T16:15:48+00:00
+archives:
+    - 2009
 url: /vsug2009summerazure開発/
 post_views_count:
   - 910

@@ -2,6 +2,8 @@
 title: Effective Java プログラミング言語ガイド
 type: post
 date: 2006-12-16T06:31:29+00:00
+archives:
+    - 2006
 url: /effective-java-プログラミング言語ガイド/
 post_views_count:
   - 394

@@ -6,6 +6,8 @@ date: 2019-01-31T16:00:36+00:00
 excerpt: |
   今日のメインは地図。
   地図の表示にあたっては、他のプラグインとの連携が考えられているようです。
+archives:
+    - 2019
 url: /wcfm-marketplace-homepage設定/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-20-22.17.58.jpg
 post_views_count:

@@ -6,6 +6,8 @@ date: 2018-12-31T00:24:58+00:00
 excerpt: |
   リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。
   途中のミニ講座は、「pyramid if」。
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-詳細画面からショッピングカ/
 featured_image: /wp-content/uploads/2018/12/Code4Startup.jpg
 post_views_count:

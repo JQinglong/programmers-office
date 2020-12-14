@@ -2,6 +2,8 @@
 title: Microsoft code name "Acropolis"
 type: post
 date: 2007-06-09T02:07:01+00:00
+archives:
+    - 2007
 url: /microsoft-code-name-acropolis/
 post_views_count:
   - 80

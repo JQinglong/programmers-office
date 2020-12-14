@@ -2,6 +2,8 @@
 title: Windows Workflow Foundation素振り
 type: post
 date: 2006-08-19T02:25:59+00:00
+archives:
+    - 2006
 url: /windows-workflow-foundation素振り/
 post_views_count:
   - 104

@@ -2,6 +2,8 @@
 title: Enterprise Library　ファーストインプレッション
 type: post
 date: 2005-07-24T04:17:00+00:00
+archives:
+    - 2005
 url: /enterprise-library　ファーストインプレッション/
 post_views_count:
   - 1089

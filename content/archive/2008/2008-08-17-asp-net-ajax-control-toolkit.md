@@ -2,6 +2,8 @@
 title: ASP.NET AJAX Control Toolkit
 type: post
 date: 2008-08-17T14:17:27+00:00
+archives:
+    - 2008
 url: /asp-net-ajax-control-toolkit/
 post_views_count:
   - 90

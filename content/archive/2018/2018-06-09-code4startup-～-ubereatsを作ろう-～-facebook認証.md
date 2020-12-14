@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Facebook認証
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-09T00:26:26+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-facebook認証/
 post_views_count:
   - 933

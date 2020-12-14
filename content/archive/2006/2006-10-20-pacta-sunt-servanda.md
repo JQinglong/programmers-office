@@ -2,6 +2,8 @@
 title: Pacta sunt servanda
 type: post
 date: 2006-10-19T16:22:00+00:00
+archives:
+    - 2006
 url: /pacta-sunt-servanda/
 post_views_count:
   - 205

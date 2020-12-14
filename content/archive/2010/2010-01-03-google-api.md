@@ -2,6 +2,8 @@
 title: Google API
 type: post
 date: 2010-01-03T04:18:50+00:00
+archives:
+    - 2010
 url: /google-api/
 post_views_count:
   - 186

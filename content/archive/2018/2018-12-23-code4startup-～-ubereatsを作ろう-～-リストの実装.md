@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ リストの実装
 author: KONNO Kiyotaka
 type: post
 date: 2018-12-23T00:26:31+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-リストの実装/
 featured_image: /wp-content/uploads/2018/12/Code4Startup.jpg
 post_views_count:

@@ -2,6 +2,8 @@
 title: VSUG DAY 2006 SUMMER
 type: post
 date: 2006-06-13T14:54:44+00:00
+archives:
+    - 2006
 url: /vsug-day-2006-summer/
 post_views_count:
   - 181

@@ -2,6 +2,8 @@
 title: ITpro Expo より　ワークフローまとめ
 type: post
 date: 2008-02-17T13:53:03+00:00
+archives:
+    - 2008
 url: /itpro-expo-より　ワークフローまとめ/
 post_views_count:
   - 702

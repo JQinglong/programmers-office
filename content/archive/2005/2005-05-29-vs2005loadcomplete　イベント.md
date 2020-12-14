@@ -2,6 +2,8 @@
 title: '[VS2005]LoadComplete　イベント'
 type: post
 date: 2005-05-29T08:37:56+00:00
+archives:
+    - 2005
 url: /vs2005loadcomplete　イベント/
 post_views_count:
   - 83

@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ デザインなど
 author: KONNO Kiyotaka
 type: post
 date: 2018-11-11T01:59:59+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-デザインなど/
 post_views_count:
   - 914

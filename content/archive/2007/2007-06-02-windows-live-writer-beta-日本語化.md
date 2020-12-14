@@ -2,6 +2,8 @@
 title: Windows Live Writer Beta 日本語化
 type: post
 date: 2007-06-02T12:17:49+00:00
+archives:
+    - 2007
 url: /windows-live-writer-beta-日本語化/
 post_views_count:
   - 83

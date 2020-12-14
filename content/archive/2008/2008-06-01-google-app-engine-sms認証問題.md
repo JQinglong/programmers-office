@@ -2,6 +2,8 @@
 title: Google App Engine SMS認証問題
 type: post
 date: 2008-06-01T00:26:56+00:00
+archives:
+    - 2008
 url: /google-app-engine-sms認証問題/
 post_views_count:
   - 79

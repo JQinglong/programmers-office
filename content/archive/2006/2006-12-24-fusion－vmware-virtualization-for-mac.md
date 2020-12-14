@@ -2,6 +2,8 @@
 title: Fusion－VMware Virtualization for Mac
 type: post
 date: 2006-12-23T23:38:38+00:00
+archives:
+    - 2006
 url: /fusion－vmware-virtualization-for-mac/
 post_views_count:
   - 114

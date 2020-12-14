@@ -2,6 +2,8 @@
 title: Seasar Conference 2006 Spring　終了
 type: post
 date: 2006-05-15T16:13:24+00:00
+archives:
+    - 2006
 url: /seasar-conference-2006-spring　終了/
 post_views_count:
   - 1118

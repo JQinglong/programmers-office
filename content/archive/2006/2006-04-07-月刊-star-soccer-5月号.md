@@ -2,6 +2,8 @@
 title: 月刊 STAR soccer 5月号
 type: post
 date: 2006-04-06T15:06:20+00:00
+archives:
+    - 2006
 url: /月刊-star-soccer-5月号/
 post_views_count:
   - 235

@@ -2,6 +2,8 @@
 title: nifty TimeLine – ソーシャル・タイムライン
 type: post
 date: 2007-03-21T12:19:24+00:00
+archives:
+    - 2007
 url: /nifty-timeline-ソーシャル・タイムライン/
 post_views_count:
   - 71

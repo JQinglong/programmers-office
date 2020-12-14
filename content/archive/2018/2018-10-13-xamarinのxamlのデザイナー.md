@@ -3,6 +3,8 @@ title: XamarinのXAMLのデザイナー
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-13T14:11:23+00:00
+archives:
+    - 2018
 url: /xamarinのxamlのデザイナー/
 post_views_count:
   - 794

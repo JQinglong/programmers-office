@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-15T23:48:08+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-bootstrapの適用/
 post_views_count:
   - 915

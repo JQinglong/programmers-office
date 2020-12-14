@@ -3,6 +3,8 @@ title: MacにDocker環境をビジュアルに構築する
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-05T22:17:45+00:00
+archives:
+    - 2019
 url: /macにdocker環境をビジュアルに構築する/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

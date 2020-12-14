@@ -2,6 +2,8 @@
 title: AutoPagerize　インストールしてみましたよ
 type: post
 date: 2008-02-04T15:36:25+00:00
+archives:
+    - 2008
 url: /autopagerize　インストールしてみましたよ/
 post_views_count:
   - 647

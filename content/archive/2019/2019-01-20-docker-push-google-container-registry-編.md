@@ -3,6 +3,8 @@ title: Docker push Google Container Registry 編
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-20T02:07:55+00:00
+archives:
+    - 2019
 url: /docker-push-google-container-registry-編/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.23.43.jpg
 post_views_count:

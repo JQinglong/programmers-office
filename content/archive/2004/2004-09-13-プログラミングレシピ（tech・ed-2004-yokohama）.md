@@ -2,6 +2,8 @@
 title: プログラミングレシピ（Tech・Ed 2004 Yokohama）
 type: post
 date: 2004-09-12T15:55:09+00:00
+archives:
+    - 2004
 url: /プログラミングレシピ（tech・ed-2004-yokohama）/
 post_views_count:
   - 70

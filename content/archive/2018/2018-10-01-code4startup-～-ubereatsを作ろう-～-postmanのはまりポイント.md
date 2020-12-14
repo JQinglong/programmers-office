@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Postmanのはまりポイント
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-01T13:04:47+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-postmanのはまりポイント/
 post_views_count:
   - 1097

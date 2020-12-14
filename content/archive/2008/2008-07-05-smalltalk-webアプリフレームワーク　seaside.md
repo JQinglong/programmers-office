@@ -2,6 +2,8 @@
 title: Smalltalk Webアプリフレームワーク　Seaside
 type: post
 date: 2008-07-05T07:55:03+00:00
+archives:
+    - 2008
 url: /smalltalk-webアプリフレームワーク　seaside/
 post_views_count:
   - 85

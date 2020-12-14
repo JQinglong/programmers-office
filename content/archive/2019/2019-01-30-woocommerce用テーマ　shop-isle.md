@@ -3,6 +3,8 @@ title: WooCommerce用テーマ　Shop Isle
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-29T15:07:05+00:00
+archives:
+    - 2019
 url: /woocommerce用テーマ　shop-isle/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-20-22.17.58.jpg
 post_views_count:

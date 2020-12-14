@@ -2,6 +2,8 @@
 title: DetailsViewとGridViewでObjectDataSourceを使用する
 type: post
 date: 2006-07-26T13:51:36+00:00
+archives:
+    - 2006
 url: /detailsviewとgridviewでobjectdatasourceを使用する/
 post_views_count:
   - 1395

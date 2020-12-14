@@ -2,6 +2,8 @@
 title: PopflyでtwitterからVirtualEarthに連携
 type: post
 date: 2007-05-27T12:53:21+00:00
+archives:
+    - 2007
 url: /popflyでtwitterからvirtualearthに連携/
 post_views_count:
   - 76

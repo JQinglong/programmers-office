@@ -2,6 +2,8 @@
 title: DOIT 優しさと愛が溢れる美容室! BAGZY 美容室
 type: post
 date: 2009-08-16T07:22:50+00:00
+archives:
+    - 2009
 url: /doit-優しさと愛が溢れる美容室-bagzy-美容室/
 post_views_count:
   - 104

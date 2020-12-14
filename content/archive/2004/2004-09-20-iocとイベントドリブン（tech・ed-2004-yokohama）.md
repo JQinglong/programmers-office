@@ -2,6 +2,8 @@
 title: IoCとイベントドリブン（Tech・Ed 2004 Yokohama）
 type: post
 date: 2004-09-19T23:27:03+00:00
+archives:
+    - 2004
 url: /iocとイベントドリブン（tech・ed-2004-yokohama）/
 post_views_count:
   - 61

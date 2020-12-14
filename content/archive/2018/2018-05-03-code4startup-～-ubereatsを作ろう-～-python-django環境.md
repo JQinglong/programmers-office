@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Python/Django環境
 author: KONNO Kiyotaka
 type: post
 date: 2018-05-03T00:31:24+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-python-django環境/
 post_views_count:
   - 1077

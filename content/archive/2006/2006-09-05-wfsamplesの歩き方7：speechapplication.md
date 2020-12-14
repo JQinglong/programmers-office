@@ -2,6 +2,8 @@
 title: WFSamplesの歩き方(7)：SpeechApplication
 type: post
 date: 2006-09-04T16:17:02+00:00
+archives:
+    - 2006
 url: /wfsamplesの歩き方7：speechapplication/
 post_views_count:
   - 92

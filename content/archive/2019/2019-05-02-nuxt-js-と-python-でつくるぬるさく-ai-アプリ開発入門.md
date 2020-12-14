@@ -3,6 +3,8 @@ title: Nuxt.js と Python でつくるぬるさく AI アプリ開発入�
 author: KONNO Kiyotaka
 type: post
 date: 2019-05-02T06:49:11+00:00
+archives:
+    - 2019
 url: /nuxt-js-と-python-でつくるぬるさく-ai-アプリ開発入門/
 featured_image: /wp-content/uploads/2019/05/nullsuck.png
 post_views_count:

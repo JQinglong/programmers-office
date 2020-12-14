@@ -3,6 +3,8 @@ title: TruffleBoxs 入門
 author: KONNO Kiyotaka
 type: post
 date: 2020-03-23T07:52:01+00:00
+archives:
+    - 2020
 url: /truffleboxs-入門/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

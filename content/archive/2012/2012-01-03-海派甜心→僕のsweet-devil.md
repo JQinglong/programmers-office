@@ -2,6 +2,8 @@
 title: 海派甜心→僕のSweet Devil
 type: post
 date: 2012-01-03T05:26:43+00:00
+archives:
+    - 2012
 url: /海派甜心→僕のsweet-devil/
 post_views_count:
   - 1190

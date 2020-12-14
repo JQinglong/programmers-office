@@ -2,6 +2,8 @@
 title: JSTQB JSTQB認定テスト技術者資格 Foundation Level試験
 type: post
 date: 2009-07-26T11:30:02+00:00
+archives:
+    - 2009
 url: /jstqb-jstqb認定テスト技術者資格-foundation-level試験/
 post_views_count:
   - 108

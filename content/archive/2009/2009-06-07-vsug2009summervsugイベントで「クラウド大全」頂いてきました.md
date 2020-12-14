@@ -2,6 +2,8 @@
 title: '[vsug2009summer]VSUGイベントで「クラウド大全」頂いてきました'
 type: post
 date: 2009-06-06T23:29:02+00:00
+archives:
+    - 2009
 url: /vsug2009summervsugイベントで「クラウド大全」頂いてきました/
 post_views_count:
   - 1062

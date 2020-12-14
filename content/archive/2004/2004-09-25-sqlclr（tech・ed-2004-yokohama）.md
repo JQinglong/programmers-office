@@ -2,6 +2,8 @@
 title: SQLCLR（Tech・Ed 2004 Yokohama）
 type: post
 date: 2004-09-25T14:55:28+00:00
+archives:
+    - 2004
 url: /sqlclr（tech・ed-2004-yokohama）/
 post_views_count:
   - 48

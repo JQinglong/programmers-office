@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Djangoのデバッグ
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-01T07:14:37+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-djangoのデバッグ/
 post_views_count:
   - 953

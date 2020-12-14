@@ -2,6 +2,8 @@
 title: 最強　MARUNOUCHI CAFE
 type: post
 date: 2006-10-29T15:00:43+00:00
+archives:
+    - 2006
 url: /最強　marunouchi-cafe/
 post_views_count:
   - 1326

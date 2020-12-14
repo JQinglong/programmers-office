@@ -2,6 +2,8 @@
 title: App Engine でのモデル定義
 type: post
 date: 2008-06-29T16:10:33+00:00
+archives:
+    - 2008
 url: /app-engine-でのモデル定義/
 post_views_count:
   - 81

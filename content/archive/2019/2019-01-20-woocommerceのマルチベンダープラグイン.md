@@ -3,6 +3,8 @@ title: WooCommerceのマルチベンダープラグイン
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-20T13:18:55+00:00
+archives:
+    - 2019
 url: /woocommerceのマルチベンダープラグイン/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-20-22.17.58.jpg
 post_views_count:

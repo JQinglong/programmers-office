@@ -3,6 +3,8 @@ title: Firebase Hostingにデプロイ
 author: KONNO Kiyotaka
 type: post
 date: 2019-05-29T13:37:55+00:00
+archives:
+    - 2019
 url: /firebase-hostingにデプロイ/
 featured_image: /wp-content/uploads/2019/05/vuetify.png
 post_views_count:

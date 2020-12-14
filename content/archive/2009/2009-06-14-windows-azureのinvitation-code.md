@@ -2,6 +2,8 @@
 title: Windows AzureのInvitation Code
 type: post
 date: 2009-06-14T08:16:14+00:00
+archives:
+    - 2009
 url: /windows-azureのinvitation-code/
 post_views_count:
   - 1055

@@ -2,6 +2,8 @@
 title: AIRとqooxdooの手習い
 type: post
 date: 2008-07-20T19:25:14+00:00
+archives:
+    - 2008
 url: /airとqooxdooの手習い/
 post_views_count:
   - 81

@@ -3,6 +3,8 @@ title: WooCommerceを試す
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-13T01:52:34+00:00
+archives:
+    - 2019
 url: /woocommerceを試す/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png
 post_views_count:

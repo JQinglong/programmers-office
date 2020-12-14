@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ Registration
 author: KONNO Kiyotaka
 type: post
 date: 2018-05-28T12:49:42+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-registration/
 post_views_count:
   - 1068

@@ -3,6 +3,8 @@ title: MacでVisual Studio 2019
 author: KONNO Kiyotaka
 type: post
 date: 2019-04-13T23:47:31+00:00
+archives:
+    - 2019
 url: /macでvisual-studio-2019/
 post_views_count:
   - 578

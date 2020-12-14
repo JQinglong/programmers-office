@@ -2,6 +2,8 @@
 title: ABリピートツール　Speater
 type: post
 date: 2013-02-16T09:47:44+00:00
+archives:
+    - 2013
 url: /abリピートツール　speater/
 post_views_count:
   - 782

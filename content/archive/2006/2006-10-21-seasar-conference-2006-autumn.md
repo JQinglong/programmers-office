@@ -2,6 +2,8 @@
 title: Seasar Conference 2006 Autumn
 type: post
 date: 2006-10-21T06:36:02+00:00
+archives:
+    - 2006
 url: /seasar-conference-2006-autumn/
 post_views_count:
   - 117

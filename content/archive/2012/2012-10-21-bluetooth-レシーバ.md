@@ -2,6 +2,8 @@
 title: Bluetooth レシーバ
 type: post
 date: 2012-10-20T21:42:59+00:00
+archives:
+    - 2012
 url: /bluetooth-レシーバ/
 post_views_count:
   - 900

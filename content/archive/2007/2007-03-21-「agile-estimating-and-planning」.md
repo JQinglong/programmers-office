@@ -2,6 +2,8 @@
 title: 「Agile Estimating And Planning」
 type: post
 date: 2007-03-21T14:33:36+00:00
+archives:
+    - 2007
 url: /「agile-estimating-and-planning」/
 post_views_count:
   - 90

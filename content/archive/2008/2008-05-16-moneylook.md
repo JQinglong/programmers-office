@@ -2,6 +2,8 @@
 title: MoneyLook
 type: post
 date: 2008-05-15T15:33:20+00:00
+archives:
+    - 2008
 url: /moneylook/
 post_views_count:
   - 73

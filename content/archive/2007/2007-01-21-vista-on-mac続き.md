@@ -2,6 +2,8 @@
 title: Vista on Mac続き
 type: post
 date: 2007-01-21T13:24:00+00:00
+archives:
+    - 2007
 url: /vista-on-mac続き/
 post_views_count:
   - 136

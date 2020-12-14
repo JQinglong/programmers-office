@@ -3,6 +3,8 @@ title: Nuxt JS beginner tutorial
 author: KONNO Kiyotaka
 type: post
 date: 2020-04-17T01:16:53+00:00
+archives:
+    - 2020
 url: /nuxt-js-beginner-tutorial/
 featured_image: /wp-content/uploads/2020/04/nuxt-emoji.png
 post_views_count:

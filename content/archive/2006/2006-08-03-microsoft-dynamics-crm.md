@@ -2,6 +2,8 @@
 title: Microsoft Dynamics CRM
 type: post
 date: 2006-08-02T15:09:58+00:00
+archives:
+    - 2006
 url: /microsoft-dynamics-crm/
 post_views_count:
   - 91

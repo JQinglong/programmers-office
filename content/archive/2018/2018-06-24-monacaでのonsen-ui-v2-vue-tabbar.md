@@ -3,6 +3,8 @@ title: MonacaでのOnsen UI V2 Vue Tabbar
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-24T06:58:31+00:00
+archives:
+    - 2018
 url: /monacaでのonsen-ui-v2-vue-tabbar/
 post_views_count:
   - 1150

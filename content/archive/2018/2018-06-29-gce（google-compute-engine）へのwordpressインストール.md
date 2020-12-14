@@ -3,6 +3,8 @@ title: GCE（Google Compute Engine）へのWordPressインストール（1）
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-29T09:15:47+00:00
+archives:
+    - 2018
 url: /gce（google-compute-engine）へのwordpressインストール/
 post_views_count:
   - 1360

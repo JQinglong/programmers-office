@@ -2,6 +2,8 @@
 title: Tuigwaa、Ruby on Rails、そして・・・
 type: post
 date: 2006-05-06T14:27:45+00:00
+archives:
+    - 2006
 url: /tuigwaa、ruby-on-rails、そして・・・/
 post_views_count:
   - 1167

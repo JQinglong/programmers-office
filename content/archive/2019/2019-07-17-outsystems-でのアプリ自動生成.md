@@ -3,6 +3,8 @@ title: OutSystems でのアプリ自動生成
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-17T13:44:52+00:00
+archives:
+    - 2019
 url: /outsystems-でのアプリ自動生成/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

@@ -3,6 +3,8 @@ title: Glide とOutSystems
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-15T06:31:06+00:00
+archives:
+    - 2019
 url: /glide-とoutsystems/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

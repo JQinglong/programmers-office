@@ -2,6 +2,8 @@
 title: Better Google Reader
 type: post
 date: 2008-02-24T05:18:27+00:00
+archives:
+    - 2008
 url: /better-google-reader/
 post_views_count:
   - 196

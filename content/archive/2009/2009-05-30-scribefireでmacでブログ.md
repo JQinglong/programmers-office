@@ -2,6 +2,8 @@
 title: ScribeFireでmacでブログ
 type: post
 date: 2009-05-30T02:59:32+00:00
+archives:
+    - 2009
 url: /scribefireでmacでブログ/
 post_views_count:
   - 1067

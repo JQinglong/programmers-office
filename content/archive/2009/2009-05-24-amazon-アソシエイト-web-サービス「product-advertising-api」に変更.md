@@ -2,6 +2,8 @@
 title: 'Amazon アソシエイト Web サービス&rarr;「Product Advertising API」に変更'
 type: post
 date: 2009-05-24T13:30:00+00:00
+archives:
+    - 2009
 url: /amazon-アソシエイト-web-サービス「product-advertising-api」に変更/
 post_views_count:
   - 788

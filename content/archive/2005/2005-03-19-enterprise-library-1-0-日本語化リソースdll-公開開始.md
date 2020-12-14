@@ -2,6 +2,8 @@
 title: Enterprise Library 1.0 日本語化リソースDLL 公開開始
 type: post
 date: 2005-03-18T15:18:53+00:00
+archives:
+    - 2005
 url: /enterprise-library-1-0-日本語化リソースdll-公開開始/
 post_views_count:
   - 62

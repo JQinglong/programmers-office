@@ -2,6 +2,8 @@
 title: Enterprise Library 1.1
 type: post
 date: 2005-06-09T16:46:46+00:00
+archives:
+    - 2005
 url: /enterprise-library-1-1/
 post_views_count:
   - 108

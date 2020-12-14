@@ -2,6 +2,8 @@
 title: SQL Server 2005 Express Edition on Vista
 type: post
 date: 2007-02-11T12:40:28+00:00
+archives:
+    - 2007
 url: /sql-server-2005-express-edition-on-vista/
 post_views_count:
   - 87

@@ -3,6 +3,8 @@ title: MagentoのSQL解析
 author: KONNO Kiyotaka
 type: post
 date: 2018-09-22T07:30:48+00:00
+archives:
+    - 2018
 url: /magentoのsql解析/
 post_views_count:
   - 822

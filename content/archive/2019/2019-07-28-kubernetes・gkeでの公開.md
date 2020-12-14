@@ -3,6 +3,8 @@ title: Kubernetes・GKEでの公開
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-28T01:01:12+00:00
+archives:
+    - 2019
 url: /kubernetes・gkeでの公開/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

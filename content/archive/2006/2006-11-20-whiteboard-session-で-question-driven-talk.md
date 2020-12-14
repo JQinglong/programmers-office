@@ -2,6 +2,8 @@
 title: Whiteboard session で question-driven talk
 type: post
 date: 2006-11-19T16:28:11+00:00
+archives:
+    - 2006
 url: /whiteboard-session-で-question-driven-talk/
 post_views_count:
   - 854

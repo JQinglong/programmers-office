@@ -3,6 +3,8 @@ title: OutSystemsによるローコード開発？
 author: KONNO Kiyotaka
 type: post
 date: 2019-06-23T12:36:57+00:00
+archives:
+    - 2019
 url: /outsystemsによるローコード開発？/
 featured_image: /wp-content/uploads/2019/06/outsystems2.png
 post_views_count:

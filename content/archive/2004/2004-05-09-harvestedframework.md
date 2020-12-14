@@ -2,6 +2,8 @@
 title: HarvestedFramework
 type: post
 date: 2004-05-08T16:30:04+00:00
+archives:
+    - 2004
 url: /harvestedframework/
 post_views_count:
   - 64

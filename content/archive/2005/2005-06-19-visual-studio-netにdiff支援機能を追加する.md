@@ -2,6 +2,8 @@
 title: Visual Studio .NETにdiff支援機能を追加する
 type: post
 date: 2005-06-19T05:27:34+00:00
+archives:
+    - 2005
 url: /visual-studio-netにdiff支援機能を追加する/
 post_views_count:
   - 857

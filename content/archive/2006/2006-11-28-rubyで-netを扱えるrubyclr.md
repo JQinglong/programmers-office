@@ -2,6 +2,8 @@
 title: Rubyで.NETを扱えるRubyCLR
 type: post
 date: 2006-11-27T17:07:29+00:00
+archives:
+    - 2006
 url: /rubyで-netを扱えるrubyclr/
 post_views_count:
   - 719

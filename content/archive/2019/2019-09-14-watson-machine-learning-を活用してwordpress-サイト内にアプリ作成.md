@@ -3,6 +3,8 @@ title: Watson Machine Learning を活用してWordPress サイト内にアプリ
 author: KONNO Kiyotaka
 type: post
 date: 2019-09-14T00:34:41+00:00
+archives:
+    - 2019
 url: /watson-machine-learning-を活用してwordpress-サイト内にアプリ作成/
 featured_image: /wp-content/uploads/2018/11/imac-300x300.jpg
 post_views_count:

@@ -3,6 +3,8 @@ title: Docker イメージを Google Container Registry に登録
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-26T22:03:18+00:00
+archives:
+    - 2019
 url: /docker-イメージを-google-container-registry-に登録/
 featured_image: /wp-content/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png
 post_views_count:

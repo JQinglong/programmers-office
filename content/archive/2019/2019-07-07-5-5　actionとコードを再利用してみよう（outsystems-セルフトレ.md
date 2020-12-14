@@ -3,6 +3,8 @@ title: 5.5　Actionとコードを再利用してみよう（OutSystems セル�
 author: KONNO Kiyotaka
 type: post
 date: 2019-07-07T02:02:36+00:00
+archives:
+    - 2019
 url: /5-5　actionとコードを再利用してみよう（outsystems-セルフトレ/
 featured_image: /wp-content/uploads/2019/06/20190616_231627.jpg
 post_views_count:

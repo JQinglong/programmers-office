@@ -2,6 +2,8 @@
 title: TAMACHI.LT
 type: post
 date: 2008-05-11T12:35:09+00:00
+archives:
+    - 2008
 url: /tamachi-lt/
 post_views_count:
   - 83

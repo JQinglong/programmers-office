@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行
 author: KONNO Kiyotaka
 type: post
 date: 2018-10-28T14:30:32+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-imac購入して続行/
 post_views_count:
   - 1104

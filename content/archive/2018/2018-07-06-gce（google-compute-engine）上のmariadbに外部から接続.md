@@ -3,6 +3,8 @@ title: GCE（Google Compute Engine）上のMariaDBに外部から接続
 author: KONNO Kiyotaka
 type: post
 date: 2018-07-06T09:16:43+00:00
+archives:
+    - 2018
 url: /gce（google-compute-engine）上のmariadbに外部から接続/
 post_views_count:
   - 1470

@@ -3,6 +3,8 @@ title: Docker 環境をステージング環境へ（Docker push編）
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-14T10:25:10+00:00
+archives:
+    - 2019
 url: /docker-環境をステージング環境へ（docker-push編）/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.23.43.jpg
 post_views_count:

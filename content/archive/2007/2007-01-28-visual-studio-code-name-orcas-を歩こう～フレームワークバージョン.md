@@ -2,6 +2,8 @@
 title: Visual Studio Code Name "Orcas" を歩こう～フレームワークバージョン指定
 type: post
 date: 2007-01-28T13:52:34+00:00
+archives:
+    - 2007
 url: /visual-studio-code-name-orcas-を歩こう～フレームワークバージョン/
 post_views_count:
   - 84

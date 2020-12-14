@@ -3,6 +3,8 @@ title: Vimeo PRO（有料プラン）からBASIC（無料プラン）への変�
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-19T00:58:36+00:00
+archives:
+    - 2019
 url: /vimeo-pro（有料プラン）からbasic（無料プラン）への変更/
 post_views_count:
   - 1585

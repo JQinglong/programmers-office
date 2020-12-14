@@ -3,6 +3,8 @@ title: Code4StartUp ～ UberEatsを作ろう ～ heroku環境整備
 author: KONNO Kiyotaka
 type: post
 date: 2018-06-08T01:47:27+00:00
+archives:
+    - 2018
 url: /code4startup-～-ubereatsを作ろう-～-heroku環境整備/
 post_views_count:
   - 926

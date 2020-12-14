@@ -2,6 +2,8 @@
 title: ListView内でのPopupControlExtenderの使用
 type: post
 date: 2007-11-23T03:39:21+00:00
+archives:
+    - 2007
 url: /listview内でのpopupcontrolextenderの使用/
 post_views_count:
   - 132

@@ -3,6 +3,8 @@ title: Docker push AWS ECR 編
 author: KONNO Kiyotaka
 type: post
 date: 2019-01-19T05:33:30+00:00
+archives:
+    - 2019
 url: /docker-push-aws-ecr-編/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.23.43.jpg
 post_views_count:

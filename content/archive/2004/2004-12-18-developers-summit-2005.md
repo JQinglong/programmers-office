@@ -2,6 +2,8 @@
 title: Developers Summit 2005
 type: post
 date: 2004-12-18T03:30:07+00:00
+archives:
+    - 2004
 url: /developers-summit-2005/
 post_views_count:
   - 50

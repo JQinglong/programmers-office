@@ -2,6 +2,8 @@
 title: Atlas Wiki いじり中
 type: post
 date: 2006-03-19T17:07:35+00:00
+archives:
+    - 2006
 url: /atlas-wiki-いじり中/
 post_views_count:
   - 587

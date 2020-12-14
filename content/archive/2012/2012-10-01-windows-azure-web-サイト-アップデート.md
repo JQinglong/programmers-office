@@ -2,6 +2,8 @@
 title: Windows Azure Web サイト アップデート
 type: post
 date: 2012-09-30T16:06:38+00:00
+archives:
+    - 2012
 url: /windows-azure-web-サイト-アップデート/
 post_views_count:
   - 1266

@@ -3,6 +3,8 @@ title: OutSystems セルフトレーニング
 author: KONNO Kiyotaka
 type: post
 date: 2019-06-27T12:07:25+00:00
+archives:
+    - 2019
 url: /outsystems-セルフトレーニング/
 featured_image: /wp-content/uploads/2019/06/20190616_231627.jpg
 post_views_count:

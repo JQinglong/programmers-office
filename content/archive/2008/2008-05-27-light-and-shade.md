@@ -2,6 +2,8 @@
 title: Light and Shade
 type: post
 date: 2008-05-26T16:23:39+00:00
+archives:
+    - 2008
 url: /light-and-shade/
 post_views_count:
   - 66

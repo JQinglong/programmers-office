@@ -2,6 +2,8 @@
 title: TestDriven.NETなど with Orcas
 type: post
 date: 2007-02-12T12:10:20+00:00
+archives:
+    - 2007
 url: /testdriven-netなど-with-orcas/
 post_views_count:
   - 95

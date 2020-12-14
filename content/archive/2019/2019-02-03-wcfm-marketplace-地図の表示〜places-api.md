@@ -3,6 +3,8 @@ title: WCFM Marketplace 地図の表示〜Places API
 author: KONNO Kiyotaka
 type: post
 date: 2019-02-02T23:44:30+00:00
+archives:
+    - 2019
 url: /wcfm-marketplace-地図の表示〜places-api/
 featured_image: /wp-content/uploads/2019/01/スクリーンショット-2019-01-20-22.17.58.jpg
 post_views_count:

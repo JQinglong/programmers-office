@@ -2,6 +2,8 @@
 title: WFSamplesの歩き方(6)：WorkflowSerialization
 type: post
 date: 2006-09-03T15:30:22+00:00
+archives:
+    - 2006
 url: /wfsamplesの歩き方6：workflowserialization/
 post_views_count:
   - 104

@@ -2,6 +2,8 @@
 title: WEB+DB PRESS Tech Meeting
 type: post
 date: 2007-12-22T16:16:33+00:00
+archives:
+    - 2007
 url: /webdb-press-tech-meeting/
 post_views_count:
   - 195

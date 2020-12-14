@@ -3,6 +3,8 @@ title: 楊丞琳Rainie Yang 忘了
 author: KONNO Kiyotaka
 type: post
 date: 2017-11-07T12:37:50+00:00
+archives:
+    - 2017
 url: /楊丞琳rainie-yang-忘了/
 post_views_count:
   - 818

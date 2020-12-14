@@ -2,6 +2,8 @@
 title: WFSamplesの歩き方(5)：DesignerHosting
 type: post
 date: 2006-09-03T06:37:27+00:00
+archives:
+    - 2006
 url: /wfsamplesの歩き方5：designerhosting/
 post_views_count:
   - 97

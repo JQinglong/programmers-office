@@ -4,6 +4,8 @@ author: KONNO Kiyotaka
 type: post
 date: 2019-01-01T22:14:20+00:00
 excerpt: 決済部分から、お店から配達先までの経路描画など、ある意味、講座のクライマックス。
+archives:
+    - 2019
 url: /code4startup-～-ubereatsを作ろう-～-地図上の経路描画/
 featured_image: /wp-content/uploads/2018/12/Code4Startup.jpg
 post_views_count:

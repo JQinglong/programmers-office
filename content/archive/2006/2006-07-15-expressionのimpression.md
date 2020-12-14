@@ -2,6 +2,8 @@
 title: ExpressionのImpression
 type: post
 date: 2006-07-14T23:11:03+00:00
+archives:
+    - 2006
 url: /expressionのimpression/
 post_views_count:
   - 788

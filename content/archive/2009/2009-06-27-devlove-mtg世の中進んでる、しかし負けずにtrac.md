@@ -2,6 +2,8 @@
 title: '[devlove-mtg]世の中進んでる、しかし負けずにTrac'
 type: post
 date: 2009-06-26T22:49:09+00:00
+archives:
+    - 2009
 url: /devlove-mtg世の中進んでる、しかし負けずにtrac/
 post_views_count:
   - 908

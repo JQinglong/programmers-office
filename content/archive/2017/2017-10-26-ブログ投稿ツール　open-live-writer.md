@@ -3,6 +3,8 @@ title: ブログ投稿ツール　Open Live Writer
 author: KONNO Kiyotaka
 type: post
 date: 2017-10-26T14:31:16+00:00
+archives:
+    - 2017
 url: /ブログ投稿ツール　open-live-writer/
 post_views_count:
   - 988

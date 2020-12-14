@@ -3,6 +3,8 @@ title: Code4StartUp ～ Landing Pageを作ろう
 author: KONNO Kiyotaka
 type: post
 date: 2018-04-03T14:44:56+00:00
+archives:
+    - 2018
 url: /code4startup-～-landing-pageを作ろう/
 post_views_count:
   - 954

@@ -2,6 +2,8 @@
 title: Seasar Conference 2006 Spring
 type: post
 date: 2006-04-20T14:27:45+00:00
+archives:
+    - 2006
 url: /seasar-conference-2006-spring/
 post_views_count:
   - 101

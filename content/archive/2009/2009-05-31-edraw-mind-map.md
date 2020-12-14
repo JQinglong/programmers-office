@@ -2,6 +2,8 @@
 title: Edraw Mind Map
 type: post
 date: 2009-05-30T16:20:46+00:00
+archives:
+    - 2009
 url: /edraw-mind-map/
 post_views_count:
   - 154

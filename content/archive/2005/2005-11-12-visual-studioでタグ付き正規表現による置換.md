@@ -2,6 +2,8 @@
 title: Visual Studioでタグ付き正規表現による置換
 type: post
 date: 2005-11-12T04:45:13+00:00
+archives:
+    - 2005
 url: /visual-studioでタグ付き正規表現による置換/
 post_views_count:
   - 1267
