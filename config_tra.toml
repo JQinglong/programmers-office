@@ -1,4 +1,4 @@
-baseURL = "https://jqinglong.github.io/programmers-office"
+baseURL = "https://jqinglong.github.io/programmers-office/"
 title = "Programmers Office"
 subtitle = "中華圏に興味があるプログラマのラグジュアリーな生活"
 languageCode = "ja-JP"
@@ -90,9 +90,9 @@ canonifyURLs = true
 		
 [params.share]
     enable = true
-    facebook = false
+    facebook = true
     twitter = true
-    linkedin = false
+    linkedin = true
     email = true
 
 [params.privacy]
@@ -120,7 +120,7 @@ DisqusShortname = "example"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = false
+    categories = true
     tags = true
     tag_cloud = true
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
@@ -143,12 +143,7 @@ DisqusShortname = "example"
     tag = "tags"
     series = "series"
     author = "author"
-    archive = "archives"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 ## DONE - Menu
 ## DONE - slider 
 ## DONE - facebook like on homepage
