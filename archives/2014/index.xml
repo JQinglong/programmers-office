@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2014 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2014/</link><description>Recent content in 2014 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 08 Feb 2014 16:28:10 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2014/index.xml" rel="self" type="application/rss+xml"/><item><title>レスポンシブデザインの勉強</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link><pubDate>Sat, 08 Feb 2014 16:28:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid><description>今日は大雪。 TRFのダンスエクササイズでもやろうと思いましたが、雪かきだけで十分に体力使いますね。 と言いつつ、その前に一回やったんですけど。 雪かきも朝もう一回やらないと。 さて、そんな日なので、久しぶりに勉強の日にしようかと。 最近は当然スマホ</description></item><item><title>ディクテーション用エディタ</title><link>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%82%A3%E3%82%AF%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</link><pubDate>Sun, 26 Jan 2014 00:04:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%82%A3%E3%82%AF%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</guid><description>先日どなたかのブログで読んだのですが、元ネタがわからなくなってしまいました。ごめんなさい。 語学学習の上で、ディクテーション、すなわち、聞いたものを書き取る、というのはかなり効果があるのではないかと思うのですが、それをやりやすくするツール。 本</description></item><item><title>目標</title><link>https://jqinglong.github.io/programmers-office/%E7%9B%AE%E6%A8%99/</link><pubDate>Sat, 25 Jan 2014 07:13:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%9B%AE%E6%A8%99/</guid><description>我是IT工程师。我的工作是软件开发。 我的梦想是开发让许多中国人感到高兴的软件。 为此，我想通过唱中文歌等方式提高交际能力。 詳しくは、三月の放送（謎）をお楽しみに～ さて、昨日はPostgreSQLの教育なぞを受けていたのですが、それはさておき、</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2014 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2014/</link><description>Recent content in 2014 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 08 Feb 2014 16:28:10 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2014/index.xml" rel="self" type="application/rss+xml"/><item><title>レスポンシブデザインの勉強</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</link><pubDate>Sat, 08 Feb 2014 16:28:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E5%8B%89%E5%BC%B7/</guid><description>今日は大雪。
+TRFのダンスエクササイズでもやろうと思いましたが、雪かきだけで十分に体力使いますね。
+と言いつつ、その前に一回やったんですけど。
+雪かきも朝もう一回やらないと。
+さて、そんな日なので、久しぶりに勉強の日にしようかと。
+最近は当然スマホ対応という話がちょいちょいあるわけですので、レスポンシブデザインという言葉は気になります。
+ていうか、まだやってないというのも相当イマイチですね・・・
+で、そもそもレスポンシブデザインとは、というところから始まるのですが、よくある説明は
+・フルードグリッド
+・フルードイメージ
+・メディアクエリ
+ということですね。
+グリッドレイアウトを可変にする、イメージサイズを可変にする、その可変の判断を画面サイズで行う。
+正直に言うと、それだけ？というか多分名前付けが上手すぎて、元々の意味以上に広く捉えられているような気はします。
+と同時に、その広い意味で考えると、実現方法が狭くなっている感もあります。
+すなわち、広く捉えると、ひとつのHTMLを様々なデバイスで最適に見えるようにする、ということですよね。
+しかし、その実現方法は、概ね、こちらのページのような見え方をさせる、ということになっているように思われます。
+http://ascii.jp/elem/000/000/697/697463/index-2.html
+これを見て思ったのは、それで済むページもあるし、そうじゃないページも多そうということ。
+ひとつのパターンとして覚えておくべきですが、では、お客さんにこれを提案した時に、必ず受け入れられるかというと、どうかなという感じです。
+もっとも、メジャーフレームワークとして、Bootstrapくらいは押さえておきたいですね。
+Twitter Bootstrap
+http://www.find-job.net/startup/twitter-bootstrap-3
+以上！</description></item><item><title>ディクテーション用エディタ</title><link>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%82%A3%E3%82%AF%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</link><pubDate>Sun, 26 Jan 2014 00:04:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%82%A3%E3%82%AF%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%94%A8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/</guid><description>先日どなたかのブログで読んだのですが、元ネタがわからなくなってしまいました。ごめんなさい。
+語学学習の上で、ディクテーション、すなわち、聞いたものを書き取る、というのはかなり効果があるのではないかと思うのですが、それをやりやすくするツール。
+本来は、その目的ではなく、テープ起こしをする人をターゲットとしているようなのですが、やることは一緒ですからね。
+すなわち、音声を止めたり、ちょっと戻したり、といったことをすると思うのですが、音声プレーヤーとテキストエディタが一体となっていれば、例えばショートカットキーで少しもどる、みたいなことができて、便利というわけです。確かに、という感じでしょ。
+そのツールとして、上記元ネタでは違うツールだったように思うのですが、一番のメジャー製品はこちらのようです。
+http://www.toscribe.toshiba.co.jp/
+説明を読んでみたら、確かにこれだけできると便利だろうなと思いますよ。
+というわけで、ちょっとやってみましたが、当然、全然追いつかない～
+頑張ろう、頑張ろう。</description></item><item><title>目標</title><link>https://jqinglong.github.io/programmers-office/%E7%9B%AE%E6%A8%99/</link><pubDate>Sat, 25 Jan 2014 07:13:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%9B%AE%E6%A8%99/</guid><description>我是IT工程师。我的工作是软件开发。
+我的梦想是开发让许多中国人感到高兴的软件。
+为此，我想通过唱中文歌等方式提高交际能力。
+詳しくは、三月の放送（謎）をお楽しみに～
+さて、昨日はPostgreSQLの教育なぞを受けていたのですが、それはさておき、
+休憩中に読んでいた雑誌で、藤原和博さんの、10000分の1の人材の話が面白いと思いました。
+内容は、下記レビューなどがまさにその要約になります。
+こちらのレビューようするに、ある分野で100人にひとりの人材になって、もうひとつの分野でやはり100人にひとりの人材になると、両方の分野をまたがる人材としては10000人に一人の人材になれることになり、希少価値として評価されうる、というような内容です。
+ちょっと、計算してみましょう。
+まず、先日、ITストラテジストに合格しました。これは、合格者800人くらい、合格率15%くらいのようです。
+http://www.jitec.ipa.go.jp/1_07toukei/toukei_h25a.pdf
+受験者の中だと100人にひとりにはなりませんが、この10年で8000人くらいしかいない人材ですから日本の就業者数6000万人との比較で行くと10000分の1に近い価値、情報サービス業というくくりの就業者数30万人、若干くくりが微妙なので倍いるとして60万人だとすると、100人にひとりくらいの価値になるかと思います。
+http://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.htm
+http://www.meti.go.jp/statistics/tyo/tokusabido/result-2.html
+では、中国語。中国語検定は2級失敗したのですが、HSK4級は合格しました。間をとって、仮に中国語検定3級相当とします。
+すると、3級以上の受験者8000人に対して、合格者2000人くらい。これだとあまり希少価値はありませんね。年3回×10年で考えると、この10年で6万人くらいいるわけです。
+当面の目標としている2級だと、毎回600人くらい。この10年で18000人。準1級だと毎回100人。10年で3000人。
+http://www.chuken.gr.jp/tcp/data/results.html
+中国語を生業とする人がどれだけいるかは、どう調べるかもわかりませんが、その中で10人にひとりが中国語検定を受けているとすると80000人。この中では、私は1.3人にひとりでしかなく、100人にひとりの人材になろうとすると、準1級を狙えるくらいの力が必要ということになります。
+とすると現在の私の場合、100分の1と1.3分の1で、130人にひとりくらいの価値、となります。
+実際に必要な人材って、中国語でIT戦略が立てられる人、みたいなことですよね。
+で、130人に声をかければ、私程度の人は見つかる。けど、準1級くらいの人を探そうとすると、10000人に声をかけないといけない。
+妥当といえば妥当か。
+ということで、直近の目標は、中国語検定準1級となりました。</description></item></channel></rss>

@@ -1,1 +1,234 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OutSystems on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/outsystems/</link><description>Recent content in OutSystems on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 14 Sep 2019 00:34:41 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/outsystems/index.xml" rel="self" type="application/rss+xml"/><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。 ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・ IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PH</description></item><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。 OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、Ou</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。 Glide App（glideapps） のMap List 機能 https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。 今回取り上げたMap List</description></item><item><title>9.4　スキャフォールディングとRichWidgetを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</link><pubDate>Sun, 14 Jul 2019 14:16:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</guid><description>テキストによるエクササイズの続きです。8.2 ウェブサービスのエクササイズ（OutSystems セルフトレーニング） Part 1: Add Cinemas at Warp Speed 前に画面を誰かが勝手に作ってくれたと思ったのは、スキャフォールドだったんですね。 勝手に作るんじゃなくて、ドラッグ</description></item><item><title>8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</link><pubDate>Sat, 13 Jul 2019 08:38:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</guid><description>テキストによるエクササイズの続きです。7.4 セッションハンドリングのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a Reference to a REST endpoint こんなサイトがあり、APIを提供している。 https://www.themoviedb.org/ Part 2: Define Site Properties for the API サイトプロパティの追加のみ Part 3: Call a Web Reference method</description></item><item><title>7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</link><pubDate>Sat, 13 Jul 2019 08:35:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</guid><description>テキストによるエクササイズの続きです。6.4 ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング） Part 1: Create and use Session Variables Find Usages みたいな技を教えてくれるのは良いですね Part 2: Create and use Site Properties サイトプロパティを変えてもブラウザ再表示でMo</description></item><item><title>6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 05:45:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。6.2 画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a Web Block for star ratings Placeholder のwidth はempty にはできず、Fullにしておく Part 2: Make the stars in the Block clickable Search Box で「Notif</description></item><item><title>6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 02:12:50 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。5.7 Input Validationのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a comments sidebar to movie Container の幅指定の方法は変わっている。 Styles Editor を指定。 bold 、italic 設定もStyles Editor で。 CreateUserMovieComment はCoreUse</description></item><item><title>5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Sun, 07 Jul 2019 05:18:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>テキストによるエクササイズの続きです。5.5 Actionとコードを再利用してみよう（OutSystems セルフトレーニング） Part 1: Test the built-in validations Validation設定のServer とServer &amp;amp; Client を試す Part 2: Add validations to editing a movie Feedbackメッセージ</description></item><item><title>5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 07 Jul 2019 02:02:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>テキストによるエクササイズの続きです。5.3 データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a reusable Action 淡々と進めます Part 2: Convert Action to a Function こうして作ったユーザアクションは、基本的には、ステートメントとしてのみ呼</description></item><item><title>5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</link><pubDate>Sat, 06 Jul 2019 14:52:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</guid><description>テキストによるエクササイズの続きです。4.4 画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング） Part 1: Add participants to a movie アクションからの「New Web Screen」で自動的には名前はつけてくれなかった。（Mac版</description></item><item><title>4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</link><pubDate>Wed, 03 Jul 2019 13:46:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</guid><description>テキストによるエクササイズの続きです。4.2 リレーションのモデリングをしてみよう（OutSystems セルフトレーニング） Part 1: Add the ‘Edit Movie’ feature テキスト通り進められます。 途中で、Movieの中にGenreIdが表示されなくて、追加</description></item><item><title>4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</link><pubDate>Tue, 02 Jul 2019 12:21:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</guid><description>Modeling Data Relationships Exercise https://www.outsystems.com/learn/lesson/859/modeling-data-relationships-exercise/ 3.3、3.6に続き、テキストをやってみます。3.6 ウィジェットを使ってみよう（OutSystems セルフトレーニング） Part 1: Create a foreign key between Entities テキスト通り 外部キーを追加する際に、カラムの型はデータ自体の型を指定するのではなく、データId</description></item><item><title>3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 30 Jun 2019 08:35:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>Widgets I Exercise https://www.outsystems.com/learn/lesson/876/widgets-i-exercise/ 3.3と同様3.3 データのモデリングをしてみよう（OutSystems セルフトレーニング） テキストを進めます。 Part 1: Add a new module to the application まず「Responsive」ではなく「Web Responsive」になっている、ちょっと気になる。 また、</description></item><item><title>3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</link><pubDate>Sun, 30 Jun 2019 02:46:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</guid><description>Modeling Data Exercise https://www.outsystems.com/learn/lesson/875/modeling-data-exercise/ Lesson Materialsをダウンロードすると、その中にテキストPDFが入っているので、それを見て進めます。 テキストはバージョン10ベース、現在の最新環境は11のため、所々違うところが出てくると思われます。 Part 1: Create the application いきなり、Blank module</description></item><item><title>OutSystems セルフトレーニング</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Thu, 27 Jun 2019 12:07:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>OutSystemsもおもしろうそうなので、早速、WebAPIのデータを表示させるアプリを作ってみようかと思います。 その際、mac版を使ったところ、読み込み時にエラーになってしまう。Windows版では成功したということは、やはりmac版は</description></item><item><title>OutSystemsによるローコード開発？</title><link>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</link><pubDate>Sun, 23 Jun 2019 12:36:57 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</guid><description>先ほど色々システム構成図の画像をアップした中に、OutSystemsのものがあります。 OutSystemsとは 日本公式サイトだと、「コードレス開発」を謳っていますが、「ローコード開発」とか、色々言い方はあるようで。ソース生成型のツールで、い</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OutSystems on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/outsystems/</link><description>Recent content in OutSystems on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 14 Sep 2019 00:34:41 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/outsystems/index.xml" rel="self" type="application/rss+xml"/><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。
+ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・
+IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PHPアプリから参照するアプリを作りました。タイタニック　チャレンジ 以前から作ろうとしていた、タイタニックアプリがやっとできた！ということです。タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） システム構成 基本的には、機械学習を行なったモデルをAPIとして公開し、そのAPIを呼び出すアプリを作る、というぬるさくで学習していた構成です。
+https://norwegian-geek.booth.pm/items/1296418
+いままでかなり色々な方法を試してきたわけですが、AutoAIを知った事で、ローカルで構築した機械学習環境を公開環境に持っていく、という事を考えなくて良くなったのが大きいです。
+まずは、AutoAIがデプロイ機能まで持っていて、これでAPIを公開できます。
+これを呼び出すアプリは、WordPressサイトを立てて、その中でPHPアプリを書きました。
+AutoAI によるAPI公開 こちらについては、AutoAIで検索するだけでも色々情報が出てきますし、「AutoAI タイタニック」と検索すれば、まさに今回行なったことをみなさんやられているので、割愛します。
+これが無料で公開されているというのがすごいなと思います。
+WordPress 環境内にアプリ構築 UI側をどう作るかがこの記事のメインとなります。
+最初は、せっかく勉強したということでOutSystemsでやってみようと思いました。
+OutSystems まず、ちょっと悩んだのが、あまりにもデータとフォームが結合していて、単なる検索条件を入力するための画面を作りたいのに、フォームのためにはデータが必要という構造。フォームを使わない方法も当然あると思いますが、仮のデータを作成する方法でもできなくはなかったです。
+REST API呼び出しについては、ちゃんと仕組みが用意されていて、これは便利。テスト呼び出しもしやすい画面が用意されている。
+それで、呼び出しまではできたのですが、取得したデータの処理がうまくできませんでした。これについては、そもそもAutoAIのJSONの構造が複雑すぎませんか？という気もしています。
+WordPress 昔から思っているのですが、CMSで管理するコンテンツというのは、単にブログ等の文章だけではないはず、CMSはサイト全体のデザインの統一性を実現するために使用するもので、そこには文章だけではなくアプリケーションも含まれるのではないでしょうか。その一例として、問い合わせフォームくらいはCMSの機能に含まれたりもすると思うのですが、もっとがっつりしたアプリもCMS管理配下に乗せてしかるべきではないか、という気がしています。
+なぜこれを私がこれを強く思うかというと、私がデザインが苦手だからです。なるべくセンスの良いデザインを使わせていただくために、その枠組みの中でアプリも作りたいと思うのです。
+実際それはやったことはあるので、自分のできる範囲に戻ったという感じではあります。
+フォームプラグイン そう考えた上で、今回最初に、Wordpressのプラグインを使って、フォームを作れないかと思いました。
+色々なプラグインを見ていく中で、使えなくないなと思ったのは、Form Maker by 10Web。The Most Powerful Drag&amp;Drop WordPress Form Builder デザインテーマも用意されていて（Wordpress本体のテーマとは完全独立なのは良い悪いあると思いますが）、きれいなデザインのフォームが作れます。
+また、無料で使えるコントロールが充実しています（他の類似プラグインは有料オプションが多い印象）。
+ただし、基本的には、あくまでも入力した内容をデータに保存して、せいぜいメールを飛ばす機能。今回やりたかったのは入力値を外部のAPIに渡すこと。フォーム処理の後外部URL等に転送することはできますが、入力値がPOSTされるわけではないのです。
+これについては、もう少し頑張ってみました。
+JavaScriptを追加することができますので、
+function send_form(){ var f = document.forms["form6"]; f.method = "POST"; f.action = "/apps/titanic-result/" f.submit(); } みたいなものを追加し、画面側では標準のSubmitボタンを使わずに、ボタンを追加して、OnClickイベントにsend_form()を記載する、ということをすると、指定したところに入力値をPostすることができるわけです。</description></item><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。
+OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、OutSystems でアプリ自動生成を行ってみます。
+使用するデータは、下記で調整を行なった、港区観光施設データです。Glideの味わい方〜オープンデータを活用しよう OutSystems 環境整備 OutSystems セルフトレーニングで、最後に肝心のデザイン変更のところを飛ばしてしまいましたが、そこでは、SILK UI フレームワークのDublin テンプレートを使用することになっていたので、まずは、そちらをインストールします。
+Forge page で「Dublin Template」を検索して、インストールします。
+そして、アプリケーションの作成。
+Dublinテンプレートによるアプリ作成（失敗） 順に進めていくと、初期画面が出来上がります。
+一度ここで起動してみるとこんな感じ。
+この辺が、どうも何をしているのか、何をすべきなのかよくわからない。
+そして、結局起動できず。
+もしかして、Mac版はダメだけど、Windows版なら、と思ったのですが、ダメでした。一応、画面生成まではできましたが、起動しません。一応、こんな画面ができるという感じです。
+Dublinの場合は、左上に、デバイス切り替え機能がつきます。
+基本テンプレによる画面作成 では基本テンプレートならどうかということ、こちらはできました。
+テンプレートとしてTop Menu を選択する以外は、上記Dublinの場合と同じです。
+デザイン画面を開いて、おもむろにExcelをインポートしますが、Google スプレッドシートからダウンロードしたものはExcelファイルではないと言われて、失敗しました。一度Office 365 で開いて保存し直したら大丈夫でした。
+ただ、シート名、1行目の名称でテーブルを作ってくれると思ったら、それは失敗しました。
+まずWindows版だと、ちゃんとシート名を認識はしてくれています。
+これが、Mac版だとこの時点でダメ。
+で、Windows版でも、Mac版でも、インポート結果はこの通り。
+単なる連番になってしまいました。これは、シート名、項目名が日本語のためかと思われます。
+それでも進めることはできます。
+基本テンプレの場合は、初期状態でMainFlowには何もありません。
+ここにEntity1 を２回ドロップすることで、リスト画面と詳細画面が生成されます。勝手に結合されている状態です。
+実行する前には、各画面のAnonymous プロパティをチェックOnにします（ログイン画面を表示させないため）。
+そして起動するとこのような画面が生成されます。明細部分のページングもされていますし、これをスタートとするのは大いにアリでしょう。
+Glide と違って、参照画面だけでなく、更新画面も生成されます。これは割と大きな違いかもしれません。
+ただ、これを完成品としては公開できないかなという感じがあり、その辺が繰り返しになりますが、Glide App と、OutSystems の違いになるような気がします。</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。
+Glide App（glideapps） のMap List 機能
+https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a
+ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。
+今回取り上げたMap List 機能で、地図上に複数展表示ができる。そして、これは単にスプレッドシートの場所情報を表示しているだけであり、スプレッドシートの更新は自由にできる。
+そして、ちょっと前に、Per-user data 機能も追加されており、ログインユーザごとのデータのフィルタリングができるようになっている。
+これらを組み合わせると、あんなことやこんなことや・・・
+そして、Glideの中では、一切コーディングさせない。コーディング的なこともさせない。
+一方、OutSystems。
+これもアプリの色々な要素の自動生成機能は凄まじい。ある意味、Glideと同じことは、ほぼ同様にできる（あとでやってみる）。
+そしてそこにとどまらない。基本的に、どんどん自動生成されたものに対してさらにカスタマイズできる。自動制裁されたアプリを見て、オブジェクト、変数、RDB構造のようなものを想定できるならば、どんどん「式」を書ける。
+これは考え方の違いでしょう。
+OutSystems は、ノーコーディングというよりはローコーディングであり、結局は従来と違う方法でコーディングしている。そして、たまにコーディングの影が見える。この影が見えると、拒絶反応を起こす人はそれなりにいて、それは自分の仕事ではないと感じるのだと思われる。
+OutSystems を見て、Accessだなと感じたのは、基本的には自動生成してくれるのだけれども、それで完了でもなくて、そこから手を入れるんだなというところ。だから利用者もエンドユーザではなく、開発者。
+Glide は徹底的にノーコーディングで完成品まで持っていくことに徹している。
+これにより利用者としてエンドユーザも入ってくると思われる。そのためには、痒いところに手が届かないのも、今はやむを得ないという考え方。イノベーションのジレンマが発生している状態ではあるが、一気にこの20数年の開発スタイルをひっくり返しかねないやり方だ、というのは言い過ぎ？？</description></item><item><title>9.4　スキャフォールディングとRichWidgetを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</link><pubDate>Sun, 14 Jul 2019 14:16:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</guid><description>テキストによるエクササイズの続きです。8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング） Part 1: Add Cinemas at Warp Speed 前に画面を誰かが勝手に作ってくれたと思ったのは、スキャフォールドだったんですね。
+勝手に作るんじゃなくて、ドラッグ&amp;amp;ドロップで作ってくれるというのも良いなと思います。
+さらに画面へのドラッグ&amp;amp;ドロップで明細画面を追加してくれて、ポップアップエディタまで作ってくれるのはすごい。
+で、ポップアップエディタは作ってくれましたが、Popup_InfoBalloonはダメでした。今度は検索したら選択肢には出てきますが、ドロップするとエラー。
+もしかしてlondonじゃないから？
+変えるのも大変そうだけど・・・
+https://www.outsystems.com/forums/discussion/15489/changing-the-theme-of-my-application/#Post84632
+Part 2: RichWidgets とりあえず進めてみる。
+LayoutsOther¥Layout_Popup を選択するところは、LayoutOther が存在しないため、Layouts¥LayoutPopup を選択してみたが、削除することになっているHader もFooter もないので、やはり違うみたい。
+MovieTable のStart Index プロパティに、List_Navigation_GetStartIndex(MovieTable.Id) を指定するとのことだが、エラーになってしまう。
+それは諦めて、Dynamic Sortingの追加をしたら、またエラー。
+一旦追加したList_SortColumn を削除したのですが、復活せず。
+最後に破壊してしまいました。
+とりあえず、この先は別のアプリを作ってみるエクササイズなので、OutSystems セルフトレーニングシリーズは、ここで一旦終了とします。</description></item><item><title>8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</link><pubDate>Sat, 13 Jul 2019 08:38:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</guid><description>テキストによるエクササイズの続きです。7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a Reference to a REST endpoint こんなサイトがあり、APIを提供している。
+https://www.themoviedb.org/
+Part 2: Define Site Properties for the API サイトプロパティの追加のみ
+Part 3: Call a Web Reference method 画像を選択するところで、RichWidgetsが表示されないので、Header_Logoというものが選択できない。
+まあ、普通のLogoでもよいか。
+そして、ここではStyle Editorが登場する。
+ServiceCenterでログも見られます、は良いが、詳細のリクエスト内容までは見えないですね。
+Part 4: Implement a Web Service Callback OnAfterResponse というコールバックイベントが用意されています</description></item><item><title>7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</link><pubDate>Sat, 13 Jul 2019 08:35:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</guid><description>テキストによるエクササイズの続きです。6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング） Part 1: Create and use Session Variables Find Usages みたいな技を教えてくれるのは良いですね
+Part 2: Create and use Site Properties サイトプロパティを変えてもブラウザ再表示でMovie詳細画面のまま反映された。</description></item><item><title>6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 05:45:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a Web Block for star ratings Placeholder のwidth はempty にはできず、Fullにしておく
+Part 2: Make the stars in the Block clickable Search Box で「Notify」を検索することとなっているが、検索されない。
+https://www.outsystems.com/forums/discussion/41219/notify-deprecated-in-service-studio-11-what-can-i-use-to-replace-it/
+Manage Dependencies (ctrl + q) で探してくれは良いけど、Deprecated（廃止予定）ってどういうこと？そちらを教えて欲しい・・・
+・・・一応その回答はこちら。
+https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Reuse_UI/Use_Events_to_Propagate_Changes_From_a_Block_to_the_Parent
+これまでは、ウェブブロックの中でScreenAction（テキストではStarClicked）を定義して、それをNotifyするという仕組みだったのが、11では、ScreenActionとは別のEventというものが定義できるようになった。
+Notifyのメッセージとして、値等（StarIterator.List.CurrentRowNumber + 1）を定義し、さらに親画面におけるウェブブロックインスタンスのDestinationとしてアクション（OnRatingNotify）を作成して指定する、と言う流れだったのが、バージョン11では、親画面でイベントに対応するハンドラを書く、と言う感じ？
+そして、Destinationのアクション（OnRatingNotify）の記述として、Figure 26のような割と複雑なロジックを作っていくわけですが、これはどう書くのだろう・・・
+ちょっとテキストがバージョン11に追いついていないので、ここは飛ばしていきます。
+Eventsという形にしたのは悪くないと思うのですが。</description></item><item><title>6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 02:12:50 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a comments sidebar to movie Container の幅指定の方法は変わっている。
+Styles Editor を指定。
+bold 、italic 設定もStyles Editor で。
+CreateUserMovieComment はCoreUserMovieComment の中
+Assign してReflesh すると言う流れを理解する</description></item><item><title>5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Sun, 07 Jul 2019 05:18:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>テキストによるエクササイズの続きです。5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング） Part 1: Test the built-in validations Validation設定のServer とServer &amp;amp; Client を試す
+Part 2: Add validations to editing a movie Feedbackメッセージを日本語で入力しようとしたら文字化けした！
+ここまで長くなってくると全体が見通せなくなる。
+一つ一つのプロパティを見ないと何をやっているのか分からない。
+また、この辺でソース管理についての説明があると良いのでは
+Part 3: Test the validations for editing a movie 動作確認
+Part 4: Add validations for editing a person 自分でやってみよう、ということなので、一つだけやって、取り急ぎ進めます。
+Part 5: Test the validations for editing people 動作確認</description></item><item><title>5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 07 Jul 2019 02:02:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>テキストによるエクササイズの続きです。5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a reusable Action 淡々と進めます
+Part 2: Convert Action to a Function こうして作ったユーザアクションは、基本的には、ステートメントとしてのみ呼び出すことができる、方法はアクションフローへのドラッグ&amp;amp;ドロップ。
+FunctionにすることでExpressionの中で呼ぶこともできるようになる。
+やることはプロパティを変えるだけ
+Part 3: Test calling an Action and a Function できるけど、分かったような分からないような（分かっていない）</description></item><item><title>5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</link><pubDate>Sat, 06 Jul 2019 14:52:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</guid><description>テキストによるエクササイズの続きです。4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング） Part 1: Add participants to a movie アクションからの「New Web Screen」で自動的には名前はつけてくれなかった。（Mac版だから？）
+「Link」のプロパティの設定は、Widget Treeで「Actions」の中ににあるリンクを選択。
+タイトル欄にExpressionを追加したのち、ムービータイトルを表示させるようにするための設定は、下記の図のような形でダブルクリックにより指定できる。
+Windows環境とMac環境両方で開発している場合、すなわち、複数人で開発している場合、モジュール（今回でいうとOSMDb_Core）が変更された場合の再読み込みはそれぞれで行う必要がある（当たり前といえば当たり前）。
+再読み込みを行なったいないために、データタイプにPersonMovieRoleが表示されなくて悩んだ。
+Part 2: Test the ‘add participants’ to a movie ここまで順調にきたわけですが、ついにエラー発生。よりによって実行時エラー。開発環境側にはエラーはない。
+こうなってしまうと、何をすれば良いか分からない。
+が、もう少し冷静になって考えてみると、画面を開く時点でエラーになっているので、preparation が怪しいと考えられる。見てみると、赤ではないが黄色の波線。
+SQLを実行してみるとエラー。ピリオドとカンマ！
+ということで修正したら動きました。
+SQL書いたらその場でテストしましょう。
+Part 3: Display the participants of a movie ではPersonエンティティを取得した上で、PersonMovieRole もソースとして追加し、PersonMovieRoleへのフィルタとして、MovieId とActor を指定しようとしています。
+しかし、このActor のフィルタ追加で、PersonRole はないよと言われています。正解は、PersonalRole。 その後Group By の設定をしますが、若干表現が異なります。
+そして、それをやった後の画面も相当異なります。
+Group By の設定を、テキストの画像にあるように、▽ボタンを押して行うのではなく、右クリックで行なったら、近い形になったので、こちら右リック推奨です。
+Part 4: Search and filter the list of movies 淡々と進める</description></item><item><title>4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</link><pubDate>Wed, 03 Jul 2019 13:46:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</guid><description>テキストによるエクササイズの続きです。4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング） Part 1: Add the ‘Edit Movie’ feature テキスト通り進められます。
+途中で、Movieの中にGenreIdが表示されなくて、追加し忘れていたかと思ったら、追加はしたけど表示更新していなかったということでした。
+とりあえず、テキストボックスをドラッグして幅を広げる際のデザイナの表示がかっこいい。こういうの待ってたよ！
+Part 2: Add the ‘New Movie’ feature 最初に「＜＞」タブをクリックすると書かれていますが、現在のバージョン11では「Widget Tree」タブですね。
+そしてテキストでは「Layout_London」が指定されていたのを今知る・・・
+まあ、そのまま進めます。（後から変えられるのかな・・・）
+Part 3: Test the creation and update of movies 動作確認
+ちゃんと動いています
+Part 4: Add the ‘Edit Person’ feature そのまま進めます
+Part 5: Add the ‘New Person’ feature 衝撃の事実？
+実はここまでにも若干気になっていたのですが、
+People とPerson Detail が、結構出来上がっている。
+フォームを自動的に作ってくれるので、ある程度上記でやってきたSaveボタンとかは自動的に作ってくれるのかなと思ったりしていたのですが、ちょっとできすぎじゃない？という気が・・・更新後のメッセージとか、このあと作るんじゃないの？みたいなのまでできている。
+まさか、小人が作ってる？
+そうじゃないとすると、他の人と被って更新している？同じ名前だとそんなことが起きうる？ちょっと変な感じ。</description></item><item><title>4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</link><pubDate>Tue, 02 Jul 2019 12:21:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</guid><description>Modeling Data Relationships Exercise
+https://www.outsystems.com/learn/lesson/859/modeling-data-relationships-exercise/
+3.3、3.6に続き、テキストをやってみます。3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング） Part 1: Create a foreign key between Entities テキスト通り
+外部キーを追加する際に、カラムの型はデータ自体の型を指定するのではなく、データIdentifierを指定する、というのが面白い
+Part 2: Create the junction Entities テキスト通り、関連テーブルのエンティティを作成
+Part 3: Create an Entity Diagram リレーションの線が自動的に描画されるはずが、最初描画されずに、あれ？と思いましたが、画面をクリックすると表示されました。
+Part 4: Publish the application module Management Dependencies画面は若干変わっている。</description></item><item><title>3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 30 Jun 2019 08:35:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>Widgets I Exercise
+https://www.outsystems.com/learn/lesson/876/widgets-i-exercise/
+3.3と同様3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング） テキストを進めます。
+Part 1: Add a new module to the application まず「Responsive」ではなく「Web Responsive」になっている、ちょっと気になる。
+また、ワークスペースの画面状態も、初期コンテントがない状態、ちょっと気になる。
+Part 2: Reference Entities from core module 書いてある通り
+Part 3: Retrieve and display the movie list テキストでは、既存のHomescreenの名前を変えることになっているが、新しくscreenを作る。
+テンプレートはとりあえず「Empty」。名前は最初から「Movies」。
+スクリーンの準備としてアグリゲートの指定をする。そこにエンティティを指定することでデータの取得処理が作られる。
+スクリーンのコンテントにテーブルレコードを指定して、そのデータソースとして準備で取得したデータを指定する。
+という流れですね。これで画面も表示されました。
+Part 4: Retrieve and display a movie’s details 詳細画面の表示のさせ方＝画面へのデータの連携のさせ方は同様ですが、フィルタをかけて１件を表示対象とするということ。
+なので、Input Parameter を設定する。
+Widthを「8 col」に指定する、というところの画面説明がないですが、Stylesの中。
+フォームの名前が自動的に変わると言われても、どこで確認できるか分かりませんでしたが、Widget Tree で見ることができました。
+モデルの項目をドロップすると画面を構成してくれるのは大変助かります。
+その際、テキストではラベルと入力域が左右に並ぶ形になっていますが、今回は縦に並ぶ形になってしまいました。
+Part 5: Add a Screen to the top Menu そのまま</description></item><item><title>3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</link><pubDate>Sun, 30 Jun 2019 02:46:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</guid><description>Modeling Data Exercise
+https://www.outsystems.com/learn/lesson/875/modeling-data-exercise/
+Lesson Materialsをダウンロードすると、その中にテキストPDFが入っているので、それを見て進めます。
+テキストはバージョン10ベース、現在の最新環境は11のため、所々違うところが出てくると思われます。
+Part 1: Create the application いきなり、Blank module templateを使うようにとなっていますが、それが見当たらない。（先を進めると、このことを言っているのではなく、最初のモジュールを作る時にBlankを選択するのだと分かりますが）
+何かテーマを選んでみるか。
+参考：http://annatokugawa.blog.fc2.com/blog-entry-45.html
+とも思いましたが、またハマると嫌。
+出来上がりイメージはトップメニューの形のようなので、「TOP MENU」テンプレートを選択します。
+それ以降は、テキストの通り。
+Part 2: Create Entities Mandatoryとは「必須」の意味。
+で進めていってたら、キーボード入力を受け付けなくなった。mac版で進めるのはやはりリスキーだな・・・
+一回終了したら正常化されました。なお、終了する際は、Uploadします。Saveではない、すなわち、これは実は全てサーバ管理になっているということですね。
+Part 3: Create Static Entities データを追加していくのみ
+Part 4: Publish the application module クリックするのみ。
+ただ、「Template_TopMenu」が見つかりませんというメッセージ。
+むう・・・テンプレートを選ばないこともできたのだろうか。
+さらにタイムアウトになったりしましたが、再度ボタンを押すと成功します。
+ただ、NOTEとして書かれている通り、この時点ではUIがないので、「Wrong URL address – this module does not contain a default entry.」というエラーメッセージが表示されるのみです。</description></item><item><title>OutSystems セルフトレーニング</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Thu, 27 Jun 2019 12:07:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>OutSystemsもおもしろうそうなので、早速、WebAPIのデータを表示させるアプリを作ってみようかと思います。
+その際、mac版を使ったところ、読み込み時にエラーになってしまう。Windows版では成功したということは、やはりmac版は多少不安定な面がるかもしれません。
+そして、呼び出しはできる（WebAPI読み込みコンポーネントのようなものは作れる）ものの、それを画面のListに表示させる方法がいまいちわからない。
+もう少し勉強しようということで、こちらをしばらくやってみたいと思います。
+OutSystems セルフトレーニング
+http://www.bluememe.jp/outsystems/outsystems_support/self_training.html
+（しばらくこのページを随時更新していく形になります）
+1　コースイントロダクション 日本語字幕あり（しばらくあるようなので、特筆しない限りは以降、日本語字幕ありです）
+各セッションの概要
+どういうアプリを作っていくか
+映画管理
+ホテル予約
+試験制度
+どんな問題が出るか
+2　OutSystemsの基礎知識 2.1　OutSystems概要 development
+quality
+production
+プラットフォームサーバ
+コンパイル
+デプロイ
+管理
+service studio
+integration studio
+service center
+2.2　Service Studioとは ここで使われているのはバージョン10
+基本的なIDE機能は概ね予想通り
+最後にソースの競合、マージの説明
+ソース管理ツールも統合されているイメージ
+3　ウェブアプリ開発の基礎 3.1　画面のライフサイクル Webアプリケーションとは何か
+ブラウザは何をするのか
+静的リソースと動的コンテンツ
+Preparationという概念を使用しており、その中でデータ取得等を行う
+3.2　データのモデリング Entity→テーブルの行
+Attribute→列
+Service Studioのデータレイヤーで作成
+名前からデータ型を推測してテーブルを作る！
+例：Amount→Currency
+3.3　データのモデリングをしてみよう これから行うExerciseの説明。（ビデオなし）
+movie databaseのwebアプリケーションを作ります。
+継続的に拡張、公開、テストを行います。
+行う内容は
+1.アプリケーション作成
+2.最初のモジュールの作成
+3.エンティティとbootstrapデータの作成
+4.静的エンティティとレコードの作成
+5.Outsystems webサーバでの公開</description></item><item><title>OutSystemsによるローコード開発？</title><link>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</link><pubDate>Sun, 23 Jun 2019 12:36:57 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</guid><description>先ほど色々システム構成図の画像をアップした中に、OutSystemsのものがあります。
+OutSystemsとは 日本公式サイトだと、「コードレス開発」を謳っていますが、「ローコード開発」とか、色々言い方はあるようで。ソース生成型のツールで、いざとなったらソースいじることもできるようなので、「ローコード開発」の方がよいのでは。
+http://www.bluememe.jp/outsystems/product/product-devops-dev.html
+ASP.NETかJavaのソースを出力してくれるそうです。あまり何も考えずにチュートリアルをやってみたら、ASP.NET＋SQL Serverの環境を作ってくれたようです。
+チュートリアルをやってみて 以前、Glide をやってみた時、Glideの味わい方〜オープンデータを活用しよう これは、本当に何もしないんだな、まさにコードレスだなと思いましたが、かなり近いところまで行っているようにも思います。
+画面テンプレートを選択すると、サンプルデータで動く形までできていて、EXCELデータを指定すると、それをDBに登録して、そちらを参照するように変更してくれる、というのはスマートな作りだと思います。
+このような画面を作るのですが、リスト用のデータと、グラフ用のデータをそれぞれ指定するだけでここまでできてしまいます。リストから詳細ページへの流れも、詳細画面は勝手にそれっぽく作ってくれるという点で、Glideと同様の発想かと思います。
+.NETと言っているのでWindows版だけかと思ったら、technical previewとしてはmac版も提供されていました。
+https://success.outsystems.com/Support/Enterprise_Customers/Maintenance_and_Operations/OutSystems_Service_Studio_for_Mac
+個人用フリー版が用意されているのもうまいと思います。私も、もう少し使ってみたいと感じました。</description></item></channel></rss>

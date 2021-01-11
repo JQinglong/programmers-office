@@ -1,1 +1,1138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2019 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2019/</link><description>Recent content in 2019 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Dec 2019 01:47:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2019/index.xml" rel="self" type="application/rss+xml"/><item><title>またサイト止めてしまいました</title><link>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Sun, 22 Dec 2019 01:47:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>ドメイン名サービスの更新を怠って、本サイトをしばらく止めてしまっていました。 Freenomの更新 以前にも繋がらなくなったことがあって、Cloudflareが止まってたということがありましたので、それも疑いましたが全然情報が出ていないので、そ</description></item><item><title>I am Now AWS Certified</title><link>https://jqinglong.github.io/programmers-office/i-am-now-aws-certified/</link><pubDate>Sun, 10 Nov 2019 00:20:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/i-am-now-aws-certified/</guid><description>AWS Certified Solutions Architect – Associate試験に合格しました！ 合格者特権で、試験対策について書いてみたいと思います。 （まあ、こういうのは読み流すものです） 自分のスペック 私は、仕事で多少クラウド環境でアプリを動かすこともありますが、ほとんどがオンプレミス環</description></item><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。 ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・ IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PH</description></item><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。 今回は、APIだけを公開するということで</description></item><item><title>Docker イメージを Google Container Registry に登録</title><link>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</link><pubDate>Fri, 26 Jul 2019 22:03:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</guid><description>時は遡り、画面が何とか動くようになったので、API連携しようとしたものの、失敗して終了していたこちら。ぬるさくapi連携（失敗） 画面も、色々試せそうになってきたので、とりあえず、APIを公開しようということで、ぬるさく本の「6.3 Docker イメージ</description></item><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。 OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、Ou</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。 Glide App（glideapps） のMap List 機能 https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。 今回取り上げたMap List</description></item><item><title>9.4　スキャフォールディングとRichWidgetを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</link><pubDate>Sun, 14 Jul 2019 14:16:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</guid><description>テキストによるエクササイズの続きです。8.2 ウェブサービスのエクササイズ（OutSystems セルフトレーニング） Part 1: Add Cinemas at Warp Speed 前に画面を誰かが勝手に作ってくれたと思ったのは、スキャフォールドだったんですね。 勝手に作るんじゃなくて、ドラッグ</description></item><item><title>8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</link><pubDate>Sat, 13 Jul 2019 08:38:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</guid><description>テキストによるエクササイズの続きです。7.4 セッションハンドリングのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a Reference to a REST endpoint こんなサイトがあり、APIを提供している。 https://www.themoviedb.org/ Part 2: Define Site Properties for the API サイトプロパティの追加のみ Part 3: Call a Web Reference method</description></item><item><title>7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</link><pubDate>Sat, 13 Jul 2019 08:35:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</guid><description>テキストによるエクササイズの続きです。6.4 ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング） Part 1: Create and use Session Variables Find Usages みたいな技を教えてくれるのは良いですね Part 2: Create and use Site Properties サイトプロパティを変えてもブラウザ再表示でMo</description></item><item><title>6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 05:45:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。6.2 画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a Web Block for star ratings Placeholder のwidth はempty にはできず、Fullにしておく Part 2: Make the stars in the Block clickable Search Box で「Notif</description></item><item><title>6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 02:12:50 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。5.7 Input Validationのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a comments sidebar to movie Container の幅指定の方法は変わっている。 Styles Editor を指定。 bold 、italic 設定もStyles Editor で。 CreateUserMovieComment はCoreUse</description></item><item><title>5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Sun, 07 Jul 2019 05:18:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>テキストによるエクササイズの続きです。5.5 Actionとコードを再利用してみよう（OutSystems セルフトレーニング） Part 1: Test the built-in validations Validation設定のServer とServer &amp;amp; Client を試す Part 2: Add validations to editing a movie Feedbackメッセージ</description></item><item><title>5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 07 Jul 2019 02:02:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>テキストによるエクササイズの続きです。5.3 データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a reusable Action 淡々と進めます Part 2: Convert Action to a Function こうして作ったユーザアクションは、基本的には、ステートメントとしてのみ呼</description></item><item><title>5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</link><pubDate>Sat, 06 Jul 2019 14:52:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</guid><description>テキストによるエクササイズの続きです。4.4 画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング） Part 1: Add participants to a movie アクションからの「New Web Screen」で自動的には名前はつけてくれなかった。（Mac版</description></item><item><title>4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</link><pubDate>Wed, 03 Jul 2019 13:46:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</guid><description>テキストによるエクササイズの続きです。4.2 リレーションのモデリングをしてみよう（OutSystems セルフトレーニング） Part 1: Add the ‘Edit Movie’ feature テキスト通り進められます。 途中で、Movieの中にGenreIdが表示されなくて、追加</description></item><item><title>4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</link><pubDate>Tue, 02 Jul 2019 12:21:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</guid><description>Modeling Data Relationships Exercise https://www.outsystems.com/learn/lesson/859/modeling-data-relationships-exercise/ 3.3、3.6に続き、テキストをやってみます。3.6 ウィジェットを使ってみよう（OutSystems セルフトレーニング） Part 1: Create a foreign key between Entities テキスト通り 外部キーを追加する際に、カラムの型はデータ自体の型を指定するのではなく、データId</description></item><item><title>3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 30 Jun 2019 08:35:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>Widgets I Exercise https://www.outsystems.com/learn/lesson/876/widgets-i-exercise/ 3.3と同様3.3 データのモデリングをしてみよう（OutSystems セルフトレーニング） テキストを進めます。 Part 1: Add a new module to the application まず「Responsive」ではなく「Web Responsive」になっている、ちょっと気になる。 また、</description></item><item><title>3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</link><pubDate>Sun, 30 Jun 2019 02:46:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</guid><description>Modeling Data Exercise https://www.outsystems.com/learn/lesson/875/modeling-data-exercise/ Lesson Materialsをダウンロードすると、その中にテキストPDFが入っているので、それを見て進めます。 テキストはバージョン10ベース、現在の最新環境は11のため、所々違うところが出てくると思われます。 Part 1: Create the application いきなり、Blank module</description></item><item><title>OutSystems セルフトレーニング</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Thu, 27 Jun 2019 12:07:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>OutSystemsもおもしろうそうなので、早速、WebAPIのデータを表示させるアプリを作ってみようかと思います。 その際、mac版を使ったところ、読み込み時にエラーになってしまう。Windows版では成功したということは、やはりmac版は</description></item><item><title>OutSystemsによるローコード開発？</title><link>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</link><pubDate>Sun, 23 Jun 2019 12:36:57 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</guid><description>先ほど色々システム構成図の画像をアップした中に、OutSystemsのものがあります。 OutSystemsとは 日本公式サイトだと、「コードレス開発」を謳っていますが、「ローコード開発」とか、色々言い方はあるようで。ソース生成型のツールで、い</description></item><item><title>システム構成図色々</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E6%88%90%E5%9B%B3%E8%89%B2%E3%80%85/</link><pubDate>Sun, 23 Jun 2019 11:30:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E6%88%90%E5%9B%B3%E8%89%B2%E3%80%85/</guid><description>先日行ってきた、AWS Summit Tokyo 2019 と、Interop Tokyo 2019 でゲットしきた資料のシステム構成図色々。 こういうの参考にしたくなること多いですよね。</description></item><item><title>ぬるさくapi連携（失敗）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</link><pubDate>Sat, 15 Jun 2019 22:05:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</guid><description>前回からの続きぬるさく画面に再チャレンジ 固定値による画面表示はできたので、実際にapiからデータを取得しようとしました。しましたが、ハードル上げすぎて失敗したので、一旦ハードルを下げようと思いますが、まず失敗の記録をしておきます。 ページ、お</description></item><item><title>ぬるさく画面に再チャレンジ</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</link><pubDate>Sat, 08 Jun 2019 23:24:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</guid><description>以前Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 途中で分からなくなってしまい中断していましたが、改めてやってみようと思います。 まずは、Vuetifyのスライダーでの入力画面と、amChartsのグラフ表示。 router-linkに</description></item><item><title>Firebase ユーザ認証機能を利用する</title><link>https://jqinglong.github.io/programmers-office/firebase-%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</link><pubDate>Sat, 01 Jun 2019 05:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/firebase-%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</guid><description>今回もこちらの続き。Vuetify の基本 今回も参考はこちら。 Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加] https://note.mu/tkugimot/n/n80c2e4b33bbc で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出</description></item><item><title>Firebase Hostingにデプロイ</title><link>https://jqinglong.github.io/programmers-office/firebase-hosting%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4/</link><pubDate>Wed, 29 May 2019 13:37:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/firebase-hosting%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4/</guid><description>こちらの続き。Vuetify の基本 デザインについて、今参考にしているのはVuetify公式サイトのレイアウトサンプル。 https://vuetifyjs.com/ja/framework/pre-made-layouts これとかすごいと思いますが、初心者はまだ手を出さないことにします。 Vue Material Admin https://vuejsprojects.com/vue-material-admin Firebase Hostingにデプロイ 引き続き、こちらを参</description></item><item><title>Vuetify の基本</title><link>https://jqinglong.github.io/programmers-office/vuetify-%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 19 May 2019 13:21:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vuetify-%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Nuxt.jsでTodoList機能を作りながら、Vuetifyの基本を学習。 こちらを参考に、進めています。 https://note.mu/tkugimot/n/n47218fd1eec5 なんとか自力で問題解決できたので、既存のアプリに機能追加する形で動かすことができました。 上記サイトでは、次に、デザインを整えること</description></item><item><title>Nuxt.js環境の学習継続中</title><link>https://jqinglong.github.io/programmers-office/nuxt-js%E7%92%B0%E5%A2%83%E3%81%AE%E5%AD%A6%E7%BF%92%E7%B6%99%E7%B6%9A%E4%B8%AD/</link><pubDate>Sun, 19 May 2019 02:24:44 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js%E7%92%B0%E5%A2%83%E3%81%AE%E5%AD%A6%E7%BF%92%E7%B6%99%E7%B6%9A%E4%B8%AD/</guid><description>Nuxt.js開発を進めるためには、もう少し学習が必要ということで、入門サイトを見てみたりしていますが、なかなか思う方向には進んでくれません。その苦労の足跡を残します。（ごちゃごちゃになりすぎて記憶も飛び気味ですが） やりたいことのゴールはこ</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。 なかなかハードルが高かったですが、できました！ Docker環境をどこに</description></item><item><title>タイタニックアプリを作ろう（Nuxt.js 開発環境の基本）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 05 May 2019 00:21:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Kaggleのタイタニック問題は、機械学習の基礎として面白いので、それを活用し、かつ、技術書典の2冊で学んだことも生かして、アプリを作ってみましょう。 Kaggleのタイタニック問題で機械学習 Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 コンテナ時代</description></item><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！ ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら Kaggle</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。 これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！ ご購入いただいた皆様、本当にありがとうございました！！！ BOOTHでのpdf販売を同時に開始しましたので ぜひ、#技術書典 にお越しいただ</description></item><item><title>コンテナ時代のWebサービスの作り方</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link><pubDate>Sat, 27 Apr 2019 15:06:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid><description>技術書典6で購入した本１冊目。 ガチで役に立つ本でした。 コンテナ時代のWebサービスの作り方 | 楽描商店 https://t.co/xFdOX3orNn 技術書典6で頒布した本をboothにて委託しております。ご活用ください。#booth_pm #技術書典 &amp;mdash; とまと（nasum）技術書典え35楽</description></item><item><title>Glideの味わい方〜オープンデータを活用しよう</title><link>https://jqinglong.github.io/programmers-office/glide%E3%81%AE%E5%91%B3%E3%82%8F%E3%81%84%E6%96%B9%E3%80%9C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%82%88%E3%81%86/</link><pubDate>Thu, 18 Apr 2019 11:24:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide%E3%81%AE%E5%91%B3%E3%82%8F%E3%81%84%E6%96%B9%E3%80%9C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%82%88%E3%81%86/</guid><description>Xamarinなかなか踏み込んでくれないなと感じたりしています。 Xamarin 最近どうよ？ – Qiita https://qiita.com/amay077/items/399002a02c1abf9d620b こちらの記事は面白く、中で紹介されている、Xamarin.Forms Visualの画像を見ると、「よいのでは！」と思いますが、さてどうなることやら・・・ これ</description></item><item><title>MacでVisual Studio 2019</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</link><pubDate>Sat, 13 Apr 2019 23:47:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</guid><description>Visual Studio 2019がリリースされ、Mac版にも対応されていますので、インストールしてみます。 最初にメッセージが出ますが、インストール中2、３回パスワード入力が必要ですので、完全放置はできませんでした。 インストールしたら、サンプルとして https://docs.microsoft.com/ja-jp/xamarin/cross-platform/samples/ Acquaint ⁨app</description></item><item><title>Adobeの行く先</title><link>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</link><pubDate>Wed, 10 Apr 2019 11:25:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</guid><description>アドビ、3月1日付けでマルケトとの統合を完了（2019年3月6日） https://www.adobe.com/jp/news-room/news/201903/20190306-adobe-marketo-integration.html 「この度の統合によりデジタルにおける顧客体験において、アドビがもつ分析、コンテンツ管理、パーソナライゼーション、広告、コマースといった様々なソリューションに加え、マルケトの</description></item><item><title>LINEリッチメニューのコツ</title><link>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</link><pubDate>Sun, 31 Mar 2019 12:55:03 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</guid><description>ネタは熱いうちに打たないと、テンションはすぐ下がりますね。 まずは、小ネタで、リッチメニューについて。 リッチメニューとは何かについては、 https://www.google.com/search?q=line+%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjChdXvsazhAhVXyIsBHbDIDCAQ_AUIDigB&amp;amp;biw=1628&amp;amp;bih=1054 こんな感じで画像を見るとよくわかりますね。で、これがあってこそ、ボット作ったな感が出ると思うので、まずは</description></item><item><title>車検だ、自動車保険だ</title><link>https://jqinglong.github.io/programmers-office/%E8%BB%8A%E6%A4%9C%E3%81%A0%E3%80%81%E8%87%AA%E5%8B%95%E8%BB%8A%E4%BF%9D%E9%99%BA%E3%81%A0/</link><pubDate>Sun, 31 Mar 2019 09:24:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E8%BB%8A%E6%A4%9C%E3%81%A0%E3%80%81%E8%87%AA%E5%8B%95%E8%BB%8A%E4%BF%9D%E9%99%BA%E3%81%A0/</guid><description>色々溜まっていることもやらねばならず、車検を申し込み、自動車保険の見積も申し込み。 車検はディーラーに任せるスタイル。そのおかげではないかもしれませんが、今の車は中古ながら装備的に非常に満足度が高く、それでいてお値段もお得だったので、基本的に</description></item><item><title>チャットボット（LINE bot）を作る</title><link>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</link><pubDate>Fri, 29 Mar 2019 23:43:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</guid><description>仕事の方の年度末のパワープレーの影響で、こちらはすっかりご無沙汰になりました。 そして、突然チャットボットを作ることを思い立ち、試してみたところこれがなかなか面白い。ということで、いくつか作ってみたいのですが、前半戦を終えたところで、まとめて</description></item><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。 お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払わ</description></item><item><title>PayPal決済の準備</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</link><pubDate>Sat, 09 Feb 2019 01:15:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</guid><description>次は、WooCommerce・WCFM Marketplace からのPayPal決済連携を試したいと思いますが、その前にPayPal決済環境の準備。 PayPal Sandbox 当然、いきなり決済を開始できるわけではないので、まずはお試しをしたい。 そのために、Sandbox環境が用意され</description></item><item><title>WCFM Marketplace ショップページ</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</link><pubDate>Sun, 03 Feb 2019 01:26:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</guid><description>WCFM Marketplaceの設定。各ショップページの設定。 基本的には、Marketplace→Vndorsで設定していきます。 デモサイトのこちらの見た目を参考にします。 http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/ 気になる点は二つ。 一つは、STORE HOURS。 WCFM MARKETPLACE – STORE HOURS https://wclovers.com/knowledgebase/wcfm-marketplace-store-hours/ これを見ると</description></item><item><title>WCFM Marketplace 地図の表示〜Places API</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</link><pubDate>Sat, 02 Feb 2019 23:44:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</guid><description>地図のプラグインMAPPRESS GOOGLE MAPを入れて、API Keyを設定すると、地図自体は表示されるけれども、入力した住所と連動してくれないという状態でした。 で、productsの地図を入力しようとすると、このようなエラーが。 Google Maps API Key error: please enable the Places</description></item><item><title>鉄拐</title><link>https://jqinglong.github.io/programmers-office/%E9%89%84%E6%8B%90/</link><pubDate>Fri, 01 Feb 2019 16:05:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E9%89%84%E6%8B%90/</guid><description>立川流の人たちは本を書きますね。 落語進化論は立川志らくさんの本。 落語進化論 /新潮社/立川志らくposted with カエレバ 楽天市場 Amazon 7net この最後に紹介されるのが、鉄拐という落語。 鉄拐は、李鉄拐という仙人。八仙人の一人ということで、八仙人とは、こちら</description></item><item><title>WCFM Marketplace Homepage設定</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</link><pubDate>Thu, 31 Jan 2019 16:00:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</guid><description>Homepageに表示する固定ページ 設定画面のReadingから「Homepage」にショップページを指定します。 最初Wordpressインストール時に日本語指定していたからか、日本語になってしまってますが、WooCommerce本体として</description></item><item><title>WCFM Marketplace サイト構成</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</link><pubDate>Wed, 30 Jan 2019 14:56:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</guid><description>WCFM Marketplaceならではのサイト構成をどう考えるか。 デモサイトを見ると、まず、HOMEPAGEとしては、色々なショップの商品一覧。 http://wcfmmp.wcfmdemos.com/ 地図があって、検索条件項目があって、商品写真が並ぶ。 妥当ですね。 ヘッダのリンクは管理画面のリンクも混</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。 ということで、WooCommerce用テーマの選択。 最初使ってみたのはこちら。 THESHOP https://athemes.com/theme/theshop/# おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピー</description></item><item><title>WCFM Marketplace 最初の一歩</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</link><pubDate>Sat, 26 Jan 2019 13:10:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</guid><description>WooCommerce Multi vendor Marketplace (WCFM Marketplace)を使うにあたって、どこから始めれば良いか。 日本語情報は早々に諦めて、手探りで始めます。 管理画面 WPのダッシュボードはこんな感じになります。 そして、「Marketplace」からWCFM Marketplace</description></item><item><title>Tポイント解約の前に、と思ったら・・・minibot スマートロボット掃除機</title><link>https://jqinglong.github.io/programmers-office/t%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%A7%A3%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB%E3%80%81%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E3%83%BB%E3%83%BB%E3%83%BBminibot-%E3%82%B9%E3%83%9E%E3%83%BC/</link><pubDate>Wed, 23 Jan 2019 13:06:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/t%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%A7%A3%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB%E3%80%81%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E3%83%BB%E3%83%BB%E3%83%BBminibot-%E3%82%B9%E3%83%9E%E3%83%BC/</guid><description>話題のTポイント。もしかしたらやめようと思っている方も多いかもしれません。 私も、ちょっと距離を置こうかなと思っています、というか、ここ2年ほどはだいぶ距離を置いています。嫌われがちな楽天ポイントですが、その中にどっぷり浸かってみるつもりにな</description></item><item><title>WooCommerceのマルチベンダープラグイン</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</link><pubDate>Sun, 20 Jan 2019 13:18:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</guid><description>ということで、改めて、WooCommerceのテスト環境を構築しましたが、マルチベンダー構成にするためのプラグインについては、もう少し検討したいと思います。 プラグイン画面で、「multi vendor」で検索すると、いくつかヒットします。この</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。 ・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ ・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ ・その他色々</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！ ドカベン プロ野球編 （1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。 始める前の準備 Container Registry のクイックスタート https://cloud.google.com/container-registry/docs/quickstart?hl=ja プロジェクトは既存のものを使用し</description></item><item><title>Docker push AWS ECR 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</link><pubDate>Sat, 19 Jan 2019 05:33:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</guid><description>色々な編ができていく・・・ ずっとはまっていてもダメなので、ちょっとGitLabからのPullはどこかで質問することにします。 そして、AWS ECS で pull するのであれば、当然相性良いだろうと思われる、ECR にpushしてみます。 イメージのプッシュ https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/docker-push-ecr-image.html も</description></item><item><title>Vimeo PRO（有料プラン）からBASIC（無料プラン）への変更</title><link>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</link><pubDate>Sat, 19 Jan 2019 00:58:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</guid><description>お試しでVimeoのPROプランに入っていた（2018年12月）のですが、いったんBASICに戻そうと思います。 PROは年間払いと月間払いのコースがあり、月間の方を契約していた（つもりでした）。 キャンセルについては、こちらの「いつキャンセル</description></item><item><title>Docker 環境をステージング環境へ（Docker pull編）part1</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</link><pubDate>Mon, 14 Jan 2019 14:36:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</guid><description>docker pushができたので、今度は、サーバ側からpullします。 サーバは、GCPのつもりでしたが、Mgentoの検証を行っていたAWSを使うか、と考え、それならば、Elastic Container Serviceを使ってみることにします。 Elastic Container Service（EC</description></item><item><title>Docker 環境をステージング環境へ（Docker push編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</link><pubDate>Mon, 14 Jan 2019 10:25:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</guid><description>まだ、全然途中ですが、いったんベンダー機能とショップ画面が見えるようになったところで、これを別サーバ（ステージング環境のつもり）に持っていきたいと思います。 Docker力強化の目的もあります。 Docker イメージのレジストリサービス ローカル開発環境の</description></item><item><title>WC Marketplace（商品機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 15:53:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>商品登録方法は、素のWooCommerceとWC Marketplaceでは考え方が違う部分がありますので、その確認。 商品とベンダーの関係 Setting up – Assign Single Product to Multiple Vendors https://wc-marketplace.com/knowledgebase/setting-assign-single-product-multiple-seller/ WC Marketplaceプラグインインストール時に、「Single Product Multiple Vendors</description></item><item><title>WC Marketplace（ベンダー関連機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 09:17:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>しかし、WooCommerceも日本語情報は、豊富とは言えませんね・・・ ほとんどお一人で頑張られている？？ https://docs.artws.info/about-this-site/ WC Marketplaceと言っても、そもそもWooCommerceが分からなければ始まらないので、上記を参考にさせていただきながら、</description></item><item><title>WooCommerceを試す</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</link><pubDate>Sun, 13 Jan 2019 01:52:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</guid><description>MagentoのDocker環境を作った訳ですが、サンプルデータを後から投入しようとすると、やはり、「PHP Fatal error: Allowed memory size of xxx bytes exhausted」が発生したりして、Dockerの出来合いの環境ならもう少しすんなり行くかなと言う期待は、あまり応</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。 参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215 を入り口として、 https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861 https://principle-works.jp/blog/how2runm2ondocker-apache/ https://principle-works.jp/blog/how2runm2ondocker-compose/ も参照。 しつつ、いかにビジュアルに構築するかを考えます。 イメージ検索 まずは、Kitematic内で検索してみます。 最初は、一つしか</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。 しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストー</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ついに完了！</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</link><pubDate>Sat, 05 Jan 2019 02:23:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</guid><description>[ ][1] Code4Startup Task26では、ドライバー側マップでドライバーの移動ロケーションを追加し、カスタマー側マップにも追加します。 そして、シミュレータを二つ立ち上げて、動きを見ることができますよと言うテクニック。 最後にTask27でdanielgindi</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ドライバーサイドアプリ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</link><pubDate>Fri, 04 Jan 2019 23:09:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</guid><description>[][1] Code4Startup ここまでは、カスタマーサイドのアプリ。 Task24は、ドライバーサイドのアプリ。 このスピード感で画面を追加していける、というのがSwiftの強みだと思う。 そして、この段階で初めてCusotmerとDriverでディレクトリを分けていける</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図上の経路描画</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</link><pubDate>Tue, 01 Jan 2019 22:14:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</guid><description>Code4Startup Task23は、決済部分から、お店から配達先までの経路描画など、ある意味、講座のクライマックス。 経路は、import Mapkit しなければならないとすると、他の方式で開発する場合は、またちょっと苦労するということでしょうか。 画面作成の観点で、Swi</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2019 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2019/</link><description>Recent content in 2019 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Dec 2019 01:47:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2019/index.xml" rel="self" type="application/rss+xml"/><item><title>またサイト止めてしまいました</title><link>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Sun, 22 Dec 2019 01:47:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>ドメイン名サービスの更新を怠って、本サイトをしばらく止めてしまっていました。
+Freenomの更新 以前にも繋がらなくなったことがあって、Cloudflareが止まってたということがありましたので、それも疑いましたが全然情報が出ていないので、そうではなさそう。
+サイト自体が死んだかと思いましたが、再起動しても状況は変わらず、そもそもサイトが死んだ場合はCloudflareがエラー画面を返すのでそうでもなさそう。
+本サイトは、
+https://www.karelie.net/free-fast-wordpress-site-freenom/
+を参考に、freenomで無料ドメインサービスを使用しています（した）。
+今月頭に、「Your domain name PROGRAMMERS-OFFICE.ML needs renewal」というメールが来ていたのですが、完全に見落としていました。
+そして、これにしたがって更新していれば無料でできたようなのですが、一度終了してしまうと、再度取り直す際には有料になっています。ということで10ドルちょっと支払いました・・・（ただ、この更新料は他の有料サービスから比べても格安だとは思います）
+ついでにWordPressの更新 そして、ドメインの更新とは全く関係ありませんが、この際にWordPressも更新しておくことにします。
+更新の際には、いつも（？）、下記のエラーになります。
+いくつかのファイルをコピーできないため、最新版のインストールができません。これはたいていの場合、ファイルのパーミッションが適切でないことが原因です。: wp-login.php, wp-cron.php, xmlrpc.php, wp-load.php, wp-activate.php, wp-config-sample.php, wp-settings.php, wp-mail.php, wp-signup.php, wp-links-opml.php https://www.karelie.net/free-fast-wordpress-site-setting/#wordpress-2
+を参考にしてパーミッションを変更します。
+そちらに書いてある
+sudo chmod 707 wp-settings.php sudo chmod 707 wp-cron.php sudo chmod 707 wp-activate.php sudo chmod 707 wp-load.php sudo chmod 707 wp-login.php sudo chmod 707 wp-signup.php sudo chmod 707 wp-trackback.php sudo chmod 707 wp-config-sample.php sudo chmod 707 license.txt sudo chmod 707 readme.</description></item><item><title>I am Now AWS Certified</title><link>https://jqinglong.github.io/programmers-office/i-am-now-aws-certified/</link><pubDate>Sun, 10 Nov 2019 00:20:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/i-am-now-aws-certified/</guid><description>AWS Certified Solutions Architect – Associate試験に合格しました！
+合格者特権で、試験対策について書いてみたいと思います。
+（まあ、こういうのは読み流すものです）
+自分のスペック 私は、仕事で多少クラウド環境でアプリを動かすこともありますが、ほとんどがオンプレミス環境での構築です。
+このブログはGCPで動かしており、趣味としてクラウド環境を触っているのは記事として書いている通りです。AWSも一時期Magentoをガッツリやろうとして、それを動かす環境として触っていましたが、諸事情によりMagentoの話が先送りになったため、AWSも触らなくなってしまい、１年間の無料期間も過ぎてしまいました。
+ですので、遊びレベルでEC2、S3、ECR、ECS あたりは雰囲気は分かっている、という状況でした。
+対策講座 会社的な諸事情があり、１日の入門講座を受講しました。とりあえずVPCを作って、EC2を立ち上げて、オートスケールを試してみる、というくらいの一番の初心者向け講座でしたので、これはおそらく合格には関係なかったかなと思います。それでも、趣味で遊んでいるだけだと、VPCとは、みたいなことを意識せずにやっていたので、そういうものがあるという認識のためには「無」ではなかったかというところでしょうか。
+今回の主要な（９割９分）準備は、Udemyの対策講座でしたので、そちらを紹介。
+Udemy対策講座 これだけでOK！ AWS 認定ソリューションアーキテクト – アソシエイト試験突破講座（初心者向け21時間完全コース）試験に出る範囲の概要を押さえる、という役割だと思いますが、確かに、結果的にはこれだけでOKでした。
+始める前は、動画講座は見るのがしんどい（まだるっこい）かなと思っていたのですが、２倍速で見ているとまだるっこさはなく、自発的にページをめくらなくてもどんどん進んでいくためだらだらしない、というメリットがありました。
+ただ、しばしば寝落ちしてもう一度見直す、みたいなこともありましたので、ちゃんと体勢を整えてやりましょう。
+終わった今思うのは、各セクションの終わりに小テストが用意されていますが、これを先にやってからビデオを見る方が良かったかも、ということです。小テストで、こんなことやってたっけ？？みたいなことがしょっちゅうあったので、そこで見返すよりも、ちゃんとポイントを押さえてから見た方が効率的ではないかということです。
+この講座はあちこちの合格体験記で紹介されていますが、ハンズオンについて、ちゃんとやる派が多いように思われます。私は、試験を申し込んでからこれを受講し、時間がないなと思ったのでハンズオンは全て見るだけにしました。
+僅かながらも触ったことはあったから、というのも大きいですが、やっていることがイメージできるなら、必ずしも試験対策としては手を動かす必要はなかったかなと思います。ただ、手を動かすことで、もう少し、説明されている箇所以外のオプション等にも目が行ったかな、試験ではそういうのも結構出てたぞ、という感じもあります。
+模擬試験 なんだかんだで、Udemy講座を見終えたのが、試験（17時から）当日の朝でした。そこで、まずはUdemy講座についているの模擬試験の一つ目をやってみました。70%の合格ラインに対して、40%。
+え、そんなこと説明されたました？？みたいな問題ばかり。青ざめます。
+続いて、模擬試験二つ目。55%。ダメダメですが、ただ、そんな問題が出るんだ、という感覚は分かりました。そこでふと疑問が。これはUdemyの模擬試験の感覚であり、本番もそうなのか？？
+ここで、慌てて、公式模擬試験があることを思い出し、すかさず申し込んで実施。結構近い問題が出てる！80％。行ける！
+Udemyの模擬試験３つ目は模擬試験とはちょっと違う小テストの形式の65問ですが、正解45問＝約70%。後は間違っているところの見直しをやれば良いか、という感じでざっとおさらいして、もう一度模擬試験一つ目。なんとこのタイミングで模擬試験内容が更新されました、との通知。まあ、頻繁に内容が更新されているというのは良いなという好印象。で、84%。行ける！と感じながら試験会場へ向かいました。
+本番試験 身分証明証は二つ（一つは写真付き）持っていきましょう。
+さて、試験を始めて最初に思うのは、公式模擬試験、結構モダンな画面だったじゃん！本番、昔ながらの古臭い画面じゃん！
+それはさておき、問題、全然模擬試験と違います。よりシビアです。どこまで公開して良いか分からないのでイメージで言うと、模擬試験はAとBを識別できれば回答できるが、本番はA1とA2の識別が必要、みたいな。
+今回、直前の復習で、こちらのサイトの表を参考にさせていただき、大いに役立ちました。
+表で対策するAWS 認定ソリューションアーキテクト – アソシエイト(SAA)
+この中で言うならば、例えば、VPCエンドポイント（ゲートウェイ型）とVPCエンドポイント（インターフェース型）を識別しましょう、と言うことです。
+あとは、この試験に限りませんが、問題文の細かい条件がヒントになっている。また、「英語」ボタンがあるので、日本語が怪しいと思ったら英語も見てみる。一つ、canの訳し方が微妙じゃない？というのがありました。
+対策本 ここが一番気にされるところだと思いますが、今回書籍類は使用しませんでした。ただ、より本番試験に近い内容が書かれているなら、模擬試験までやった後に弱いところの補強にやると良いのかもしれません。そういう意味では、新しい本でないと意味がないかなと思います。
+また、最初に、**AWS Well-Architected フレームワーク ホワイトペーパー(PDF)**も読みましたが、読むというよりは眺める感じになってしまい、あまり意味がありませんでした。Udemy講座の中で何度も説明してくれるので、ホワイトペーパーを読むこと自体は必須ではないかなという感じです。
+余談 今回の、Udemy講座は非常に良かったなと思いますが、Udemyの全ての講座が良いかというのは不明です。名前からして怪しげなものも色々あるな…審査してるのかな…
+しかも、ベネッセが提携してやっている。大学入試の件で、私のベネッセに対する印象がかなり悪くなってます。ベネッセ、そうじゃなかったと思うんだけど。</description></item><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。
+ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・
+IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PHPアプリから参照するアプリを作りました。タイタニック　チャレンジ 以前から作ろうとしていた、タイタニックアプリがやっとできた！ということです。タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） システム構成 基本的には、機械学習を行なったモデルをAPIとして公開し、そのAPIを呼び出すアプリを作る、というぬるさくで学習していた構成です。
+https://norwegian-geek.booth.pm/items/1296418
+いままでかなり色々な方法を試してきたわけですが、AutoAIを知った事で、ローカルで構築した機械学習環境を公開環境に持っていく、という事を考えなくて良くなったのが大きいです。
+まずは、AutoAIがデプロイ機能まで持っていて、これでAPIを公開できます。
+これを呼び出すアプリは、WordPressサイトを立てて、その中でPHPアプリを書きました。
+AutoAI によるAPI公開 こちらについては、AutoAIで検索するだけでも色々情報が出てきますし、「AutoAI タイタニック」と検索すれば、まさに今回行なったことをみなさんやられているので、割愛します。
+これが無料で公開されているというのがすごいなと思います。
+WordPress 環境内にアプリ構築 UI側をどう作るかがこの記事のメインとなります。
+最初は、せっかく勉強したということでOutSystemsでやってみようと思いました。
+OutSystems まず、ちょっと悩んだのが、あまりにもデータとフォームが結合していて、単なる検索条件を入力するための画面を作りたいのに、フォームのためにはデータが必要という構造。フォームを使わない方法も当然あると思いますが、仮のデータを作成する方法でもできなくはなかったです。
+REST API呼び出しについては、ちゃんと仕組みが用意されていて、これは便利。テスト呼び出しもしやすい画面が用意されている。
+それで、呼び出しまではできたのですが、取得したデータの処理がうまくできませんでした。これについては、そもそもAutoAIのJSONの構造が複雑すぎませんか？という気もしています。
+WordPress 昔から思っているのですが、CMSで管理するコンテンツというのは、単にブログ等の文章だけではないはず、CMSはサイト全体のデザインの統一性を実現するために使用するもので、そこには文章だけではなくアプリケーションも含まれるのではないでしょうか。その一例として、問い合わせフォームくらいはCMSの機能に含まれたりもすると思うのですが、もっとがっつりしたアプリもCMS管理配下に乗せてしかるべきではないか、という気がしています。
+なぜこれを私がこれを強く思うかというと、私がデザインが苦手だからです。なるべくセンスの良いデザインを使わせていただくために、その枠組みの中でアプリも作りたいと思うのです。
+実際それはやったことはあるので、自分のできる範囲に戻ったという感じではあります。
+フォームプラグイン そう考えた上で、今回最初に、Wordpressのプラグインを使って、フォームを作れないかと思いました。
+色々なプラグインを見ていく中で、使えなくないなと思ったのは、Form Maker by 10Web。The Most Powerful Drag&amp;Drop WordPress Form Builder デザインテーマも用意されていて（Wordpress本体のテーマとは完全独立なのは良い悪いあると思いますが）、きれいなデザインのフォームが作れます。
+また、無料で使えるコントロールが充実しています（他の類似プラグインは有料オプションが多い印象）。
+ただし、基本的には、あくまでも入力した内容をデータに保存して、せいぜいメールを飛ばす機能。今回やりたかったのは入力値を外部のAPIに渡すこと。フォーム処理の後外部URL等に転送することはできますが、入力値がPOSTされるわけではないのです。
+これについては、もう少し頑張ってみました。
+JavaScriptを追加することができますので、
+function send_form(){ var f = document.forms["form6"]; f.method = "POST"; f.action = "/apps/titanic-result/" f.submit(); } みたいなものを追加し、画面側では標準のSubmitボタンを使わずに、ボタンを追加して、OnClickイベントにsend_form()を記載する、ということをすると、指定したところに入力値をPostすることができるわけです。</description></item><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。
+今回は、APIだけを公開するということで、API用のファイルだけ作成します。
+内容は、基本的には、githubの方を参照しています。
+https://github.com/pco2699/NullSuck-AI/tree/master/k8s
+また、イングレス用ファイルは下記のような感じで作りました。
+k8s/api/api-ingress.yml
+apiVersion: extensions/v1beta1 kind: Ingress metadata: name: api-ingress spec: rules: - http: paths: - path: /* backend: serviceName: api-svc servicePort: 5432 GKE周りの設定 これを適用するにあたり、まずは準備ということで、
+gcloud container clusters create nullsuck --num-nodes 2 --zone asia-northeast1-a を実行するとなっていますが、エラー。
+ERROR: (gcloud.container.clusters.create) ResponseError: code=403, message=Kubernetes Engine API is not enabled for this project. Please ensure it is enabled in Google Cloud Console and try again: visit https://console.</description></item><item><title>Docker イメージを Google Container Registry に登録</title><link>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</link><pubDate>Fri, 26 Jul 2019 22:03:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</guid><description>時は遡り、画面が何とか動くようになったので、API連携しようとしたものの、失敗して終了していたこちら。ぬるさくapi連携（失敗） 画面も、色々試せそうになってきたので、とりあえず、APIを公開しようということで、ぬるさく本の「6.3 Docker イメージを Google Container Registry に登録してみよう 」を試すことにします。
+GCPプロジェクトの作成 既存のアカウントにプロジェクトを追加します。
+プロジェクト名は真似して「nullsuck」、プロジェクトID「nullsuck-xxxxxx」は自動で振られます。
+Docker イメージを push ここで数日を要した・・・
+まず、今回はAPI側を公開することにするので、appとなっている部分は全てapiと読み替えて作業します。
+そこを間違えなければ（一旦間違えましたが・・・）、docker build はおそらく問題なし。docker tag は、結論としてはそこの問題ではなかったのですが、本でも、GCPドキュメントでも、プロジェクトIDを含めるように書かれているのですが、本の記述が「nullsuck」と書かれていて、若干混乱。「nullsuck-xxxxxx」の方を記述するようにしました。
+そして、gcloud docker — push をするのですが、まず、この記述は古いようで、現状では、docker pushでやる形になっています。
+が、やってみると、
+denied: Token exchange failed for project 'nullsuck-247713'. Caller does not have permission 'storage.buckets.create'. To configure permissions, follow instructions at: https://cloud.google.com/container-registry/docs/access-control で、権限の問題か、ということで、記載されているドキュメントを見て、バケットを作ってみたりとか、色々試してみていたのですが、最終的な問題点は、現在接続しているプロジェクトが、既存のプロジェクトであり、今回作成したnullsuckプロジェクトではない、ということでした。
+gcloud config list でプロジェクトが確認できます。これはdefault構成だったので、新しい構成を作成。
+gcloud config configurations create nullsuck そして、gcloud initは、対話式で聞いてくれるので、nullsuckプロジェクトを指定することにより、環境が切り替わります。
+そこで改めて、docker pushをすると、今度は成功しました。
+公開設定が「非公開」になっているのが、本とは異なるので、若干気になる・・・</description></item><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。
+OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、OutSystems でアプリ自動生成を行ってみます。
+使用するデータは、下記で調整を行なった、港区観光施設データです。Glideの味わい方〜オープンデータを活用しよう OutSystems 環境整備 OutSystems セルフトレーニングで、最後に肝心のデザイン変更のところを飛ばしてしまいましたが、そこでは、SILK UI フレームワークのDublin テンプレートを使用することになっていたので、まずは、そちらをインストールします。
+Forge page で「Dublin Template」を検索して、インストールします。
+そして、アプリケーションの作成。
+Dublinテンプレートによるアプリ作成（失敗） 順に進めていくと、初期画面が出来上がります。
+一度ここで起動してみるとこんな感じ。
+この辺が、どうも何をしているのか、何をすべきなのかよくわからない。
+そして、結局起動できず。
+もしかして、Mac版はダメだけど、Windows版なら、と思ったのですが、ダメでした。一応、画面生成まではできましたが、起動しません。一応、こんな画面ができるという感じです。
+Dublinの場合は、左上に、デバイス切り替え機能がつきます。
+基本テンプレによる画面作成 では基本テンプレートならどうかということ、こちらはできました。
+テンプレートとしてTop Menu を選択する以外は、上記Dublinの場合と同じです。
+デザイン画面を開いて、おもむろにExcelをインポートしますが、Google スプレッドシートからダウンロードしたものはExcelファイルではないと言われて、失敗しました。一度Office 365 で開いて保存し直したら大丈夫でした。
+ただ、シート名、1行目の名称でテーブルを作ってくれると思ったら、それは失敗しました。
+まずWindows版だと、ちゃんとシート名を認識はしてくれています。
+これが、Mac版だとこの時点でダメ。
+で、Windows版でも、Mac版でも、インポート結果はこの通り。
+単なる連番になってしまいました。これは、シート名、項目名が日本語のためかと思われます。
+それでも進めることはできます。
+基本テンプレの場合は、初期状態でMainFlowには何もありません。
+ここにEntity1 を２回ドロップすることで、リスト画面と詳細画面が生成されます。勝手に結合されている状態です。
+実行する前には、各画面のAnonymous プロパティをチェックOnにします（ログイン画面を表示させないため）。
+そして起動するとこのような画面が生成されます。明細部分のページングもされていますし、これをスタートとするのは大いにアリでしょう。
+Glide と違って、参照画面だけでなく、更新画面も生成されます。これは割と大きな違いかもしれません。
+ただ、これを完成品としては公開できないかなという感じがあり、その辺が繰り返しになりますが、Glide App と、OutSystems の違いになるような気がします。</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。
+Glide App（glideapps） のMap List 機能
+https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a
+ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。
+今回取り上げたMap List 機能で、地図上に複数展表示ができる。そして、これは単にスプレッドシートの場所情報を表示しているだけであり、スプレッドシートの更新は自由にできる。
+そして、ちょっと前に、Per-user data 機能も追加されており、ログインユーザごとのデータのフィルタリングができるようになっている。
+これらを組み合わせると、あんなことやこんなことや・・・
+そして、Glideの中では、一切コーディングさせない。コーディング的なこともさせない。
+一方、OutSystems。
+これもアプリの色々な要素の自動生成機能は凄まじい。ある意味、Glideと同じことは、ほぼ同様にできる（あとでやってみる）。
+そしてそこにとどまらない。基本的に、どんどん自動生成されたものに対してさらにカスタマイズできる。自動制裁されたアプリを見て、オブジェクト、変数、RDB構造のようなものを想定できるならば、どんどん「式」を書ける。
+これは考え方の違いでしょう。
+OutSystems は、ノーコーディングというよりはローコーディングであり、結局は従来と違う方法でコーディングしている。そして、たまにコーディングの影が見える。この影が見えると、拒絶反応を起こす人はそれなりにいて、それは自分の仕事ではないと感じるのだと思われる。
+OutSystems を見て、Accessだなと感じたのは、基本的には自動生成してくれるのだけれども、それで完了でもなくて、そこから手を入れるんだなというところ。だから利用者もエンドユーザではなく、開発者。
+Glide は徹底的にノーコーディングで完成品まで持っていくことに徹している。
+これにより利用者としてエンドユーザも入ってくると思われる。そのためには、痒いところに手が届かないのも、今はやむを得ないという考え方。イノベーションのジレンマが発生している状態ではあるが、一気にこの20数年の開発スタイルをひっくり返しかねないやり方だ、というのは言い過ぎ？？</description></item><item><title>9.4　スキャフォールディングとRichWidgetを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</link><pubDate>Sun, 14 Jul 2019 14:16:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/9-4%E3%80%80%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8richwidget%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/</guid><description>テキストによるエクササイズの続きです。8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング） Part 1: Add Cinemas at Warp Speed 前に画面を誰かが勝手に作ってくれたと思ったのは、スキャフォールドだったんですね。
+勝手に作るんじゃなくて、ドラッグ&amp;amp;ドロップで作ってくれるというのも良いなと思います。
+さらに画面へのドラッグ&amp;amp;ドロップで明細画面を追加してくれて、ポップアップエディタまで作ってくれるのはすごい。
+で、ポップアップエディタは作ってくれましたが、Popup_InfoBalloonはダメでした。今度は検索したら選択肢には出てきますが、ドロップするとエラー。
+もしかしてlondonじゃないから？
+変えるのも大変そうだけど・・・
+https://www.outsystems.com/forums/discussion/15489/changing-the-theme-of-my-application/#Post84632
+Part 2: RichWidgets とりあえず進めてみる。
+LayoutsOther¥Layout_Popup を選択するところは、LayoutOther が存在しないため、Layouts¥LayoutPopup を選択してみたが、削除することになっているHader もFooter もないので、やはり違うみたい。
+MovieTable のStart Index プロパティに、List_Navigation_GetStartIndex(MovieTable.Id) を指定するとのことだが、エラーになってしまう。
+それは諦めて、Dynamic Sortingの追加をしたら、またエラー。
+一旦追加したList_SortColumn を削除したのですが、復活せず。
+最後に破壊してしまいました。
+とりあえず、この先は別のアプリを作ってみるエクササイズなので、OutSystems セルフトレーニングシリーズは、ここで一旦終了とします。</description></item><item><title>8.2　ウェブサービスのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</link><pubDate>Sat, 13 Jul 2019 08:38:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/8-2%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88/</guid><description>テキストによるエクササイズの続きです。7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a Reference to a REST endpoint こんなサイトがあり、APIを提供している。
+https://www.themoviedb.org/
+Part 2: Define Site Properties for the API サイトプロパティの追加のみ
+Part 3: Call a Web Reference method 画像を選択するところで、RichWidgetsが表示されないので、Header_Logoというものが選択できない。
+まあ、普通のLogoでもよいか。
+そして、ここではStyle Editorが登場する。
+ServiceCenterでログも見られます、は良いが、詳細のリクエスト内容までは見えないですね。
+Part 4: Implement a Web Service Callback OnAfterResponse というコールバックイベントが用意されています</description></item><item><title>7.4　セッションハンドリングのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</link><pubDate>Sat, 13 Jul 2019 08:35:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/7-4%E3%80%80%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems/</guid><description>テキストによるエクササイズの続きです。6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング） Part 1: Create and use Session Variables Find Usages みたいな技を教えてくれるのは良いですね
+Part 2: Create and use Site Properties サイトプロパティを変えてもブラウザ再表示でMovie詳細画面のまま反映された。</description></item><item><title>6.4　ウェブブロックとUIを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 05:45:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-4%E3%80%80%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%A8ui%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a Web Block for star ratings Placeholder のwidth はempty にはできず、Fullにしておく
+Part 2: Make the stars in the Block clickable Search Box で「Notify」を検索することとなっているが、検索されない。
+https://www.outsystems.com/forums/discussion/41219/notify-deprecated-in-service-studio-11-what-can-i-use-to-replace-it/
+Manage Dependencies (ctrl + q) で探してくれは良いけど、Deprecated（廃止予定）ってどういうこと？そちらを教えて欲しい・・・
+・・・一応その回答はこちら。
+https://success.outsystems.com/Documentation/11/Developing_an_Application/Design_UI/Reuse_UI/Use_Events_to_Propagate_Changes_From_a_Block_to_the_Parent
+これまでは、ウェブブロックの中でScreenAction（テキストではStarClicked）を定義して、それをNotifyするという仕組みだったのが、11では、ScreenActionとは別のEventというものが定義できるようになった。
+Notifyのメッセージとして、値等（StarIterator.List.CurrentRowNumber + 1）を定義し、さらに親画面におけるウェブブロックインスタンスのDestinationとしてアクション（OnRatingNotify）を作成して指定する、と言う流れだったのが、バージョン11では、親画面でイベントに対応するハンドラを書く、と言う感じ？
+そして、Destinationのアクション（OnRatingNotify）の記述として、Figure 26のような割と複雑なロジックを作っていくわけですが、これはどう書くのだろう・・・
+ちょっとテキストがバージョン11に追いついていないので、ここは飛ばしていきます。
+Eventsという形にしたのは悪くないと思うのですが。</description></item><item><title>6.2　画面のライフサイクル: Ajaxのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</link><pubDate>Sat, 13 Jul 2019 02:12:50 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/6-2%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-ajax%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB/</guid><description>テキストによるエクササイズの続きです。5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング） Part 1: Add a comments sidebar to movie Container の幅指定の方法は変わっている。
+Styles Editor を指定。
+bold 、italic 設定もStyles Editor で。
+CreateUserMovieComment はCoreUserMovieComment の中
+Assign してReflesh すると言う流れを理解する</description></item><item><title>5.7　Input Validationのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Sun, 07 Jul 2019 05:18:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-7%E3%80%80input-validation%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%BA%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>テキストによるエクササイズの続きです。5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング） Part 1: Test the built-in validations Validation設定のServer とServer &amp;amp; Client を試す
+Part 2: Add validations to editing a movie Feedbackメッセージを日本語で入力しようとしたら文字化けした！
+ここまで長くなってくると全体が見通せなくなる。
+一つ一つのプロパティを見ないと何をやっているのか分からない。
+また、この辺でソース管理についての説明があると良いのでは
+Part 3: Test the validations for editing a movie 動作確認
+Part 4: Add validations for editing a person 自分でやってみよう、ということなので、一つだけやって、取り急ぎ進めます。
+Part 5: Test the validations for editing people 動作確認</description></item><item><title>5.5　Actionとコードを再利用してみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 07 Jul 2019 02:02:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-5%E3%80%80action%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>テキストによるエクササイズの続きです。5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング） Part 1: Create a reusable Action 淡々と進めます
+Part 2: Convert Action to a Function こうして作ったユーザアクションは、基本的には、ステートメントとしてのみ呼び出すことができる、方法はアクションフローへのドラッグ&amp;amp;ドロップ。
+FunctionにすることでExpressionの中で呼ぶこともできるようになる。
+やることはプロパティを変えるだけ
+Part 3: Test calling an Action and a Function できるけど、分かったような分からないような（分かっていない）</description></item><item><title>5.3　データのクエリとウィジェットのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</link><pubDate>Sat, 06 Jul 2019 14:52:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/5-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A8%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AE%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%A4/</guid><description>テキストによるエクササイズの続きです。4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング） Part 1: Add participants to a movie アクションからの「New Web Screen」で自動的には名前はつけてくれなかった。（Mac版だから？）
+「Link」のプロパティの設定は、Widget Treeで「Actions」の中ににあるリンクを選択。
+タイトル欄にExpressionを追加したのち、ムービータイトルを表示させるようにするための設定は、下記の図のような形でダブルクリックにより指定できる。
+Windows環境とMac環境両方で開発している場合、すなわち、複数人で開発している場合、モジュール（今回でいうとOSMDb_Core）が変更された場合の再読み込みはそれぞれで行う必要がある（当たり前といえば当たり前）。
+再読み込みを行なったいないために、データタイプにPersonMovieRoleが表示されなくて悩んだ。
+Part 2: Test the ‘add participants’ to a movie ここまで順調にきたわけですが、ついにエラー発生。よりによって実行時エラー。開発環境側にはエラーはない。
+こうなってしまうと、何をすれば良いか分からない。
+が、もう少し冷静になって考えてみると、画面を開く時点でエラーになっているので、preparation が怪しいと考えられる。見てみると、赤ではないが黄色の波線。
+SQLを実行してみるとエラー。ピリオドとカンマ！
+ということで修正したら動きました。
+SQL書いたらその場でテストしましょう。
+Part 3: Display the participants of a movie ではPersonエンティティを取得した上で、PersonMovieRole もソースとして追加し、PersonMovieRoleへのフィルタとして、MovieId とActor を指定しようとしています。
+しかし、このActor のフィルタ追加で、PersonRole はないよと言われています。正解は、PersonalRole。 その後Group By の設定をしますが、若干表現が異なります。
+そして、それをやった後の画面も相当異なります。
+Group By の設定を、テキストの画像にあるように、▽ボタンを押して行うのではなく、右クリックで行なったら、近い形になったので、こちら右リック推奨です。
+Part 4: Search and filter the list of movies 淡々と進める</description></item><item><title>4.4　画面のライフサイクル: インタラクションのエクササイズ（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</link><pubDate>Wed, 03 Jul 2019 13:46:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-4%E3%80%80%E7%94%BB%E9%9D%A2%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%82%A8/</guid><description>テキストによるエクササイズの続きです。4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング） Part 1: Add the ‘Edit Movie’ feature テキスト通り進められます。
+途中で、Movieの中にGenreIdが表示されなくて、追加し忘れていたかと思ったら、追加はしたけど表示更新していなかったということでした。
+とりあえず、テキストボックスをドラッグして幅を広げる際のデザイナの表示がかっこいい。こういうの待ってたよ！
+Part 2: Add the ‘New Movie’ feature 最初に「＜＞」タブをクリックすると書かれていますが、現在のバージョン11では「Widget Tree」タブですね。
+そしてテキストでは「Layout_London」が指定されていたのを今知る・・・
+まあ、そのまま進めます。（後から変えられるのかな・・・）
+Part 3: Test the creation and update of movies 動作確認
+ちゃんと動いています
+Part 4: Add the ‘Edit Person’ feature そのまま進めます
+Part 5: Add the ‘New Person’ feature 衝撃の事実？
+実はここまでにも若干気になっていたのですが、
+People とPerson Detail が、結構出来上がっている。
+フォームを自動的に作ってくれるので、ある程度上記でやってきたSaveボタンとかは自動的に作ってくれるのかなと思ったりしていたのですが、ちょっとできすぎじゃない？という気が・・・更新後のメッセージとか、このあと作るんじゃないの？みたいなのまでできている。
+まさか、小人が作ってる？
+そうじゃないとすると、他の人と被って更新している？同じ名前だとそんなことが起きうる？ちょっと変な感じ。</description></item><item><title>4.2　リレーションのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</link><pubDate>Tue, 02 Jul 2019 12:21:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/4-2%E3%80%80%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems/</guid><description>Modeling Data Relationships Exercise
+https://www.outsystems.com/learn/lesson/859/modeling-data-relationships-exercise/
+3.3、3.6に続き、テキストをやってみます。3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング） Part 1: Create a foreign key between Entities テキスト通り
+外部キーを追加する際に、カラムの型はデータ自体の型を指定するのではなく、データIdentifierを指定する、というのが面白い
+Part 2: Create the junction Entities テキスト通り、関連テーブルのエンティティを作成
+Part 3: Create an Entity Diagram リレーションの線が自動的に描画されるはずが、最初描画されずに、あれ？と思いましたが、画面をクリックすると表示されました。
+Part 4: Publish the application module Management Dependencies画面は若干変わっている。</description></item><item><title>3.6　ウィジェットを使ってみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</link><pubDate>Sun, 30 Jun 2019 08:35:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-6%E3%80%80%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC/</guid><description>Widgets I Exercise
+https://www.outsystems.com/learn/lesson/876/widgets-i-exercise/
+3.3と同様3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング） テキストを進めます。
+Part 1: Add a new module to the application まず「Responsive」ではなく「Web Responsive」になっている、ちょっと気になる。
+また、ワークスペースの画面状態も、初期コンテントがない状態、ちょっと気になる。
+Part 2: Reference Entities from core module 書いてある通り
+Part 3: Retrieve and display the movie list テキストでは、既存のHomescreenの名前を変えることになっているが、新しくscreenを作る。
+テンプレートはとりあえず「Empty」。名前は最初から「Movies」。
+スクリーンの準備としてアグリゲートの指定をする。そこにエンティティを指定することでデータの取得処理が作られる。
+スクリーンのコンテントにテーブルレコードを指定して、そのデータソースとして準備で取得したデータを指定する。
+という流れですね。これで画面も表示されました。
+Part 4: Retrieve and display a movie’s details 詳細画面の表示のさせ方＝画面へのデータの連携のさせ方は同様ですが、フィルタをかけて１件を表示対象とするということ。
+なので、Input Parameter を設定する。
+Widthを「8 col」に指定する、というところの画面説明がないですが、Stylesの中。
+フォームの名前が自動的に変わると言われても、どこで確認できるか分かりませんでしたが、Widget Tree で見ることができました。
+モデルの項目をドロップすると画面を構成してくれるのは大変助かります。
+その際、テキストではラベルと入力域が左右に並ぶ形になっていますが、今回は縦に並ぶ形になってしまいました。
+Part 5: Add a Screen to the top Menu そのまま</description></item><item><title>3.3　データのモデリングをしてみよう（OutSystems セルフトレーニング）</title><link>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</link><pubDate>Sun, 30 Jun 2019 02:46:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/3-3%E3%80%80%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%88outsystems-%E3%82%BB%E3%83%AB%E3%83%95/</guid><description>Modeling Data Exercise
+https://www.outsystems.com/learn/lesson/875/modeling-data-exercise/
+Lesson Materialsをダウンロードすると、その中にテキストPDFが入っているので、それを見て進めます。
+テキストはバージョン10ベース、現在の最新環境は11のため、所々違うところが出てくると思われます。
+Part 1: Create the application いきなり、Blank module templateを使うようにとなっていますが、それが見当たらない。（先を進めると、このことを言っているのではなく、最初のモジュールを作る時にBlankを選択するのだと分かりますが）
+何かテーマを選んでみるか。
+参考：http://annatokugawa.blog.fc2.com/blog-entry-45.html
+とも思いましたが、またハマると嫌。
+出来上がりイメージはトップメニューの形のようなので、「TOP MENU」テンプレートを選択します。
+それ以降は、テキストの通り。
+Part 2: Create Entities Mandatoryとは「必須」の意味。
+で進めていってたら、キーボード入力を受け付けなくなった。mac版で進めるのはやはりリスキーだな・・・
+一回終了したら正常化されました。なお、終了する際は、Uploadします。Saveではない、すなわち、これは実は全てサーバ管理になっているということですね。
+Part 3: Create Static Entities データを追加していくのみ
+Part 4: Publish the application module クリックするのみ。
+ただ、「Template_TopMenu」が見つかりませんというメッセージ。
+むう・・・テンプレートを選ばないこともできたのだろうか。
+さらにタイムアウトになったりしましたが、再度ボタンを押すと成功します。
+ただ、NOTEとして書かれている通り、この時点ではUIがないので、「Wrong URL address – this module does not contain a default entry.」というエラーメッセージが表示されるのみです。</description></item><item><title>OutSystems セルフトレーニング</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link><pubDate>Thu, 27 Jun 2019 12:07:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid><description>OutSystemsもおもしろうそうなので、早速、WebAPIのデータを表示させるアプリを作ってみようかと思います。
+その際、mac版を使ったところ、読み込み時にエラーになってしまう。Windows版では成功したということは、やはりmac版は多少不安定な面がるかもしれません。
+そして、呼び出しはできる（WebAPI読み込みコンポーネントのようなものは作れる）ものの、それを画面のListに表示させる方法がいまいちわからない。
+もう少し勉強しようということで、こちらをしばらくやってみたいと思います。
+OutSystems セルフトレーニング
+http://www.bluememe.jp/outsystems/outsystems_support/self_training.html
+（しばらくこのページを随時更新していく形になります）
+1　コースイントロダクション 日本語字幕あり（しばらくあるようなので、特筆しない限りは以降、日本語字幕ありです）
+各セッションの概要
+どういうアプリを作っていくか
+映画管理
+ホテル予約
+試験制度
+どんな問題が出るか
+2　OutSystemsの基礎知識 2.1　OutSystems概要 development
+quality
+production
+プラットフォームサーバ
+コンパイル
+デプロイ
+管理
+service studio
+integration studio
+service center
+2.2　Service Studioとは ここで使われているのはバージョン10
+基本的なIDE機能は概ね予想通り
+最後にソースの競合、マージの説明
+ソース管理ツールも統合されているイメージ
+3　ウェブアプリ開発の基礎 3.1　画面のライフサイクル Webアプリケーションとは何か
+ブラウザは何をするのか
+静的リソースと動的コンテンツ
+Preparationという概念を使用しており、その中でデータ取得等を行う
+3.2　データのモデリング Entity→テーブルの行
+Attribute→列
+Service Studioのデータレイヤーで作成
+名前からデータ型を推測してテーブルを作る！
+例：Amount→Currency
+3.3　データのモデリングをしてみよう これから行うExerciseの説明。（ビデオなし）
+movie databaseのwebアプリケーションを作ります。
+継続的に拡張、公開、テストを行います。
+行う内容は
+1.アプリケーション作成
+2.最初のモジュールの作成
+3.エンティティとbootstrapデータの作成
+4.静的エンティティとレコードの作成
+5.Outsystems webサーバでの公開</description></item><item><title>OutSystemsによるローコード開発？</title><link>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</link><pubDate>Sun, 23 Jun 2019 12:36:57 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems%E3%81%AB%E3%82%88%E3%82%8B%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%EF%BC%9F/</guid><description>先ほど色々システム構成図の画像をアップした中に、OutSystemsのものがあります。
+OutSystemsとは 日本公式サイトだと、「コードレス開発」を謳っていますが、「ローコード開発」とか、色々言い方はあるようで。ソース生成型のツールで、いざとなったらソースいじることもできるようなので、「ローコード開発」の方がよいのでは。
+http://www.bluememe.jp/outsystems/product/product-devops-dev.html
+ASP.NETかJavaのソースを出力してくれるそうです。あまり何も考えずにチュートリアルをやってみたら、ASP.NET＋SQL Serverの環境を作ってくれたようです。
+チュートリアルをやってみて 以前、Glide をやってみた時、Glideの味わい方〜オープンデータを活用しよう これは、本当に何もしないんだな、まさにコードレスだなと思いましたが、かなり近いところまで行っているようにも思います。
+画面テンプレートを選択すると、サンプルデータで動く形までできていて、EXCELデータを指定すると、それをDBに登録して、そちらを参照するように変更してくれる、というのはスマートな作りだと思います。
+このような画面を作るのですが、リスト用のデータと、グラフ用のデータをそれぞれ指定するだけでここまでできてしまいます。リストから詳細ページへの流れも、詳細画面は勝手にそれっぽく作ってくれるという点で、Glideと同様の発想かと思います。
+.NETと言っているのでWindows版だけかと思ったら、technical previewとしてはmac版も提供されていました。
+https://success.outsystems.com/Support/Enterprise_Customers/Maintenance_and_Operations/OutSystems_Service_Studio_for_Mac
+個人用フリー版が用意されているのもうまいと思います。私も、もう少し使ってみたいと感じました。</description></item><item><title>システム構成図色々</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E6%88%90%E5%9B%B3%E8%89%B2%E3%80%85/</link><pubDate>Sun, 23 Jun 2019 11:30:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A7%8B%E6%88%90%E5%9B%B3%E8%89%B2%E3%80%85/</guid><description>先日行ってきた、AWS Summit Tokyo 2019 と、Interop Tokyo 2019 でゲットしきた資料のシステム構成図色々。
+こういうの参考にしたくなること多いですよね。</description></item><item><title>ぬるさくapi連携（失敗）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</link><pubDate>Sat, 15 Jun 2019 22:05:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</guid><description>前回からの続きぬるさく画面に再チャレンジ 固定値による画面表示はできたので、実際にapiからデータを取得しようとしました。しましたが、ハードル上げすぎて失敗したので、一旦ハードルを下げようと思いますが、まず失敗の記録をしておきます。
+ページ、および、それに伴うストア等の分割 やろうとしていることは、
+Pagesの中に、boookフォルダと、todoフォルダを作って、それぞれのアプリを作った状態で、さらに、wineフォルダを作って、その中でぬるさく本のアプリを作ろうということです。
+pages |--Lauter | |--index.vue |--README.md |--book | |--books | | |--_id.vue | |--index.vue |--index.vue |--login.vue |--todo | |--index.vue |--wine | |--index.vue | |--result.vue store |--README.md |--book.ts |--counter.ts |--index.ts |--modules | |--todoTypes.ts | |--todos.ts | |--userTypes.ts | |--users.ts |--root.ts |--todo.ts |--wine.ts ただ、すでに作成しているtodoは一部きれいに分けきれずに、indexの中にtodo固有のものが残ってしまっています。
+また、wineについても、本の説明は、indexとして作っているサンプルがベースなので、まあ色々ハマりました。
+本の該当箇所は、「4.7 API に投げるために Vuex を実装しよう」のあたりです。やりたいのは、「v-for=”i in 11″」を「-for=”wineAttr in wineAttributes”」にする、ということです。
+apiについては、「http://0.0.0.0:5432/api/wine_attributes」が動いているのが前提です。
+最初はこの辺のエラー対応です。
+commons.app.js:21599 [vuex] unknown getter: GET_WINE_ATTR const gettersはexport const gettersにしないといけないのではないでしょうか。actionsも。自信はないですが、これにより呼ばれるようにはなりました。
+また、本では触れられていませんが、githubのソースでは、index.d.ts で@nuxtjs/axios の記述があります。しかしそれをやると、</description></item><item><title>ぬるさく画面に再チャレンジ</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</link><pubDate>Sat, 08 Jun 2019 23:24:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</guid><description>以前Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 途中で分からなくなってしまい中断していましたが、改めてやってみようと思います。
+まずは、Vuetifyのスライダーでの入力画面と、amChartsのグラフ表示。
+router-linkによるメニュー追加 現在、v-navigation-drawer &amp;gt; v-list &amp;gt; router-linkという階層で、メニューを作っており、、、が並んでいる状態で、ここに、を追加したいと思います。
+そして、こんなものは、単にコピペーして、文字変えれば良いのではと思ったのですが、なかなか反応してくれません。
+結構調べましたが、解消せず。最後の最後に、再起動（docker-compose down、 docker-compose up -d）を行ったら見事（？）反映されました。
+Vuetify Slider コンポーネント 前回はスッキリ行きませんでしたが、今回はこれはあっさりできました。
+components/FormCard.vue
+&amp;lt;template &amp;lt;v-card class="ma-2 pa-1" &amp;lt;div class="subheading" Heading &amp;lt;/div &amp;lt;div class="caption" 1/11 &amp;lt;/div &amp;lt;v-slider class="px-5 pt-5 pb-3" thumb-label="always" height="3" hide-details&amp;lt;/v-slider &amp;lt;/v-card &amp;lt;/template &amp;lt;script lang="ts" import Vue from 'vue' export default Vue.extend({ }) &amp;lt;/script pages/wine/index.vue
+&amp;lt;template &amp;lt;v-layout column &amp;lt;form-card v-for="i in 11" :key="'${i}'"&amp;lt;/form-card &amp;lt;v-btn @click="submit"診断結果を表示する&amp;lt;/v-btn &amp;lt;/v-layout &amp;lt;/template &amp;lt;script lang="</description></item><item><title>Firebase ユーザ認証機能を利用する</title><link>https://jqinglong.github.io/programmers-office/firebase-%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</link><pubDate>Sat, 01 Jun 2019 05:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/firebase-%E3%83%A6%E3%83%BC%E3%82%B6%E8%AA%8D%E8%A8%BC%E6%A9%9F%E8%83%BD%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B/</guid><description>今回もこちらの続き。Vuetify の基本 今回も参考はこちら。
+Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 5/5 – ユーザ認証の追加]
+https://note.mu/tkugimot/n/n80c2e4b33bbc
+で、ちょっと時間が空いてしまい、始める前に気づいたら、エラーが出ている。
+This dependency was not found: nuxt_plugin_bootstrapvue_69bcb01f in ./.nuxt/index.js To install it, you can run: npm install --save nuxt_plugin_bootstrapvue_69bcb01f 書いてある通りnpm installしてもNot Foundと言われるだけ。
+しかし、
+docker-compose down
+docker-compose up -d
+で復旧。なんのこっちゃ。
+Firebase Authentication機能の利用 手順としては、まず、package.jsonにfirebaseの記述を追加して、npm updateを実行するところから始まるのですが、ここで早速大量エラー。
+概ねこんな感じ。
+Can't find Python executable "python", you can set the PYTHON env variable. Failed at the grpc@1.20.0 install script. This is probably not a problem with npm.</description></item><item><title>Firebase Hostingにデプロイ</title><link>https://jqinglong.github.io/programmers-office/firebase-hosting%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4/</link><pubDate>Wed, 29 May 2019 13:37:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/firebase-hosting%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4/</guid><description>こちらの続き。Vuetify の基本 デザインについて、今参考にしているのはVuetify公式サイトのレイアウトサンプル。
+https://vuetifyjs.com/ja/framework/pre-made-layouts
+これとかすごいと思いますが、初心者はまだ手を出さないことにします。
+Vue Material Admin
+https://vuejsprojects.com/vue-material-admin
+Firebase Hostingにデプロイ 引き続き、こちらを参考に。
+Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ [Tutorial – Part 4/5 – Firebase Hostingにデプロイ]
+https://note.mu/tkugimot/n/n44c327a22c24
+最終的にはGCPにリリースする予定ですが、Firebaseも勉強してみたいので、流れに沿ってやってみます。
+npm install -g firebase-tools でfirebase-toolsのインストール、
+firebase login でログインして、プロジェクト作成して、というところは書いているまま。
+この次の
+firebase init をどこで実行すべきか？
+今現在nuxtアプリを作っている、すなわち、componentsとかlayoutsとかが存在するフォルダで実行します。
+最初
+? What do you want to use as your public directory?
+に対して、初期値のpublicで進めてしまいましたが、distを指定すべき。
+? Configure as a single-page app (rewrite all urls to /index.html)?
+はNoでよいかと。
+ところが、
+npm run build で大量エラー。</description></item><item><title>Vuetify の基本</title><link>https://jqinglong.github.io/programmers-office/vuetify-%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 19 May 2019 13:21:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vuetify-%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Nuxt.jsでTodoList機能を作りながら、Vuetifyの基本を学習。
+こちらを参考に、進めています。
+https://note.mu/tkugimot/n/n47218fd1eec5
+なんとか自力で問題解決できたので、既存のアプリに機能追加する形で動かすことができました。
+上記サイトでは、次に、デザインを整えることになります。で、そこではbulmaを使っているのですが、できればあれこれ手を広げたくないので、Vuetifyで作ってみることにします。
+全体デザインについて、上記サイトでは、「ヒーロー」というパターンを使っています。「ヒーロー」なんていうデザインのパターンがあるのですね。
+簡単にVuetifyでもそんな指定ができたら良いかと思いましたが、そういう名前のものがあるわけではなさそう、かつ、メニュー構造は必要なので、Vuetify公式サイトのレイアウトサンプルから選択することにし、一番基本的な「Baseline」を使ってみることにします。
+https://vuetifyjs.com/ja/framework/pre-made-layouts
+最初は、部分的に移植しようと思いましたが、それだとレイアウト崩れが発生してしまうため、逆に、いったん、layouts/default.vueを書き換えてしまってから、必要な部分を戻す、という形にしました。
+また、Todoの一覧表示のところに関しても、bulmaを使用していると思われるため、そのままではなく、各詳細情報は、v-cardを使用するようにしました。これも、サンプルメージを参考にしてなんとかなったような、なってないようなです。（幅指定がよくわからない・・・）
+また、テキスト入力欄も、v-text-fieldを使用して、プレースホルダよりラベル表示の方が面白いと思い、それで作りました。
+なお、入力位に自動でイベントを発生させる際に、このやり方だと日本語変換確定のEnterでも反応してしまって本当は良くありません。
+下記のサイトに記載の通りですが、今はここは対応保留としておきます。
+[Vue.js] 日本語変換の確定でkeyup.enterが発火してしまうのを防ぐhttps://qiita.com/h-orito/items/6d99e2256074132d7867
+カードの並べ方等、もう少し綺麗にできたら良いのでしょうが、一旦これで、次に進みます。</description></item><item><title>Nuxt.js環境の学習継続中</title><link>https://jqinglong.github.io/programmers-office/nuxt-js%E7%92%B0%E5%A2%83%E3%81%AE%E5%AD%A6%E7%BF%92%E7%B6%99%E7%B6%9A%E4%B8%AD/</link><pubDate>Sun, 19 May 2019 02:24:44 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js%E7%92%B0%E5%A2%83%E3%81%AE%E5%AD%A6%E7%BF%92%E7%B6%99%E7%B6%9A%E4%B8%AD/</guid><description>Nuxt.js開発を進めるためには、もう少し学習が必要ということで、入門サイトを見てみたりしていますが、なかなか思う方向には進んでくれません。その苦労の足跡を残します。（ごちゃごちゃになりすぎて記憶も飛び気味ですが）
+やりたいことのゴールはこちらタイタニックアプリを作ろう（Nuxt.js 開発環境の基本） 入門用サイト 本当はまずやりたいのはヌルサクです。Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 ただ、結構端折られているところも多く、また、微妙に最新環境でないところがあって、初心者にはエラー対処が難しかったりするため、もう少し入門的なところから始めたいと思いました。そして、それはそれで色々参考になるサイトがあるのですが、これもなかなかそのままは動いてくれなかったりして、苦労しました。
+Nuxt × TypeScript でTodoListとユーザ認証を実装してFirebase Hostingにデプロイ https://note.mu/tkugimot/n/nfe81dbbe8bad
+こちらのサイトは、入門者の立場から、gitの使い方的なところにも配慮しながら進めてくれるので、非常に勉強になります。
+それでもたまにそのままでは動かないところがあったりして、例えば、
+3.Todoの module と Component を準備する
+の時点でのpages/index.vueは
+&amp;lt;template &amp;lt;Todos / &amp;lt;/template ではなくて
+&amp;lt;template &amp;lt;TodoList / &amp;lt;/template ですよね、みたいなのがあったりします。
+また、結構
+implicitly has an ‘any’ type.
+で怒られることが多く、「: any」をつけて対処したりしてたのですが、それで良いのか、理解できていません。
+さらに、
+module namespace not found in mapGetters(): todos/
+みたいなエラーが出て、これは解消できずにとりあえず進めたりしました。
+その後も色々なエラーを解消できず、もう一度最初からやり直してみても最後には上記エラーに引っかかってしまう状態から抜けられず、途中で一旦中止しました。
+（追記）
+この問題は解消しました。
+store/modules/todos.ts
+という構造になっているので、
+// export const name = 'todos'; export const name = 'modules/todos'; とすることにより、エラー解消しました。</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。
+なかなかハードルが高かったですが、できました！
+Docker環境をどこに公開するか 無料公開と考えた場合に、1年の期間制限のAWSは対象から外します。そして、本サイト自体がGCEで立っているので、一旦それも除外。そこで検討したのが、Azureです。
+Azure App Service Azureでは、素のApp Serviceは無料プランがあります。
+App Service の価格
+https://azure.microsoft.com/ja-jp/pricing/details/app-service/windows/
+この素のサービスはPaaSなので、Dockerをインストールして環境構築するということはできません。これと連携してコンテナを読み込む、Web App for Containersというサービスがありますが、これは無料プランでは利用できません。さらに、通常であれば利用を検討すべきContainer InstancesとかAKS（Azure Kubernetes Service）というものもありますが、これらも有料プランのみです。
+色々苦労した挙句、無料でDockerコンテナを立ち上げるのは無理ということで、あきらめました。
+Heroku Herokuでもコンテナを読み込んでリリースする機能が提供されています。
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+これは無料で使えるプランもあるのですが、Volumeはサポートされていません。
+なぜVolumeを使いたいかというと、ローカルの開発環境もDockerで構築したい、それと同一の環境をリリース環境に持っていきたい、ただ開発ツールはクライアントに持つことになるのでソースはローカルに持ちたい、そのソースをコミットすることでリリース環境にも反映したい、という理由です。
+そういう意味で、最近話題の、VSCodeのRemote Development機能
+https://crieit.net/posts/VSCode-Remote-Development
+開発ツールをローカルに持ちつつソースはローカルに持つ必要がないという意味ですごいと思うのですが、複数人開発と考えた時にはどうなんだろうとも思ったりします。
+さくらArukas https://arukas.io/
+今回試しませんでしたが、これもHerokuと同様、Volumeはサポートされません。ただ、無料プランが提供されているのは発見でした。
+GCE（Google Compute Engine） 結局VMをそのまま使わせてもらえる環境でなければ今回の条件には合わない、と理解し、そうなると使えるのはGCEしかないのでは、という結論になりました。すでにDocker立てているわけですが、そこはDocker。複数立てることもできるわけです。ということで、もう一つDocker環境を立てることにしました。
+公開用Docker構築 前回タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） ここではなるべくシンプルなDockerファイルを目指して設定をしましたが、これはDockerをUpした後にサービスを起動しなければならないということです。
+そうではなく、Upと共にNuxtサービスも立ち上げるということで試行錯誤しました。
+まず、最初はDocker Build、あるいはUpでのエラー。
+ERROR: Service ‘app’ failed to build: containerd-shim not installed on system
+DokerファイルをいじるとBuildだけはできたりして、大いに悩みましたが、最終的には、VMリスタートで解消。時間を返せ・・・
+再起動したらしたで、既存のDocker＝本サイトが立ち上がらないという問題発生！原因は、先にApaheが起動していてポート80を取られていたため。サービスを落として再度実行により問題解消。かなりの時間を費やして、やっと本題。
+最終的には下記のサイトを大いに参考にさせていただきました。
+dockerでnuxt.jsの環境を作ってみる
+https://qiita.com/reflet/items/e7c33f84ab43ab237ee4
+Dockerfile
+FROM node:12.1.0-alpine WORKDIR /app RUN npm install --global @vue/cli @vue/cli-init WORKDIR /app/titanic-client RUN yarn install ENV HOST 0.</description></item><item><title>タイタニックアプリを作ろう（Nuxt.js 開発環境の基本）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 05 May 2019 00:21:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Kaggleのタイタニック問題は、機械学習の基礎として面白いので、それを活用し、かつ、技術書典の2冊で学んだことも生かして、アプリを作ってみましょう。
+Kaggleのタイタニック問題で機械学習  Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 コンテナ時代のWebサービスの作り方 環境のイメージ たどり着けるかわかりませんが、ゴールのイメージとしては、下記のようになります。
+ローカルにDockerでNuxt.jsのWebアプリ環境 Jupyter Notebookで機械学習環境を作り、responder のAPIサービス環境はDockerで Dockerプライベートでレジストリとして、GitLab Container Registry プライベートレジストリからAzure App Service に公開 DockerによるNuxt環境構築 今回フォルダ構成はこのようにしています。
+titanic -app --docker-compose.yml --client ---Dockerfile --server ---Dockerfile 参考にさせていただいたのはこちら。
+Nuxt.jsの動作環境をdockerで作る
+https://qiita.com/FrozenVoice/items/2ae89ce820cade84924e
+若干新しいバージョンに変更しました。
+client/Dockerfile
+FROM node:12.1.0-alpine RUN mkdir /app WORKDIR /app RUN npm install -g vue-cli ENV HOST 0.0.0.0 EXPOSE 3000 docker-compose.yml
+version: '3' services: app: build: ./client volumes: - ./client:/app ports: - "</description></item><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！
+ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら
+Kaggleとは？機械学習初心者が知っておくべき3つの使い方 そしてKaggleの入門用コンペ
+Titanic: Machine Learning from Disaster
+https://www.kaggle.com/c/titanic
+最初にプロジェクト用のディレクトリ（例：titanic）を作成し、その中にdatasetフォルダを作成して、ダウンロードしたデータを配置。
+さらにworkspaceディレクトリも作成。
+Anaconda-Navigatorを起動
+Notebookを起動
+プロジェクト用のディレクトリのworkspaceに移動
+New &amp;gt; Python 3
+そうすると
+import pandas as pd import numpy as np train = pd.read_csv("../dataset/train.csv") test = pd.read_csv("../dataset/test.csv") で行ける。
+「データセットの欠損の確認」のスクリプトは、そのまま貼り付けるとインデントが効いていないので注意。
+「文字の数字への置き換え」のところでエラー発生。
+train["Sex"][train["Sex"] == "male"] = 0 train["Sex"][train["Sex"] == "female"] = 1 train["Embarked"][train["Embarked"] == "S" ] = 0 train["Embarked"][train["Embarked"] == "C" ] = 1 train["</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。
+これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！
+ご購入いただいた皆様、本当にありがとうございました！！！
+BOOTHでのpdf販売を同時に開始しましたので
+ぜひ、#技術書典 にお越しいただけなかった方、ご購入ください！https://t.co/S7fajL0B8o &amp;mdash; takayama.k (@pco2699) April 14, 2019 なんとか連休中に平成最初のリリースまで持って行きたかったのですが、色々つまり出してきたので、実際に何かを作ってリリースするところを目指したいと思い、Docker環境構築までで一旦まとめておきたいと思います。
+Jupyter Notebook いきなり、あなたの知らない世界で、Jupyter Notebook のインストールから。
+こちらなども参考に。
+https://techacademy.jp/magazine/17430
+まずはAnaconda をインストール。Anaconddaで2.3GBも使うんですね・・・
+インストールしたら、
+Enviroments &amp;gt; 「analytics」
+Notebookをインストールしようとして間違えてJupyterLabをインストールしてしまいました。そうしたらNotebookも勝手に入りました。
+3.3.1 データセットを読み込む 第１章、第２章も読み応えありますが、作り始めるのは第３章からになります。
+初めてJupyter Notebook を使う身としては、色々不明点を抱えながら進めます。どうやって実行するんだ、というところから始まりますが、Runボタンで実行です。
+実行すると、エラー。
+ModuleNotFoundError Traceback (most recent call last) &amp;lt;ipython-input-2-aed2979e33dd in &amp;lt;module 1 # 分析に必要なライブラリをインポート ---- 2 import pandas as pd 3 import numpy as np 4 5 # データセットを読み込む ModuleNotFoundError: No module named 'pandas' 先に</description></item><item><title>コンテナ時代のWebサービスの作り方</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link><pubDate>Sat, 27 Apr 2019 15:06:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid><description>技術書典6で購入した本１冊目。
+ガチで役に立つ本でした。
+コンテナ時代のWebサービスの作り方 | 楽描商店 https://t.co/xFdOX3orNn 技術書典6で頒布した本をboothにて委託しております。ご活用ください。#booth_pm #技術書典 &amp;mdash; とまと（nasum）技術書典え35楽描帳 (@tomato360) April 14, 2019 とりあえず、76/103ページまでやってみました。ここまで行くと、ソースをコミットしたら自動的にサイトに反映される仕組みが動きます。
+が、多少悪戦苦闘したところもありますので、その辺をメモ。
+リージョン 書籍では、東京リージョン（ap-northeast-1）を使うことになっていますが、元々オハイオを使っていたのでそちらのus-east-2を使うことにしてみました。
+すると、
+The image id '[ami-785c491f]' does not exist となります。これはリージョンによって異なるので、ami-8b92b4eeに変更します。（参考）https://docs.docker.com/machine/drivers/aws/
+Terraform Terraform初体験。インフラをコードで定義するとはこういうことなんだ。
+しかし、これも簡単に進ませてはくれません。
+Error inspecting states in the "s3" backend: BucketRegionError: incorrect region, the bucket is not in 'us-east-2' region status code: 301, request id: , host id: 今回一番ハマったかもしれないのはこのエラー。
+例えば、
+aws s3 ls なんかを叩くと帰ってくるので、この接続でs3の所定のバケットが見えていないわけでもない。結局、フォルダ全体を一回消して、再度やり直したらOKという最悪パターンでした。
+また、実際の発生順序は前後しますが、さらに進んでまたこのエラーが出るようになりましたが、書籍だと、aws_route_table.tf、aws_route_table_association.tfが、間違っているのでgithub（書籍に記載あり）のソースを見て記載しました。
+rubyバージョン 元々のローカル環境がruby2.3.7だったのが悪いと思うのですが、最初にそれで進めてしまい、いざbuildが動くと
+You must use Bundler 2 or greater with this lockfile が出るようになってしまいました。</description></item><item><title>Glideの味わい方〜オープンデータを活用しよう</title><link>https://jqinglong.github.io/programmers-office/glide%E3%81%AE%E5%91%B3%E3%82%8F%E3%81%84%E6%96%B9%E3%80%9C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%82%88%E3%81%86/</link><pubDate>Thu, 18 Apr 2019 11:24:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide%E3%81%AE%E5%91%B3%E3%82%8F%E3%81%84%E6%96%B9%E3%80%9C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%82%88%E3%81%86/</guid><description>Xamarinなかなか踏み込んでくれないなと感じたりしています。
+Xamarin 最近どうよ？ – Qiita
+https://qiita.com/amay077/items/399002a02c1abf9d620b
+こちらの記事は面白く、中で紹介されている、Xamarin.Forms Visualの画像を見ると、「よいのでは！」と思いますが、さてどうなることやら・・・
+これに対して、上記記事でも紹介されているGlideが、めちゃくちゃ踏み込んできていて面白い。
+Glide
+https://www.glideapps.com/
+ノンコーディング、ノンデザインセンスで、綺麗なアプリがすぐに作れる。本当にすぐに。ただし、データがあれば。私も、常々、コンテンツを持っている人は強いなと思っており、そういう人とコラボして面白いものを作りたいと思っているのですが、まあ普通の人はもしかしたら、簡単にアプリが作れると言っても、響かないのかもしれません。しかし、・・・
+オープンデータがある！ オープンデータの定義は
+① 営利目的、非営利目的を問わず二次利用可能なルールが適用されたもの
+② 機械判読に適したもの
+③ 無償で利用できるもの
+となります。
+https://cio.go.jp/policy-opendata
+カタログサイトも提供されているので、色々な観点で見てみると、興味があるデータもあるのではないでしょうか。それを、アプリを通じて活用できたら面白いのではと思いました。
+Glide実践 では、実際のデータを使用して、アプリを作ってみます。
+データ登録 今回は、「港区観光施設」データを使用してみます。
+http://www.city.minato.tokyo.jp/opendata/kanko/index1.html
+CSVで提供されているので、ダウンロードします。
+ダウンロードしたら、すかさず、Googleドライブにアップします。
+アップして、すかさず開き、すかさずGoggleスプレッドシートで開きます。
+データ加工 これだけでアプリ作成に行けますが、あえて最初からデータ加工してみます。
+「港区観光施設」データをみると、「エリア名称」と「種別」でカテゴリ分けされていることが分かります。アプリでも、この二つのカテゴリで絞り込みできるようにします。
+まず、ファイル名は「港区観光施設」とし、元のシートは「施設一覧」に名前を変更します。次に、シートを追加し、シート名を「エリア名称」とし、A1の値も「エリア名称」とします。
+次に、A2に「=Unique」と打ち込みますと、入力アシスタンスが起動しますので、クリックし、「施設一覧」シートのB列を選択します。Enterにより、「エリア名称」シートは値がグルーピングされた状態で表示されます。すごい。
+（なお、94行目に余計なデータがあることが分かりますので、行削除してしまいます）
+で、これだと1行目の「エリア名称」も含まれてしまうので、「=UNIQUE(‘施設一覧’!B2:B)」とします。これできれいになります。
+同じように、「種別」シートも作成します。
+次に、両シートに細工します。「エリア名称」のB列の1行目を「施設=施設一覧:エリア名称:multiple」として、各行をA列を参照するようにします。「種別」シートも同様です。
+これで準備完了です。
+Glide基本作成 Glideにログインします。
+「＋」でアプリ追加を行います。先ほど作成したファイルを指定して、「Select」クリックにより、アプリが生成されます。
+基本的にはこれで動くアプリができています。ただし、さすがに、どの項目をどういう配置で表示するかは指定してあげないといけません。
+今回のデータだと、施設一覧データの先頭2列が表示されてしまっているので、これを変更します。しかしそれも簡単です。Titleに「名称」、Detailsに「所在地」を指定すると、それっぽくなると思います。
+データを1行選択すると、詳細ページに遷移します。
+こちらでも、各項目の設定をします。１項目目のSummaryは、「名称」「種別」が良いかなと思うので変更し、「名称」「種別」「緯度」「経度」は不要かと思うので削除します。さらに、右上の「＋」で項目追加ができますので、ここでMapを指定します。Address欄に「所在地」を指定することで自動的に地図が表示されます。
+「エリア名称」「種別」は基本項目が１項目しかないので、明細は自動表示で問題なしです。クリックした先の施設一覧情報は、Inline listの項目を調整します。
+完成です！
+今回作ったアプリはこちら。
+https://minatoku-kanko.glideapp.io/
+Glide仕組みのポイント いきなり単純データを指定してアプリを作ってから、シートを直してもReload sheetにより反映されますので、最初はそのようにしてカスタマイズしていくのが面白いと思います。
+一番のポイントは、Inline listの作り方ではないかと思います。上ではさらっと書きましたが、Inline listを作るために、シートに細工をします。最初に行った、multipleの指定です。
+シートの中に、multipleの指定を行うと、その項目をInline listに指定することができます。
+もう少し具体的に書くと、ある詳細画面に１データを表示している際に、その中に、子データを明細表示できるのが、Inline listです。今回の上記アプリでは、エリアの詳細情報（と言っても今回は１項目だけですが）の中に、エリアに紐づく施設を子データとして明細表示している形になっています。子データというからには、キーによる紐付けが必要で、その定義を1行目の項目記述で行なっています。
+「施設=施設一覧:エリア名称:multiple」という記述では、子データの情報名が「施設」、その子データがどこに存在するかが「施設一覧」、紐付けキーが「エリア名称」、そして子データとして複数明細存在することを示す「multiple」という構造になっています。
+他にも作ってみました。 面白いので量産しています。</description></item><item><title>MacでVisual Studio 2019</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</link><pubDate>Sat, 13 Apr 2019 23:47:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</guid><description>Visual Studio 2019がリリースされ、Mac版にも対応されていますので、インストールしてみます。
+最初にメッセージが出ますが、インストール中2、３回パスワード入力が必要ですので、完全放置はできませんでした。
+インストールしたら、サンプルとして
+https://docs.microsoft.com/ja-jp/xamarin/cross-platform/samples/
+Acquaint
+⁨app-acquaint⁩/App⁩/Acquaint.XForms.sln
+を開きますが、UWPは対応していないというメッセーが出るので、ソリューションからは削除します。
+で、左上に「Xcode 10.2でコマンドラインツールがありません」というメッセージが出ているので、これはインストールしてしまいます。
+https://developer.apple.com/download/more/
+次に、「アクティブな構成内でプロジェクトがビルドされていません」というメッセージが出て、ビルドが完了しませんが、これは下記が参考になりました。
+http://kuxumarin.hatenablog.com/entry/2016/12/01/Xamarin.iOS_%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A7_%22%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E6%A7%8B%E6%88%90%E5%86%85%E3%81%A7%E3%83%97%E3%83%AD
+ビルドするとそれでも警告は残っていますが、実行すると、何も設定をしていないのでさすがにデータ保存はできませんが、とりあえず、最初の画面表示はできました。</description></item><item><title>Adobeの行く先</title><link>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</link><pubDate>Wed, 10 Apr 2019 11:25:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</guid><description>アドビ、3月1日付けでマルケトとの統合を完了（2019年3月6日）
+https://www.adobe.com/jp/news-room/news/201903/20190306-adobe-marketo-integration.html
+「この度の統合によりデジタルにおける顧客体験において、アドビがもつ分析、コンテンツ管理、パーソナライゼーション、広告、コマースといった様々なソリューションに加え、マルケトのリード管理およびアカウントベースドマーケティング技術を合わせて両社のお客様に提供することが可能になります。」
+それに先行して
+アドビ、Magento Commerceを買収
+https://www.adobe.com/jp/news-room/news/201805/20180522-magento-commerce.html
+Magento Commerce Cloudが組み込まれることにより、コマース機能がAdobe Experience Cloudにシームレスに一体化され、B2BとB2C両方の世界中のお客様に単一のプラットフォームを提供できるようになります。
+両製品の位置づけ https://www.adobe.com/jp/what-is-adobe-experience-cloud.html
+Adobe Experience Cloudという製品群の中で
+分析：Adobe Analytics
+オーディエンスのプロファイル：Adobe Audience Manager
+・・・
+コマース：Adobe Magento
+B2Bマーケティング：Marketo
+そもそも、Experience Cloudの位置づけ Creative Cloud：PhotoshopやIllustrator等の提供　一般的（昔からの）なAdobeのイメージ？
+Experience Cloud：単一のクラウド基盤に統合された、「エクスペリエンスのための記録システム」
+Document Cloud：Acrobat など　これも昔からのAdobeイメージ
+すなわち、昔ながらのビジネス領域でもクラウド化を進める中で、クラウド自体を基盤としたビジネスも展開し始めているということのよう。
+所感 内容が分かりにくすぎる。
+Adobe Analytics？Google Analytics的なことを意図しているのは分かりますが、具体的に何ができて、どういう仕掛けが必要なのか、一般情報から何もわからないのは、導入の検討のしようもないかと思います。
+個人的には、ビジネス利用としては、Magento、Marketoがより充実したサポートが得られるようになることを期待しつつ、本当はその一つ手前に、CMSが主戦場としてあるべきで、Adobe Experience Manager Sitesがそこを担っているように思われますが、あまりにも情報不足なので、無料提供含めて利用者層を拡大するのが良いのでは。その際の強みは、デザインツールとの統合で、ビジュアル面に優れたサイト構築ができること、かと思います。
+期待してます。</description></item><item><title>LINEリッチメニューのコツ</title><link>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</link><pubDate>Sun, 31 Mar 2019 12:55:03 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</guid><description>ネタは熱いうちに打たないと、テンションはすぐ下がりますね。
+まずは、小ネタで、リッチメニューについて。
+リッチメニューとは何かについては、
+https://www.google.com/search?q=line+%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjChdXvsazhAhVXyIsBHbDIDCAQ_AUIDigB&amp;amp;biw=1628&amp;amp;bih=1054
+こんな感じで画像を見るとよくわかりますね。で、これがあってこそ、ボット作ったな感が出ると思うので、まずはここから始めるのはアリかと思います。実際上も、いきなり何を入力したら良いかわからない、という事態を避けるためには、メニューは有効かと思います。
+しかし、絵心がない人が、これをどう作るか、というのは悩みどころです。
+しかも、６分割メニューを作るなら、画像を６個用意するのかなと思ったら、大きい画像を用意して、その絵の中で６分割の表現をする、ということで、まずはそもそも、どうやってそんな綺麗に分割するのかというところから始まってしまいました。
+しかし、これについては、良い方法を思いつきました。あまり大きい画像では持て余すかと思って、400×270で作りましたが、こちらを見ると、本当は1200×810で作った方が良かったようです。
+で、良い方法というのは、Excelで列幅133、高さ135のセルを６個作り、それを塗りつぶし、罫線を白にします。その６マスをコピーして、Wordに画像として貼り付ける！これで、よい感じの雛形ができますので、あとは、そのマス内にイラスト等を貼り付けたり文字を書いたりして、周りを塗りつぶす！
+画像アプリを使いこなせない非デザイナにとってはなかなか良い方法ではないでしょうか。
+そしてまた、この作業をするにあたっては、macはきつかったです。標準のプレビューアプリでは塗り潰しができず、PhotoScape Xという無料アプリでも、塗りつぶし機能は有償オプションになっていました。この点、Windowsのペイントなら完璧にタスクをこなしてくれます。
+しかも、上記のExcelからWord貼り付け作戦は、Googleスプレッドシートではできず、Excelオンラインでもできませんでした。
+まさか、画像作成で、macからWindowsに戻るとは・・・
+もう一つ注意点としては、アップロードする画像サイズはぴったりサイズでないと受け付けてくれません。エラーメッセージが、jpgかpngでないとダメです、というようなものなのでわかりにくかったのですが、幅399を400にしたら受け付けてもらえました。
+ということで、一応参考画像を下に貼っておきますが、次回作る時は、1200×810で作り直そうと思います。（最初からそれにしておいたらアップロードではまらなかった・・・）</description></item><item><title>車検だ、自動車保険だ</title><link>https://jqinglong.github.io/programmers-office/%E8%BB%8A%E6%A4%9C%E3%81%A0%E3%80%81%E8%87%AA%E5%8B%95%E8%BB%8A%E4%BF%9D%E9%99%BA%E3%81%A0/</link><pubDate>Sun, 31 Mar 2019 09:24:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E8%BB%8A%E6%A4%9C%E3%81%A0%E3%80%81%E8%87%AA%E5%8B%95%E8%BB%8A%E4%BF%9D%E9%99%BA%E3%81%A0/</guid><description>色々溜まっていることもやらねばならず、車検を申し込み、自動車保険の見積も申し込み。
+車検はディーラーに任せるスタイル。そのおかげではないかもしれませんが、今の車は中古ながら装備的に非常に満足度が高く、それでいてお値段もお得だったので、基本的には一切合切お任せしています。
+で、その時は、任意保険もお任せでやったのですが、さすがに、保険の内容はディーラーは感知しないし、値段もだいぶ違うだろうということで、ネットでの一括見積もり。
+申し込むとすぐに見積もりが表示されますが、やはりだいぶ違いますね。あまり、各社の差異もないと思われるので、最安値で良いか、という感じです。</description></item><item><title>チャットボット（LINE bot）を作る</title><link>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</link><pubDate>Fri, 29 Mar 2019 23:43:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</guid><description>仕事の方の年度末のパワープレーの影響で、こちらはすっかりご無沙汰になりました。
+そして、突然チャットボットを作ることを思い立ち、試してみたところこれがなかなか面白い。ということで、いくつか作ってみたいのですが、前半戦を終えたところで、まとめてみたいと思います。
+LINE bot　の処理の流れ 作るにあたって、今回いきなり作り始めましたが、ある程度流れがわかっていると、よりスムーズに入れるのでは、ということで、流れの絵を描いてみました。
+絵心のなさアピールしてどうするんだという気持ちもありますが・・・
+①普通に、LINEでトークをする場合に、自分が発言入力したら、それはおそらくLINEのDBに保存されて、画面に表示されて、処理終了となると思います。
+チャットボットを作る場合は、利用者の入力に対して、Webhookという仕組みを組み込みます。
+設定としては、Webhook送信を「利用する」として、そのURLを指定するのみです（けど、URL指定するなら、「利用する」の当たり前じゃない？？最初、URLだけ指定して、呼び出しに失敗して小一時間ほどハマりました）。
+②LINEはWebhook送信先に、入力内容をPOSTします。
+ですので、まずPOSTを受けられるサイトを用意する必要があります。
+これを、今回は、GAS（Google Apps Script）を使用して立ち上げました。
+しかし、立ち上げたという表現は正しくないかもしれません。「立ち上げる」的な行為は何もしてません。ただ、Googleドキュメントの１ページを作るかのように、ファイルを一つ作成し、そこにおもむろにコードを書きます。
+function doPost(e)
+と書いて、ウェブアプリケーションとして公開するのみです。これがサーバーレス・アーキテクチャというものか・・・とちょっと感動しました。
+③GASの中で色々やっても良いのですが、GASから外部サービスを呼んで、Responseを受け取ることができます。多くの場合はこのパターンではないでしょうか。Webhookはhttpsで呼ぶ必要がありますが、GASからの呼び出しはhttpでもよい、という裏技的な使い方も可能です。
+④受け取った情報を加工して、最後は、LINEのMessaging APIを呼び出します。Replyというのが、要は、利用者にとっての、トーク相手の発言になります。この返し方も、単純なテキストメッセージとして返すだけでなく、様々なフォーマットで返すことができる、というところがボットとしてのインターフェースの魅力につながります。
+また、②のPostに対するResponsとしてReplyを返すのではなく、独立したAPI呼び出しになっている、というのもなるほどと思いました。例えば、一つの入力に対して、複数のReplyを返すことができる、ということです。※これはできないっぽい。メッセージを配列で返すことはできます。
+⑤最後に、Replyの内容が、画面上に表示されます。
+なぜチャットボットを作るのか 正直、これまで、限られた知り合いとの連絡手段として以外にLINEをあまり使ってこなかったこともあり、ボットの何が良いのかわかりませんでした。
+しかし、今回作る方から入ってみて、魅力があることも分かりました。
+利用者にとってのチャットボットの魅力 一言で言うならば、「入力画面というインターフェースからの解放」とでも言えば良いのでしょうか。画面にいくつか項目があって、それらを入力して情報を得る、というのは、やはり処理する側の都合に合わせたインターフェースではあると思います。より直接的にこれが欲しいと言ってもらう、あるいは、質問に答えてもらいながら欲しいものを認識する、という方法が、自然な気がしました。
+開発者にとってのチャットボットの魅力 主題はこちらですが、意外と良いものでした。
+(1)フロント側作業の軽減
+LINEとして決まっているReplyの返し方に従っている限り、ある程度の見た目の保証が得られる、かつ、フロント側障害が発生しにくい、ということがあるかと思います。もちろん、綺麗にメニューを出そうと思ったらイラストを書く等が必要になってきたりして、フロント側の才能が不要になるわけではありません。しかし、見た目の印象作りにいつも悩まされる身としては、これだけの作業でこの結果が得られるというコスパはかなり高いと感じます。
+(2)クロスプラットフォーム開発
+今作っているのも、身近な人用のこじんまりとしたアプリですが、その利用者の中でもiPhoneとアンドロイド端末は半々という感触です。すなわち、各OS向けのアプリと作るか、クロスプラットフォーム開発をするしかない、と考えています。
+しかし、クロスプラットフォーム開発は、ここでも色々トライしているように、なかなか決定打が現れないというのが現状かと思います。また、それぞれ作ろうと思っても、macアプリを作ろうと思ったらmacが必要、というのもやはり障壁です。
+これに対して、LINEのプラットフォーム上で動作するチャットボット方式はそこへの配慮が０で良い、という点で強力です。
+(3)インストールへのハードルの低さ
+上とも関係しますが、特に、身近な人向けの野良アプリの場合、作ったものをインストールしてもらおうというのも、一苦労があったりします。iPhoneの場合に野良アプリを配布する方法があるのか、分かりません。
+アンドロイドの場合も、apkファイルをダウンロードしてもらう方法は提供できたとして、それをインストールしようとしたら警告が出てしまうことを考えると、ちょっと無理だな、と思ってしまいます。
+これに対して、チャットボットであれば、LINEで繋がっている人であれば「おすすめ」でその人を指定することですぐに見てもらうことができますし、友達になる前にQRコードを見せて繋がってもらうこともできます。これであれば、安心して利用してもらえるのではないかと感じました。
+開発に向けての情報 世間には１時間で開発できる系の情報がたくさんあります。確かに、１時間で動くもの（入力した文字をそのまま応答する、程度ですが）が完成するので、とっかかりやすいのは間違いないです。そこからさらに、６時間くらいかけて、
+・日→中、中→日、日→英、英→日　翻訳
+・リクルートのスタディサプリAPIからの情報検索
+・クックパッドの情報検索
+を作りました（クックパッドは丸パクリですが）。
+作ったもののそれぞれの解説をしてみたいと思う他にも、今後の開発に向けての情報として、書きたいことが色々出てきました。
+・GASとは。サーバレストは。
+・GAS版JSON処理方法、XMLパース方法、HTMLスクレイピング方法
+・LINEリッチメニューのコツ
+・Flex MessageによるリッチUI
+・ローソンアプリ（現在のLINEボットの最高峰？）の分析
+ボチボチやっていこうかと思います。</description></item><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。
+お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払われたお金は、どこに行くべきか。
+WooCommerceだけで考えるなら、このサイト開設者＝店舗なので、そこに行けば良いわけですが、Marketplaceの場合は、基本的には店舗に行きつつ、システム利用料（コミッション）がサイト開設者に行くべきとなります。
+で、最終的にはそうなのですが、では、具体的にPayPalの設定は誰のアカウントで設定すべきなのか。店舗ごとに設定するのは大変ではないですか？と考えると、開設者のアカウントで設定し、一旦開設者に支払われた後、店舗に利用料を差し引いた分が支払われる？
+そんなことを考えながら、進めます。
+上記の予想から考えると、サイトとしての設定はWooCommerceとしてやるべきだろうということと、WooCommerceの方が情報が多いので、それをやってみましょう。
+WooCommerceのPayPal設定 ダッシュボードから、WooCommerce→Settings→Paymentsと進むと、支払い方法を選択する画面になります。
+たくさん・・・Paypalは二つ、Stripeはたくさん・・・
+さて、PayPalには、PayPalという、いわゆるPayPal Standardと、PayPal Checkoutというものがあります。
+この違いは何か。
+開発者向けTOP（導入方法・技術情報）-PayPal(ペイパル)
+https://www.paypal.com/jp/webapps/mpp/developer
+このページの「簡単決済ボタン」と「API決済」に対応するということですね。
+簡単決済は、いったんPayPalサイトに飛んで行って戻ってくるタイプ。
+API決済はどこまで裏でできることになるか分かりませんが、「よりセキュリティーが高く、画面遷移が少ないため、成約率のアップが期待でき、カゴ落ち率の減少に貢献します。」とのことです。
+PayPal Standard（簡単決済ボタン） とりあえず、簡単そうな方から。
+Payment methods画面のPayPalの文字、または右端のSetupボタンから、設定画面に移動します。
+「PayPal email」に、PayPalサイトの「Sandbox Accounts」で確認した、BUSINESSのアドレスを登録します。
+そして、「PayPal sandbox」にチェックします。
+「Receiver email」にもBUSINESSアドレスを登録。
+「PayPal identity token」は、PayPal画面で確認。
+Sandboxのダッシュボードの右上歯車アイコンで、アカウント設定画面に入ります。
+左メニューから「アカウント設定」→「販売ツール」→「ウェブサイトの設定」で、
+「ウェブペイメントの設定」という画面に入ります。
+ここで、自動復帰：オン、復帰先は、サイトのトップにしてみます、そして、支払いデータ転送：オンにすると、IDトークンが表示されます。
+あまり日本語情報ないなと思っていましたが、こちらが参考になりました。
+https://e-yota.com/webservice/wooccommerce_paypal_standard_payment/
+いったんは、これで動作するのではないか、ということで、試してみます。
+商品をカートに入れて、支払い画面に遷移すると、注文者情報入力欄の右側に、下記のようなエリアが現れます。
+・・・おっと、これだと配送方法が決定できず、支払いに進めませんので、先にそちらの設定をします。</description></item><item><title>PayPal決済の準備</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</link><pubDate>Sat, 09 Feb 2019 01:15:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</guid><description>次は、WooCommerce・WCFM Marketplace からのPayPal決済連携を試したいと思いますが、その前にPayPal決済環境の準備。
+PayPal Sandbox 当然、いきなり決済を開始できるわけではないので、まずはお試しをしたい。
+そのために、Sandbox環境が用意されています。
+いつも、PayPalにログインするものの、開発者サイトへの入り口に悩んで、結局ググって直接、飛んでいく。
+PayPal Developer
+https://developer.paypal.com/
+PayPal、仕組み自体は開発者に優しいと思いますが、Webサイトはあまり優しくない。
+PayPal Developerにログインしたら、右上にログイン者の情報が表示されるエリアがあるので、その中のDashboard。
+そこから先は、こちらなどを参考に。
+https://qiita.com/PPJP/items/6ba65ed21da7fba65586
+ポイントとして、gmailのアドレスでは、「＋」記号を使ってエイリアスを自動的に作ってくれるところ。これで、買い手用のアカウントと売り手用のアカウントをそれぞれ作ります。
+アカウントを作成したら、Sandboxサイトにログインしてみます。
+https://www.sandbox.paypal.com/jp/webapps/mpp/home
+これも、Sandboxだと分かるようにしてくれれば良いと思うのですが、本番サイトさながらのページ。
+URLを確認しながら、ログインし、トップページのダッシュボードを確認します。
+私の場合、アカウントは以前作ってあったのですが、どこから情報を確認したらよかったんだっけ、という状態でしたので、その場合は、PayPal Developerにログインし、ダッシュボードでアカウントを確認し、そのアカウントで、Sandboxサイトにログインする、ということになります。
+このアカウントを使って、決済連携を試してみます。</description></item><item><title>WCFM Marketplace ショップページ</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</link><pubDate>Sun, 03 Feb 2019 01:26:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</guid><description>WCFM Marketplaceの設定。各ショップページの設定。
+基本的には、Marketplace→Vndorsで設定していきます。
+デモサイトのこちらの見た目を参考にします。
+http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/
+気になる点は二つ。
+一つは、STORE HOURS。
+WCFM MARKETPLACE – STORE HOURS
+https://wclovers.com/knowledgebase/wcfm-marketplace-store-hours/
+これを見ると、2ヶ所の設定だけで良さそう。念のためと思って、ベンダーユーザでログインしてこのヘルプページと同じ画面でも確認してみましたが、設定はされているけど、公開ショップページには表示されない。
+この辺は、おそらく使用しているテーマにも関係してくる。
+Shop Isleを使っている訳ですが、テーマのカスタマイズで、「Vendor Store Sidebar」という設定項目があり、そこで、Store Hoursを追加できます。
+で、これをやると表示されるようになった訳ですが、ただ、元々表示されていた、商品カテゴリー表示とか、店舗地図とかが消えちゃった。
+まあ、あまりデフォルト表示に頼るのもどうかというのもあるので、必要な表示をここに追加していくことで、だいぶ見た目も整ってきました。
+※用意されているウィジェットも豊富です。
+もう一点は、ABOUTとPOLICIESの入力場所。
+これは、どうやら管理者ログインだと表示されないようで、ベンダーログインして設定。
+管理者は全部できるようにしておいて欲しい気もしますが、まあ、良いかと思います。</description></item><item><title>WCFM Marketplace 地図の表示〜Places API</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</link><pubDate>Sat, 02 Feb 2019 23:44:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</guid><description>地図のプラグインMAPPRESS GOOGLE MAPを入れて、API Keyを設定すると、地図自体は表示されるけれども、入力した住所と連動してくれないという状態でした。
+で、productsの地図を入力しようとすると、このようなエラーが。
+Google Maps API Key error: please enable the Places API in the Google Developer Console. すなわち、Google Maps Platformという大きな括りの中で、大きく三つのサービスが提供されています。そして、そのうちの一つが、Places APIです。
+https://cloud.google.com/maps-platform/products/?hl=ja
+たしかに、3つ目をチェックしなかった気がします。
+改めて、有効にするのはこちらの画面から。
+無事連動するようになりました。</description></item><item><title>鉄拐</title><link>https://jqinglong.github.io/programmers-office/%E9%89%84%E6%8B%90/</link><pubDate>Fri, 01 Feb 2019 16:05:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E9%89%84%E6%8B%90/</guid><description>立川流の人たちは本を書きますね。
+落語進化論は立川志らくさんの本。
+落語進化論 /新潮社/立川志らくposted with カエレバ 楽天市場 Amazon 7net この最後に紹介されるのが、鉄拐という落語。
+鉄拐は、李鉄拐という仙人。八仙人の一人ということで、八仙人とは、こちら。
+https://ja.wikipedia.org/wiki/%E5%85%AB%E4%BB%99
+八仙人が登場する小説としては東遊記などがある。西遊記ではなく東遊記。
+内容は、上海問屋のイベントのために仙人が駆り出され、そこから仙人が芸人として俗人化していくところに、人間(仙人は人間？)の業があるか。
+最後に登場するのは、李白と陶淵明。
+李白は唐代の詩人。陶淵明は東晋から南北朝時代の文学者。どちらも酒飲みという背景がオチとして使われている。</description></item><item><title>WCFM Marketplace Homepage設定</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</link><pubDate>Thu, 31 Jan 2019 16:00:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</guid><description>Homepageに表示する固定ページ 設定画面のReadingから「Homepage」にショップページを指定します。
+最初Wordpressインストール時に日本語指定していたからか、日本語になってしまってますが、WooCommerce本体としてのトップページであり、これがWCFM Marketplaceでは、全店舗横断の商品ページ、という位置付けになります。
+「Posts page」は指定すると、その画面はブログページになってしまうので、必要な場合はそれ用の固定ページを作る、ブログが不要な場合は非表示のページを指定しておく、というような形で良いかと思います。
+地図 今日のメインは地図。
+地図の表示にあたっては、他のプラグインとの連携が考えられているようです。
+DOCUMENTATION
+https://wclovers.com/knowledgebase/
+この中で、INTEGRATIONSに挙げられている地図関連のものが3つ。
+どれを使っても良いのかなというのは、それぞれの紹介文面から見て取れます。
+WCFM – MAPPRESS GOOGLE MAP
+https://wclovers.com/knowledgebase/wcfm-mappress-google-map/
+In recent days Map – Google Map is very much essential to inform about your store/product location to your customers. “MapPress Easy Google Map” is one of the most easiest and user friendly plugin to do so. You can associate any number of maps with your product and also allowed any no of points within a single map, isn’t it really cool!</description></item><item><title>WCFM Marketplace サイト構成</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</link><pubDate>Wed, 30 Jan 2019 14:56:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</guid><description>WCFM Marketplaceならではのサイト構成をどう考えるか。
+デモサイトを見ると、まず、HOMEPAGEとしては、色々なショップの商品一覧。
+http://wcfmmp.wcfmdemos.com/
+地図があって、検索条件項目があって、商品写真が並ぶ。
+妥当ですね。
+ヘッダのリンクは管理画面のリンクも混在していますが、コンシューマ画面と考えた場合に必要なのは、ショップ一覧というのは先日も書いたところ。
+https://www.programmers-office.ml/2019/01/26/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/
+上記デモサイトでは「STORES」から遷移する画面。
+http://wcfmmp.wcfmdemos.com/stores/
+こちらも、地図があって、左サイドにショップの検索項目と、お勧めショップがあって、メインにショップの写真一覧が並ぶ。妥当。
+次に必要なのは、各ショップのページ。
+デモサイトで一例を見る。
+http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/
+ヘッダに写真があって、左サイドに商品検索、クーポン、営業時間情報、カテゴリ、その他のショップのお勧め、地図、商品おすすめ。メインに商品を並べて、タブ切り替えで、店舗情報、レビュー等。
+妥当。
+そして、商品情報。
+http://wcfmmp.wcfmdemos.com/product/olive-oil/
+とりあえず、全体的にオーソドックスで良いと思いますので、この構成を一つずつ作っていきたいと思います。</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。
+ということで、WooCommerce用テーマの選択。
+最初使ってみたのはこちら。
+THESHOP
+https://athemes.com/theme/theshop/#
+おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピールされすぎている感が気になりました。
+そしてもう少し探してみて見つけたのがこちら。
+ShopIsle
+https://docs.themeisle.com/article/184-shopisle-documentation
+https://ja.wordpress.org/themes/shop-isle/
+以前、別のサイトを作るときに、IsleMagというテーマを使ったことがあります。
+https://ja.wordpress.org/themes/islemag/
+カラフルな見た目が気に入りました。
+このサイトでも使おうと思いましたが、投稿日の表示のされ方だけ、ほんのちょっと気になって、また、現在使用しているMesocolumnがよりカラフルだったのでこちらにしたのですが、情報量の多さではIsleMagの方が強いので、実は今でも気になっています。
+（ただ、今ちょっと調べてみると、This theme has been retired.となってしまっていますね。2019/1/28に更新されているのに？？謎・・・
+https://themeisle.com/themes/islemag/
+）
+で、名前から分かるように同じ作者のeCommerce WordPress Themeとして提供されているものが、ShopIsleな訳です。
+こちらの日本語情報も一通りの確認をするのに良さそうです。
+https://lightup-works.com/shopisle
+Islemagに比べれば情報はかなり少なくなりますが、共通知識も使えるのではという期待も込めて、使ってみたいと思います。
+なお、他にテーマを探したい方は、こちらも参考になりそうです。THESHOPもShopIsleも紹介されています。オンラインストアの構築に最適！すべて無料のおすすめWordPressテーマ20選</description></item><item><title>WCFM Marketplace 最初の一歩</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</link><pubDate>Sat, 26 Jan 2019 13:10:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</guid><description>WooCommerce Multi vendor Marketplace (WCFM Marketplace)を使うにあたって、どこから始めれば良いか。
+日本語情報は早々に諦めて、手探りで始めます。
+管理画面 WPのダッシュボードはこんな感じになります。
+そして、「Marketplace」からWCFM Marketplaceのメニューに移ります。
+手順としては、やはりVendorsから始めます。
+登録内容自体は見れば分かるレベルなので良いですが、ドキュメント検索しても見つからないのは、ちょっと不安・・・。
+商品 次にProducts。
+の前に、Categories。これが最初分かりにくかったですが、Productsメニューの中にあります。要するに、WooCommerceの機能なのか、Marketplaceの機能なのかを意識しながら考えることが必要です。
+Productsについては、商品の種類を選択して、基本内容を登録し、バリエーション商品の場合は、属性を登録して、その属性によって金額等のバリエーション情報を登録。
+この辺の仕組みは、WC Marketplaceでも同じ。というか、それはWooCommerceの機能ですね。
+https://www.programmers-office.ml/2019/01/14/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/
+ちなみに、Welcartとかだと、バリエーションの分SKUコードを振って、それごとに金額等を設定。
+https://www.welcart.com/documents/manual-2/%E5%95%86%E5%93%81%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC
+Magento もそうでしょう。その方がきっちりと管理できるのでしょうが、ちょっと面倒。必要なければ内部管理でも良いのでは、と思います。
+そして、商品登録については、当然CSV等によるインポートが必要かと思います。
+しかし、Product CSV Import機能は、ULTIMATEの機能だと言われます。
+そんな・・・
+WOOCOMMERCE FRONTEND MANAGER – ULTIMATE
+https://wclovers.com/product/woocommerce-frontend-manager-ultimate/
+と思いきや、商品の基本情報について言えばWooCommerceの機能な訳なので、メインダッシュボードの方のImport機能は使えます。
+ですので、そちらでImportして、どの店舗の商品化の情報だけ後で加える、という方法も不可能ではないですね。けど大量だとやはり厳しいので、ULTIMATEは購入しても良いのかもしれません。49ドルは良心的でしょう。
+そうすると、とりあえず、公開ページも見えるようになってきます。
+基本の商品ページだと、色々なショップの商品が混在で表示され、ショップ名をクリックするとそのショップの情報とそのショップの商品が表示される。これは予想通り。良い感じかなと思います。
+ショップ一覧表示ショートコード 一つやっておきたいのが、ショップ一覧。
+これはショートコードが提供されているので、それを使います。
+WCFM MARKETPLACE – STORE, WIDGETS &amp;amp; SHORT CODES
+https://wclovers.com/knowledgebase/wcfm-marketplace-widgets-short-codes/
+[wcfm_stores]というショートコードが提供されており、１行あたりの表示店舗数がデフォルト2になっているので、「per_row」という属性が用意されています。属性の使い方は、通常のWordpressのショートコードの作法を確認して、[wcfm_stores per_row=3]とします。
+これはまあこんな感じでしょう。
+デモサイトだとこんな感じ。
+http://wcfmmp.wcfmdemos.com/stores/</description></item><item><title>Tポイント解約の前に、と思ったら・・・minibot スマートロボット掃除機</title><link>https://jqinglong.github.io/programmers-office/t%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%A7%A3%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB%E3%80%81%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E3%83%BB%E3%83%BB%E3%83%BBminibot-%E3%82%B9%E3%83%9E%E3%83%BC/</link><pubDate>Wed, 23 Jan 2019 13:06:25 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/t%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%A7%A3%E7%B4%84%E3%81%AE%E5%89%8D%E3%81%AB%E3%80%81%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E3%83%BB%E3%83%BB%E3%83%BBminibot-%E3%82%B9%E3%83%9E%E3%83%BC/</guid><description>話題のTポイント。もしかしたらやめようと思っている方も多いかもしれません。
+私も、ちょっと距離を置こうかなと思っています、というか、ここ2年ほどはだいぶ距離を置いています。嫌われがちな楽天ポイントですが、その中にどっぷり浸かってみるつもりになってみると、意外とお得感を感じるということは、以前も書こうとしたのですが、このタイミングで書くのも面白いかなと思っています。
+が、その前に、T-PONT使おうぜ、というお知らせをしようとしたのですが、予想外の展開・・・。
+お勧めしたいのは、「minibot スマートロボット掃除機」です。
+これが、以前SOFTBANK SELECTIONというショッピングサイトで売られていまして、しかも、他のサイトと比べてかなり安かったのです。
+購入時のメールを抜粋すると、下記のような形です。
+[ご注文総額]
+&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;
+商品税込計：15,800円
+送料(税込)：0円
+&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;
+お支払い総額：15,800円
+&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;
+Tポイント利用：800円
+クレジットカード決済利用：15,000円
+&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;
+取得ポイント：158pt これに対して、現在身近なところで購入できるAmazonだと、2018.1現在で18,600円となっています。
+ですので、Tポイントやめる前に、これ買ってからやめた方が良いよ、と言おうと思ったのですが、取り扱いをやめてしまっているよう（製品ページはありますが、購入できないみたい）なので、この製品購入でTポイントを活用するのは諦めてください。
+ただ、上記の画像リンクからAmazonの商品ページの「類似商品と比較する」の表を見ていただくと分かるように、現価格でも十分安いです。
+しかも、機能的には、スマホアプリ制御ができる、という点で他の格安品とはランクが異なります。
+利点を二つ書くと、
+・スマホアプリ制御
+外出先から状態確認、開始・終了ができる。エラーになっている場合に、状態によっては、帰還だけさせておく、ということも可能。（動けなくなっているような場合は無理ですが）
+・水拭き機能あり
+ちょっと水分多めですが、フローリングの部屋や廊下には使えます。
+ということで、コスパ最高と言って良いかと思います。
+当然難点も色々あり、ただ、これは、上位製品なら対応できているかというと、そこは分からないのですが、
+・ゴム、紐、マット等を巻き込んでエラーになっていることが多い
+特に、輪ゴムは、取り外すのがかなり手間取るくらいがっちり巻き込んでしまう場合があるので、注意が必要
+また、玄関マットに乗っかって、そのまま玄関下に墜落、ということもあるので、掃除の時は、片付けておく必要あり
+・体力の続く限り掃除し続けるタイプ
+どこを掃除したかを覚えておくタイプではないようで、適当に動き回って、電池が少なくなってきたら帰還しようとする、という動きのようです。
+ですので、放っておいたら３時間以上やっていると思います。
+それでも、よくここまで来るな、という感じで動き回り、２部屋＋廊下＋トイレ＋洗面所くらいは一通り掃除してくれます。
+・静かではない
+最初は気にならなかったですが、気にしだすと静かではないです。けど、普通の掃除機よりは静かではないかと思います。
+・ごく稀にごみ受けが外れている。
+Amazonのレビューにもありますが、ゴミ受けボックスが外れていることがありました。でも、10回に1回とかではないかと思います。
+ということで、個人的には、ロボット掃除機はこれ一択ではないかというくらい気に入っています。</description></item><item><title>WooCommerceのマルチベンダープラグイン</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</link><pubDate>Sun, 20 Jan 2019 13:18:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</guid><description>ということで、改めて、WooCommerceのテスト環境を構築しましたが、マルチベンダー構成にするためのプラグインについては、もう少し検討したいと思います。
+プラグイン画面で、「multi vendor」で検索すると、いくつかヒットします。この上位4件は割とインストール数も多いですし、更新頻度も高そうです。
+いずれも、日本語対応は弱いので、優劣付けづらいのですが、概ね下記のような感じかと思います。
+WC Marketplace
+製品サイト
+https://wc-marketplace.com/
+デモサイト
+http://wcmpdemos.com/WCMp/
+アドオン
+https://wc-marketplace.com/addons/
+ドキュメント
+https://wc-marketplace.com/knowledgebase/
+・プラグイン自体は無償で、アドオンは有償（割と高め）が多い
+・WooCommerce自体にはstripeの追加プラグインがあるのに、これ用には別途有償アドオンが必要？
+・見た目はそれほど良くはないかな。テーマが豊富に公開されているのは良いけど、ほとんど有償？
+https://wc-marketplace.com/third-party-themes/
+WooCommerce Multivendor Marketplace
+製品サイト
+https://wordpress.org/plugins/wc-multivendor-marketplace/
+デモサイト
+http://wcfmmp.wcfmdemos.com/stores/
+アドオン
+https://wclovers.com/addons/
+ドキュメント
+https://wclovers.com/knowledgebase/
+・アドオンは少ないけど、安価
+特にデリバリ機能のアドオンが魅力的
+・オープンソース
+WC Vendors Marketplace 製品サイト
+https://www.wcvendors.com/
+アドオン
+https://www.wcvendors.com/extensions/
+ドキュメント
+・デモが公開されていないのはなんともしがたい
+・製品自体は、Free版とPro版になっていて、かなりお金がかかりそう
+Dokan
+製品サイト
+https://wedevs.com/dokan/
+デモサイト
+https://dokandemo.wedevs.com/?utm_campaign=dokan_demo_users&amp;amp;utm_medium=dokan_demo_link&amp;amp;utm_source=WordPress.org
+アドオン
+https://wedevs.com/dokan/modules/
+ドキュメント
+https://wedevs.com/docs/dokan/
+・見た目が美しい
+・これもお金はかかりそう
+・Free機能はオープンソース？
+https://github.com/weDevsOfficial/dokan
+結論 Dokanの見た目はかなり魅力的ですが、オープンソースで、追加アドオンも安価そうなWooCommerce Multivendor Marketplaceで進めてみたいと思います。
+小さなＥＣサイトのＷｏｒｄＰｒｅｓｓ＋Ｗｅｌｃａｒｔ導入・設定ガイド 自前でもできる！ /翔泳社/南部正光posted with カエレバ 楽天市場 Amazon 7net</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。
+・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ
+・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ
+・その他色々・・・
+公式ドキュメントはこちら
+Compute Engine への Docker コンテナのデプロイ
+https://cloud.google.com/compute/docs/instance-groups/deploying-docker-containers?hl=ja
+で、今回はシンプルそうな、VMインスタンス時にデプロイする方法を試します。
+公式ドキュメントはこちら
+VM およびマネージド インスタンス グループへのコンテナのデプロイ
+https://cloud.google.com/compute/docs/containers/deploying-containers?hl=ja&amp;amp;_ga=2.46174759.-1895702560.1541304432
+ですが、どうも分かりにくい。いくつか試してくれているサイトがありますが、どうも面倒なようにしか見えない・・・
+インスタンス作成時は、Always Freeの条件
+f1-micro インスタンス（1 か月あたり、バージニア州北部 [us-east4] を除く米国リージョンのみ）
+を踏まえて。
+ただこれ、イメージは一つだけなんですね。後から追加できるかな・・・とりあえず、DBのイメージだけ指定します。
+とりあえず、起動はします。
+DBだけだと動いているか分かりませんが、SSHで入って確認してみます。
+入ると
+########################[ Welcome ]########################
+# You have logged in to the guest OS. #
+# To access your containers use &amp;#8216;docker attach&amp;#8217; command #
+###########################################################
+と表示されています。
+docker images で目的のイメージが入っていることが確認できます。
+であれば、もう一つのイメージはpullを叩いても良いか。</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！
+ドカベン　プロ野球編　（1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。
+始める前の準備 Container Registry のクイックスタート
+https://cloud.google.com/container-registry/docs/quickstart?hl=ja
+プロジェクトは既存のものを使用します。
+課金の設定もしてあります。
+Container Registry APIの有効化は、こちらのページのリンクボタンからGCP画面へ飛んで行って、ボタンを押していけばできます。
+Google Cloud SDKはインストール済みでしたので、ここもスキップ。
+この時にインストールしたのですね。
+サイト引っ越し、そして、再引っ越し（Part2）
+https://www.programmers-office.ml/2018/12/22/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/
+Dockerもインストール済み。ビルド済み。
+認証から行きます。
+認証してpush gcloud auth configure-docker
+でDocker config fileへの更新確認をされるので、Yで進めます。
+次にイメージにタグをつけます。
+そしてpushしようとすると、認証できていない・・・
+denied: Token exchange failed for project &amp;#8216;xxx&amp;#8217;. Caller does not have permission &amp;#8216;storage.buckets.create&amp;#8217;. To configure permissions, follow instructions at: https://cloud.</description></item><item><title>Docker push AWS ECR 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</link><pubDate>Sat, 19 Jan 2019 05:33:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</guid><description>色々な編ができていく・・・
+ずっとはまっていてもダメなので、ちょっとGitLabからのPullはどこかで質問することにします。
+そして、AWS ECS で pull するのであれば、当然相性良いだろうと思われる、ECR にpushしてみます。
+イメージのプッシュ
+https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/docker-push-ecr-image.html
+もうpushするimageはできているところからスタートします。
+Docker 環境をステージング環境へ（Docker push編）
+https://www.programmers-office.ml/2019/01/14/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/
+python環境 pushするためには、まず1.の認証が必要です。
+そのために、AWS CLIのインストールが必要です。
+まあ、そうなんだろうけど面倒は面倒ですね。どんどん遡る・・・
+結局、開発環境をDockerで作るとしても、それを扱うための環境（ここで言えばpython環境）をローカルに作らなければいけない。もう少しローカル依存を減らしたいのですが・・・
+AWS CLI をインストールする方法
+https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-chap-install.html
+おもむろに
+$ pip install awscli &amp;#8211;upgrade &amp;#8211;user を叩くと、「pip: command not found」のつれないメッセージ。
+$ python -m pip -V
+/usr/bin/python: No module named pip そこからか・・・
+python3 そもそも、macの初期インストールpythonは
+python &amp;#8211;version
+Python 2.7.10 です。
+pipはPython 3.4以降には、標準で付属しているそうです。
+Python3系を入れましょう。
+Code4Startupの時は、普通にインストーラーをダウンロードする形でしたが、今時だとやはり、Homebrewでしょうか。
+https://brew.sh/index_ja.html
+インストールのスクリプトを素直に実行。
+インストール完了後、
+$ brew doctor</description></item><item><title>Vimeo PRO（有料プラン）からBASIC（無料プラン）への変更</title><link>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</link><pubDate>Sat, 19 Jan 2019 00:58:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</guid><description>お試しでVimeoのPROプランに入っていた（2018年12月）のですが、いったんBASICに戻そうと思います。
+PROは年間払いと月間払いのコースがあり、月間の方を契約していた（つもりでした）。
+キャンセルについては、こちらの「いつキャンセルできますか？」に
+https://vimeo.com/jp/upgrade
+はい、すべてのプランが返金保証付きです。年間メンバーシップにご登録後30日間以内、または月間メンバーシップにご登録後5日間以内のキャンセルの場合は全額返金させていただきます。現在のメンバーシップで利用可能な追加機能が必要なくなった場合は、他のプランにグレードを落とすことができます。 とあります。
+では、実際にキャンセルしようと思うと、これが難しい。
+基本的には
+有料メンバーシップからベーシックメンバーシップへ戻る
+https://help.vimeo.com/hc/ja/articles/115006635407-Lapsing-from-paid-membership-to-Basic-membership
+にあるように、更新をしない、ということが必要で、自動更新をオフにすることになります。
+この手続きも分かりにくいですが、こちらが参考になります。
+http://www.smile-hack.com/entry/2017/07/23/121957
+でそうしたのですが、その上で現在のプランを見ると、2019年1月時点で、「あなたのVimeoPROメンバーシップの期限は2019/12/01に切れます。」となっています。
+え？結局年間契約？
+よくよく見ると、年間契約になっていました。ショック・・・
+この場合は
+Plus、PRO、Business または Vimeo Live の払い戻し
+https://vimeo.zendesk.com/hc/ja/articles/224822227-Plus-PRO-Business-%E3%81%BE%E3%81%9F%E3%81%AF-Vimeo-Live-%E3%81%AE%E6%89%95%E3%81%84%E6%88%BB%E3%81%97
+にしたがい、契約後30日以内であれば、お問い合わせフォームから払い戻しを依頼する、ということになるようです。
+ということで、１年間使うしかない。何か考えよう・・・
+とりあえず、こちらでもご覧ください。</description></item><item><title>Docker 環境をステージング環境へ（Docker pull編）part1</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</link><pubDate>Mon, 14 Jan 2019 14:36:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</guid><description>docker pushができたので、今度は、サーバ側からpullします。
+サーバは、GCPのつもりでしたが、Mgentoの検証を行っていたAWSを使うか、と考え、それならば、Elastic Container Serviceを使ってみることにします。
+Elastic Container Service（ECS） まず、ECSには二つの起動モデルがあります。
+・Fargate 起動タイプモデル
+・EC2 起動タイプモデル
+Fargateはコンテナ用のリソースで、EC2とは切り離されており、それ用の料金が発生します。逆に言えば、コンテナを使うためにEC2を増強するための料金は不要ということです。これに対して、EC2起動モデルの場合は、ECSの料金は不要です。
+今回は、EC2の１年間無料枠を利用して、EC2起動タイプで行ってみます。
+（AWSもDockerも初心者なのに大丈夫かどうかは不明です）
+ECSの手順については、こちらを参照させていただきました。
+https://dev.classmethod.jp/cloud/aws/amazon-ecs-entrance-1/
+最初の、タスク定義を作成するところで、FARGATEかEC2かを選択するボタンがあるので、EC2を選択します。
+タスク定義名は、タスク定義で指定する内容が、使用するDockerイメージだったり、ということなので、WooCommerceとしておきます。
+他は初期値のままで「コンテナの追加」をします。
+今回は、woocommerce_mariadb_1、woocommerce_wordpress_1として、二つ分追加します。
+ポートマッピングは悩みますが、mariadb側はなし、wordpress側は80:80と、443:443を追加しておきます。
+タスク定義が正常に作成されました、とのことです。
+続いて、クラスターを作成します。
+クラスターテンプレートは、Fargateではないので、「EC2 Linux + ネットワーキング」を指定します。
+インスタンスタイプは無料枠なので、t2.micro、キーペアは作成済みのものを選択します。
+「コンテナインスタンスの IAM ロール」はさらに不明なので、「新しいロールの作成」のまま進めます。
+分からないながら進めていき、起動します。
+「サービスの検出の統合の有効化」はさらに不明のため、チェックを外しておきます。（上記サイトの絵にはありませんので、貼っておきます）
+以上で立ち上がったはずですが、サービス画面に行ってみると、起動失敗。
+理由は、
+https://registry.gitlab.com/v2/aaa/bbb/woocommerce_wordpress_1/manifests/latest: denied: access forbidden
+まあ、そうですよね・・・
+コンテナの設定の、「プライベートレジストリの認証」「認証情報パラメータ」辺りだと思いますが、今日は時間切れです。</description></item><item><title>Docker 環境をステージング環境へ（Docker push編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</link><pubDate>Mon, 14 Jan 2019 10:25:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</guid><description>まだ、全然途中ですが、いったんベンダー機能とショップ画面が見えるようになったところで、これを別サーバ（ステージング環境のつもり）に持っていきたいと思います。
+Docker力強化の目的もあります。
+Docker イメージのレジストリサービス ローカル開発環境のDockerイメージを別サーバに持っていくために、まずは、Dockerイメージを共有することが必要と考えます。すると、レジストリサービスが必要ということが分かります。
+そしてレジストリサービスを調べてみると、ありがたいサービスが提供されていることが分かります。
+・Docker Hub
+・Amazon Elastic Container Registry (ECR)
+・Google Container Registry
+・Azure Container Registry
+・GitLab Container Registry
+などなど。
+構築先がGCPなのと、このサービスもAlways Free対象なので、Googleも有力な候補ではありますが、ソースをGit管理するなら、同じ管理にするのが合理的なのではということと、GitはGitLab派の私としては、GitLab Container Registryを使ってみることとします。
+GitLab Container Registryへのpush 流れとしては、まずcommitして、イメージ作成。
+これは、こちらを参照
+https://www.memotansu.jp/docker/626/
+commitなの、buildなの、というのはよく分かっていませんが、とりあえず、これで行ってみます。
+docker login registry.gitlab.com
+ログインはできます。
+しかし、pushは、3つあるイメージのうちの2つをpushしたいわけで、その仕組みがいまいち分かりません。
+gitlabのページに記載を参考に、最後に「:タグ名」を付けてみても、
+「An image does not exist locally with the tag」
+となります。
+この辺りを参考に、タグ付けします。
+http://docs.docker.jp/linux/step_six.html
+https://docs.docker.com/engine/reference/commandline/tag/
+そうすると、
+registry.gitlab.com/aaa/bbb/woocommerce_mariadb_1 v1.1 a4e11e5e5b41 3 hours ago 262MB
+registry.gitlab.com/aaa/bbb/woocommerce_wordpress_1 v1.1 eba2457b8e6a 4 hours ago 438MB というようなイメージが出来上がります。</description></item><item><title>WC Marketplace（商品機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 15:53:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>商品登録方法は、素のWooCommerceとWC Marketplaceでは考え方が違う部分がありますので、その確認。
+商品とベンダーの関係 Setting up – Assign Single Product to Multiple Vendors
+https://wc-marketplace.com/knowledgebase/setting-assign-single-product-multiple-seller/
+WC Marketplaceプラグインインストール時に、「Single Product Multiple Vendors」というチェックボックスがあります。
+同一商品を複数ベンダーから販売することができ、購入時に顧客がベンダーを選択することができる、というものです。
+これはしないので、スキップします。
+管理者による商品の登録 Setting up – Uploading products for WCMp
+https://wc-marketplace.com/knowledgebase/setting-up-uploading-products-for-wcmp/
+アップロードから始まるというのが、順番としてどうなのかと思わざるを得ませんが、必須機能ではある、というかむしろ最終的にはこちらが優先なので、これで良いのか。
+・・・と思って読み進めると、別にファイルアップロードの話ではなく、普通に商品登録の話でした。そういう言葉使いですか・・・
+最初に、承認を経由するかしないかの設定の話。
+そして、管理者が通常のWooCommerceの方法で、商品登録する場合の話。
+ここで、WC Marketplaceが入っていると、ベンダーを指定するプルダウンがあります。これをクリックすると、中身が空で、「？」と悩むのですが、テキストボックスに一文字入力するとそれにマッチするベンダーが選択できるようになります。まあ、ベンダーが大量に登録されていると、ずらっと出てこられても困るかもしれませんが・・・
+通常のWooCommerceの商品登録の方法については、
+https://docs.artws.info/document/managing-products/
+のお世話になるのが良いかと思います。
+特に商品タイプ、特に「バリエーションのある商品」（Variable product）は重要です。
+ベンダーによる商品登録 実際は、商品の登録は各ベンダーがやるでしょう、ということで、その機能についての説明です。
+ベンダーのユーザでログインして、Vendor Dashboard画面に入ります。
+こちらの画面からの登録も、細かい手順や画面構成が異なるのみで、登録内容は基本的に同じです。
+ところが、Product Typeで、「Simple product」しか選択できません。
+他のタイプを選択したい場合は、backendに行かなければならないということです。
+すなわち、ベンダー用画面には、2種類あります。ログイン直後のVendor Dashboard画面と、wp-adminの画面であるbackendです。
+こんなところから移動できます。
+こちらに移動すれば、機能制限された管理画面が表示される、というわけです。
+Advanced Frontend Manager https://wc-marketplace.com/knowledgebase/wcmp-frontend-manager/
+で、一応、AFMというものを使ってほしそうです。
+これを使えば、backendに移動せずに、「Simple product」以外の商品メンテもできるということです。
+ただ、そんなに、画面からメンテするのか、と考えたら、コスパはあまり良くないかなという気もします。
+https://wc-marketplace.com/product/wcmp-frontend-manager/
+という感じで、だいぶ理解はできてきました。</description></item><item><title>WC Marketplace（ベンダー関連機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 09:17:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>しかし、WooCommerceも日本語情報は、豊富とは言えませんね・・・
+ほとんどお一人で頑張られている？？
+https://docs.artws.info/about-this-site/
+WC Marketplaceと言っても、そもそもWooCommerceが分からなければ始まらないので、上記を参考にさせていただきながら、進めていきます。
+なお、現時点で、
+WooCommerce Version 3.5.3
+WC Marketplace Version 3.3.0
+です。
+基本ドキュメント インストールは、基本レベルだと特に悩まないとは思いますが、
+https://wc-marketplace.com/knowledgebase/wcmp-setup-guide/
+一応こちらを参照しておけば、安心かと思います。
+その他のドキュメントも、ここから辿っていきます。
+ベンダー管理システム Vendors Management System
+https://wc-marketplace.com/knowledgebase/vendors-submenu/
+まず、考え方として、Vendorを登録し、これは、wpサイトログインのユーザにもなります。そして一対一でShopが紐付きます。
+基本的には、管理者がVendorユーザを作って、詳細情報はそのVendorユーザが自分自身の情報を登録し、管理者がその登録内容を承認する、という流れのようで、そのためのステータス管理（Pending、Rejected、Suspended、）がされているという形のようです。
+これを登録すると、
+http://localhost/circlant/user1/
+という形で、そのベンダーのページが作成されるのですが、そこに表示される画像はどこで設定するのかが分からない。追々分かることを期待して進めます。
+ベンダー登録方法 Setting up – Vendor Registration for WCMp
+https://wc-marketplace.com/knowledgebase/setting-vendor-registration-wcmp/
+ベンダーについては、より詳細な登録方法として、さらにドキュメントが提供されています。
+管理者が登録する方法以外に、Registration Formも用意されており、それをするしない、承認を経由するしない、フォームで登録する内容、等が設定可能です。
+例えば、Store DescriptionとCountry　を追加すると、このような登録フォームになります。
+ベンダー用機能 Setting Up WCMp – A Vendor Guide
+https://wc-marketplace.com/knowledgebase/setting-wcmp-vendor-guide/
+どうもドキュメントの並びが綺麗ではないように思うのですが、ベンダー登録したところで、今度は、ベンダー用機能を見てみます。
+Vendorロールのユーザでwp管理画面にログインすると、ダッシュボードの見た目はだいぶ違います。
+上に書いた、店舗画面の見た目等はここから設定することになります。
+その他、商品や、支払い方法等を登録し、あるいは、注文情報の確認等を行いますが、ポイントは商品登録だと思いますので、今回はここで一旦終了します。</description></item><item><title>WooCommerceを試す</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</link><pubDate>Sun, 13 Jan 2019 01:52:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</guid><description>MagentoのDocker環境を作った訳ですが、サンプルデータを後から投入しようとすると、やはり、「PHP Fatal error: Allowed memory size of xxx bytes exhausted」が発生したりして、Dockerの出来合いの環境ならもう少しすんなり行くかなと言う期待は、あまり応えてはもらえませんでした。
+そこで、ちょっと浮気をしてみます。
+Docker力強化も兼ねて、今回もDocker環境を作ります。
+WooCommerce入りのDocker Hubのイメージもありますが、そこは後からプラグイン入れても良いよね、ということでwordpress環境をまず作ります。
+イメージは、あえて公式ではなく、先日の構成を参考にして、bitnami版にしてみます。
+今回は、最初から、ymlに永続化用の記述をしておきます。
+mkdir docker/WooCommerce
+mkdir docker/WooCommerce/wc-mariadb-persistence
+mkdir docker/WooCommerce/wc-wordpress-persistence
+cd docker/WooCommerce/
+curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-wordpress/master/docker-compose.yml
+・・・yml編集・・・
+docker-compose up -d やはり、wordpressセットアップ画面をすっ飛ばして、サイトが立ち上がっている状態まで来てくれます。
+管理画面はwp-admin、ユーザ・パスワードは、Settings画面参照（WORDPRESS_USERNAME、WORDPRESS_PASSWORD）。
+日本語化はされていません。
+そして、おもむろに、Pluginsから、WooCommerceをInstall、Activate。PluginsのページにWelcome to WooCommerceのメッセージと「Run the Setup Wizard」ボタンが表示されているので、クリックします。
+基本情報を入力し、Payment画面では、PayPalとstripe、さらにCash on deliveryを有効にしてみます。Shippingはとりあえず適当に、オススメのAutomated TaxesとMailChimpも有効にしておいて、Jetpackは接続できないというメッセージになりましたがそのまま行きます。
+チュートリアルに従って商品登録し、「Visit Site」の下の「Visit Shop」をクリックすると、商品が表示され、カートに投入し、カートを見ると購入商品が表示されます。
+ただ、この状態ではあまりに見た目が投げやりなので、AppearanceのThemesからStorefront を検索して、Install、Activateします。
+「Design your store」という画面が表示されますので、流れに従って入力。多少見た目が整います。「Design your store」が公式のようなので入れてみましたが、なかなかのシンプルさではあります。
+https://shimesan.com/2018/03/24/woocommerce-netshop-003/
+この辺は参考になりそうです。
+試しにもう一つ、THESHOPというテーマを入れてみます。
+https://athemes.com/theme/theshop/#
+さすがの良い感じ。
+とりあえず、こうしておきます。
+さらに、今回やりたいのは単一ショップではないので、複数ベンダー対応のプラグイン、「WC Marketplace」を入れます。
+そして、ちょっと設定を初めてみましたが、これはなかなか骨が折れそうなので、また改めて。</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。
+参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215
+を入り口として、
+https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861
+https://principle-works.jp/blog/how2runm2ondocker-apache/
+https://principle-works.jp/blog/how2runm2ondocker-compose/
+も参照。
+しつつ、いかにビジュアルに構築するかを考えます。
+イメージ検索 まずは、Kitematic内で検索してみます。
+最初は、一つしかヒットしなかった気がしたのですが、気のせい？？
+まあまあ、結構な数がヒットします。
+Googleで「magento docker」で検索した場合は、bitnami/magentoが先頭でヒットします。
+さらに、DevBoxなるものもあるといいます。
+どれを使うべきか。
+DevBoxが正攻法のようではあります。
+https://magento.com/blog/technical/set-your-magento-2-development-environment-faster
+が、最初の参考情報によると、ちょっとフルスペックすぎる感じが無きにしも非ず。
+かつ、2.3には未対応っぽい。
+次は、Pulls 1M+ となっていて、利用者の多そうなこちら。
+https://hub.docker.com/r/alexcheng/magento2
+解説も丁寧にされているのが好印象。2.3.xとも書いてあるので安心。
+こちらにさらに情報あり。
+https://microbadger.com/images/alexcheng/magento2
+bitnami版も確認。
+https://hub.docker.com/r/bitnami/magento
+利点として書かれているのは、最新版追跡の速さですね。
+こちらにも、いくつかのパターンが置かれています。
+https://bitnami.com/stack/magento/containers
+ちょと悩むところではあるのですが、ブランド名を信じて、bitnamiにしてみます。
+bitnami版magento2のインストール 改めて、Kitematicで「bitnami/magento」で検索し、CREATEボタンを押します。
+しばらくダウンロード画面が表示され、追加されたかと思いきや、エラーメッセージ。
+Welcome to the Bitnami magento container
+Subscribe to project updates by watching https://github.com/bitnami/bitnami-docker-magento
+Submit issues and feature requests at https://github.com/bitnami/bitnami-docker-magento/issues
+ERROR == The MAGENTO_DATABASE_PASSWORD environment variable is empty or not set. This environment variable is required for Magento to be properly installed.</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。
+しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストールすることにする。
+そして、今後も複数バージョンをどう取り扱うか問題は出てくると思うので、このWordpressサイト構築にあたって興味を持ったDockerをもう少し突き詰めてみる。
+考えること Dockerもコマンド打つだけじゃないでしょ、もっとビジュアルに行こうぜ！と思ったら、思いの外深い。
+参考
+https://yoshinorin.net/2017/08/30/try-docker-rancher/
+まず、Docker for Macにするのか、Docker Toolboxにするのかを考えなければなりません。
+一般的には、VirtualBoxが不要であるDocker for Macの方が、早い、ということのようです。
+そして、実際のビジュアルツールとして、やはり本命はDocker社純正のKitematicと言うことになるかと思います。
+ただ、上記参考サイトにあるように、これは「Docker for WindowsとDocker for Mac」用となるので、AWS等のLinux環境では同一環境にはならないと言うことになります。
+もっとも、それは「外側」が異なるという話であり、Dockerで構築される「中身」については同じでしょうから、それは別の話として良いのかなと考え、Kitematicで構築することにしてみます。
+なお、第二の選択肢として、Portainer、Rancherも興味深いです。
+Kitematicのインストール 手順としては、Docker for Macをインストールし、そうすると、Dockerアイコンが表示されるようになるので、そこからKitematicをインストールするということのようです。
+この辺が比較的新し目の情報かと思います。
+https://yatteq.com/localdev-docker
+で、Docker for Macをダウンロードしに行くわけですが、そこの名前はDocker Desktop (Mac)。分かりにくくないですか？？
+Dockerのアカウント登録をして、ダウンロードします。518MB、なかなかですね・・・
+インストール方法は特筆すべきことはないですが、本家docsでも眺めておけば良いでしょう。
+https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac
+丁寧な手順はこちらとか。
+https://qiita.com/seijimomoto/items/357ac7aa84f98b96021f
+最初、Docker アイコンからKitematicをクリックしても反応なく焦りましたが、再度アプリケーションフォルダからDockerをダブルクリックしたら反応してくれました。
+ということで、インストールまでは、簡単に行きます。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ついに完了！</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</link><pubDate>Sat, 05 Jan 2019 02:23:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</guid><description>[ ][1] Code4Startup
+Task26では、ドライバー側マップでドライバーの移動ロケーションを追加し、カスタマー側マップにも追加します。
+そして、シミュレータを二つ立ち上げて、動きを見ることができますよと言うテクニック。
+最後にTask27でdanielgindiのチャートコントロールを使ってグラフを表示します。
+https://github.com/danielgindi/Charts
+と言うわけで完了！長かった・・・
+ただ、完成まではしないのですね・・・
+例えば、ドライバーが配達完了すると、ステータスが変わる、と言うところは作りますが、その時のドライバー画面は白いままとか。
+ともあれ、この画像でおめでとうと言われました！
+https://www.google.com/search?q=congratulations!+gif&amp;amp;tbm=isch&amp;amp;tbs=rimg:Cf_126g8pSGmDIjj2cw58GhEDRb1Tm-QQfezqphKGfD1O0NL-e3qT_1YKO7LZvVAYaur8hA3bBucnHSIqfOWhf0o2EKyoSCfZzDnwaEQNFEaLGpRKdOq-YKhIJvVOb5BB97OoROM0rrFOchCUqEgmmEoZ8PU7Q0hGkQsPwogAEjSoSCf57epP9go7sEcYO1TRi5KJ5KhIJtm9UBhq6vyERQUG6cqDuGNMqEgkDdsG5ycdIihE6TOBfMSUADCoSCZ85aF_1SjYQrEe5Ue_1GH1SA_1&amp;amp;tbo=u&amp;amp;sa=X&amp;amp;ved=2ahUKEwiOhtjjxdXfAhXXAIgKHaCBBUsQ9C96BAgBEBs&amp;amp;biw=1765&amp;amp;bih=1034&amp;amp;dpr=2#imgrc=__bqDylIaYNUMM:</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ドライバーサイドアプリ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</link><pubDate>Fri, 04 Jan 2019 23:09:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</guid><description>[][1] Code4Startup ここまでは、カスタマーサイドのアプリ。
+Task24は、ドライバーサイドのアプリ。
+このスピード感で画面を追加していける、というのがSwiftの強みだと思う。
+そして、この段階で初めてCusotmerとDriverでディレクトリを分けていけるのもよい。
+ということで、Task24がViewControllerで画面遷移のあたり。
+Task25で、API部分で、注文のピックアップのあたり。
+悩みながら、進めます。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図上の経路描画</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</link><pubDate>Tue, 01 Jan 2019 22:14:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</guid><description>Code4Startup
+Task23は、決済部分から、お店から配達先までの経路描画など、ある意味、講座のクライマックス。
+経路は、import Mapkit しなければならないとすると、他の方式で開発する場合は、またちょっと苦労するということでしょうか。
+画面作成の観点で、Swift最強だな、というのはひしひしと感じるわけですが、Android版も開発するとなった場合に、まるっきり別物の開発になってしまう、というのはやはり辛いなとも感じています。</description></item></channel></rss>

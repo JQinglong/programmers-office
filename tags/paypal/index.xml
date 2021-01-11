@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PayPal on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/paypal/</link><description>Recent content in PayPal on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 10 Feb 2019 21:15:02 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/paypal/index.xml" rel="self" type="application/rss+xml"/><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。 お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払わ</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PayPal on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/paypal/</link><description>Recent content in PayPal on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 10 Feb 2019 21:15:02 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/paypal/index.xml" rel="self" type="application/rss+xml"/><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。
+お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払われたお金は、どこに行くべきか。
+WooCommerceだけで考えるなら、このサイト開設者＝店舗なので、そこに行けば良いわけですが、Marketplaceの場合は、基本的には店舗に行きつつ、システム利用料（コミッション）がサイト開設者に行くべきとなります。
+で、最終的にはそうなのですが、では、具体的にPayPalの設定は誰のアカウントで設定すべきなのか。店舗ごとに設定するのは大変ではないですか？と考えると、開設者のアカウントで設定し、一旦開設者に支払われた後、店舗に利用料を差し引いた分が支払われる？
+そんなことを考えながら、進めます。
+上記の予想から考えると、サイトとしての設定はWooCommerceとしてやるべきだろうということと、WooCommerceの方が情報が多いので、それをやってみましょう。
+WooCommerceのPayPal設定 ダッシュボードから、WooCommerce→Settings→Paymentsと進むと、支払い方法を選択する画面になります。
+たくさん・・・Paypalは二つ、Stripeはたくさん・・・
+さて、PayPalには、PayPalという、いわゆるPayPal Standardと、PayPal Checkoutというものがあります。
+この違いは何か。
+開発者向けTOP（導入方法・技術情報）-PayPal(ペイパル)
+https://www.paypal.com/jp/webapps/mpp/developer
+このページの「簡単決済ボタン」と「API決済」に対応するということですね。
+簡単決済は、いったんPayPalサイトに飛んで行って戻ってくるタイプ。
+API決済はどこまで裏でできることになるか分かりませんが、「よりセキュリティーが高く、画面遷移が少ないため、成約率のアップが期待でき、カゴ落ち率の減少に貢献します。」とのことです。
+PayPal Standard（簡単決済ボタン） とりあえず、簡単そうな方から。
+Payment methods画面のPayPalの文字、または右端のSetupボタンから、設定画面に移動します。
+「PayPal email」に、PayPalサイトの「Sandbox Accounts」で確認した、BUSINESSのアドレスを登録します。
+そして、「PayPal sandbox」にチェックします。
+「Receiver email」にもBUSINESSアドレスを登録。
+「PayPal identity token」は、PayPal画面で確認。
+Sandboxのダッシュボードの右上歯車アイコンで、アカウント設定画面に入ります。
+左メニューから「アカウント設定」→「販売ツール」→「ウェブサイトの設定」で、
+「ウェブペイメントの設定」という画面に入ります。
+ここで、自動復帰：オン、復帰先は、サイトのトップにしてみます、そして、支払いデータ転送：オンにすると、IDトークンが表示されます。
+あまり日本語情報ないなと思っていましたが、こちらが参考になりました。
+https://e-yota.com/webservice/wooccommerce_paypal_standard_payment/
+いったんは、これで動作するのではないか、ということで、試してみます。
+商品をカートに入れて、支払い画面に遷移すると、注文者情報入力欄の右側に、下記のようなエリアが現れます。
+・・・おっと、これだと配送方法が決定できず、支払いに進めませんので、先にそちらの設定をします。</description></item></channel></rss>

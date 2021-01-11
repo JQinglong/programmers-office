@@ -1,1 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2020 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2020/</link><description>Recent content in 2020 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 10 Aug 2020 03:02:23 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2020/index.xml" rel="self" type="application/rss+xml"/><item><title>React にも入門</title><link>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</link><pubDate>Mon, 10 Aug 2020 03:02:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</guid><description>浮気症は治らず、今度は React にも手を出してみます。 React のチュートリアル まずはチュートリアル。 チュートリアル：React の導入 が、始めようとすると、ちゃんと JavaScript は抑えてねと。 なので、先にこちら。 JavaScript 「再」入門 Next.js のチュートリアル それぞれ、特に問題なく終了</description></item><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。 超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む) 以前、AWSの講座を受講した時も、感じましたが、I am Now AWS Certified ・本題以外の技を見せてもら</description></item><item><title>Realworld app – VueJS and Typescript</title><link>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</link><pubDate>Sun, 19 Apr 2020 09:00:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</guid><description>今度はTypescript https://github.com/gothinkster/realworld-starter-kit Part 1 : Introduction and Vue CLI Setup $ vue create realworld-vue-ts vue-class-component create component の代わりに@Component vue-property-decorator @Propなど vuex-module-decorators @module $ yarn serve 今回はyarn派なんですね $ yarn add vue-property-decorator $ yarn add vuex-module-decorators Part 2 : Templates and Styling router.ts がなくなっていて、router/index.ts VSCode command + D で複数選択 Part 3</description></item><item><title>Vue JS Crash Course</title><link>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</link><pubDate>Sat, 18 Apr 2020 07:40:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</guid><description>こちらのコースをやってみました。以下、単なるメモです。 Vue JS Crash Course https://github.com/bradtraversy/vue_crash_todolist node10の頃 Vue CLI インストール https://cli.vuejs.org/guide/installation.html $ npm install -g @vue/cli $ vue --version @vue/cli 4.3.1 4なんだ・・・ $ vue create test いっぱいエラー出てるけど・・・ $ cd test $ npm run serve 開きました cd .. vue ui Vue プロジェクトマネージャ 画面が自動で立</description></item><item><title>Nuxt JS beginner tutorial</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</link><pubDate>Fri, 17 Apr 2020 01:16:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</guid><description>もう一度、Nuxt の勉強をしようということで、上記チュートリアルを一式やって見ました。単なるメモです。 1 Nuxt JS beginner tutorial – In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family What is Nuxtjs? Why Nuxt.js is so good? What Nuxt.js can do? What Nuxt.js Includes How single page application works? How static site generation in nuxt works? How universal application is created in nuxtjs? 2 Nuxt JS beginner tutorial – Getting Started with NuxtJs | How to setup Nuxt Project 始</description></item><item><title>TruffleBoxs 入門</title><link>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</link><pubDate>Mon, 23 Mar 2020 07:52:01 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</guid><description>改めて勉強しようと考えたときに、TruffleBoxs が良いのではと思い立ちました。 まずは、純粋に TruffleBox (React&amp;amp;Truffle)を用いたDockerでのdapps（ブロックチェーンアプリ）の開発環境の構築 https://qiita.com/dl10yr/items/26b106d27a2de87da131 こちらをなぞらせていただ</description></item><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。 ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。 試して学ぶ スマートコントラクト開発 新品価格 ￥3,839から (2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思</description></item><item><title>2020年1月　台北旅行</title><link>https://jqinglong.github.io/programmers-office/2020%E5%B9%B41%E6%9C%88%E3%80%80%E5%8F%B0%E5%8C%97%E6%97%85%E8%A1%8C/</link><pubDate>Sun, 23 Feb 2020 05:14:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/2020%E5%B9%B41%E6%9C%88%E3%80%80%E5%8F%B0%E5%8C%97%E6%97%85%E8%A1%8C/</guid><description>旅行の記録も残しておきたいのですが、行って満足して終わってしまうのですよね。 この3連休で台湾に行く予定にしていましたが、コロナウイルスの影響が怖く、キャンセルしてしまいました。 台湾以外にも色々行っていますが、いったん直近の台北の記録をまとめ</description></item><item><title>AppSheetによるノーコード開発</title><link>https://jqinglong.github.io/programmers-office/appsheet%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA/</link><pubDate>Sun, 26 Jan 2020 02:43:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/appsheet%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA/</guid><description>ローコード開発とかノーコード開発とかコードレス開発とか、盛り上がりそうな、盛り上がらなそうな微妙な感じがつづているように思いますが、いかがでしょうか。 そんな中で、GoogleがAppSheetを買収しました。 AppSheet の買収によりコーディングなしで</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2020 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2020/</link><description>Recent content in 2020 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 10 Aug 2020 03:02:23 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2020/index.xml" rel="self" type="application/rss+xml"/><item><title>React にも入門</title><link>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</link><pubDate>Mon, 10 Aug 2020 03:02:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</guid><description>浮気症は治らず、今度は React にも手を出してみます。 React のチュートリアル まずはチュートリアル。 チュートリアル：React の導入 が、始めようとすると、ちゃんと JavaScript は抑えてねと。 なので、先にこちら。 JavaScript 「再」入門 Next.js のチュートリアル それぞれ、特に問題なく終了したので、すかさず Next.js に入ります。 大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました 途中、下記のエラーに悩まされました。 Failed to compile ./lib/posts.js Module not found: Can't resolve 'fs' in '/Users/konnokiyotaka/workspace/ReactTutorial/nextjs-blog/lib' 色々情報漁りましたが、結局は getStaticProps が getStaticprops になっていたのが原因。（大文字小文字） configに "fs": false を書くとか、 target: &amp;#8216;node&amp;#8217; を書くとか不要でした。 getStaticProps は サーバサイドでのみ 実行される！ 覚えておきましょう。 デプロイのところも、みんな Git は普通に使えるよね、というトーンなので、若干調べながらになりました。 こんな感じになりますね。 git checkout -b test1 # （いくつか変更を加えて、GitHub に push する） git push origin test1 TypeScript への変換は、まあそんな感じかということで途中でやめてしまいました。 が、やはり TypeScript の方が良いよなとは思っています。 git mv components/date.</description></item><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。
+超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)
+以前、AWSの講座を受講した時も、感じましたが、I am Now AWS Certified ・本題以外の技を見せてもらえることがある。
+・再生速度を上げて時短できる
+・やはり動く様子を見られるのは良い
+など、本を読んだり、教室で受講するのとは違った良さがあります。
+また、無料のものをあれこれ探して回り道するくらいなら最初からこれ受けとけばよかった、という気持ちにもなりました。
+※ただ、Udemyであれ他であれ、全ての講座が良いとも思えないので、審美眼（審技眼？）は必要ですね。
+以下は、単なるメモです。何の役にも立たないと思いますが、自分用です。
+受講時のメモ https://jsfiddle.net/
+!tab
+インスタンス内の属性にアクセスする際にthis
+v-once
+v-bind :
+v-onの引数となるDOMイベント一覧
+イベントリファレンス
+$event
+イベント修飾子
+stop
+prevent
+v-on @
+算出プロパティ
+computed property
+ウォッチャ
+配列は第２引数がインデックス
+オブジェクトは第２引数がキー
+data:
+の中がリアクティブ（getter,setterがインスタンス作成時に作成されるから）
+===
+型も値も一緒
+div.#3
+↓
+VNode
+仮想ノード
+コンポーネントのグローバル登録
+main.jsでVue.conponent</description></item><item><title>Realworld app – VueJS and Typescript</title><link>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</link><pubDate>Sun, 19 Apr 2020 09:00:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</guid><description>今度はTypescript https://github.com/gothinkster/realworld-starter-kit
+Part 1 : Introduction and Vue CLI Setup $ vue create realworld-vue-ts vue-class-component
+create component の代わりに@Component
+vue-property-decorator
+@Propなど
+vuex-module-decorators
+@module
+$ yarn serve 今回はyarn派なんですね
+$ yarn add vue-property-decorator $ yarn add vuex-module-decorators Part 2 : Templates and Styling router.ts がなくなっていて、router/index.ts
+VSCode command + D で複数選択
+Part 3 : Vuex and API Access https://github.com/gothinkster/realworld/tree/master/api
+json to ts
+https://jvilk.com/MakeTypes/
+$ yarn add axios axios npm
+JWT JSON Web Token</description></item><item><title>Vue JS Crash Course</title><link>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</link><pubDate>Sat, 18 Apr 2020 07:40:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</guid><description>こちらのコースをやってみました。以下、単なるメモです。
+Vue JS Crash Course https://github.com/bradtraversy/vue_crash_todolist
+node10の頃
+Vue CLI インストール
+https://cli.vuejs.org/guide/installation.html
+$ npm install -g @vue/cli $ vue --version @vue/cli 4.3.1 4なんだ・・・
+$ vue create test いっぱいエラー出てるけど・・・ $ cd test $ npm run serve 開きました
+cd .. vue ui Vue プロジェクトマネージャ 画面が自動で立ち上がる
+http://localhost:8000/project/select
+現在のフォルダのまま（testが表示されているフォルダ）
+vue_crash_todolist
+他はデフォルト
+↓
+デフォルトプリセット
+↓
+インストール完了すると、「プロジェクト ダッシュボード」ページが表示される
+ダッシュボード画面
+プロジェクトタスク画面
+main.js がエントリポイント
+アロー関数（=&amp;gt;）の復習などしながら（けど、render: h =&amp;gt; h(App)　はやはり難しいと思ったら下記でなんとなく分かった！）、App.vue の仕組みの説明。
+Vue.jsのrender: h =&amp;gt; h(App)について調べた
+style記述は、上記のgithubからもらってくる。
+Component「Todos.vue」を作って、App.vueで読み込む。
+v-bind
+https://jp.vuejs.org/v2/guide/class-and-style.html</description></item><item><title>Nuxt JS beginner tutorial</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</link><pubDate>Fri, 17 Apr 2020 01:16:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</guid><description>もう一度、Nuxt の勉強をしようということで、上記チュートリアルを一式やって見ました。単なるメモです。
+1 Nuxt JS beginner tutorial – In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family What is Nuxtjs? Why Nuxt.js is so good? What Nuxt.js can do? What Nuxt.js Includes
+How single page application works?
+How static site generation in nuxt works?
+How universal application is created in nuxtjs?
+2 Nuxt JS beginner tutorial – Getting Started with NuxtJs | How to setup Nuxt Project 始める前に、Docker環境を作る</description></item><item><title>TruffleBoxs 入門</title><link>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</link><pubDate>Mon, 23 Mar 2020 07:52:01 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</guid><description>改めて勉強しようと考えたときに、TruffleBoxs が良いのではと思い立ちました。
+まずは、純粋に
+TruffleBox (React&amp;amp;Truffle)を用いたDockerでのdapps（ブロックチェーンアプリ）の開発環境の構築
+https://qiita.com/dl10yr/items/26b106d27a2de87da131
+こちらをなぞらせていただきます。
+いきなり、DockerFile の配置場所の絵と、docker-compose.yml の記述が食い違い？？
+docker-compose.yml の記述に合わせて、truffle フォルダに配置します。
+Dockerfile のfは小文字で
+$ docker-compose build $ docker-compose run truffle truffle unbox react Docker 側からアクセスできるように、Ipアドレスを追加するところ。
+まずは、事前確認。
+ifconfig lo0: flags=8049 mtu 16384 options=1203 inet 127.0.0.1 netmask 0xff000000 inet6 ::1 prefixlen 128 inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 nd6 options=201 ・・・ 変更
+sudo ifconfig lo0 alias 10.200.10.1/24 事後確認
+ifconfig lo0: flags=8049 mtu 16384 options=1203 inet 127.0.0.1 netmask 0xff000000 inet6 ::1 prefixlen 128 inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 inet 10.</description></item><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。
+ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。
+試して学ぶ スマートコントラクト開発 新品価格
+￥3,839から
+(2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思い立ち、CryptoZombieshttps://cryptozombies.io/jp/をやってみて、分かったような分からないような気分だったので、もう少しちゃんと勉強しようと調べてみました。で、当然色々なサイトがありますが、何も基礎がない状態だと、もう少ししっかり書かれているものがないかなと言う気持ちになり、この本に出会いました。
+この本はQUESTというアプリを作った経験を踏まえて書かれているようです。
+で、残念ながらQUESTは現在動いていないよう（単に証明書入れていないだけ？）なのですが、こちらでその概要が分かります。
+https://speakerdeck.com/norinity1103/quest-tutorial
+すなわち、セミナーとか講座とかで、質問してくれた人に仮想通貨で報酬を与えることで、場を活性化させるみたいなことを狙っているようです。
+この内容が自分の関心があるところでもあり、これの簡易版でも作れたら良いなと思いながら始めました。
+本の序盤 そもそも仮想通貨の購入等もしたことがない状態からのスタートですので、この本でも最初の基礎情報と、METAMASKウォーレット作成から始まる構成は大変助かりました。
+なお、テストネットでEther取得を行いますが、最初Ropstenの取得に失敗しました。今改めてやってみたらできたので、何かやらかしたかもしれません。
+本の中でも、CryptoZombies をやってみる章があります。
+これは、本当は、CryptoZombies のWeb環境ではなく、自分の環境でやってみたいと思うのですが。もう少し理解が進んだらできるようになるのでしょうか。
+そんなこんなで、Solidityという言語と、スマートコントラクトと言うものを学びます。が、正直、現段階でも、要はこう言うこと、という腹落ちした状態にはなっていません・・・
+また、Remix という、イーサリアム開発用のWeb IDE が紹介されます。
+これも良いなと思ったのですが、その後の開発は必ずしもそれを使用するわけではないので、まあ、参考情報という感じです。ちょっと見た目も変わっていて、Compileタブどこ？となります。
+その次は、プロダクトデザインの考え方（UX）の章になります。
+ジャーニーマップとか、ユーザテストとかの考え方が、丁寧に書かれています。
+開発環境 Chapter 4 あたりからが本題。
+開発環境として書かれているのが、
+・Docker
+・Geth
+・Ganache
+・Node.js
+・Truffle
+・Git
+・VSCode
+実践型の環境と感じられます。
+そして、開発用ブロックチェーンをプライベートネットとして構築します。
+これをやっているときに一つエラーが発生。
+geth --datadir ~/private-net --nodiscover --maxpeers 0 init ~/private-net/genesis.json とやると
+INFO ・・・ Fatal: Failed to write genesis block: unsupported fork ordering: eip150Block not enabled, but eip155Block enabled at 0 https://ethereum.</description></item><item><title>2020年1月　台北旅行</title><link>https://jqinglong.github.io/programmers-office/2020%E5%B9%B41%E6%9C%88%E3%80%80%E5%8F%B0%E5%8C%97%E6%97%85%E8%A1%8C/</link><pubDate>Sun, 23 Feb 2020 05:14:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/2020%E5%B9%B41%E6%9C%88%E3%80%80%E5%8F%B0%E5%8C%97%E6%97%85%E8%A1%8C/</guid><description>旅行の記録も残しておきたいのですが、行って満足して終わってしまうのですよね。
+この3連休で台湾に行く予定にしていましたが、コロナウイルスの影響が怖く、キャンセルしてしまいました。
+台湾以外にも色々行っていますが、いったん直近の台北の記録をまとめておきます。
+インフォメーション 飛行機 往路
+ピーチ･アビエーション · MM627
+2020年1月3日 22:20 NRT 成田国際空港 T3
+2020年1月4日 01:45 TPE 台湾桃園国際空港 T1
+復路
+ピーチ･アビエーション · MM620
+2020年1月6日 02:30 TPE 台湾桃園国際空港
+2020年1月6日 06:35 NRT 成田国際空港 夜の桃 以前、金曜夜に会社から直行し月曜朝に直接出勤とか、日帰りとかやりましたが、今回も1泊4日のなかなかの強行日程。
+帰りの便が整備・燃料の問題で大幅に遅れて会社遅刻になってしまいましたが、宿泊料を抑えて最大限満喫しようとしたらこれがmaxではないでしょうか。
+最近は航空券はTrip.comに依存しています。
+（Trip.comもアフィリエイトやってますね。海外のアフィリエイトサイトを経由するようなので、気が向いたらやってみよう） ホテル 一方ホテルはトラブル発生。
+最初は、桃園近くのMRT環北駅付近で探して、友人から勧められたホテルは満室だったため、値段重視で、Expediaでグッド ナイト ホテル (晚安旅店)というホテルを予約しました。
+ところが、予約後に表示されるページからリンクされる地図は全く違う場所。MRT環北まで来て、だいぶ歩いて、さらに電車で2駅。あるいは環北から車で30分近く。確かにキャンセル不可の予約でしたが、これはそもそもの前提が違うという事で、メールしたり電話したり。なかなか理解してもらえず出発まで結局決着は付きませんでしたが、旅行中にキャンセル通知が入ったので、とりあえずよかった・・・と思って、公開するのもやめておこうかと思ったのですが、今見てみても予約前のページの情報は書き換えられていない。少しでも被害者を減らすために公開してしまいます。 結局ホテルもTrip.comで、たまたまですが、以前（杨丞琳演唱会https://www.programmers-office.ml/%e6%9d%a8%e4%b8%9e%e7%90%b3%e6%bc%94%e5%94%b1%e4%bc%9a/）も泊まったサントス国際観光ホテル（台北三德大飯店）。激安ではないですが、そこそこの値段できれいです。 移動 夜中に空港について、台北へ移動。事前情報では夜中でもバスがあるという事だったのですが、バスの窓口は松山行きの窓口しか開いてなく、台北行き6時の文字が目に入って、あれ？と思い、400元のタクシーに乗りそうになりましたが、よく見てるとちゃんと2:30、2:50のバスもある。140元で台北に移動しました。 今回の主目的は、桃園国際棒球場でのコンサート。MRTで行くと空港よりも先ですが、検索して見ると、高鉄（新幹線）で行ってもそんなに料金は変わらず、だいぶ早いので、そちらにしました（台北から行って、空港、棒球場、高鉄桃園、という順番です）。帰りは混むと思ってMRTにしましたが、やはり遠いですね・・・ 両替 以前のお金が残っていたので、空港では両替せず、街に向かい、誠品書店内のATMでキャッシングしました。 クレジットカードキャッシング
+5000
+18105</description></item><item><title>AppSheetによるノーコード開発</title><link>https://jqinglong.github.io/programmers-office/appsheet%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA/</link><pubDate>Sun, 26 Jan 2020 02:43:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/appsheet%E3%81%AB%E3%82%88%E3%82%8B%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA/</guid><description>ローコード開発とかノーコード開発とかコードレス開発とか、盛り上がりそうな、盛り上がらなそうな微妙な感じがつづているように思いますが、いかがでしょうか。
+そんな中で、GoogleがAppSheetを買収しました。
+AppSheet の買収によりコーディングなしでのアプリケーションの作成と拡張が可能に
+早速試してみた内容はQiitaに書きました。
+AppSheet ちょっと面白いかも
+マネタイズの仕組みはまだですかね。2019年2月時点でのQA。
+https://community.appsheet.com/t/hi-appsheet-is-great-i-never-made-apps-be/5531
+上記Googleの投稿によれば、「この買収によりお客様は、すでに馴染みのある Google スプレッドシートや Google フォームだけでなく、Android や Google マップ、Google アナリティクスなどの高度な Google テクノロジーも活用して、高度なアプリケーションを大規模に開発できるようになります。」と書かれていますが、現時点ではGoogle アナリティクスと連携するような機能が提供されているわけではなさそう。
+もう少し様子見ながら注視しておこうと思います。</description></item></channel></rss>

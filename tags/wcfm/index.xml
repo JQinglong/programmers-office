@@ -1,1 +1,196 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WCFM on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wcfm/</link><description>Recent content in WCFM on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 10 Feb 2019 21:15:02 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wcfm/index.xml" rel="self" type="application/rss+xml"/><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。 お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払わ</description></item><item><title>PayPal決済の準備</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</link><pubDate>Sat, 09 Feb 2019 01:15:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</guid><description>次は、WooCommerce・WCFM Marketplace からのPayPal決済連携を試したいと思いますが、その前にPayPal決済環境の準備。 PayPal Sandbox 当然、いきなり決済を開始できるわけではないので、まずはお試しをしたい。 そのために、Sandbox環境が用意され</description></item><item><title>WCFM Marketplace ショップページ</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</link><pubDate>Sun, 03 Feb 2019 01:26:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</guid><description>WCFM Marketplaceの設定。各ショップページの設定。 基本的には、Marketplace→Vndorsで設定していきます。 デモサイトのこちらの見た目を参考にします。 http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/ 気になる点は二つ。 一つは、STORE HOURS。 WCFM MARKETPLACE – STORE HOURS https://wclovers.com/knowledgebase/wcfm-marketplace-store-hours/ これを見ると</description></item><item><title>WCFM Marketplace 地図の表示〜Places API</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</link><pubDate>Sat, 02 Feb 2019 23:44:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</guid><description>地図のプラグインMAPPRESS GOOGLE MAPを入れて、API Keyを設定すると、地図自体は表示されるけれども、入力した住所と連動してくれないという状態でした。 で、productsの地図を入力しようとすると、このようなエラーが。 Google Maps API Key error: please enable the Places</description></item><item><title>WCFM Marketplace Homepage設定</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</link><pubDate>Thu, 31 Jan 2019 16:00:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</guid><description>Homepageに表示する固定ページ 設定画面のReadingから「Homepage」にショップページを指定します。 最初Wordpressインストール時に日本語指定していたからか、日本語になってしまってますが、WooCommerce本体として</description></item><item><title>WCFM Marketplace サイト構成</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</link><pubDate>Wed, 30 Jan 2019 14:56:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</guid><description>WCFM Marketplaceならではのサイト構成をどう考えるか。 デモサイトを見ると、まず、HOMEPAGEとしては、色々なショップの商品一覧。 http://wcfmmp.wcfmdemos.com/ 地図があって、検索条件項目があって、商品写真が並ぶ。 妥当ですね。 ヘッダのリンクは管理画面のリンクも混</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。 ということで、WooCommerce用テーマの選択。 最初使ってみたのはこちら。 THESHOP https://athemes.com/theme/theshop/# おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピー</description></item><item><title>WCFM Marketplace 最初の一歩</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</link><pubDate>Sat, 26 Jan 2019 13:10:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</guid><description>WooCommerce Multi vendor Marketplace (WCFM Marketplace)を使うにあたって、どこから始めれば良いか。 日本語情報は早々に諦めて、手探りで始めます。 管理画面 WPのダッシュボードはこんな感じになります。 そして、「Marketplace」からWCFM Marketplace</description></item><item><title>WooCommerceのマルチベンダープラグイン</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</link><pubDate>Sun, 20 Jan 2019 13:18:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</guid><description>ということで、改めて、WooCommerceのテスト環境を構築しましたが、マルチベンダー構成にするためのプラグインについては、もう少し検討したいと思います。 プラグイン画面で、「multi vendor」で検索すると、いくつかヒットします。この</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WCFM on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wcfm/</link><description>Recent content in WCFM on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 10 Feb 2019 21:15:02 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wcfm/index.xml" rel="self" type="application/rss+xml"/><item><title>PayPal決済の導入</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</link><pubDate>Sun, 10 Feb 2019 21:15:02 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E5%B0%8E%E5%85%A5/</guid><description>WooCommerce・WCFM Marketplaceサイトに、PayPal決済を導入します。
+お金の動き WooCommerceとして、こういうのを本当は簡単にまとめて欲しいわけですが・・・まず、購入者がPayPalを使って支払う、この支払われたお金は、どこに行くべきか。
+WooCommerceだけで考えるなら、このサイト開設者＝店舗なので、そこに行けば良いわけですが、Marketplaceの場合は、基本的には店舗に行きつつ、システム利用料（コミッション）がサイト開設者に行くべきとなります。
+で、最終的にはそうなのですが、では、具体的にPayPalの設定は誰のアカウントで設定すべきなのか。店舗ごとに設定するのは大変ではないですか？と考えると、開設者のアカウントで設定し、一旦開設者に支払われた後、店舗に利用料を差し引いた分が支払われる？
+そんなことを考えながら、進めます。
+上記の予想から考えると、サイトとしての設定はWooCommerceとしてやるべきだろうということと、WooCommerceの方が情報が多いので、それをやってみましょう。
+WooCommerceのPayPal設定 ダッシュボードから、WooCommerce→Settings→Paymentsと進むと、支払い方法を選択する画面になります。
+たくさん・・・Paypalは二つ、Stripeはたくさん・・・
+さて、PayPalには、PayPalという、いわゆるPayPal Standardと、PayPal Checkoutというものがあります。
+この違いは何か。
+開発者向けTOP（導入方法・技術情報）-PayPal(ペイパル)
+https://www.paypal.com/jp/webapps/mpp/developer
+このページの「簡単決済ボタン」と「API決済」に対応するということですね。
+簡単決済は、いったんPayPalサイトに飛んで行って戻ってくるタイプ。
+API決済はどこまで裏でできることになるか分かりませんが、「よりセキュリティーが高く、画面遷移が少ないため、成約率のアップが期待でき、カゴ落ち率の減少に貢献します。」とのことです。
+PayPal Standard（簡単決済ボタン） とりあえず、簡単そうな方から。
+Payment methods画面のPayPalの文字、または右端のSetupボタンから、設定画面に移動します。
+「PayPal email」に、PayPalサイトの「Sandbox Accounts」で確認した、BUSINESSのアドレスを登録します。
+そして、「PayPal sandbox」にチェックします。
+「Receiver email」にもBUSINESSアドレスを登録。
+「PayPal identity token」は、PayPal画面で確認。
+Sandboxのダッシュボードの右上歯車アイコンで、アカウント設定画面に入ります。
+左メニューから「アカウント設定」→「販売ツール」→「ウェブサイトの設定」で、
+「ウェブペイメントの設定」という画面に入ります。
+ここで、自動復帰：オン、復帰先は、サイトのトップにしてみます、そして、支払いデータ転送：オンにすると、IDトークンが表示されます。
+あまり日本語情報ないなと思っていましたが、こちらが参考になりました。
+https://e-yota.com/webservice/wooccommerce_paypal_standard_payment/
+いったんは、これで動作するのではないか、ということで、試してみます。
+商品をカートに入れて、支払い画面に遷移すると、注文者情報入力欄の右側に、下記のようなエリアが現れます。
+・・・おっと、これだと配送方法が決定できず、支払いに進めませんので、先にそちらの設定をします。</description></item><item><title>PayPal決済の準備</title><link>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</link><pubDate>Sat, 09 Feb 2019 01:15:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/paypal%E6%B1%BA%E6%B8%88%E3%81%AE%E6%BA%96%E5%82%99/</guid><description>次は、WooCommerce・WCFM Marketplace からのPayPal決済連携を試したいと思いますが、その前にPayPal決済環境の準備。
+PayPal Sandbox 当然、いきなり決済を開始できるわけではないので、まずはお試しをしたい。
+そのために、Sandbox環境が用意されています。
+いつも、PayPalにログインするものの、開発者サイトへの入り口に悩んで、結局ググって直接、飛んでいく。
+PayPal Developer
+https://developer.paypal.com/
+PayPal、仕組み自体は開発者に優しいと思いますが、Webサイトはあまり優しくない。
+PayPal Developerにログインしたら、右上にログイン者の情報が表示されるエリアがあるので、その中のDashboard。
+そこから先は、こちらなどを参考に。
+https://qiita.com/PPJP/items/6ba65ed21da7fba65586
+ポイントとして、gmailのアドレスでは、「＋」記号を使ってエイリアスを自動的に作ってくれるところ。これで、買い手用のアカウントと売り手用のアカウントをそれぞれ作ります。
+アカウントを作成したら、Sandboxサイトにログインしてみます。
+https://www.sandbox.paypal.com/jp/webapps/mpp/home
+これも、Sandboxだと分かるようにしてくれれば良いと思うのですが、本番サイトさながらのページ。
+URLを確認しながら、ログインし、トップページのダッシュボードを確認します。
+私の場合、アカウントは以前作ってあったのですが、どこから情報を確認したらよかったんだっけ、という状態でしたので、その場合は、PayPal Developerにログインし、ダッシュボードでアカウントを確認し、そのアカウントで、Sandboxサイトにログインする、ということになります。
+このアカウントを使って、決済連携を試してみます。</description></item><item><title>WCFM Marketplace ショップページ</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</link><pubDate>Sun, 03 Feb 2019 01:26:35 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8/</guid><description>WCFM Marketplaceの設定。各ショップページの設定。
+基本的には、Marketplace→Vndorsで設定していきます。
+デモサイトのこちらの見た目を参考にします。
+http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/
+気になる点は二つ。
+一つは、STORE HOURS。
+WCFM MARKETPLACE – STORE HOURS
+https://wclovers.com/knowledgebase/wcfm-marketplace-store-hours/
+これを見ると、2ヶ所の設定だけで良さそう。念のためと思って、ベンダーユーザでログインしてこのヘルプページと同じ画面でも確認してみましたが、設定はされているけど、公開ショップページには表示されない。
+この辺は、おそらく使用しているテーマにも関係してくる。
+Shop Isleを使っている訳ですが、テーマのカスタマイズで、「Vendor Store Sidebar」という設定項目があり、そこで、Store Hoursを追加できます。
+で、これをやると表示されるようになった訳ですが、ただ、元々表示されていた、商品カテゴリー表示とか、店舗地図とかが消えちゃった。
+まあ、あまりデフォルト表示に頼るのもどうかというのもあるので、必要な表示をここに追加していくことで、だいぶ見た目も整ってきました。
+※用意されているウィジェットも豊富です。
+もう一点は、ABOUTとPOLICIESの入力場所。
+これは、どうやら管理者ログインだと表示されないようで、ベンダーログインして設定。
+管理者は全部できるようにしておいて欲しい気もしますが、まあ、良いかと思います。</description></item><item><title>WCFM Marketplace 地図の表示〜Places API</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</link><pubDate>Sat, 02 Feb 2019 23:44:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E5%9C%B0%E5%9B%B3%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%80%9Cplaces-api/</guid><description>地図のプラグインMAPPRESS GOOGLE MAPを入れて、API Keyを設定すると、地図自体は表示されるけれども、入力した住所と連動してくれないという状態でした。
+で、productsの地図を入力しようとすると、このようなエラーが。
+Google Maps API Key error: please enable the Places API in the Google Developer Console. すなわち、Google Maps Platformという大きな括りの中で、大きく三つのサービスが提供されています。そして、そのうちの一つが、Places APIです。
+https://cloud.google.com/maps-platform/products/?hl=ja
+たしかに、3つ目をチェックしなかった気がします。
+改めて、有効にするのはこちらの画面から。
+無事連動するようになりました。</description></item><item><title>WCFM Marketplace Homepage設定</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</link><pubDate>Thu, 31 Jan 2019 16:00:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-homepage%E8%A8%AD%E5%AE%9A/</guid><description>Homepageに表示する固定ページ 設定画面のReadingから「Homepage」にショップページを指定します。
+最初Wordpressインストール時に日本語指定していたからか、日本語になってしまってますが、WooCommerce本体としてのトップページであり、これがWCFM Marketplaceでは、全店舗横断の商品ページ、という位置付けになります。
+「Posts page」は指定すると、その画面はブログページになってしまうので、必要な場合はそれ用の固定ページを作る、ブログが不要な場合は非表示のページを指定しておく、というような形で良いかと思います。
+地図 今日のメインは地図。
+地図の表示にあたっては、他のプラグインとの連携が考えられているようです。
+DOCUMENTATION
+https://wclovers.com/knowledgebase/
+この中で、INTEGRATIONSに挙げられている地図関連のものが3つ。
+どれを使っても良いのかなというのは、それぞれの紹介文面から見て取れます。
+WCFM – MAPPRESS GOOGLE MAP
+https://wclovers.com/knowledgebase/wcfm-mappress-google-map/
+In recent days Map – Google Map is very much essential to inform about your store/product location to your customers. “MapPress Easy Google Map” is one of the most easiest and user friendly plugin to do so. You can associate any number of maps with your product and also allowed any no of points within a single map, isn’t it really cool!</description></item><item><title>WCFM Marketplace サイト構成</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</link><pubDate>Wed, 30 Jan 2019 14:56:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E6%88%90/</guid><description>WCFM Marketplaceならではのサイト構成をどう考えるか。
+デモサイトを見ると、まず、HOMEPAGEとしては、色々なショップの商品一覧。
+http://wcfmmp.wcfmdemos.com/
+地図があって、検索条件項目があって、商品写真が並ぶ。
+妥当ですね。
+ヘッダのリンクは管理画面のリンクも混在していますが、コンシューマ画面と考えた場合に必要なのは、ショップ一覧というのは先日も書いたところ。
+https://www.programmers-office.ml/2019/01/26/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/
+上記デモサイトでは「STORES」から遷移する画面。
+http://wcfmmp.wcfmdemos.com/stores/
+こちらも、地図があって、左サイドにショップの検索項目と、お勧めショップがあって、メインにショップの写真一覧が並ぶ。妥当。
+次に必要なのは、各ショップのページ。
+デモサイトで一例を見る。
+http://wcfmmp.wcfmdemos.com/store/wcfm-vendor/
+ヘッダに写真があって、左サイドに商品検索、クーポン、営業時間情報、カテゴリ、その他のショップのお勧め、地図、商品おすすめ。メインに商品を並べて、タブ切り替えで、店舗情報、レビュー等。
+妥当。
+そして、商品情報。
+http://wcfmmp.wcfmdemos.com/product/olive-oil/
+とりあえず、全体的にオーソドックスで良いと思いますので、この構成を一つずつ作っていきたいと思います。</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。
+ということで、WooCommerce用テーマの選択。
+最初使ってみたのはこちら。
+THESHOP
+https://athemes.com/theme/theshop/#
+おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピールされすぎている感が気になりました。
+そしてもう少し探してみて見つけたのがこちら。
+ShopIsle
+https://docs.themeisle.com/article/184-shopisle-documentation
+https://ja.wordpress.org/themes/shop-isle/
+以前、別のサイトを作るときに、IsleMagというテーマを使ったことがあります。
+https://ja.wordpress.org/themes/islemag/
+カラフルな見た目が気に入りました。
+このサイトでも使おうと思いましたが、投稿日の表示のされ方だけ、ほんのちょっと気になって、また、現在使用しているMesocolumnがよりカラフルだったのでこちらにしたのですが、情報量の多さではIsleMagの方が強いので、実は今でも気になっています。
+（ただ、今ちょっと調べてみると、This theme has been retired.となってしまっていますね。2019/1/28に更新されているのに？？謎・・・
+https://themeisle.com/themes/islemag/
+）
+で、名前から分かるように同じ作者のeCommerce WordPress Themeとして提供されているものが、ShopIsleな訳です。
+こちらの日本語情報も一通りの確認をするのに良さそうです。
+https://lightup-works.com/shopisle
+Islemagに比べれば情報はかなり少なくなりますが、共通知識も使えるのではという期待も込めて、使ってみたいと思います。
+なお、他にテーマを探したい方は、こちらも参考になりそうです。THESHOPもShopIsleも紹介されています。オンラインストアの構築に最適！すべて無料のおすすめWordPressテーマ20選</description></item><item><title>WCFM Marketplace 最初の一歩</title><link>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</link><pubDate>Sat, 26 Jan 2019 13:10:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wcfm-marketplace-%E6%9C%80%E5%88%9D%E3%81%AE%E4%B8%80%E6%AD%A9/</guid><description>WooCommerce Multi vendor Marketplace (WCFM Marketplace)を使うにあたって、どこから始めれば良いか。
+日本語情報は早々に諦めて、手探りで始めます。
+管理画面 WPのダッシュボードはこんな感じになります。
+そして、「Marketplace」からWCFM Marketplaceのメニューに移ります。
+手順としては、やはりVendorsから始めます。
+登録内容自体は見れば分かるレベルなので良いですが、ドキュメント検索しても見つからないのは、ちょっと不安・・・。
+商品 次にProducts。
+の前に、Categories。これが最初分かりにくかったですが、Productsメニューの中にあります。要するに、WooCommerceの機能なのか、Marketplaceの機能なのかを意識しながら考えることが必要です。
+Productsについては、商品の種類を選択して、基本内容を登録し、バリエーション商品の場合は、属性を登録して、その属性によって金額等のバリエーション情報を登録。
+この辺の仕組みは、WC Marketplaceでも同じ。というか、それはWooCommerceの機能ですね。
+https://www.programmers-office.ml/2019/01/14/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/
+ちなみに、Welcartとかだと、バリエーションの分SKUコードを振って、それごとに金額等を設定。
+https://www.welcart.com/documents/manual-2/%E5%95%86%E5%93%81%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC
+Magento もそうでしょう。その方がきっちりと管理できるのでしょうが、ちょっと面倒。必要なければ内部管理でも良いのでは、と思います。
+そして、商品登録については、当然CSV等によるインポートが必要かと思います。
+しかし、Product CSV Import機能は、ULTIMATEの機能だと言われます。
+そんな・・・
+WOOCOMMERCE FRONTEND MANAGER – ULTIMATE
+https://wclovers.com/product/woocommerce-frontend-manager-ultimate/
+と思いきや、商品の基本情報について言えばWooCommerceの機能な訳なので、メインダッシュボードの方のImport機能は使えます。
+ですので、そちらでImportして、どの店舗の商品化の情報だけ後で加える、という方法も不可能ではないですね。けど大量だとやはり厳しいので、ULTIMATEは購入しても良いのかもしれません。49ドルは良心的でしょう。
+そうすると、とりあえず、公開ページも見えるようになってきます。
+基本の商品ページだと、色々なショップの商品が混在で表示され、ショップ名をクリックするとそのショップの情報とそのショップの商品が表示される。これは予想通り。良い感じかなと思います。
+ショップ一覧表示ショートコード 一つやっておきたいのが、ショップ一覧。
+これはショートコードが提供されているので、それを使います。
+WCFM MARKETPLACE – STORE, WIDGETS &amp;amp; SHORT CODES
+https://wclovers.com/knowledgebase/wcfm-marketplace-widgets-short-codes/
+[wcfm_stores]というショートコードが提供されており、１行あたりの表示店舗数がデフォルト2になっているので、「per_row」という属性が用意されています。属性の使い方は、通常のWordpressのショートコードの作法を確認して、[wcfm_stores per_row=3]とします。
+これはまあこんな感じでしょう。
+デモサイトだとこんな感じ。
+http://wcfmmp.wcfmdemos.com/stores/</description></item><item><title>WooCommerceのマルチベンダープラグイン</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</link><pubDate>Sun, 20 Jan 2019 13:18:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/</guid><description>ということで、改めて、WooCommerceのテスト環境を構築しましたが、マルチベンダー構成にするためのプラグインについては、もう少し検討したいと思います。
+プラグイン画面で、「multi vendor」で検索すると、いくつかヒットします。この上位4件は割とインストール数も多いですし、更新頻度も高そうです。
+いずれも、日本語対応は弱いので、優劣付けづらいのですが、概ね下記のような感じかと思います。
+WC Marketplace
+製品サイト
+https://wc-marketplace.com/
+デモサイト
+http://wcmpdemos.com/WCMp/
+アドオン
+https://wc-marketplace.com/addons/
+ドキュメント
+https://wc-marketplace.com/knowledgebase/
+・プラグイン自体は無償で、アドオンは有償（割と高め）が多い
+・WooCommerce自体にはstripeの追加プラグインがあるのに、これ用には別途有償アドオンが必要？
+・見た目はそれほど良くはないかな。テーマが豊富に公開されているのは良いけど、ほとんど有償？
+https://wc-marketplace.com/third-party-themes/
+WooCommerce Multivendor Marketplace
+製品サイト
+https://wordpress.org/plugins/wc-multivendor-marketplace/
+デモサイト
+http://wcfmmp.wcfmdemos.com/stores/
+アドオン
+https://wclovers.com/addons/
+ドキュメント
+https://wclovers.com/knowledgebase/
+・アドオンは少ないけど、安価
+特にデリバリ機能のアドオンが魅力的
+・オープンソース
+WC Vendors Marketplace 製品サイト
+https://www.wcvendors.com/
+アドオン
+https://www.wcvendors.com/extensions/
+ドキュメント
+・デモが公開されていないのはなんともしがたい
+・製品自体は、Free版とPro版になっていて、かなりお金がかかりそう
+Dokan
+製品サイト
+https://wedevs.com/dokan/
+デモサイト
+https://dokandemo.wedevs.com/?utm_campaign=dokan_demo_users&amp;amp;utm_medium=dokan_demo_link&amp;amp;utm_source=WordPress.org
+アドオン
+https://wedevs.com/dokan/modules/
+ドキュメント
+https://wedevs.com/docs/dokan/
+・見た目が美しい
+・これもお金はかかりそう
+・Free機能はオープンソース？
+https://github.com/weDevsOfficial/dokan
+結論 Dokanの見た目はかなり魅力的ですが、オープンソースで、追加アドオンも安価そうなWooCommerce Multivendor Marketplaceで進めてみたいと思います。
+小さなＥＣサイトのＷｏｒｄＰｒｅｓｓ＋Ｗｅｌｃａｒｔ導入・設定ガイド 自前でもできる！ /翔泳社/南部正光posted with カエレバ 楽天市場 Amazon 7net</description></item></channel></rss>

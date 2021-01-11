@@ -1,1 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/vue/</link><description>Recent content in Vue on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 25 Apr 2020 00:53:40 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/vue/index.xml" rel="self" type="application/rss+xml"/><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。 超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む) 以前、AWSの講座を受講した時も、感じましたが、I am Now AWS Certified ・本題以外の技を見せてもら</description></item><item><title>Realworld app – VueJS and Typescript</title><link>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</link><pubDate>Sun, 19 Apr 2020 09:00:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</guid><description>今度はTypescript https://github.com/gothinkster/realworld-starter-kit Part 1 : Introduction and Vue CLI Setup $ vue create realworld-vue-ts vue-class-component create component の代わりに@Component vue-property-decorator @Propなど vuex-module-decorators @module $ yarn serve 今回はyarn派なんですね $ yarn add vue-property-decorator $ yarn add vuex-module-decorators Part 2 : Templates and Styling router.ts がなくなっていて、router/index.ts VSCode command + D で複数選択 Part 3</description></item><item><title>Vue JS Crash Course</title><link>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</link><pubDate>Sat, 18 Apr 2020 07:40:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</guid><description>こちらのコースをやってみました。以下、単なるメモです。 Vue JS Crash Course https://github.com/bradtraversy/vue_crash_todolist node10の頃 Vue CLI インストール https://cli.vuejs.org/guide/installation.html $ npm install -g @vue/cli $ vue --version @vue/cli 4.3.1 4なんだ・・・ $ vue create test いっぱいエラー出てるけど・・・ $ cd test $ npm run serve 開きました cd .. vue ui Vue プロジェクトマネージャ 画面が自動で立</description></item><item><title>Nuxt JS beginner tutorial</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</link><pubDate>Fri, 17 Apr 2020 01:16:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</guid><description>もう一度、Nuxt の勉強をしようということで、上記チュートリアルを一式やって見ました。単なるメモです。 1 Nuxt JS beginner tutorial – In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family What is Nuxtjs? Why Nuxt.js is so good? What Nuxt.js can do? What Nuxt.js Includes How single page application works? How static site generation in nuxt works? How universal application is created in nuxtjs? 2 Nuxt JS beginner tutorial – Getting Started with NuxtJs | How to setup Nuxt Project 始</description></item><item><title>ぬるさくapi連携（失敗）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</link><pubDate>Sat, 15 Jun 2019 22:05:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</guid><description>前回からの続きぬるさく画面に再チャレンジ 固定値による画面表示はできたので、実際にapiからデータを取得しようとしました。しましたが、ハードル上げすぎて失敗したので、一旦ハードルを下げようと思いますが、まず失敗の記録をしておきます。 ページ、お</description></item><item><title>ぬるさく画面に再チャレンジ</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</link><pubDate>Sat, 08 Jun 2019 23:24:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</guid><description>以前Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 途中で分からなくなってしまい中断していましたが、改めてやってみようと思います。 まずは、Vuetifyのスライダーでの入力画面と、amChartsのグラフ表示。 router-linkに</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。 これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！ ご購入いただいた皆様、本当にありがとうございました！！！ BOOTHでのpdf販売を同時に開始しましたので ぜひ、#技術書典 にお越しいただ</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/vue/</link><description>Recent content in Vue on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 25 Apr 2020 00:53:40 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/vue/index.xml" rel="self" type="application/rss+xml"/><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。
+超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)
+以前、AWSの講座を受講した時も、感じましたが、I am Now AWS Certified ・本題以外の技を見せてもらえることがある。
+・再生速度を上げて時短できる
+・やはり動く様子を見られるのは良い
+など、本を読んだり、教室で受講するのとは違った良さがあります。
+また、無料のものをあれこれ探して回り道するくらいなら最初からこれ受けとけばよかった、という気持ちにもなりました。
+※ただ、Udemyであれ他であれ、全ての講座が良いとも思えないので、審美眼（審技眼？）は必要ですね。
+以下は、単なるメモです。何の役にも立たないと思いますが、自分用です。
+受講時のメモ https://jsfiddle.net/
+!tab
+インスタンス内の属性にアクセスする際にthis
+v-once
+v-bind :
+v-onの引数となるDOMイベント一覧
+イベントリファレンス
+$event
+イベント修飾子
+stop
+prevent
+v-on @
+算出プロパティ
+computed property
+ウォッチャ
+配列は第２引数がインデックス
+オブジェクトは第２引数がキー
+data:
+の中がリアクティブ（getter,setterがインスタンス作成時に作成されるから）
+===
+型も値も一緒
+div.#3
+↓
+VNode
+仮想ノード
+コンポーネントのグローバル登録
+main.jsでVue.conponent</description></item><item><title>Realworld app – VueJS and Typescript</title><link>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</link><pubDate>Sun, 19 Apr 2020 09:00:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/realworld-app-vuejs-and-typescript/</guid><description>今度はTypescript https://github.com/gothinkster/realworld-starter-kit
+Part 1 : Introduction and Vue CLI Setup $ vue create realworld-vue-ts vue-class-component
+create component の代わりに@Component
+vue-property-decorator
+@Propなど
+vuex-module-decorators
+@module
+$ yarn serve 今回はyarn派なんですね
+$ yarn add vue-property-decorator $ yarn add vuex-module-decorators Part 2 : Templates and Styling router.ts がなくなっていて、router/index.ts
+VSCode command + D で複数選択
+Part 3 : Vuex and API Access https://github.com/gothinkster/realworld/tree/master/api
+json to ts
+https://jvilk.com/MakeTypes/
+$ yarn add axios axios npm
+JWT JSON Web Token</description></item><item><title>Vue JS Crash Course</title><link>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</link><pubDate>Sat, 18 Apr 2020 07:40:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vue-js-crash-course/</guid><description>こちらのコースをやってみました。以下、単なるメモです。
+Vue JS Crash Course https://github.com/bradtraversy/vue_crash_todolist
+node10の頃
+Vue CLI インストール
+https://cli.vuejs.org/guide/installation.html
+$ npm install -g @vue/cli $ vue --version @vue/cli 4.3.1 4なんだ・・・
+$ vue create test いっぱいエラー出てるけど・・・ $ cd test $ npm run serve 開きました
+cd .. vue ui Vue プロジェクトマネージャ 画面が自動で立ち上がる
+http://localhost:8000/project/select
+現在のフォルダのまま（testが表示されているフォルダ）
+vue_crash_todolist
+他はデフォルト
+↓
+デフォルトプリセット
+↓
+インストール完了すると、「プロジェクト ダッシュボード」ページが表示される
+ダッシュボード画面
+プロジェクトタスク画面
+main.js がエントリポイント
+アロー関数（=&amp;gt;）の復習などしながら（けど、render: h =&amp;gt; h(App)　はやはり難しいと思ったら下記でなんとなく分かった！）、App.vue の仕組みの説明。
+Vue.jsのrender: h =&amp;gt; h(App)について調べた
+style記述は、上記のgithubからもらってくる。
+Component「Todos.vue」を作って、App.vueで読み込む。
+v-bind
+https://jp.vuejs.org/v2/guide/class-and-style.html</description></item><item><title>Nuxt JS beginner tutorial</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</link><pubDate>Fri, 17 Apr 2020 01:16:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-beginner-tutorial/</guid><description>もう一度、Nuxt の勉強をしようということで、上記チュートリアルを一式やって見ました。単なるメモです。
+1 Nuxt JS beginner tutorial – In Depth Intro to Nuxt.js | SPA, SSR, Static Site, Vue.js Family What is Nuxtjs? Why Nuxt.js is so good? What Nuxt.js can do? What Nuxt.js Includes
+How single page application works?
+How static site generation in nuxt works?
+How universal application is created in nuxtjs?
+2 Nuxt JS beginner tutorial – Getting Started with NuxtJs | How to setup Nuxt Project 始める前に、Docker環境を作る</description></item><item><title>ぬるさくapi連携（失敗）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</link><pubDate>Sat, 15 Jun 2019 22:05:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8Fapi%E9%80%A3%E6%90%BA%EF%BC%88%E5%A4%B1%E6%95%97%EF%BC%89/</guid><description>前回からの続きぬるさく画面に再チャレンジ 固定値による画面表示はできたので、実際にapiからデータを取得しようとしました。しましたが、ハードル上げすぎて失敗したので、一旦ハードルを下げようと思いますが、まず失敗の記録をしておきます。
+ページ、および、それに伴うストア等の分割 やろうとしていることは、
+Pagesの中に、boookフォルダと、todoフォルダを作って、それぞれのアプリを作った状態で、さらに、wineフォルダを作って、その中でぬるさく本のアプリを作ろうということです。
+pages |--Lauter | |--index.vue |--README.md |--book | |--books | | |--_id.vue | |--index.vue |--index.vue |--login.vue |--todo | |--index.vue |--wine | |--index.vue | |--result.vue store |--README.md |--book.ts |--counter.ts |--index.ts |--modules | |--todoTypes.ts | |--todos.ts | |--userTypes.ts | |--users.ts |--root.ts |--todo.ts |--wine.ts ただ、すでに作成しているtodoは一部きれいに分けきれずに、indexの中にtodo固有のものが残ってしまっています。
+また、wineについても、本の説明は、indexとして作っているサンプルがベースなので、まあ色々ハマりました。
+本の該当箇所は、「4.7 API に投げるために Vuex を実装しよう」のあたりです。やりたいのは、「v-for=”i in 11″」を「-for=”wineAttr in wineAttributes”」にする、ということです。
+apiについては、「http://0.0.0.0:5432/api/wine_attributes」が動いているのが前提です。
+最初はこの辺のエラー対応です。
+commons.app.js:21599 [vuex] unknown getter: GET_WINE_ATTR const gettersはexport const gettersにしないといけないのではないでしょうか。actionsも。自信はないですが、これにより呼ばれるようにはなりました。
+また、本では触れられていませんが、githubのソースでは、index.d.ts で@nuxtjs/axios の記述があります。しかしそれをやると、</description></item><item><title>ぬるさく画面に再チャレンジ</title><link>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</link><pubDate>Sat, 08 Jun 2019 23:24:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F%E7%94%BB%E9%9D%A2%E3%81%AB%E5%86%8D%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8/</guid><description>以前Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 途中で分からなくなってしまい中断していましたが、改めてやってみようと思います。
+まずは、Vuetifyのスライダーでの入力画面と、amChartsのグラフ表示。
+router-linkによるメニュー追加 現在、v-navigation-drawer &amp;gt; v-list &amp;gt; router-linkという階層で、メニューを作っており、、、が並んでいる状態で、ここに、を追加したいと思います。
+そして、こんなものは、単にコピペーして、文字変えれば良いのではと思ったのですが、なかなか反応してくれません。
+結構調べましたが、解消せず。最後の最後に、再起動（docker-compose down、 docker-compose up -d）を行ったら見事（？）反映されました。
+Vuetify Slider コンポーネント 前回はスッキリ行きませんでしたが、今回はこれはあっさりできました。
+components/FormCard.vue
+&amp;lt;template &amp;lt;v-card class="ma-2 pa-1" &amp;lt;div class="subheading" Heading &amp;lt;/div &amp;lt;div class="caption" 1/11 &amp;lt;/div &amp;lt;v-slider class="px-5 pt-5 pb-3" thumb-label="always" height="3" hide-details&amp;lt;/v-slider &amp;lt;/v-card &amp;lt;/template &amp;lt;script lang="ts" import Vue from 'vue' export default Vue.extend({ }) &amp;lt;/script pages/wine/index.vue
+&amp;lt;template &amp;lt;v-layout column &amp;lt;form-card v-for="i in 11" :key="'${i}'"&amp;lt;/form-card &amp;lt;v-btn @click="submit"診断結果を表示する&amp;lt;/v-btn &amp;lt;/v-layout &amp;lt;/template &amp;lt;script lang="</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。
+これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！
+ご購入いただいた皆様、本当にありがとうございました！！！
+BOOTHでのpdf販売を同時に開始しましたので
+ぜひ、#技術書典 にお越しいただけなかった方、ご購入ください！https://t.co/S7fajL0B8o &amp;mdash; takayama.k (@pco2699) April 14, 2019 なんとか連休中に平成最初のリリースまで持って行きたかったのですが、色々つまり出してきたので、実際に何かを作ってリリースするところを目指したいと思い、Docker環境構築までで一旦まとめておきたいと思います。
+Jupyter Notebook いきなり、あなたの知らない世界で、Jupyter Notebook のインストールから。
+こちらなども参考に。
+https://techacademy.jp/magazine/17430
+まずはAnaconda をインストール。Anaconddaで2.3GBも使うんですね・・・
+インストールしたら、
+Enviroments &amp;gt; 「analytics」
+Notebookをインストールしようとして間違えてJupyterLabをインストールしてしまいました。そうしたらNotebookも勝手に入りました。
+3.3.1 データセットを読み込む 第１章、第２章も読み応えありますが、作り始めるのは第３章からになります。
+初めてJupyter Notebook を使う身としては、色々不明点を抱えながら進めます。どうやって実行するんだ、というところから始まりますが、Runボタンで実行です。
+実行すると、エラー。
+ModuleNotFoundError Traceback (most recent call last) &amp;lt;ipython-input-2-aed2979e33dd in &amp;lt;module 1 # 分析に必要なライブラリをインポート ---- 2 import pandas as pd 3 import numpy as np 4 5 # データセットを読み込む ModuleNotFoundError: No module named 'pandas' 先に</description></item></channel></rss>

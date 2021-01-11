@@ -1,1 +1,240 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Magento on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/magento/</link><description>Recent content in Magento on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Wed, 10 Apr 2019 11:25:40 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/magento/index.xml" rel="self" type="application/rss+xml"/><item><title>Adobeの行く先</title><link>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</link><pubDate>Wed, 10 Apr 2019 11:25:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</guid><description>アドビ、3月1日付けでマルケトとの統合を完了（2019年3月6日） https://www.adobe.com/jp/news-room/news/201903/20190306-adobe-marketo-integration.html 「この度の統合によりデジタルにおける顧客体験において、アドビがもつ分析、コンテンツ管理、パーソナライゼーション、広告、コマースといった様々なソリューションに加え、マルケトの</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。 参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215 を入り口として、 https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861 https://principle-works.jp/blog/how2runm2ondocker-apache/ https://principle-works.jp/blog/how2runm2ondocker-compose/ も参照。 しつつ、いかにビジュアルに構築するかを考えます。 イメージ検索 まずは、Kitematic内で検索してみます。 最初は、一つしか</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。 しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストー</description></item><item><title>Meet Magento 2018 – Google講演</title><link>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</link><pubDate>Sat, 17 Nov 2018 07:39:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</guid><description>先日参加した Meet Magento 2018 得られたものを書きたいと思いつつ、多すぎてどうしようという状態。 とりあえず、書きなぐっていきますが、息切れの可能性しかなし。 The path to purchase with Google 最後はGPayの宣伝！と思いつつ、色々なサービスの紹介が面白かったです。 https://httparchive.org/ 資料を作る際</description></item><item><title>Magentoのベースページの仕組み</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link><pubDate>Fri, 28 Sep 2018 06:31:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid><description>自分で作成したウェブサイトにWhat’sNewを出そうと思いましたが、それを調べる過程で、ベースページの仕組みが分かってきたので先にそちらを確認。 1.自分で作成したウェブサイトのホームページをドキュメントルートにする 現在、元々のサンプルデー</description></item><item><title>Magento ウェブサイトの切り替え</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</link><pubDate>Wed, 26 Sep 2018 02:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</guid><description>今やろうとしているのは、Magentoのサンプルのウェブサイトはアパレル業的なサンプルになっているので、これはこれで置いておいて、別の飲食業的なサイトを作ることです。 Magento ホームページカスタマイズへの道 まず、とっかかりの部分を作りました。 Mag</description></item><item><title>MagentoのSQL解析</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</link><pubDate>Sat, 22 Sep 2018 07:30:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</guid><description>自分で作成したページ・ウィジェット・ブロックに思うように商品が表示されない。 ならば、どのようなSQLが流れていて、何が引っかかって表示されないのか調べてみよう、という活動です。 1.環境整備 (1)SSH接続用ターミナルソフト Tera TermでもPu</description></item><item><title>Magento ホームページカスタマイズへの道</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 21 Sep 2018 15:17:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Magentoのサンプルのホームページはアパレル業的なサンプルになっていますが、これを飲食業的なサンプルにしたいと思っています。しかし、なかなか思うようにいきません・・・ 1.やろうとしていること サンプルのトップページにあたる http://example.com/magento/ （magent</description></item><item><title>Magento(マジェント)始めました</title><link>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Mon, 17 Sep 2018 12:51:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>現在作ろうとしているサービスの基盤として、Magento(マジェント)がよいのでは、と思い、Magento(マジェント)を使い始めました。 いろいろ苦労していますが、やったことを片っ端から忘れてしまうので、ちょっとずつ記録を残していきたいと思</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Magento on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/magento/</link><description>Recent content in Magento on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Wed, 10 Apr 2019 11:25:40 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/magento/index.xml" rel="self" type="application/rss+xml"/><item><title>Adobeの行く先</title><link>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</link><pubDate>Wed, 10 Apr 2019 11:25:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/adobe%E3%81%AE%E8%A1%8C%E3%81%8F%E5%85%88/</guid><description>アドビ、3月1日付けでマルケトとの統合を完了（2019年3月6日）
+https://www.adobe.com/jp/news-room/news/201903/20190306-adobe-marketo-integration.html
+「この度の統合によりデジタルにおける顧客体験において、アドビがもつ分析、コンテンツ管理、パーソナライゼーション、広告、コマースといった様々なソリューションに加え、マルケトのリード管理およびアカウントベースドマーケティング技術を合わせて両社のお客様に提供することが可能になります。」
+それに先行して
+アドビ、Magento Commerceを買収
+https://www.adobe.com/jp/news-room/news/201805/20180522-magento-commerce.html
+Magento Commerce Cloudが組み込まれることにより、コマース機能がAdobe Experience Cloudにシームレスに一体化され、B2BとB2C両方の世界中のお客様に単一のプラットフォームを提供できるようになります。
+両製品の位置づけ https://www.adobe.com/jp/what-is-adobe-experience-cloud.html
+Adobe Experience Cloudという製品群の中で
+分析：Adobe Analytics
+オーディエンスのプロファイル：Adobe Audience Manager
+・・・
+コマース：Adobe Magento
+B2Bマーケティング：Marketo
+そもそも、Experience Cloudの位置づけ Creative Cloud：PhotoshopやIllustrator等の提供　一般的（昔からの）なAdobeのイメージ？
+Experience Cloud：単一のクラウド基盤に統合された、「エクスペリエンスのための記録システム」
+Document Cloud：Acrobat など　これも昔からのAdobeイメージ
+すなわち、昔ながらのビジネス領域でもクラウド化を進める中で、クラウド自体を基盤としたビジネスも展開し始めているということのよう。
+所感 内容が分かりにくすぎる。
+Adobe Analytics？Google Analytics的なことを意図しているのは分かりますが、具体的に何ができて、どういう仕掛けが必要なのか、一般情報から何もわからないのは、導入の検討のしようもないかと思います。
+個人的には、ビジネス利用としては、Magento、Marketoがより充実したサポートが得られるようになることを期待しつつ、本当はその一つ手前に、CMSが主戦場としてあるべきで、Adobe Experience Manager Sitesがそこを担っているように思われますが、あまりにも情報不足なので、無料提供含めて利用者層を拡大するのが良いのでは。その際の強みは、デザインツールとの統合で、ビジュアル面に優れたサイト構築ができること、かと思います。
+期待してます。</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。
+参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215
+を入り口として、
+https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861
+https://principle-works.jp/blog/how2runm2ondocker-apache/
+https://principle-works.jp/blog/how2runm2ondocker-compose/
+も参照。
+しつつ、いかにビジュアルに構築するかを考えます。
+イメージ検索 まずは、Kitematic内で検索してみます。
+最初は、一つしかヒットしなかった気がしたのですが、気のせい？？
+まあまあ、結構な数がヒットします。
+Googleで「magento docker」で検索した場合は、bitnami/magentoが先頭でヒットします。
+さらに、DevBoxなるものもあるといいます。
+どれを使うべきか。
+DevBoxが正攻法のようではあります。
+https://magento.com/blog/technical/set-your-magento-2-development-environment-faster
+が、最初の参考情報によると、ちょっとフルスペックすぎる感じが無きにしも非ず。
+かつ、2.3には未対応っぽい。
+次は、Pulls 1M+ となっていて、利用者の多そうなこちら。
+https://hub.docker.com/r/alexcheng/magento2
+解説も丁寧にされているのが好印象。2.3.xとも書いてあるので安心。
+こちらにさらに情報あり。
+https://microbadger.com/images/alexcheng/magento2
+bitnami版も確認。
+https://hub.docker.com/r/bitnami/magento
+利点として書かれているのは、最新版追跡の速さですね。
+こちらにも、いくつかのパターンが置かれています。
+https://bitnami.com/stack/magento/containers
+ちょと悩むところではあるのですが、ブランド名を信じて、bitnamiにしてみます。
+bitnami版magento2のインストール 改めて、Kitematicで「bitnami/magento」で検索し、CREATEボタンを押します。
+しばらくダウンロード画面が表示され、追加されたかと思いきや、エラーメッセージ。
+Welcome to the Bitnami magento container
+Subscribe to project updates by watching https://github.com/bitnami/bitnami-docker-magento
+Submit issues and feature requests at https://github.com/bitnami/bitnami-docker-magento/issues
+ERROR == The MAGENTO_DATABASE_PASSWORD environment variable is empty or not set. This environment variable is required for Magento to be properly installed.</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。
+しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストールすることにする。
+そして、今後も複数バージョンをどう取り扱うか問題は出てくると思うので、このWordpressサイト構築にあたって興味を持ったDockerをもう少し突き詰めてみる。
+考えること Dockerもコマンド打つだけじゃないでしょ、もっとビジュアルに行こうぜ！と思ったら、思いの外深い。
+参考
+https://yoshinorin.net/2017/08/30/try-docker-rancher/
+まず、Docker for Macにするのか、Docker Toolboxにするのかを考えなければなりません。
+一般的には、VirtualBoxが不要であるDocker for Macの方が、早い、ということのようです。
+そして、実際のビジュアルツールとして、やはり本命はDocker社純正のKitematicと言うことになるかと思います。
+ただ、上記参考サイトにあるように、これは「Docker for WindowsとDocker for Mac」用となるので、AWS等のLinux環境では同一環境にはならないと言うことになります。
+もっとも、それは「外側」が異なるという話であり、Dockerで構築される「中身」については同じでしょうから、それは別の話として良いのかなと考え、Kitematicで構築することにしてみます。
+なお、第二の選択肢として、Portainer、Rancherも興味深いです。
+Kitematicのインストール 手順としては、Docker for Macをインストールし、そうすると、Dockerアイコンが表示されるようになるので、そこからKitematicをインストールするということのようです。
+この辺が比較的新し目の情報かと思います。
+https://yatteq.com/localdev-docker
+で、Docker for Macをダウンロードしに行くわけですが、そこの名前はDocker Desktop (Mac)。分かりにくくないですか？？
+Dockerのアカウント登録をして、ダウンロードします。518MB、なかなかですね・・・
+インストール方法は特筆すべきことはないですが、本家docsでも眺めておけば良いでしょう。
+https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac
+丁寧な手順はこちらとか。
+https://qiita.com/seijimomoto/items/357ac7aa84f98b96021f
+最初、Docker アイコンからKitematicをクリックしても反応なく焦りましたが、再度アプリケーションフォルダからDockerをダブルクリックしたら反応してくれました。
+ということで、インストールまでは、簡単に行きます。</description></item><item><title>Meet Magento 2018 – Google講演</title><link>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</link><pubDate>Sat, 17 Nov 2018 07:39:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</guid><description>先日参加した Meet Magento 2018 得られたものを書きたいと思いつつ、多すぎてどうしようという状態。 とりあえず、書きなぐっていきますが、息切れの可能性しかなし。 The path to purchase with Google 最後はGPayの宣伝！と思いつつ、色々なサービスの紹介が面白かったです。 https://httparchive.org/ 資料を作る際の統計情報的な根拠として、使い勝手がよさそうですね。 revenue impact calculator 検索すると、https://www.thinkwithgoogle.com/feature/mobile/　に行けと言われるます。で、このサイトを調べようとすると、Domain not found！弱小すぎてダメみたい。 Lighthouse https://developers.google.com/web/tools/lighthouse/?hl=ja
+に情報がありますが、むしろ簡単なのは、F12デベロッパーツールのAudits。
+さらに、セミナーと同日発表になっていますが、PageSpeed Insights　にLighthouseが組み込まれたとのこと。
+で、このサイトを調べようとすると、Lighthouse was unable to reliably load the page you requested！
+弱小すぎるにも程がある。 Lighthouseをもう少し使ってみる さて、せっかくなので、F12→Autditsをもう少し使ってみます。
+まず、Performanceから試してみると、画像が大きいよ、と言われます。最近、ページ上部にスライダー画像を付けましたが、早速悪影響があるということで、画像を調整しました。最近アナウンスされた、Googleの
+https://squoosh.app/
+を使ってみました。既存のアップロード済み画像を一気に調整できたらうれしいです。
+SEOについては、meta descriptionがないということだけだったので、さっと付けられるところだけ付けていきます。</description></item><item><title>Magentoのベースページの仕組み</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link><pubDate>Fri, 28 Sep 2018 06:31:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid><description>自分で作成したウェブサイトにWhat’sNewを出そうと思いましたが、それを調べる過程で、ベースページの仕組みが分かってきたので先にそちらを確認。
+1.自分で作成したウェブサイトのホームページをドキュメントルートにする 現在、元々のサンプルデータのウェブサイト　http://example.com/magento/　と　自分で作成したウェブサイトhttp://example.com/aaa/　がある想定で、自分で作成したウェブサイトを　http://example.com/aaa/　ではなく　http://example.com/　にしようという話です。
+これは新しいウェブサイトを表示できるようにしたのとやり方は同じで、店舗＞設定＞設定　の画面で、左上の「ストアビュー」を、自分で作成したウェブサイト（ストアビューではなくウェブサイト）に変更し、その状態で、左メニュー「Web」の「ベース URLs」等をhttp://example.com/にします。さらに、サーバにて
+cd /opt/bitnami/apache2/htdocs/magento
+cp .htaccess ..
+cp index.php ..
+cd ..
+ln -s /opt/bitnami/apache2/htdocs/magento/app/ app
+ln -s /opt/bitnami/apache2/htdocs/magento/lib/ lib
+ln -s /opt/bitnami/apache2/htdocs/magento/pub/ pub
+ln -s /opt/bitnami/apache2/htdocs/magento/var/ var
+mv index.html xindex.html
+とやって、index.phpをを同じように修正するだけです。サンプルウェブサイトも生きています。
+2.店舗ページの作り方 そして、この下に、各店舗のページを作ろうと思います。
+すなわち、ドキュメントルートは自分が作成するサービスのトップページにして、その中で複数店舗の商品を使うこととし、各店舗のページも作成する、ということです。
+これも、同じようにやろうとしたらうまくいきませんでした。
+PARAM_RUN_TYPEの設定値は、ウェブサイトの場合は「website」でしたが、店舗の場合は「store」とのことです。
+ところが、その方法で、要するに店舗用ウェブサイトを作るようなイメージですが、元々のサンプルサイトにリダイレクトされてしまいます。
+そこで、またSQLを解析しようと思いますが、今回は、昨日教えてもらった技を使います。
+bin/magento dev:query-log:enable
+これにより、実行ログを出力してくれます。
+いちいちmy.cnf編集しなくて良いし、/opt/bitnami/ctlscript.sh restart mysql しなくてよい。
+ただ、そのクエリの呼び出し元情報も含めて大量のログになるので、ちょっと醜いのですが、対処としては、
+（Magentoインストール先配下の）var/debug/db.log を「SQL: 」でgrepします。
+で、見てみたのですが、今回は空振りで、たいしたログは出ていませんでした。
+ここで、ちょっと軌道修正。
+http://example.com/shop_a
+を見ようとしていたのですが、普通にページを作って、それを見ることにします。
+そうすると、http://example.com/shop_a/new_page　という形で表示される。</description></item><item><title>Magento ウェブサイトの切り替え</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</link><pubDate>Wed, 26 Sep 2018 02:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</guid><description>今やろうとしているのは、Magentoのサンプルのウェブサイトはアパレル業的なサンプルになっているので、これはこれで置いておいて、別の飲食業的なサイトを作ることです。
+Magento ホームページカスタマイズへの道 まず、とっかかりの部分を作りました。 MagentoのSQL解析 商品の登録のされ方を分析し、商品属性、特に在庫状況が重要だと知りました。 続いて、ウェブサイトを分けてみたいと思います。
+1.Magentoの商品のカテゴリ分け そもそもなぜ、このタイミングでウェブサイトを分けるかというと、商品登録の正しさが確認できないからです。
+サンプルとして登録されているアパレル商品とは別に、ピザを登録し、それをピザ用のページに出したいと思います。が、これがまた難しい。
+最初にやったように、ウェブサイト、店舗、ストアビューは作っておきます。
+そして、店舗でルートカテゴリを選択するので、ルートカテゴリ（カタログ＞カテゴリ）を作ります。
+で、例えば、この店舗用のWhat’sNewを作ります。そして、サンプルのWhat’sNewに表示される商品はどのようなものか見てみると、
+SELECT `mg_url_rewrite`.* FROM `mg_url_rewrite` WHERE (`request_path` IN (‘what-is-new.html’, ‘what-is-new.html/’)) AND (`store_id` IN (‘1’))
+というようなSQLが実行されていることが分かります。
+そして、表示したいページをIN句を変えて見てみると表示されませんので、最後のAND条件を外してみてみると、store_idが1以外で登録されていることが分かります。
+では、どのようにstore_idを変えるのだという話になります。
+2.Magentoにおける複数店舗（というかウェブサイト）の登録方法 ところが、多くの情報ではウェブサイト、店舗、ストアビューを登録できる、という話で終わってしまって、なかなか複数店舗を実際にどのような設定で表示させるのか、という情報が見つかりません。
+と言いつつ、割と初期の段階で、公式情報のドメインを分けるみたいな話は出てくるのですが、いや、そこまでやらなくてよいから引数透とかで分けられるんじゃないの？？みたいなところでもがきます。
+例えば「___store」を使うみたいな話です。
+しかし、結論でいえば、それは無理で、おそらく簡単なのは、ディレクトリ自体を分ける方法です。
+例えば、サンプルのウェブサイトをhttp://example.com/magento/　で作っていたら、http://example.com/aaa/　のようにするということです。
+参考はこちらとこちら。
+https://docs.nexcess.net/article/how-to-configure-magento-2-storefronts.html https://magento.dekirumonn.com/forums/topic/multi-store-%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%AD%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/ apache素人なのでちょっとビビっていたのですが、これについて言えばそんなに難しくはなく、index.phpと.htaccessをコピーして、index.phpを一部書き換えましょう、ということ（書き換えサンプルは実はindex.phpの一番先頭に書いてあります）。
+そして、app、lib、pub、varへのシンボリックリンクを、元インストールしたディレクトリの方に張っておきましょう、ということです。
+bitnami環境だと、
+ln -s /opt/bitnami/apache2/htdocs/xxx/app/ app
+ln -s /opt/bitnami/apache2/htdocs/xxx/lib/ lib
+ln -s /opt/bitnami/apache2/htdocs/xxx/pub/ pub
+ln -s /opt/bitnami/apache2/htdocs/xxx/var/ var</description></item><item><title>MagentoのSQL解析</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</link><pubDate>Sat, 22 Sep 2018 07:30:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</guid><description>自分で作成したページ・ウィジェット・ブロックに思うように商品が表示されない。
+ならば、どのようなSQLが流れていて、何が引っかかって表示されないのか調べてみよう、という活動です。
+1.環境整備 (1)SSH接続用ターミナルソフト Tera TermでもPuttyでも、お好きなものをどうぞ。
+ではあるのですが、AWS内bitnamiで構築した環境のMy SQLに接続する、という観点で。
+Puttyでは、Host Nameにユーザ名@xxxを記載しますが、bitnamiで構築した場合は、
+ubuntu@xx.us-east-2.compute.amazonaws.com
+というようになります。
+そして、Connection＞SSH＞Auth　でPrivate keyにppkファイルを登録します。
+この接続状態をそのまま保存しておいて、次回からはSaved Sessionから呼び出すだけなので、現在は基本的にはPuttyを使用しています。
+Tera Termでは、ホスト欄にxx.us-east-2.compute.amazonaws.comを入力しOK、ユーザ名にubuntu、「RSA/DSA/ECDSA/ED25519鍵を使う」で、ppkファイルではなくpemファイルを指定する、という形になり、ホスト名以外は次回に覚えてくれていないので、ちょっと面倒だなと思っています。ターミナル上での見た目はTeraの方がきれいなので好きなのですが。
+(2)WinSCP ファイルのアップ・ダウンロード用にはこちら。
+SFTPで、ホスト名はxx.us-east-2.compute.amazonaws.com、ユーザ名はubuntu、設定＞SSH＞認証の秘密鍵にppkファイルを指定します。
+これも、保存しておけば、次回以降の接続はリストから選択するだけなので、よいです。
+(3)A5 : SQL Mk-2 これが本日のポイント。
+https://a5m2.mmatsubara.com/
+DB接続ツールは色々ありますけど、個人的にはこれが最強だと思っています。
+特に、最強なのがSQL整形機能。今回のように、ログからSQLを取り出して解析しようと思う時に、Ctrl-Q一発でSQLを見やすくしてくれるのは、非常に助かるので、普段の会社の仕事でも使っております。
+これの接続は、ちょっとばかり難しいです。トンネリングでの接続になります。
+A5 : SQL の接続を作成する際にはMySQL/MariaDBを選択できます。その中の設定で、SSH2トンネルの指定ができます。
+「SSH2トンネル」タブのSSH2ホスト名をxx.us-east-2.compute.amazonaws.com、ユーザーIDをubuntuにして、秘密鍵ファイルにpemファイルを指定します。
+その上で、「基本」タブのサーバー名にはSSH2サーバーから見たサーバー名を指定するので、初期の状態ならlocalhostを指定します。Magento用に作成したユーザーID、パスワードを指定しますが、
+grant select on *.* to home;
+が必要だったように思います（記録し忘れている）。
+ということで、この3点セットがそろうと、割と自由にDBもいじれるかと思います。
+2.MySQLのクエリトレース 普段はSQL Serverが主戦場なので、トレース取得はProfilerを便利に使用させていただいています。
+ではMySQLはどうかということで、こちらを参考にさせていただきました。
+http://blog.szmake.net/archives/496
+my.cnfはどこにあるかというと、これはbitnami特有で、/opt/bitnami/mysql/　にあります。
+また、my.confを編集した後、MySQLをリスタートするのですが、これもbitnami特有で
+sudo /opt/bitnami/ctlscript.sh restart mysql
+となります。
+bitnamiでは、/opt/bitnami　配下に色々なものが存在する、ということを認識しておくだけでもいろいろはかどるかと思います。
+3.Magentoで実行されるSQL で、トレースを取ってみた結果です。
+例えば、
+SELECT `mg_store_website`.* FROM `mg_store_website`
+↓
+website_id code name sort_order default_group_id is_default</description></item><item><title>Magento ホームページカスタマイズへの道</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 21 Sep 2018 15:17:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Magentoのサンプルのホームページはアパレル業的なサンプルになっていますが、これを飲食業的なサンプルにしたいと思っています。しかし、なかなか思うようにいきません・・・
+1.やろうとしていること サンプルのトップページにあたる
+http://example.com/magento/　（magentoはインストール時に指定）
+これが、通常ベースURLになります。そして、ここに表示されているのは、アパレル業的なサンプルデータです。
+今後の勉強用にこれはこれで残しておきたいのですが、できれば、アパレルサンプルはベースURLではなく別のURLにして、ベースURLで表示される内容を飲食業向けにしたいと思っています。
+ただ、このベースURLで表示される内容のカスタマイズすら、どこから行うか分かりませんので、それは置いておき、まずは、とにかく飲食業向けホームページを作ることを目標とします。
+2.ウェブサイト、店舗、ストアビューを作る 最初の基本は、ウェブサイト＞店舗＞ストアビュー　の構成です。
+https://docs.magento.com/m2/ce/user_guide/stores/websites-stores-views.html
+https://www.programmers-office.ml/magento-open-source-user-guide/getting-started/configuration_configuration-basic/stores_websites-stores-views/
+今イメージしているのは、この飲食業向けに、標準のウェブサイトとは別のウェブサイトを作ります。
+その下に、店舗を複数作ります。ストアビューは、通常複数言語対応用に使用されるようですので、これは各店舗1ストアビューとします。
+https://docs.magento.com/m2/ce/user_guide/configuration/scope.html
+https://www.programmers-office.ml/magento-open-source-user-guide/getting-started/configuration_configuration-basic/stores_websites-stores-views/configuration_scope/
+3.商品を作る 次に商品を作ろうとしますが、いくつか、前提知識が必要です。
+まず、最初に選択する必要がある、属性セットというものがあります。
+これを選択することにより、商品として登録する属性の内容が切り替わります。
+例えば、服にはサイズという属性があるが、カバンにはサイズという属性はない、というような形です。
+そして、サンプルとして登録されている属性セットはアパレル用のものなので、料理用の属性セットを作成します。
+例えば、ピザという属性セットを作成します。
+しかし、実は、それよりも前に把握しておくべき内容があります。それは、商品には商品タイプというものがある、ということです。
+https://docs.magento.com/m2/ce/user_guide/catalog/product-types.html
+https://www.programmers-office.ml/magento-open-source-user-guide/catalog/catalog_product-create/catalog_product-types/
+例えば、ピザの場合は、一種類のメニューに対して、サイズという考え方があると思います。
+そのような複数バリエーションを持つ場合は、Configurable Productを指定して、新規商品の追加を行います。
+商品タイプは見えるようになっておらず、そのまま新規商品画面に遷移できるので、最初は分かりませんでした。
+4.ページを作る では、いよいよ、コンテンツ＞ページ　から、この飲食業ウェブサイト用のページを作ります。
+ページのタイトル等を入力して、デザインを決めて、コンテンツを作成します。
+で、ここが今日の本題なのですが、なかなか思うように表示がされないのです。
+コンテンツのエディタとしては、ビジュアルに色々できます。
+一番基本は、ウィジェットの追加という方式かと思います。
+例えば、静的ブロックの挿入ということができ、そこで、サンプルとして用意されているブロックを挿入することは簡単です。
+しかし、それではアパレルの商品が表示されてしまうので、ピザを表示させようと思います。
+例えば、商品一覧というウィジェットタイプがあるので、それを選び、商品の条件として、属性セットがピザと等しいもの、という指定をします。
+しかし、表示されません。
+何が悪いのやら、となります。
+5.SQL解析を始める ここで、ユーザガイドを丁寧に読み始めるというのが王道かと思い、だからこそユーザガイドの和訳を始めたわけですが、そう簡単に把握はできなそうです。
+むしろ、実行されるSQLを解析した方が、原因にたどり着くのは早いのではないかと思い、そちらからのアプローチに切り替えました。
+その話は明日に続けたいと思います。
+関連記事 Magento(マジェント)始めました</description></item><item><title>Magento(マジェント)始めました</title><link>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Mon, 17 Sep 2018 12:51:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>現在作ろうとしているサービスの基盤として、Magento(マジェント)がよいのでは、と思い、Magento(マジェント)を使い始めました。
+いろいろ苦労していますが、やったことを片っ端から忘れてしまうので、ちょっとずつ記録を残していきたいと思います。
+1.インストール先、方法について (1)AWS Lightsail 一番小規模の構成だと1か月無料で使用できます。
+簡単に起動できるのは感動です。ただ、これだとパワー不足です。サンプルデータを入れようとすると途中で失敗するので、いったんメモリを増やしたりする必要があります。
+今改めて試してみたらまた感じ方も違うかもしれませんが、。
+(2)AWS Bitnami こちらはEC2のインスタンス作成に、AWS Marketplaceで提供されているBitnamiのAMI（Amazon マシンイメージ）を使用するという方法です。
+こちらもサンプルデータを入れようとするとエラーになるのですが、その理由はシステム構成をバージョンアップしなければならないということでしたが、どうやってもPHPを7.1に上げられず、断念しました。BitnamiがMagento2.2環境を提供してくれるようになると、これはかなり有望な選択肢になると思います。
+(3)GCP Bitnami では、ということで、いったんAWSではなく、GCPの方に立てようとしてみたのですが、AWS Bitnamiとほぼ同じ結果でした。
+Bitnamiのイメージではなく、通常構成でインストールしようともしてみましたが、それも失敗（理由はもう忘れてしまいました）。
+(4)AWS クイックスタート もういちど、AWSに戻り、やはり手順書見ながらやらないとね、ということで、こちらを参照。
+AWS クラウドでの Magento: クイックスタートリファレンスデプロイ
+サンプルデータ付きでインストール完了。
+しかし、翌日、請求警告メール。改めて見てみると、これはものすごいリッチな構成で環境ができています。
+（転載）
+慌てて環境削除しました。
+(5)AWS LAMP with PHP 7.1 Certified by Bitnami 最終的に現在使用している環境はこれ。Magento入りのAMIではなく、LAMP環境まで入っているAMIにMagento2.2.5をインストールしました。
+こんな素人状態で大丈夫かなと思いつつ、AWSの勉強もしながらMagentoも勉強していきます。
+2.現状の問題 問題もいろいろあるのですが、ありすぎて、とりあえず役立ちそうなところから勉強していく感じです。
+(1)bin/magento setup:upgrade等をすると500エラーになる この問題のために、当初はサンプルデータを入れられず悩んでいました。
+ところが、サンプルデータはインストール後にsetup:upgradeしなくてもちゃんと入っていましたので、それでしばらく動かしていました。
+ただ、管理画面を日本語化しようとして、
+composer require mageplaza/magento-2-japanese-language-pack:dev-master
+php bin/magento setup:static-content:deploy -f ja_JP
+php bin/magento cache:flush
+とやったら、また500エラーになってしまいました。
+そうなった場合、
+bin/magento deploy:mode:set developer
+とすると一応は動きます。しかしなぁ・・・
+(2)Cronを動かせていない もしかしたら、これが(3)の原因だと悲しいのですが、これもなかなか手順が分からず・・・
+(3)ホームページのカスタマイズができない サンプルのホームページは一応残しておいて、特定のストアビューのホームページを作って、ウィジェット等を配置したいのですが、うまくいっていません。</description></item></channel></rss>

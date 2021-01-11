@@ -1,1 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>未分類 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/</link><description>Recent content in 未分類 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Mar 2020 06:09:56 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml"/><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。 ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。 試して学ぶ スマートコントラクト開発 新品価格 ￥3,839から (2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思</description></item><item><title>日経プラス10のシンガポール特集</title><link>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</link><pubDate>Wed, 23 May 2018 13:13:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</guid><description>昨晩の日経プラス10のシンガポール特集（うちのテレビの自動録画、いい仕事した！）。 見に行きたいところがわんさか。 https://jcc.jp/news/13510974/ SPECTRUM スタートアップ企業等が集まるワークスペース https://www.spectrum.global/ thebridge 同じく https://thebridge-asb.com/ Plug-in@Blk71 NUSエンタープライズ シンガポール国立大学（National University of Si</description></item><item><title>VSUG DAY 2013 Summer</title><link>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</link><pubDate>Sat, 20 Jul 2013 14:05:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</guid><description>参加してきました。 http://vsug.jp/tabid/228/EventID/23/Default.aspx しびれました。 「Web アプリケーション開発におけるテストの実践」 この分野は進んでいるような、進んでいないような。 進んでいる一つとして、Fakes アセンブリというものを挙げられるかもしれません。 http://msdn.microsoft.com/ja-jp/library/vstudio/hh549175.aspx 存在も知りませんでしたよ・</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>未分類 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/</link><description>Recent content in 未分類 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Mar 2020 06:09:56 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E6%9C%AA%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml"/><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。
+ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。
+試して学ぶ スマートコントラクト開発 新品価格
+￥3,839から
+(2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思い立ち、CryptoZombieshttps://cryptozombies.io/jp/をやってみて、分かったような分からないような気分だったので、もう少しちゃんと勉強しようと調べてみました。で、当然色々なサイトがありますが、何も基礎がない状態だと、もう少ししっかり書かれているものがないかなと言う気持ちになり、この本に出会いました。
+この本はQUESTというアプリを作った経験を踏まえて書かれているようです。
+で、残念ながらQUESTは現在動いていないよう（単に証明書入れていないだけ？）なのですが、こちらでその概要が分かります。
+https://speakerdeck.com/norinity1103/quest-tutorial
+すなわち、セミナーとか講座とかで、質問してくれた人に仮想通貨で報酬を与えることで、場を活性化させるみたいなことを狙っているようです。
+この内容が自分の関心があるところでもあり、これの簡易版でも作れたら良いなと思いながら始めました。
+本の序盤 そもそも仮想通貨の購入等もしたことがない状態からのスタートですので、この本でも最初の基礎情報と、METAMASKウォーレット作成から始まる構成は大変助かりました。
+なお、テストネットでEther取得を行いますが、最初Ropstenの取得に失敗しました。今改めてやってみたらできたので、何かやらかしたかもしれません。
+本の中でも、CryptoZombies をやってみる章があります。
+これは、本当は、CryptoZombies のWeb環境ではなく、自分の環境でやってみたいと思うのですが。もう少し理解が進んだらできるようになるのでしょうか。
+そんなこんなで、Solidityという言語と、スマートコントラクトと言うものを学びます。が、正直、現段階でも、要はこう言うこと、という腹落ちした状態にはなっていません・・・
+また、Remix という、イーサリアム開発用のWeb IDE が紹介されます。
+これも良いなと思ったのですが、その後の開発は必ずしもそれを使用するわけではないので、まあ、参考情報という感じです。ちょっと見た目も変わっていて、Compileタブどこ？となります。
+その次は、プロダクトデザインの考え方（UX）の章になります。
+ジャーニーマップとか、ユーザテストとかの考え方が、丁寧に書かれています。
+開発環境 Chapter 4 あたりからが本題。
+開発環境として書かれているのが、
+・Docker
+・Geth
+・Ganache
+・Node.js
+・Truffle
+・Git
+・VSCode
+実践型の環境と感じられます。
+そして、開発用ブロックチェーンをプライベートネットとして構築します。
+これをやっているときに一つエラーが発生。
+geth --datadir ~/private-net --nodiscover --maxpeers 0 init ~/private-net/genesis.json とやると
+INFO ・・・ Fatal: Failed to write genesis block: unsupported fork ordering: eip150Block not enabled, but eip155Block enabled at 0 https://ethereum.</description></item><item><title>日経プラス10のシンガポール特集</title><link>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</link><pubDate>Wed, 23 May 2018 13:13:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</guid><description>昨晩の日経プラス10のシンガポール特集（うちのテレビの自動録画、いい仕事した！）。
+見に行きたいところがわんさか。
+https://jcc.jp/news/13510974/
+SPECTRUM
+スタートアップ企業等が集まるワークスペース
+https://www.spectrum.global/
+thebridge
+同じく
+https://thebridge-asb.com/
+Plug-in@Blk71
+NUSエンタープライズ
+シンガポール国立大学（National University of Singapore／NUS）
+同様
+https://www.worksight.jp/issues/538.html
+電動キックスクーターのシェアリングサービス「Telepod」
+https://japan.cnet.com/article/35104102/
+あと、基本中の基本だと思いますが、セントーサ島へ行くロープウェイからの景色も刺激的なようなので、見てみたい！</description></item><item><title>VSUG DAY 2013 Summer</title><link>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</link><pubDate>Sat, 20 Jul 2013 14:05:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</guid><description>参加してきました。
+http://vsug.jp/tabid/228/EventID/23/Default.aspx
+しびれました。
+「Web アプリケーション開発におけるテストの実践」 この分野は進んでいるような、進んでいないような。
+進んでいる一つとして、Fakes アセンブリというものを挙げられるかもしれません。
+http://msdn.microsoft.com/ja-jp/library/vstudio/hh549175.aspx
+存在も知りませんでしたよ・・・
+ただ、これは、そもそも、方式設計的なところの話で、外部ライブラリをラッパを噛まさずに使うのか、という問題があります。
+例がDateTime.Nowだからイマイチなのかもしれませんが。
+コード化された UI テスト
+http://msdn.microsoft.com/ja-jp/library/vstudio/dd286726.aspx#verifyingcodeusingcuitcreate
+も、動きはえぐいけど、昔もあったことはあったんですよね。
+名前忘れちゃいました。Rational製品。
+結局、面倒くささに勝てるほどにはなっていないのかな。
+イメージとしては、カバレッジを取ってくれるのではなくて、100%にしてくれるテストを生成してくれという感じです。
+「Xamarin で初めてのクロスプラットフォーム開発」 これも初耳。monoがこのようになっていたとは。
+むしろ、In App Purchaseという、こちらも初耳でしたが、後のセッションにも出てきますが、この辺の業務アプリにはない部分に興味を惹かれました。
+iPohneアプリも、泥臭いんですね。なかなか。
+「初めての Windows ストア アプリ開発」 しびれ度2.5。
+Windows ストア アプリのデザイン方法は、素直に面白かったです。
+ゲームを作って、ハイスコアの仕組みを作るために、リソースをどう管理するか。まさかの事件勃発も、場合によっては深刻ですが、今回は笑える内容でよかったです。
+こちらでも話題に出てくる課金の仕組み。
+課金状態をどうテストするか、ぱっと聞かれたら分からないですよね。
+http://blogs.msdn.com/b/windowsstore_ja/archive/2012/07/26/windows-making-money.aspx
+ちゃんと、CurrentAppSimulator という仕組みが用意されています。
+これはちょっと作ってみたくなりました。その前に、Surface 買っちゃうか、みたいな。買いませんけど。
+小ネタとして、多言語アプリ ツールキットはちょっと凄そう。
+http://msdn.microsoft.com/ja-jp/library/windows/apps/jj569303.aspx
+絵もないので、分かりにくいですが、多言語用のリソースファイルを管理するだけでなく、翻訳までしてしまう。
+こういうのは、本当に助かる気がします。（もちろん、そのまま使えることは想定しませんが、0からのスタートと10からのスタートは全然違うということです）
+もう一つ小ネタとして、Windows アプリ アート ギャラリー、良いと思うのですが、Windows 8 および Windows Phone 用アプリケーションの制作以外への本素材の利用禁止というのは、了見が狭いぞw
+【SIer と Developer のためのSQL Server 2012 アーキテクチャ】 しびれ度3超！ヘカトン級！！
+この資料は会社に置いておきます。絶対使える。
+また、調査用スクリプトも、そのうち公開したいとのことです。下記サイトを、要チェックです。
+http://www.microsoft.com/ja-jp/sqlserver/2008/r2/technology/takumi.aspx
+2012ってまだ使っていないんですけど、もう2014なんですね。
+http://technet.microsoft.com/ja-JP/evalcenter/dn205290?WT.mc_id=Blog_SQL_TEE_SQL2014</description></item></channel></rss>

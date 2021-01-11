@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/post/</link><description>Recent content in Posts on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 11 Jan 2021 09:03:51 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/post/index.xml" rel="self" type="application/rss+xml"/><item><title>新しい決済システム 2020</title><link>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</link><pubDate>Mon, 11 Jan 2021 09:03:51 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</guid><description>昨年2020年も、新しいタイプの決済システムが色々生まれました。 昨年以前に生まれたものも含まれるかもしれませんが、使ってみたものをまとめてみます。 ローソン スマホで簡単 レジ待ち0秒！新しいお買い物のカタチ｜ローソン研究所 個人的には、このタイプ</description></item><item><title>初めての Hugo</title><link>https://jqinglong.github.io/programmers-office/post/first-hugo/</link><pubDate>Fri, 11 Dec 2020 23:27:56 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/first-hugo/</guid><description>経緯 これまで、あちこちで駄文を積み重ねてきました。 最初は、ソネットで、無料ホームページを作成し、1999年当時はブログというものはなかったため、日記的なメモを書いていました。 これは、現在は、xdomainに置いています。 いまだに参照できるの</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/post/</link><description>Recent content in Posts on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 11 Jan 2021 09:03:51 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/post/index.xml" rel="self" type="application/rss+xml"/><item><title>新しい決済システム 2020</title><link>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</link><pubDate>Mon, 11 Jan 2021 09:03:51 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</guid><description>昨年2020年も、新しいタイプの決済システムが色々生まれました。 昨年以前に生まれたものも含まれるかもしれませんが、使ってみたものをまとめてみます。
+ローソン スマホで簡単 レジ待ち0秒！新しいお買い物のカタチ｜ローソン研究所
+個人的には、このタイプが広まるとよいなと思います。
+セルフレジも結局行列になったりするわけですが、このタイプだと、行列とは無縁なわけです。
+多くの人の心配は、万引きしたいという気持ちよりも、万引きを疑われたくないということだと思うのですが、最後に店舗設置機にバーコードをかざすことで「ありがとうございました」という音声が流れることで、その不安を取り除いてくれます。
+もっとも、そこが行列になるような場面に出会した（でくわすってこういう漢字なんだ・・・）ことはないですが、利用者が増えるとそういうリスクもあるとは思いますので、もう一工夫できるかもしれません。
+お店側の負担も少ないと思われるのも、よいと思うポイントです。
+TRIAL トライアル スマートレジカート トライアルレジカート | TRIAL -トライアル-
+買い物体験として楽しさがありました。
+直接クレジットカード等ではなく、プリペイドカード経由なのが、ちょっと我が家から遠いという事情の下では嬉しくないですが、まあしかたないか。
+最初にプリペイドカード会員登録が必要
+最初にプリペイドカードと連携させてから買い物スタート
+商品バーコードスキャン
+広告表示やクーポン等のプロモーションもできる
+最後に店員さんのチェックが入る（いくつかのパターンがあるかも？）
+JR高輪ゲートウェイ駅 TOUCH TO GO 高輪ゲートウェイ駅 無人AI決済店舗「TOUCH TO GO」がサービス開始 商品は手に取るだけ！“ウォークスルーの次世代お買い物体験”
+店舗デザイン含めて未来感が良いです。 オール無人ではなくて、よくコンビニにあるセルフレジの代わりにこれが置いてあると、だいぶ会計の流れがスムーズになるような気がしますが、どうでしょうか。
+オープン前の下見時
+SORRY・・・入店制限あり
+TOUCH TO GO オリジナル商品
+決済時は取った商品が自動表示される
+今後行ってみようと思う店 イオン レジゴー イオンリテールは３月より、“レジに並ばない”お買物スタイル「レジゴー」本格展開｜イオン株式会社のプレスリリース
+トライアル方式よりは店舗負担が少なそう。
+カスミ　Scan&amp;amp;Go USMH／カスミ本社に無人店舗「カスミラボ」スマホで商品登録・決済 | 流通ニュース
+この記事を見て、つくばまで行こうと思っていたのですが、もうかなりの店舗に導入されている模様。
+U.S.M.H公式アプリ Scan＆Goのご紹介！
+我が家から徒歩圏内の店でもやっているので、行ってみることにする。</description></item><item><title>初めての Hugo</title><link>https://jqinglong.github.io/programmers-office/post/first-hugo/</link><pubDate>Fri, 11 Dec 2020 23:27:56 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/first-hugo/</guid><description>経緯 これまで、あちこちで駄文を積み重ねてきました。
+最初は、ソネットで、無料ホームページを作成し、1999年当時はブログというものはなかったため、日記的なメモを書いていました。 これは、現在は、xdomainに置いています。 いまだに参照できるのはありがたいことです。
+select *
+2003年12月、Niftyと契約したこともあり、ココログでブログを始めました。 その後、契約をやめる2014年まで継続したものを、ブログ契約だけは継続し、情報を残しています。
+一プログラマのラグジュアリーな生活Ⅱ
+ココログは残したものの、WordPressを使ってみたいという欲求が出てきたことで、新たにブログを立ち上げました。
+一プログラマのチャイニーズな生活
+データは引き継いでいるので、2003年情報から残っており、2018年12月まで書いていました。
+今度は、サイトをSSL化したいという欲求と、合わせて、たまたまだったと思いますが、GCPの無料枠でWordPress環境を構築できるという情報を見て、GCPへの移行を行いました。
+Programmers Office
+これが直近のサイトですが、GCPの無料枠では若干遅さを感じるのと、原因はわかっていませんが、何度やっても Google AdSense 申請が通らない（前のサイトでは通っているので内容ではないと思われるが、その後の記事に問題があるのか）。 そしてこれが決定打ですが、無料ドメインサービス freenom の 無料での更新ができない（本来、無料枠での１年以内での更新期間の選択肢が出てくるはずなのですが、有料枠のの１年以上の更新しか出てきません。これも原因不明）。 ということでさらに別の移行を検討してみたところ、WordPressからの移行記事を見たということで、Hugoを試してみようか、ということにしました。
+謝辞 以下のサイトに大変お世話になりました。
+HUGOのテーマ「Mainroad」の設定方法を紹介
+Hugo によるブログ作成と mainroad テーマのカスタマイズ
+GitHub Actions による GitHub Pages への自動デプロイ</description></item></channel></rss>

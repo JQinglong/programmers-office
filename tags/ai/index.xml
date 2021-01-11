@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/ai/</link><description>Recent content in AI on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 14 Sep 2019 00:34:41 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。 ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・ IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PH</description></item><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！ ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら Kaggle</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。 これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！ ご購入いただいた皆様、本当にありがとうございました！！！ BOOTHでのpdf販売を同時に開始しましたので ぜひ、#技術書典 にお越しいただ</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/ai/</link><description>Recent content in AI on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 14 Sep 2019 00:34:41 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。
+ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・
+IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PHPアプリから参照するアプリを作りました。タイタニック　チャレンジ 以前から作ろうとしていた、タイタニックアプリがやっとできた！ということです。タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） システム構成 基本的には、機械学習を行なったモデルをAPIとして公開し、そのAPIを呼び出すアプリを作る、というぬるさくで学習していた構成です。
+https://norwegian-geek.booth.pm/items/1296418
+いままでかなり色々な方法を試してきたわけですが、AutoAIを知った事で、ローカルで構築した機械学習環境を公開環境に持っていく、という事を考えなくて良くなったのが大きいです。
+まずは、AutoAIがデプロイ機能まで持っていて、これでAPIを公開できます。
+これを呼び出すアプリは、WordPressサイトを立てて、その中でPHPアプリを書きました。
+AutoAI によるAPI公開 こちらについては、AutoAIで検索するだけでも色々情報が出てきますし、「AutoAI タイタニック」と検索すれば、まさに今回行なったことをみなさんやられているので、割愛します。
+これが無料で公開されているというのがすごいなと思います。
+WordPress 環境内にアプリ構築 UI側をどう作るかがこの記事のメインとなります。
+最初は、せっかく勉強したということでOutSystemsでやってみようと思いました。
+OutSystems まず、ちょっと悩んだのが、あまりにもデータとフォームが結合していて、単なる検索条件を入力するための画面を作りたいのに、フォームのためにはデータが必要という構造。フォームを使わない方法も当然あると思いますが、仮のデータを作成する方法でもできなくはなかったです。
+REST API呼び出しについては、ちゃんと仕組みが用意されていて、これは便利。テスト呼び出しもしやすい画面が用意されている。
+それで、呼び出しまではできたのですが、取得したデータの処理がうまくできませんでした。これについては、そもそもAutoAIのJSONの構造が複雑すぎませんか？という気もしています。
+WordPress 昔から思っているのですが、CMSで管理するコンテンツというのは、単にブログ等の文章だけではないはず、CMSはサイト全体のデザインの統一性を実現するために使用するもので、そこには文章だけではなくアプリケーションも含まれるのではないでしょうか。その一例として、問い合わせフォームくらいはCMSの機能に含まれたりもすると思うのですが、もっとがっつりしたアプリもCMS管理配下に乗せてしかるべきではないか、という気がしています。
+なぜこれを私がこれを強く思うかというと、私がデザインが苦手だからです。なるべくセンスの良いデザインを使わせていただくために、その枠組みの中でアプリも作りたいと思うのです。
+実際それはやったことはあるので、自分のできる範囲に戻ったという感じではあります。
+フォームプラグイン そう考えた上で、今回最初に、Wordpressのプラグインを使って、フォームを作れないかと思いました。
+色々なプラグインを見ていく中で、使えなくないなと思ったのは、Form Maker by 10Web。The Most Powerful Drag&amp;Drop WordPress Form Builder デザインテーマも用意されていて（Wordpress本体のテーマとは完全独立なのは良い悪いあると思いますが）、きれいなデザインのフォームが作れます。
+また、無料で使えるコントロールが充実しています（他の類似プラグインは有料オプションが多い印象）。
+ただし、基本的には、あくまでも入力した内容をデータに保存して、せいぜいメールを飛ばす機能。今回やりたかったのは入力値を外部のAPIに渡すこと。フォーム処理の後外部URL等に転送することはできますが、入力値がPOSTされるわけではないのです。
+これについては、もう少し頑張ってみました。
+JavaScriptを追加することができますので、
+function send_form(){ var f = document.forms["form6"]; f.method = "POST"; f.action = "/apps/titanic-result/" f.submit(); } みたいなものを追加し、画面側では標準のSubmitボタンを使わずに、ボタンを追加して、OnClickイベントにsend_form()を記載する、ということをすると、指定したところに入力値をPostすることができるわけです。</description></item><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！
+ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら
+Kaggleとは？機械学習初心者が知っておくべき3つの使い方 そしてKaggleの入門用コンペ
+Titanic: Machine Learning from Disaster
+https://www.kaggle.com/c/titanic
+最初にプロジェクト用のディレクトリ（例：titanic）を作成し、その中にdatasetフォルダを作成して、ダウンロードしたデータを配置。
+さらにworkspaceディレクトリも作成。
+Anaconda-Navigatorを起動
+Notebookを起動
+プロジェクト用のディレクトリのworkspaceに移動
+New &amp;gt; Python 3
+そうすると
+import pandas as pd import numpy as np train = pd.read_csv("../dataset/train.csv") test = pd.read_csv("../dataset/test.csv") で行ける。
+「データセットの欠損の確認」のスクリプトは、そのまま貼り付けるとインデントが効いていないので注意。
+「文字の数字への置き換え」のところでエラー発生。
+train["Sex"][train["Sex"] == "male"] = 0 train["Sex"][train["Sex"] == "female"] = 1 train["Embarked"][train["Embarked"] == "S" ] = 0 train["Embarked"][train["Embarked"] == "C" ] = 1 train["</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。
+これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！
+ご購入いただいた皆様、本当にありがとうございました！！！
+BOOTHでのpdf販売を同時に開始しましたので
+ぜひ、#技術書典 にお越しいただけなかった方、ご購入ください！https://t.co/S7fajL0B8o &amp;mdash; takayama.k (@pco2699) April 14, 2019 なんとか連休中に平成最初のリリースまで持って行きたかったのですが、色々つまり出してきたので、実際に何かを作ってリリースするところを目指したいと思い、Docker環境構築までで一旦まとめておきたいと思います。
+Jupyter Notebook いきなり、あなたの知らない世界で、Jupyter Notebook のインストールから。
+こちらなども参考に。
+https://techacademy.jp/magazine/17430
+まずはAnaconda をインストール。Anaconddaで2.3GBも使うんですね・・・
+インストールしたら、
+Enviroments &amp;gt; 「analytics」
+Notebookをインストールしようとして間違えてJupyterLabをインストールしてしまいました。そうしたらNotebookも勝手に入りました。
+3.3.1 データセットを読み込む 第１章、第２章も読み応えありますが、作り始めるのは第３章からになります。
+初めてJupyter Notebook を使う身としては、色々不明点を抱えながら進めます。どうやって実行するんだ、というところから始まりますが、Runボタンで実行です。
+実行すると、エラー。
+ModuleNotFoundError Traceback (most recent call last) &amp;lt;ipython-input-2-aed2979e33dd in &amp;lt;module 1 # 分析に必要なライブラリをインポート ---- 2 import pandas as pd 3 import numpy as np 4 5 # データセットを読み込む ModuleNotFoundError: No module named 'pandas' 先に</description></item></channel></rss>

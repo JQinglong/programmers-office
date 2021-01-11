@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LINE on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/line/</link><description>Recent content in LINE on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 31 Mar 2019 12:55:03 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/line/index.xml" rel="self" type="application/rss+xml"/><item><title>LINEリッチメニューのコツ</title><link>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</link><pubDate>Sun, 31 Mar 2019 12:55:03 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</guid><description>ネタは熱いうちに打たないと、テンションはすぐ下がりますね。 まずは、小ネタで、リッチメニューについて。 リッチメニューとは何かについては、 https://www.google.com/search?q=line+%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjChdXvsazhAhVXyIsBHbDIDCAQ_AUIDigB&amp;amp;biw=1628&amp;amp;bih=1054 こんな感じで画像を見るとよくわかりますね。で、これがあってこそ、ボット作ったな感が出ると思うので、まずは</description></item><item><title>チャットボット（LINE bot）を作る</title><link>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</link><pubDate>Fri, 29 Mar 2019 23:43:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</guid><description>仕事の方の年度末のパワープレーの影響で、こちらはすっかりご無沙汰になりました。 そして、突然チャットボットを作ることを思い立ち、試してみたところこれがなかなか面白い。ということで、いくつか作ってみたいのですが、前半戦を終えたところで、まとめて</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LINE on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/line/</link><description>Recent content in LINE on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 31 Mar 2019 12:55:03 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/line/index.xml" rel="self" type="application/rss+xml"/><item><title>LINEリッチメニューのコツ</title><link>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</link><pubDate>Sun, 31 Mar 2019 12:55:03 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/line%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%84/</guid><description>ネタは熱いうちに打たないと、テンションはすぐ下がりますね。
+まずは、小ネタで、リッチメニューについて。
+リッチメニューとは何かについては、
+https://www.google.com/search?q=line+%E3%83%AA%E3%83%83%E3%83%81%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjChdXvsazhAhVXyIsBHbDIDCAQ_AUIDigB&amp;amp;biw=1628&amp;amp;bih=1054
+こんな感じで画像を見るとよくわかりますね。で、これがあってこそ、ボット作ったな感が出ると思うので、まずはここから始めるのはアリかと思います。実際上も、いきなり何を入力したら良いかわからない、という事態を避けるためには、メニューは有効かと思います。
+しかし、絵心がない人が、これをどう作るか、というのは悩みどころです。
+しかも、６分割メニューを作るなら、画像を６個用意するのかなと思ったら、大きい画像を用意して、その絵の中で６分割の表現をする、ということで、まずはそもそも、どうやってそんな綺麗に分割するのかというところから始まってしまいました。
+しかし、これについては、良い方法を思いつきました。あまり大きい画像では持て余すかと思って、400×270で作りましたが、こちらを見ると、本当は1200×810で作った方が良かったようです。
+で、良い方法というのは、Excelで列幅133、高さ135のセルを６個作り、それを塗りつぶし、罫線を白にします。その６マスをコピーして、Wordに画像として貼り付ける！これで、よい感じの雛形ができますので、あとは、そのマス内にイラスト等を貼り付けたり文字を書いたりして、周りを塗りつぶす！
+画像アプリを使いこなせない非デザイナにとってはなかなか良い方法ではないでしょうか。
+そしてまた、この作業をするにあたっては、macはきつかったです。標準のプレビューアプリでは塗り潰しができず、PhotoScape Xという無料アプリでも、塗りつぶし機能は有償オプションになっていました。この点、Windowsのペイントなら完璧にタスクをこなしてくれます。
+しかも、上記のExcelからWord貼り付け作戦は、Googleスプレッドシートではできず、Excelオンラインでもできませんでした。
+まさか、画像作成で、macからWindowsに戻るとは・・・
+もう一つ注意点としては、アップロードする画像サイズはぴったりサイズでないと受け付けてくれません。エラーメッセージが、jpgかpngでないとダメです、というようなものなのでわかりにくかったのですが、幅399を400にしたら受け付けてもらえました。
+ということで、一応参考画像を下に貼っておきますが、次回作る時は、1200×810で作り直そうと思います。（最初からそれにしておいたらアップロードではまらなかった・・・）</description></item><item><title>チャットボット（LINE bot）を作る</title><link>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</link><pubDate>Fri, 29 Mar 2019 23:43:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%EF%BC%88line-bot%EF%BC%89%E3%82%92%E4%BD%9C%E3%82%8B/</guid><description>仕事の方の年度末のパワープレーの影響で、こちらはすっかりご無沙汰になりました。
+そして、突然チャットボットを作ることを思い立ち、試してみたところこれがなかなか面白い。ということで、いくつか作ってみたいのですが、前半戦を終えたところで、まとめてみたいと思います。
+LINE bot　の処理の流れ 作るにあたって、今回いきなり作り始めましたが、ある程度流れがわかっていると、よりスムーズに入れるのでは、ということで、流れの絵を描いてみました。
+絵心のなさアピールしてどうするんだという気持ちもありますが・・・
+①普通に、LINEでトークをする場合に、自分が発言入力したら、それはおそらくLINEのDBに保存されて、画面に表示されて、処理終了となると思います。
+チャットボットを作る場合は、利用者の入力に対して、Webhookという仕組みを組み込みます。
+設定としては、Webhook送信を「利用する」として、そのURLを指定するのみです（けど、URL指定するなら、「利用する」の当たり前じゃない？？最初、URLだけ指定して、呼び出しに失敗して小一時間ほどハマりました）。
+②LINEはWebhook送信先に、入力内容をPOSTします。
+ですので、まずPOSTを受けられるサイトを用意する必要があります。
+これを、今回は、GAS（Google Apps Script）を使用して立ち上げました。
+しかし、立ち上げたという表現は正しくないかもしれません。「立ち上げる」的な行為は何もしてません。ただ、Googleドキュメントの１ページを作るかのように、ファイルを一つ作成し、そこにおもむろにコードを書きます。
+function doPost(e)
+と書いて、ウェブアプリケーションとして公開するのみです。これがサーバーレス・アーキテクチャというものか・・・とちょっと感動しました。
+③GASの中で色々やっても良いのですが、GASから外部サービスを呼んで、Responseを受け取ることができます。多くの場合はこのパターンではないでしょうか。Webhookはhttpsで呼ぶ必要がありますが、GASからの呼び出しはhttpでもよい、という裏技的な使い方も可能です。
+④受け取った情報を加工して、最後は、LINEのMessaging APIを呼び出します。Replyというのが、要は、利用者にとっての、トーク相手の発言になります。この返し方も、単純なテキストメッセージとして返すだけでなく、様々なフォーマットで返すことができる、というところがボットとしてのインターフェースの魅力につながります。
+また、②のPostに対するResponsとしてReplyを返すのではなく、独立したAPI呼び出しになっている、というのもなるほどと思いました。例えば、一つの入力に対して、複数のReplyを返すことができる、ということです。※これはできないっぽい。メッセージを配列で返すことはできます。
+⑤最後に、Replyの内容が、画面上に表示されます。
+なぜチャットボットを作るのか 正直、これまで、限られた知り合いとの連絡手段として以外にLINEをあまり使ってこなかったこともあり、ボットの何が良いのかわかりませんでした。
+しかし、今回作る方から入ってみて、魅力があることも分かりました。
+利用者にとってのチャットボットの魅力 一言で言うならば、「入力画面というインターフェースからの解放」とでも言えば良いのでしょうか。画面にいくつか項目があって、それらを入力して情報を得る、というのは、やはり処理する側の都合に合わせたインターフェースではあると思います。より直接的にこれが欲しいと言ってもらう、あるいは、質問に答えてもらいながら欲しいものを認識する、という方法が、自然な気がしました。
+開発者にとってのチャットボットの魅力 主題はこちらですが、意外と良いものでした。
+(1)フロント側作業の軽減
+LINEとして決まっているReplyの返し方に従っている限り、ある程度の見た目の保証が得られる、かつ、フロント側障害が発生しにくい、ということがあるかと思います。もちろん、綺麗にメニューを出そうと思ったらイラストを書く等が必要になってきたりして、フロント側の才能が不要になるわけではありません。しかし、見た目の印象作りにいつも悩まされる身としては、これだけの作業でこの結果が得られるというコスパはかなり高いと感じます。
+(2)クロスプラットフォーム開発
+今作っているのも、身近な人用のこじんまりとしたアプリですが、その利用者の中でもiPhoneとアンドロイド端末は半々という感触です。すなわち、各OS向けのアプリと作るか、クロスプラットフォーム開発をするしかない、と考えています。
+しかし、クロスプラットフォーム開発は、ここでも色々トライしているように、なかなか決定打が現れないというのが現状かと思います。また、それぞれ作ろうと思っても、macアプリを作ろうと思ったらmacが必要、というのもやはり障壁です。
+これに対して、LINEのプラットフォーム上で動作するチャットボット方式はそこへの配慮が０で良い、という点で強力です。
+(3)インストールへのハードルの低さ
+上とも関係しますが、特に、身近な人向けの野良アプリの場合、作ったものをインストールしてもらおうというのも、一苦労があったりします。iPhoneの場合に野良アプリを配布する方法があるのか、分かりません。
+アンドロイドの場合も、apkファイルをダウンロードしてもらう方法は提供できたとして、それをインストールしようとしたら警告が出てしまうことを考えると、ちょっと無理だな、と思ってしまいます。
+これに対して、チャットボットであれば、LINEで繋がっている人であれば「おすすめ」でその人を指定することですぐに見てもらうことができますし、友達になる前にQRコードを見せて繋がってもらうこともできます。これであれば、安心して利用してもらえるのではないかと感じました。
+開発に向けての情報 世間には１時間で開発できる系の情報がたくさんあります。確かに、１時間で動くもの（入力した文字をそのまま応答する、程度ですが）が完成するので、とっかかりやすいのは間違いないです。そこからさらに、６時間くらいかけて、
+・日→中、中→日、日→英、英→日　翻訳
+・リクルートのスタディサプリAPIからの情報検索
+・クックパッドの情報検索
+を作りました（クックパッドは丸パクリですが）。
+作ったもののそれぞれの解説をしてみたいと思う他にも、今後の開発に向けての情報として、書きたいことが色々出てきました。
+・GASとは。サーバレストは。
+・GAS版JSON処理方法、XMLパース方法、HTMLスクレイピング方法
+・LINEリッチメニューのコツ
+・Flex MessageによるリッチUI
+・ローソンアプリ（現在のLINEボットの最高峰？）の分析
+ボチボチやっていこうかと思います。</description></item></channel></rss>

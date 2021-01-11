@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ブロックチェーン on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/</link><description>Recent content in ブロックチェーン on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 23 Mar 2020 07:52:01 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>TruffleBoxs 入門</title><link>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</link><pubDate>Mon, 23 Mar 2020 07:52:01 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</guid><description>改めて勉強しようと考えたときに、TruffleBoxs が良いのではと思い立ちました。 まずは、純粋に TruffleBox (React&amp;amp;Truffle)を用いたDockerでのdapps（ブロックチェーンアプリ）の開発環境の構築 https://qiita.com/dl10yr/items/26b106d27a2de87da131 こちらをなぞらせていただ</description></item><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。 ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。 試して学ぶ スマートコントラクト開発 新品価格 ￥3,839から (2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ブロックチェーン on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/</link><description>Recent content in ブロックチェーン on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 23 Mar 2020 07:52:01 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>TruffleBoxs 入門</title><link>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</link><pubDate>Mon, 23 Mar 2020 07:52:01 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/truffleboxs-%E5%85%A5%E9%96%80/</guid><description>改めて勉強しようと考えたときに、TruffleBoxs が良いのではと思い立ちました。
+まずは、純粋に
+TruffleBox (React&amp;amp;Truffle)を用いたDockerでのdapps（ブロックチェーンアプリ）の開発環境の構築
+https://qiita.com/dl10yr/items/26b106d27a2de87da131
+こちらをなぞらせていただきます。
+いきなり、DockerFile の配置場所の絵と、docker-compose.yml の記述が食い違い？？
+docker-compose.yml の記述に合わせて、truffle フォルダに配置します。
+Dockerfile のfは小文字で
+$ docker-compose build $ docker-compose run truffle truffle unbox react Docker 側からアクセスできるように、Ipアドレスを追加するところ。
+まずは、事前確認。
+ifconfig lo0: flags=8049 mtu 16384 options=1203 inet 127.0.0.1 netmask 0xff000000 inet6 ::1 prefixlen 128 inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 nd6 options=201 ・・・ 変更
+sudo ifconfig lo0 alias 10.200.10.1/24 事後確認
+ifconfig lo0: flags=8049 mtu 16384 options=1203 inet 127.0.0.1 netmask 0xff000000 inet6 ::1 prefixlen 128 inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 inet 10.</description></item><item><title>「試して学ぶ スマートコントラクト開発」を読みながら</title><link>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</link><pubDate>Sun, 22 Mar 2020 06:09:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%8C%E8%A9%A6%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6-%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E3%80%8D%E3%82%92%E8%AA%AD%E3%81%BF/</guid><description>良い本なのは間違いないです。
+ただ、途中で行き詰まってしまったので、最後までガッツリとは作りきれませんでした。
+試して学ぶ スマートコントラクト開発 新品価格
+￥3,839から
+(2020/3/22 14:57時点) きっかけ 最近、ふとブロックチェーンの勉強をしてみようと思い立ち、CryptoZombieshttps://cryptozombies.io/jp/をやってみて、分かったような分からないような気分だったので、もう少しちゃんと勉強しようと調べてみました。で、当然色々なサイトがありますが、何も基礎がない状態だと、もう少ししっかり書かれているものがないかなと言う気持ちになり、この本に出会いました。
+この本はQUESTというアプリを作った経験を踏まえて書かれているようです。
+で、残念ながらQUESTは現在動いていないよう（単に証明書入れていないだけ？）なのですが、こちらでその概要が分かります。
+https://speakerdeck.com/norinity1103/quest-tutorial
+すなわち、セミナーとか講座とかで、質問してくれた人に仮想通貨で報酬を与えることで、場を活性化させるみたいなことを狙っているようです。
+この内容が自分の関心があるところでもあり、これの簡易版でも作れたら良いなと思いながら始めました。
+本の序盤 そもそも仮想通貨の購入等もしたことがない状態からのスタートですので、この本でも最初の基礎情報と、METAMASKウォーレット作成から始まる構成は大変助かりました。
+なお、テストネットでEther取得を行いますが、最初Ropstenの取得に失敗しました。今改めてやってみたらできたので、何かやらかしたかもしれません。
+本の中でも、CryptoZombies をやってみる章があります。
+これは、本当は、CryptoZombies のWeb環境ではなく、自分の環境でやってみたいと思うのですが。もう少し理解が進んだらできるようになるのでしょうか。
+そんなこんなで、Solidityという言語と、スマートコントラクトと言うものを学びます。が、正直、現段階でも、要はこう言うこと、という腹落ちした状態にはなっていません・・・
+また、Remix という、イーサリアム開発用のWeb IDE が紹介されます。
+これも良いなと思ったのですが、その後の開発は必ずしもそれを使用するわけではないので、まあ、参考情報という感じです。ちょっと見た目も変わっていて、Compileタブどこ？となります。
+その次は、プロダクトデザインの考え方（UX）の章になります。
+ジャーニーマップとか、ユーザテストとかの考え方が、丁寧に書かれています。
+開発環境 Chapter 4 あたりからが本題。
+開発環境として書かれているのが、
+・Docker
+・Geth
+・Ganache
+・Node.js
+・Truffle
+・Git
+・VSCode
+実践型の環境と感じられます。
+そして、開発用ブロックチェーンをプライベートネットとして構築します。
+これをやっているときに一つエラーが発生。
+geth --datadir ~/private-net --nodiscover --maxpeers 0 init ~/private-net/genesis.json とやると
+INFO ・・・ Fatal: Failed to write genesis block: unsupported fork ordering: eip150Block not enabled, but eip155Block enabled at 0 https://ethereum.</description></item></channel></rss>

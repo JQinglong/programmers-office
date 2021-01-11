@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>動画 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/%E5%8B%95%E7%94%BB/</link><description>Recent content in 動画 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 19 Jan 2019 00:58:36 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>Vimeo PRO（有料プラン）からBASIC（無料プラン）への変更</title><link>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</link><pubDate>Sat, 19 Jan 2019 00:58:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</guid><description>お試しでVimeoのPROプランに入っていた（2018年12月）のですが、いったんBASICに戻そうと思います。 PROは年間払いと月間払いのコースがあり、月間の方を契約していた（つもりでした）。 キャンセルについては、こちらの「いつキャンセル</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>動画 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/%E5%8B%95%E7%94%BB/</link><description>Recent content in 動画 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 19 Jan 2019 00:58:36 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/%E5%8B%95%E7%94%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>Vimeo PRO（有料プラン）からBASIC（無料プラン）への変更</title><link>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</link><pubDate>Sat, 19 Jan 2019 00:58:36 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vimeo-pro%EF%BC%88%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%8B%E3%82%89basic%EF%BC%88%E7%84%A1%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%EF%BC%89%E3%81%B8%E3%81%AE%E5%A4%89%E6%9B%B4/</guid><description>お試しでVimeoのPROプランに入っていた（2018年12月）のですが、いったんBASICに戻そうと思います。
+PROは年間払いと月間払いのコースがあり、月間の方を契約していた（つもりでした）。
+キャンセルについては、こちらの「いつキャンセルできますか？」に
+https://vimeo.com/jp/upgrade
+はい、すべてのプランが返金保証付きです。年間メンバーシップにご登録後30日間以内、または月間メンバーシップにご登録後5日間以内のキャンセルの場合は全額返金させていただきます。現在のメンバーシップで利用可能な追加機能が必要なくなった場合は、他のプランにグレードを落とすことができます。 とあります。
+では、実際にキャンセルしようと思うと、これが難しい。
+基本的には
+有料メンバーシップからベーシックメンバーシップへ戻る
+https://help.vimeo.com/hc/ja/articles/115006635407-Lapsing-from-paid-membership-to-Basic-membership
+にあるように、更新をしない、ということが必要で、自動更新をオフにすることになります。
+この手続きも分かりにくいですが、こちらが参考になります。
+http://www.smile-hack.com/entry/2017/07/23/121957
+でそうしたのですが、その上で現在のプランを見ると、2019年1月時点で、「あなたのVimeoPROメンバーシップの期限は2019/12/01に切れます。」となっています。
+え？結局年間契約？
+よくよく見ると、年間契約になっていました。ショック・・・
+この場合は
+Plus、PRO、Business または Vimeo Live の払い戻し
+https://vimeo.zendesk.com/hc/ja/articles/224822227-Plus-PRO-Business-%E3%81%BE%E3%81%9F%E3%81%AF-Vimeo-Live-%E3%81%AE%E6%89%95%E3%81%84%E6%88%BB%E3%81%97
+にしたがい、契約後30日以内であれば、お問い合わせフォームから払い戻しを依頼する、ということになるようです。
+ということで、１年間使うしかない。何か考えよう・・・
+とりあえず、こちらでもご覧ください。</description></item></channel></rss>

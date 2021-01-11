@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WordPress on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wordpress/</link><description>Recent content in WordPress on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Dec 2019 01:47:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>またサイト止めてしまいました</title><link>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Sun, 22 Dec 2019 01:47:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>ドメイン名サービスの更新を怠って、本サイトをしばらく止めてしまっていました。 Freenomの更新 以前にも繋がらなくなったことがあって、Cloudflareが止まってたということがありましたので、それも疑いましたが全然情報が出ていないので、そ</description></item><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。 ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・ IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PH</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。 ということで、WooCommerce用テーマの選択。 最初使ってみたのはこちら。 THESHOP https://athemes.com/theme/theshop/# おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピー</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WordPress on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wordpress/</link><description>Recent content in WordPress on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 22 Dec 2019 01:47:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wordpress/index.xml" rel="self" type="application/rss+xml"/><item><title>またサイト止めてしまいました</title><link>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Sun, 22 Dec 2019 01:47:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%BE%E3%81%9F%E3%82%B5%E3%82%A4%E3%83%88%E6%AD%A2%E3%82%81%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>ドメイン名サービスの更新を怠って、本サイトをしばらく止めてしまっていました。
+Freenomの更新 以前にも繋がらなくなったことがあって、Cloudflareが止まってたということがありましたので、それも疑いましたが全然情報が出ていないので、そうではなさそう。
+サイト自体が死んだかと思いましたが、再起動しても状況は変わらず、そもそもサイトが死んだ場合はCloudflareがエラー画面を返すのでそうでもなさそう。
+本サイトは、
+https://www.karelie.net/free-fast-wordpress-site-freenom/
+を参考に、freenomで無料ドメインサービスを使用しています（した）。
+今月頭に、「Your domain name PROGRAMMERS-OFFICE.ML needs renewal」というメールが来ていたのですが、完全に見落としていました。
+そして、これにしたがって更新していれば無料でできたようなのですが、一度終了してしまうと、再度取り直す際には有料になっています。ということで10ドルちょっと支払いました・・・（ただ、この更新料は他の有料サービスから比べても格安だとは思います）
+ついでにWordPressの更新 そして、ドメインの更新とは全く関係ありませんが、この際にWordPressも更新しておくことにします。
+更新の際には、いつも（？）、下記のエラーになります。
+いくつかのファイルをコピーできないため、最新版のインストールができません。これはたいていの場合、ファイルのパーミッションが適切でないことが原因です。: wp-login.php, wp-cron.php, xmlrpc.php, wp-load.php, wp-activate.php, wp-config-sample.php, wp-settings.php, wp-mail.php, wp-signup.php, wp-links-opml.php https://www.karelie.net/free-fast-wordpress-site-setting/#wordpress-2
+を参考にしてパーミッションを変更します。
+そちらに書いてある
+sudo chmod 707 wp-settings.php sudo chmod 707 wp-cron.php sudo chmod 707 wp-activate.php sudo chmod 707 wp-load.php sudo chmod 707 wp-login.php sudo chmod 707 wp-signup.php sudo chmod 707 wp-trackback.php sudo chmod 707 wp-config-sample.php sudo chmod 707 license.txt sudo chmod 707 readme.</description></item><item><title>Watson Machine Learning を活用してWordPress サイト内にアプリ作成</title><link>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</link><pubDate>Sat, 14 Sep 2019 00:34:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/watson-machine-learning-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6wordpress-%E3%82%B5%E3%82%A4%E3%83%88%E5%86%85%E3%81%AB%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90/</guid><description>いつも悩んで終わっている記事になってしまうのですが、今回は作りきった話。
+ただ、作りきってから解説を書こうと思うと熱が冷めてしまっているというジレンマ・・・
+IBMのWatson Studio から利用できる機械学習環境 AutoAI で予測モデルを構築し、それを外部PHPアプリから参照するアプリを作りました。タイタニック　チャレンジ 以前から作ろうとしていた、タイタニックアプリがやっとできた！ということです。タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） システム構成 基本的には、機械学習を行なったモデルをAPIとして公開し、そのAPIを呼び出すアプリを作る、というぬるさくで学習していた構成です。
+https://norwegian-geek.booth.pm/items/1296418
+いままでかなり色々な方法を試してきたわけですが、AutoAIを知った事で、ローカルで構築した機械学習環境を公開環境に持っていく、という事を考えなくて良くなったのが大きいです。
+まずは、AutoAIがデプロイ機能まで持っていて、これでAPIを公開できます。
+これを呼び出すアプリは、WordPressサイトを立てて、その中でPHPアプリを書きました。
+AutoAI によるAPI公開 こちらについては、AutoAIで検索するだけでも色々情報が出てきますし、「AutoAI タイタニック」と検索すれば、まさに今回行なったことをみなさんやられているので、割愛します。
+これが無料で公開されているというのがすごいなと思います。
+WordPress 環境内にアプリ構築 UI側をどう作るかがこの記事のメインとなります。
+最初は、せっかく勉強したということでOutSystemsでやってみようと思いました。
+OutSystems まず、ちょっと悩んだのが、あまりにもデータとフォームが結合していて、単なる検索条件を入力するための画面を作りたいのに、フォームのためにはデータが必要という構造。フォームを使わない方法も当然あると思いますが、仮のデータを作成する方法でもできなくはなかったです。
+REST API呼び出しについては、ちゃんと仕組みが用意されていて、これは便利。テスト呼び出しもしやすい画面が用意されている。
+それで、呼び出しまではできたのですが、取得したデータの処理がうまくできませんでした。これについては、そもそもAutoAIのJSONの構造が複雑すぎませんか？という気もしています。
+WordPress 昔から思っているのですが、CMSで管理するコンテンツというのは、単にブログ等の文章だけではないはず、CMSはサイト全体のデザインの統一性を実現するために使用するもので、そこには文章だけではなくアプリケーションも含まれるのではないでしょうか。その一例として、問い合わせフォームくらいはCMSの機能に含まれたりもすると思うのですが、もっとがっつりしたアプリもCMS管理配下に乗せてしかるべきではないか、という気がしています。
+なぜこれを私がこれを強く思うかというと、私がデザインが苦手だからです。なるべくセンスの良いデザインを使わせていただくために、その枠組みの中でアプリも作りたいと思うのです。
+実際それはやったことはあるので、自分のできる範囲に戻ったという感じではあります。
+フォームプラグイン そう考えた上で、今回最初に、Wordpressのプラグインを使って、フォームを作れないかと思いました。
+色々なプラグインを見ていく中で、使えなくないなと思ったのは、Form Maker by 10Web。The Most Powerful Drag&amp;Drop WordPress Form Builder デザインテーマも用意されていて（Wordpress本体のテーマとは完全独立なのは良い悪いあると思いますが）、きれいなデザインのフォームが作れます。
+また、無料で使えるコントロールが充実しています（他の類似プラグインは有料オプションが多い印象）。
+ただし、基本的には、あくまでも入力した内容をデータに保存して、せいぜいメールを飛ばす機能。今回やりたかったのは入力値を外部のAPIに渡すこと。フォーム処理の後外部URL等に転送することはできますが、入力値がPOSTされるわけではないのです。
+これについては、もう少し頑張ってみました。
+JavaScriptを追加することができますので、
+function send_form(){ var f = document.forms["form6"]; f.method = "POST"; f.action = "/apps/titanic-result/" f.submit(); } みたいなものを追加し、画面側では標準のSubmitボタンを使わずに、ボタンを追加して、OnClickイベントにsend_form()を記載する、ということをすると、指定したところに入力値をPostすることができるわけです。</description></item><item><title>WooCommerce用テーマ　Shop Isle</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</link><pubDate>Tue, 29 Jan 2019 15:07:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E7%94%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%80%80shop-isle/</guid><description>サイトの構成が見えてきたら、やはり見た目を整えたくなる。
+ということで、WooCommerce用テーマの選択。
+最初使ってみたのはこちら。
+THESHOP
+https://athemes.com/theme/theshop/#
+おしゃれだなとは思ったのですが、ヘッダ部分にアイコン三つの表示が固定になっているようで、ちょっとアピールされすぎている感が気になりました。
+そしてもう少し探してみて見つけたのがこちら。
+ShopIsle
+https://docs.themeisle.com/article/184-shopisle-documentation
+https://ja.wordpress.org/themes/shop-isle/
+以前、別のサイトを作るときに、IsleMagというテーマを使ったことがあります。
+https://ja.wordpress.org/themes/islemag/
+カラフルな見た目が気に入りました。
+このサイトでも使おうと思いましたが、投稿日の表示のされ方だけ、ほんのちょっと気になって、また、現在使用しているMesocolumnがよりカラフルだったのでこちらにしたのですが、情報量の多さではIsleMagの方が強いので、実は今でも気になっています。
+（ただ、今ちょっと調べてみると、This theme has been retired.となってしまっていますね。2019/1/28に更新されているのに？？謎・・・
+https://themeisle.com/themes/islemag/
+）
+で、名前から分かるように同じ作者のeCommerce WordPress Themeとして提供されているものが、ShopIsleな訳です。
+こちらの日本語情報も一通りの確認をするのに良さそうです。
+https://lightup-works.com/shopisle
+Islemagに比べれば情報はかなり少なくなりますが、共通知識も使えるのではという期待も込めて、使ってみたいと思います。
+なお、他にテーマを探したい方は、こちらも参考になりそうです。THESHOPもShopIsleも紹介されています。オンラインストアの構築に最適！すべて無料のおすすめWordPressテーマ20選</description></item></channel></rss>

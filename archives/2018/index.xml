@@ -1,1 +1,1528 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2018 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2018/</link><description>Recent content in 2018 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 31 Dec 2018 02:45:55 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2018/index.xml" rel="self" type="application/rss+xml"/><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</link><pubDate>Mon, 31 Dec 2018 02:45:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</guid><description>Code4Startup 年末なので、頑張ります。Task22まで来ました。 トレイ（ショッピングカート）画面で、注文者の住所を入力するところで、地図と連携。 とりあえず、キーワドとしては、 MKMapView CoreLocation.Framework info.plistの Privacy – Location When In Use Privacy – Location Always CLLocationManager というあたり。 次のTask23</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 詳細画面からショッピングカート</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</link><pubDate>Mon, 31 Dec 2018 00:24:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</guid><description>Code4Startup リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。 途中のミニ講座は、「pyramid if」。 pyramid ifで調べても何も出てこないので、この講座独特の言葉でしょうか。しかし、「Pyramid of d</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ リストの実装</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</link><pubDate>Sun, 23 Dec 2018 00:26:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</guid><description>Code4Startup Task19はレストランリストの実装。 最初は、仮実装でリスト表示の枠組みを作っておいて、ここで、API連携により実際のデータを表示させます。 合わせて、サーチバーの実装でデータのフィルタリングを行い、Activity Indivatorという</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part2）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 09:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</guid><description>WordPressサイトを引っ越したものの、なかなか苦労しましたという話の後編。 前編は サイト引っ越し、そして、再引っ越し（Part1） WordPressサイトの引っ越し方法 色々あると思いますが、毎回検討するのは、こちらのプラグイン。 All-in-One WP Migration –</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part1）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 02:30:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</guid><description>サイト引っ越しの目的 Lighthouseを知って調査してみると、そういえばこのご時世にHTTPS対応されていない。 また、体感としてページの読み込みが遅い。 サイト構成も、イマイチに感じられてきた。 ということで、引っ越しをすることにしました。 さ</description></item><item><title>Meet Magento 2018 – Google講演</title><link>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</link><pubDate>Sat, 17 Nov 2018 07:39:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</guid><description>先日参加した Meet Magento 2018 得られたものを書きたいと思いつつ、多すぎてどうしようという状態。 とりあえず、書きなぐっていきますが、息切れの可能性しかなし。 The path to purchase with Google 最後はGPayの宣伝！と思いつつ、色々なサービスの紹介が面白かったです。 https://httparchive.org/ 資料を作る際</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ API呼び出し</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</link><pubDate>Sat, 17 Nov 2018 01:07:21 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</guid><description>Code4Startup 先に作ったFacebook連携用APIの呼び出し。 ここでログイン・ログアウトの機構を一気に作るので、ここをやっておかないとドライバー用アプリが進められなくなる。 が、とりあえず、一旦は一通りビデオを見てみることにする。 この先は、その他API</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook接続</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</link><pubDate>Tue, 13 Nov 2018 22:33:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</guid><description>Code4Startup Task17ではFacebookへの接続。 色々なものをインストールしますが、それによりこんなに簡単にできるのだ、ということが感じられます。 ただ、やればできそうなので、一旦ビデオだけ見てスルーしてます。 そして、Task18に入ると、Asyn</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ デザインなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 11 Nov 2018 01:59:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</guid><description>Code4Startup Task 16終了。 最後は、デザインの統一等を行いますが。 UIApplication.shared.statusBarStyle = .lightContent は、Setter for ‘statusBarStyle’ was deprecated in iOS 9.0: Use -[UIViewController preferredStatusBarStyle] という警告が出ます。しかし、 UIApplication.shared.preferredStatusBarStyle = .lightContent はダメです。これはこのままにしておきます。 また、 UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAtrributeName: UIColor.white] はエラーとなり、コメント欄</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ cocoapods</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</link><pubDate>Sat, 10 Nov 2018 12:14:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</guid><description>Code4Startup さて、クレジットカード情報入力画面を作るにあたっては、cocoapodsなるものを導入するようです。 ターミナルで、sudo gem install cocoapodsを叩きます。 ビデオでは1 gem installedであっさり終わっていましたが、私の環境では結構な量</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift続行中</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</link><pubDate>Sat, 10 Nov 2018 03:22:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</guid><description>Code4Startup さて、Swiftでの開発、ViewController、segue等の基本的な概念を、あまり理解せずに進めているので、これで一人で作れるのかと言ったら微妙ですが、それでも色々繰り返していくうちに何となくは解ってくるようには思われます。 で、</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</link><pubDate>Sun, 28 Oct 2018 14:30:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</guid><description>Code4Startup iMac購入 一旦Xamarinを始めたわけですが、そして第一印象はさほど悪くもなかったのですが、結局iOS版を作成するためにはXcodeの入ったMacが必要になるということで、熟慮した結果（1日ほど）iMacを購入しました。 iMac MK462J/A 一体型 PC 2</description></item><item><title>格納型XSS システムアーキテクト試験より</title><link>https://jqinglong.github.io/programmers-office/%E6%A0%BC%E7%B4%8D%E5%9E%8Bxss-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E8%A9%A6%E9%A8%93%E3%82%88%E3%82%8A/</link><pubDate>Mon, 22 Oct 2018 21:53:16 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%A0%BC%E7%B4%8D%E5%9E%8Bxss-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E8%A9%A6%E9%A8%93%E3%82%88%E3%82%8A/</guid><description>日曜日は、情報処理技術者試験。システムアーキテクト試験(SA)を受験してきました。 午前Ⅱの回答は即日公表され、80点でしたので、あとは午後次第。感触は良かったですが、さて、どうなることやら。 午前Ⅱの試験は勉強になるものが多いですが、今回受験</description></item><item><title>XamarinのXAMLのデザイナー</title><link>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</link><pubDate>Sat, 13 Oct 2018 14:11:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</guid><description>Xamarinも楽ではないですなー Xamarinのチュートリアル https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin で、最初のとっかかりは良かったのですが、構成がいまいちまとまりきっておらず、内容もビデオを見たりするのが多いのでちょっと進めにくい。 ということで、こちらをやってみようと思いま</description></item><item><title>とりあえずxamarinチュートリアル中（初心者の超入門編）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</link><pubDate>Sat, 13 Oct 2018 01:34:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</guid><description>Code4Startup xamarinの選択 Code4StartupはここからSwiftによるモバイルアプリ開発に入ります。 とっかかりの部分の講座を見てみましたが、やはり画面デザインから入りますよね。 さて、Windows上にswift環境は用意したつもりだったの</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Stripeの使用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</link><pubDate>Mon, 08 Oct 2018 02:45:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</guid><description>Code4Startup 自作サービスの決済手段として何を使うか、PayPalは開発者にやさしいなと思っていましたが、Stripeも十分良さそうです。 [][1]トップメニューに「開発者」があり、このサービスの向き先が伺える ちなみに、日本のサービスで、申込・審査を行</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Chart APIなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 07 Oct 2018 08:25:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</guid><description>Code4Startup Task14までdone。 途中結構長い時間はまったのが、 Order.objects.filter・・・ とすればよいところを OrderSerializer(Order.objects.filter・・・ としてしまったために、発生したエラー。</description></item><item><title>AWS Loft vs YAHOO LODGE</title><link>https://jqinglong.github.io/programmers-office/aws-loft-vs-yahoo-lodge/</link><pubDate>Sat, 06 Oct 2018 03:29:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/aws-loft-vs-yahoo-lodge/</guid><description>AWSオープンということで、早速行ってきましたので、YAHOO LODGEとライバル比較！ AWS Loft https://aws.amazon.com/jp/start-ups/loft/tokyo/ 目黒駅前（目黒セントラルスクエア） 平日のみ（平日（月〜金） 10:00 〜 18:00） 入館時に、AWSアカウント ID（12桁数字）記入が必要 YAHOO LODGE https://lodge.yahoo.co.jp/ 永田町、赤坂</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Postmanのはまりポイント</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link><pubDate>Mon, 01 Oct 2018 13:04:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</guid><description>Code4Startup Task11で、27分の長丁場のレッスンがあります。 いったん全部見てから、書いてみたのですが、途中ではまりました。 「AccessToken matching query does not exist.」 これは、結構な人がはまっているようなのですが、なかなかまともな回答がついていな</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 久しぶり</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</link><pubDate>Sat, 29 Sep 2018 13:59:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</guid><description>Code4Startup 色々並行ででやっていると、再開方法を確立しておかないと忘れますね。 source myvirtualenv/foodtasker/bin/activate cd foodtasker/ python manage.py runserver xxx.xxx.xxx.xxx:8000 これでhttp://xxx.xxx.xxx.xxx:8000/が動くようになる、という感じですね。 ということで、Task10まで終わらせました。 とありあえず</description></item><item><title>Magentoのベースページの仕組み</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link><pubDate>Fri, 28 Sep 2018 06:31:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid><description>自分で作成したウェブサイトにWhat’sNewを出そうと思いましたが、それを調べる過程で、ベースページの仕組みが分かってきたので先にそちらを確認。 1.自分で作成したウェブサイトのホームページをドキュメントルートにする 現在、元々のサンプルデー</description></item><item><title>Magento ウェブサイトの切り替え</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</link><pubDate>Wed, 26 Sep 2018 02:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</guid><description>今やろうとしているのは、Magentoのサンプルのウェブサイトはアパレル業的なサンプルになっているので、これはこれで置いておいて、別の飲食業的なサイトを作ることです。 Magento ホームページカスタマイズへの道 まず、とっかかりの部分を作りました。 Mag</description></item><item><title>MagentoのSQL解析</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</link><pubDate>Sat, 22 Sep 2018 07:30:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</guid><description>自分で作成したページ・ウィジェット・ブロックに思うように商品が表示されない。 ならば、どのようなSQLが流れていて、何が引っかかって表示されないのか調べてみよう、という活動です。 1.環境整備 (1)SSH接続用ターミナルソフト Tera TermでもPu</description></item><item><title>Magento ホームページカスタマイズへの道</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 21 Sep 2018 15:17:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Magentoのサンプルのホームページはアパレル業的なサンプルになっていますが、これを飲食業的なサンプルにしたいと思っています。しかし、なかなか思うようにいきません・・・ 1.やろうとしていること サンプルのトップページにあたる http://example.com/magento/ （magent</description></item><item><title>グループでのタスク管理</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/</link><pubDate>Tue, 18 Sep 2018 11:47:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/</guid><description>さてMagentoを調査しているのは、あるプロジェクトで使おうとしているからです。これはいつもの一人プロジェクトではなくて、グループで行おうとしています。 そのプロジェクトで、タスク管理ツールを使いたいなと思い、ちょっと調べてみました。 1.有</description></item><item><title>Magento(マジェント)始めました</title><link>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Mon, 17 Sep 2018 12:51:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>現在作ろうとしているサービスの基盤として、Magento(マジェント)がよいのでは、と思い、Magento(マジェント)を使い始めました。 いろいろ苦労していますが、やったことを片っ端から忘れてしまうので、ちょっとずつ記録を残していきたいと思</description></item><item><title>世界のチャイナタウン</title><link>https://jqinglong.github.io/programmers-office/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%82%BF%E3%82%A6%E3%83%B3/</link><pubDate>Mon, 17 Sep 2018 01:39:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%82%BF%E3%82%A6%E3%83%B3/</guid><description>各国チャイナタウン比較をしてみたいですが、そもそも最近横浜も行ってないし、不十分ながら羅列。 シンガポール シンガポールというと洗練されたイメージがあり、チャイナタウンも横浜的な整備されたチャイナタウンかな、と何となく思っていたのですが、想像以</description></item><item><title>Hooters初入店</title><link>https://jqinglong.github.io/programmers-office/hooters%E5%88%9D%E5%85%A5%E5%BA%97/</link><pubDate>Thu, 13 Sep 2018 11:46:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/hooters%E5%88%9D%E5%85%A5%E5%BA%97/</guid><description>いえ、そうではありません。それは誤解です。 https://prtimes.jp/main/html/rd/p/000000008.000028394.html ワークスペースとして利用できるのです。 「フーターズでテレワーク」とか検索してみてください。皆さん、下心全開で仕事してますよ。 そんな中から一番役に立つと思われるページは、こちら。 https://de-gucci.com/blog/29475 ちゃんと入店の準備</description></item><item><title>ワシントンDC見学</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3dc%E8%A6%8B%E5%AD%A6/</link><pubDate>Thu, 13 Sep 2018 04:58:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3dc%E8%A6%8B%E5%AD%A6/</guid><description>旅程は、8/11（土）8:30羽田出発エアチャイナ北京経由便、同日14:35ワシントンダレス空港到着。途中、8/14（火）6:00発の国内便でニューヨークへ行き、8/15（水）10:35ニューヨーク発のAmtrak（列車）でDCに帰還。8/</description></item><item><title>シェアサイクル、シェアXXX</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2xxx/</link><pubDate>Tue, 11 Sep 2018 11:45:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2xxx/</guid><description>自転車についてはやはり書いておかざるを得ない。 1.日本 最近の日本の状況はどうなんでしょうか。 東京では一応順調に増えているように感じます。 個人的には渋谷区が入ったのが嬉しい。 あとは、中野区、豊島区も頑張れ！ ドコモ・バイクシェア https://www.d-bikeshare.com/ ソフトバンクと</description></item><item><title>Viber初体験</title><link>https://jqinglong.github.io/programmers-office/viber%E5%88%9D%E4%BD%93%E9%A8%93/</link><pubDate>Mon, 10 Sep 2018 12:08:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/viber%E5%88%9D%E4%BD%93%E9%A8%93/</guid><description>書きたいことは山ほどたまっているのですが、次に進みたい気持ちも抑えられず・・・ 前回まで書いていたMonacaアプリwithWPは、形にすることができました。 諸事情により非公開アプリですが、一つ形をつかむと、それを基礎として発展させるアイデア</description></item><item><title>CORSを乗り越えて</title><link>https://jqinglong.github.io/programmers-office/cors%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%81%A6/</link><pubDate>Sat, 21 Jul 2018 12:31:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/cors%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%81%A6/</guid><description>さくらレンタルサーバの共有SSL（続き） さくらにテストサイトを立てて、データもコピーします。 あまり作りこんでいない段階でしたら、普通に、DB新規作成→WordPressをインストール→データエクスポート・インポートでやっても大した手間ではあ</description></item><item><title>GCEの開発環境にSSL証明書を入れようと思ったが</title><link>https://jqinglong.github.io/programmers-office/gce%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%ABssl%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%8C/</link><pubDate>Fri, 13 Jul 2018 23:27:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%ABssl%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%8C/</guid><description>＜環境の復習＞ サーバサイドの開発をAWS Cloud9で行います。 なるべく無料範囲で、ということで、EC2を使用せず、GCP上のGCEに接続します。 ですので、サーバ側開発環境はGCEに立っています。 クライアント側開発は、クロスプラットフォーム</description></item><item><title>Monaca Onsen UI V2 Vueで外部JSON取得</title><link>https://jqinglong.github.io/programmers-office/monaca-onsen-ui-v2-vue%E3%81%A7%E5%A4%96%E9%83%A8json%E5%8F%96%E5%BE%97/</link><pubDate>Thu, 12 Jul 2018 09:11:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca-onsen-ui-v2-vue%E3%81%A7%E5%A4%96%E9%83%A8json%E5%8F%96%E5%BE%97/</guid><description>フロント側画面デザイン作成 ↓ サーバ側WordPress構築 ↓ ということで、再度フロント側に戻り、WordPressのデータを参照します。 いやー、あきらめそうになりましたが、かろうじて持ちこたえました。 $http.getの使用 サンプルを探し始</description></item><item><title>GCE（Google Compute Engine）上のMariaDBに外部から接続</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E4%B8%8A%E3%81%AEmariadb%E3%81%AB%E5%A4%96%E9%83%A8%E3%81%8B%E3%82%89%E6%8E%A5%E7%B6%9A/</link><pubDate>Fri, 06 Jul 2018 09:16:43 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E4%B8%8A%E3%81%AEmariadb%E3%81%AB%E5%A4%96%E9%83%A8%E3%81%8B%E3%82%89%E6%8E%A5%E7%B6%9A/</guid><description>GCPのファイアウォール GCEにインストールしたMariaDBに、その中のWordPressから接続できていますが、ここにプラグイン用のテーブルを追加したり、データをいじったりしたい。 その際に、全てコマンドベースでやるのもつらいし、さらにp</description></item><item><title>GCE（Google Compute Engine）へのWordPressインストール（2）</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%882%EF%BC%89/</link><pubDate>Tue, 03 Jul 2018 20:50:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%882%EF%BC%89/</guid><description>今回でWordPressインストールまでたどり着こう。 参考は、こちら。 https://qiita.com/yuichiyuichi447/items/4bb3b9dbb69ee5a693cf GCEへのApacheインストール これは sudo apt install apache2 だけ。 ただ、この時点でちゃんと動作を確認すべき・・・ GCEへのPHP7インストール sudo apt install -y php php-mysql libapache2-mod-php ここでも、動作確認すべき</description></item><item><title>GCE（Google Compute Engine）へのWordPressインストール（1）</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/</link><pubDate>Fri, 29 Jun 2018 09:15:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/</guid><description>さて、環境を定めたら、WordPressをインストールします。 Cloud Launcherではない GCP・WordPressで検索すると、コンソールのCloud Launcherからインストールする方法が多数ヒットすると思います。 確かに、メニューから選</description></item><item><title>AWS Cloud9からさくらレンタルサーバはあきらめた</title><link>https://jqinglong.github.io/programmers-office/aws-cloud9%E3%81%8B%E3%82%89%E3%81%95%E3%81%8F%E3%82%89%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AF%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9F/</link><pubDate>Thu, 28 Jun 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/aws-cloud9%E3%81%8B%E3%82%89%E3%81%95%E3%81%8F%E3%82%89%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AF%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9F/</guid><description>画面デザインはそれっぽくなってきたので、いったんバックエンドに入ろうと思います。 そして、最初の宣言（Monacaでハイブリッドモバイルアプリ開発）通り、AWS Cloud9＋さくらレンタルサーバで作ろうと思いました。 が、結論としては、諦めまし</description></item><item><title>MonacaでのOnsen UI V2 Vue Tabbar</title><link>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%81%AEonsen-ui-v2-vue-tabbar/</link><pubDate>Sun, 24 Jun 2018 06:58:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%81%AEonsen-ui-v2-vue-tabbar/</guid><description>まず、Monacaで画面デザインを作っています。 新規プロジェクトでは、「Onsen UI V2 Vue Tabbar」を選択します。 しかし、各種サンプルを見ながらなんとかなるかなと思いいつつ、なかなかしんどいですね。 この構成の場合、何かを調べようと思ったら</description></item><item><title>Monacaでハイブリッドモバイルアプリ開発</title><link>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</link><pubDate>Sat, 23 Jun 2018 11:21:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</guid><description>Monaca再開 今回、とあるアプリを作ろうと思い立ち、以前ちょっと遊んでいたMonacaを改めて使ってみたいと思います。 その間色々進歩していると思うので、割と一から勉強の部分も多々ありますが、地道に。 作ろうとしているものの構成は下記の通り。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</link><pubDate>Sun, 17 Jun 2018 00:01:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</guid><description>Code4Startup Task 8、9の辺りは、ひたすらページ作成のコーディングをしていきます。 こういうドリル的なこと：写経も必要。 すんなりいかないところとして、 modelの作成で restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE) 講義の中では、on_deleteは記載していませんが、必要と怒られます。 offs</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</link><pubDate>Fri, 15 Jun 2018 23:52:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</guid><description>以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・ Bootstrap4 講義はBootstrap3</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</link><pubDate>Fri, 15 Jun 2018 23:48:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</guid><description>Code4Startup 以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・ Bootstrap4 講義はBootstrap</description></item><item><title>シンガポール ダイジェスト3 2018年6月 スタートアップハブ</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB-%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%883-2018%E5%B9%B46%E6%9C%88-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</link><pubDate>Wed, 13 Jun 2018 12:09:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB-%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%883-2018%E5%B9%B46%E6%9C%88-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</guid><description>シンガポールダイジェストは今回が最後です。 （シンガポール ダイジェストその1はこちら、その2はこちら） BSジャパン 日経プラス10 イノベーションどう生み出す!?先進シンガポールの突破力 今回行く直前に、たまたまテレビ番組「BSジャパン 日経プラス1</description></item><item><title>シンガポール ダイジェスト2 2018年6月　五月天（メイデイ）コンサート</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2-2018%E5%B9%B46%E6%9C%88%E3%80%80%E4%BA%94%E6%9C%88%E5%A4%A9%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%87%E3%82%A4%EF%BC%89/</link><pubDate>Sat, 09 Jun 2018 09:12:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2-2018%E5%B9%B46%E6%9C%88%E3%80%80%E4%BA%94%E6%9C%88%E5%A4%A9%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%87%E3%82%A4%EF%BC%89/</guid><description>今回の主目的、五月天（メイデイ）コンサートについて （シンガポール ダイジェストその1はこちら） （2020年1月26日）最近このページを見に来てくれる人がいるのは、きっと8月のシンガポール公演が発表されたからですね。なのに、写真がちゃんと貼られ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook認証</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</link><pubDate>Sat, 09 Jun 2018 00:26:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</guid><description>Code4Startup 続いて、oauthによるFacebook認証。 この辺の実践感がこの講座の良いところ。 https://developers.facebook.com/ スタートガイド→Facebook for Developersアカウントを作成するところから始めます。 画面構成は講義ビデオの時からは大分変っているようですが、何</description></item><item><title>シンガポール　ダイジェスト　2018年6月</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%80%80%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%802018%E5%B9%B46%E6%9C%88/</link><pubDate>Fri, 08 Jun 2018 08:38:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%80%80%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%802018%E5%B9%B46%E6%9C%88/</guid><description>先週行ってきたシンガポールについての記録を残しておきます。 両替 両替は、事前に都内「アクセスチケット」でやっておきました。 https://www.access-ticket.com/shop/detail/64 その時点で、東京駅前店100Sドル8104円。 秋葉原店の方がレート良かったですが、在庫がなかったので。 全ての店舗で外貨</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ heroku環境整備</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</link><pubDate>Fri, 08 Jun 2018 01:47:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</guid><description>Code4Startup さて、herokuが動作するようになると、おもむろにGunicornをインストールします。 Gunicornとは何か http://gunicorn.org/ Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX. Python製のWSGI サーバ WSGI とは何か http://gihyo.jp/dev/feature/01/wsgi/0001 WSGIはJavaにおけるJava</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道は続く</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</link><pubDate>Wed, 06 Jun 2018 13:57:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</guid><description>Code4Startup 前回からの続き インストールされたということで、heroku loginしてみると、 Error: login is not a heroku command. 再インストールしなさいという情報があるので、 curl https://cli-assets.heroku.com/install-ubuntu.sh | sh しかし、エラー変わらず。 手当たり次第という感じですが、 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh 変わらない。 https://teratail.com/questions/125977 に従ってみる。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 01 Jun 2018 13:13:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Code4Startup 講義ビデオは突然heroku loginから始まった。 しかし、cloud9ではherokuコマンドは効かない。 よって、インストールから。 http://www.lib-arc.com/entry/2018/04/15/234355 こちらでは、nodeは入っている前提。しかし、少なくとも私の環境には入っていない。 そこから。となると、</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Djangoのデバッグ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</link><pubDate>Fri, 01 Jun 2018 07:14:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</guid><description>Code4Startup 前回に続き、Registration機能の実装ですが、どうもデータが登録されません。 では、ということでデバッグ実行をしようと思ったのですが、これがまたうまく動きません。 そもそもサービス起動のために python manage.py runserver xxx.xxx.xxx.xxx:8000 を叩かなければいけないということで</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Registration</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</link><pubDate>Mon, 28 May 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</guid><description>Code4Startup Djangoで持っているUser管理の機構を利用する部分。 それ以外に内容的に特筆すべきところはないですが、いったんエラーを発生させて、コンソールに表示されているエラーを確認して、対処するという流れ。 Cloud9だと、コンソールウインドウを</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Sign In &amp; Sign Out</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</link><pubDate>Sat, 26 May 2018 00:19:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</guid><description>Code4Startup 画面を横に並べて、動画見ながらコーディング、という形にすればよいのでしょうが、動画を見てから書こうとすると、しばしば間違いが。 ログインページのテンプレートファイルで {% load staticfiles %} を忘れずに。忘れるとinvalid block tag ‘static’というエラー</description></item><item><title>xperiaのなぜ</title><link>https://jqinglong.github.io/programmers-office/xperia%E3%81%AE%E3%81%AA%E3%81%9C/</link><pubDate>Thu, 24 May 2018 14:02:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xperia%E3%81%AE%E3%81%AA%E3%81%9C/</guid><description>以前、Xperia Z Ultraを持っていましたが、寿命を迎えた際に結局これだと納得できる後継機を見つけることができず、いわゆるZUltra難民になりました。 当時調べたのが下記＜ファブレット比較＞ですが、今でもあまり状況は変わっていないように</description></item><item><title>日経プラス10のシンガポール特集</title><link>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</link><pubDate>Wed, 23 May 2018 13:13:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</guid><description>昨晩の日経プラス10のシンガポール特集（うちのテレビの自動録画、いい仕事した！）。 見に行きたいところがわんさか。 https://jcc.jp/news/13510974/ SPECTRUM スタートアップ企業等が集まるワークスペース https://www.spectrum.global/ thebridge 同じく https://thebridge-asb.com/ Plug-in@Blk71 NUSエンタープライズ シンガポール国立大学（National University of Si</description></item><item><title>仙台旅行は週末パス？</title><link>https://jqinglong.github.io/programmers-office/%E4%BB%99%E5%8F%B0%E6%97%85%E8%A1%8C%E3%81%AF%E9%80%B1%E6%9C%AB%E3%83%91%E3%82%B9%EF%BC%9F/</link><pubDate>Sun, 20 May 2018 04:29:49 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E4%BB%99%E5%8F%B0%E6%97%85%E8%A1%8C%E3%81%AF%E9%80%B1%E6%9C%AB%E3%83%91%E3%82%B9%EF%BC%9F/</guid><description>先日、急遽所用で仙台に行ってきました。 これまでは、駅レンタカーを使用していましたが、もう少し安い方法があるのでは、と調べてみたところ、週末パスが最強ではないかと思っています。 週末パス こちらは、大人8,730円で、エリアも、千葉県全域、伊豆急</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Django環境続き</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</link><pubDate>Fri, 04 May 2018 03:48:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</guid><description>Djangoが動作する環境ができたら、アプリを作成していきます。 「python manage.py startapp foodtaskerapp」により foodtasker foodtaskerapp のディレクトリが並ぶ形になります。 ここから、行ったり来たりになりますが、 ・まずは、foodtaskerのsettings</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Python/Django環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 03 May 2018 00:31:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</guid><description>次は、Webアプリ側の環境で、Djangoです。 もう、これは、最初からCloud9で楽勝でしょう、と思っていたら甘かった・・・ AWS Cloud9とは 元々Cloud9を使用しており、開発環境をワンクリックで簡単に構築できることが売りだったので、そ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</link><pubDate>Wed, 02 May 2018 02:15:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</guid><description>Code4Startup こちらが本題の、UberEatsを作ろう（Create UberEats with Python/Django and Swift 3）。 まずは、環境構築から始まるのですが、Python、Heroku、Atomは使用するしないは良いとして、XcodeはWindows環境だとどうしようもない。 しかし、今の時</description></item><item><title>スポンサー企業調査　Ruby X Elixir Conf Taiwan 2018</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E3%80%80ruby-x-elixir-conf-taiwan-2018/</link><pubDate>Tue, 01 May 2018 05:43:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E3%80%80ruby-x-elixir-conf-taiwan-2018/</guid><description>先日、Ruby X Elixir Conf Taiwan 2018というイベントがあったそうです。 知っていたらGWにかけて台湾行っていた？？かは、さておき、このページの下にあるスポンサー企業一覧に興味を持ちました。 一つ一つ見てみたいと思います。 honestbee https://www.honestbee.tw/ 料理や食品の配達サービス。 日</description></item><item><title>Code4StartUp ～ Landing Pageを作ろう</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</link><pubDate>Tue, 03 Apr 2018 14:44:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</guid><description>ちょっと、Noteを使ってみたりもしており、こちらはご無沙汰になりました。 Noteのような厳しい制約の中で書くのもそれはそれでありだと思うのですが、ちょっと厳しすぎる感もあり。 しかも、有償化はそんな簡単な話ではないなと。 ただ、ちゃんと構造化</description></item><item><title>201801台湾に行きたいわんpart4　追加情報</title><link>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4%E3%80%80%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1/</link><pubDate>Sat, 24 Feb 2018 13:03:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4%E3%80%80%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1/</guid><description>1月の台湾旅行情報のまとめができないまま、1か月以上経過。 レシートを見ながら簡単に振り返ってみると。 今回も、ATMで5000元引き出し。セブンイレブンじゃなくて、空港のATMでやりました。 後日のカード決済額は18,933円＋ATM手数料21</description></item><item><title>春分の日までにテキスト1冊仕上げよう 2018 に参加</title><link>https://jqinglong.github.io/programmers-office/%E6%98%A5%E5%88%86%E3%81%AE%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AB%E3%83%86%E3%82%AD%E3%82%B9%E3%83%881%E5%86%8A%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%88%E3%81%86-2018-%E3%81%AB%E5%8F%82%E5%8A%A0/</link><pubDate>Fri, 09 Feb 2018 17:10:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%98%A5%E5%88%86%E3%81%AE%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AB%E3%83%86%E3%82%AD%E3%82%B9%E3%83%881%E5%86%8A%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%88%E3%81%86-2018-%E3%81%AB%E5%8F%82%E5%8A%A0/</guid><description>いつもお世話になっております、Mandarin Note様。 こちらで、恒例の「春分の日」企画、「春分の日までにテキスト1冊仕上げよう 2018」が始まりました。 #shunbun2018 ちなみに、昨年はなかったのかな。2016の様子は#shunbun2016。 これまで</description></item><item><title>USB type-CアダプタでDeX</title><link>https://jqinglong.github.io/programmers-office/usb-type-c%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7dex/</link><pubDate>Sun, 04 Feb 2018 12:09:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/usb-type-c%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7dex/</guid><description>昨日はデータベーススペシャリストの本を買おうと思ったのですが、某森で2017年度版を見つけてしまい、それでいいかと思ってしまいました。色々すみません。 ではポイントで何か他の物を、と考えている中で、この記事が目に留まりました。 https://www.sunmattu.net/smartphone/10511 Note8の更</description></item><item><title>データベーススペシャリスト試験</title><link>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E8%A9%A6%E9%A8%93/</link><pubDate>Sat, 03 Feb 2018 03:56:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E8%A9%A6%E9%A8%93/</guid><description>情報処理技術者試験、平成30年度春期試験は4月15日（日）に実施されます。 今回は、データベーススペシャリスト試験 （DB）を受験しようと思います。 前回PM合格しているので午前免除が使えないかと思ったら有効期間2年ということで、ギリギリアウトで</description></item><item><title>Eight続き</title><link>https://jqinglong.github.io/programmers-office/eight%E7%B6%9A%E3%81%8D/</link><pubDate>Thu, 01 Feb 2018 18:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/eight%E7%B6%9A%E3%81%8D/</guid><description>ルノアールでの登録を一旦断念したEight。 しかし、その時に登録済みの名刺を使って登録する機能の途中まで進んでいたので、会社アドレスに来ていた認証メールをクリックして登録してしまいました。 あぁこの人たちが私を登録してたんですねと、それはまぁ</description></item><item><title>ルノアールで名刺アプリEight</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AB%E3%83%8E%E3%82%A2%E3%83%BC%E3%83%AB%E3%81%A7%E5%90%8D%E5%88%BA%E3%82%A2%E3%83%97%E3%83%AAeight/</link><pubDate>Sun, 28 Jan 2018 12:41:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AB%E3%83%8E%E3%82%A2%E3%83%BC%E3%83%AB%E3%81%A7%E5%90%8D%E5%88%BA%E3%82%A2%E3%83%97%E3%83%AAeight/</guid><description>ちょっと前にルノアールで名刺アプリEightを使えることを知り、今日試しに来てみました。 まずは、アプリダウンロード。 店先では、Eight scanをダウンロードするようにとのアナウンスがありますが、ダウンロードすると、Eightが必要と言われ</description></item><item><title>201801台湾に行きたいわんpart4</title><link>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4/</link><pubDate>Sat, 27 Jan 2018 22:59:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4/</guid><description>で、先週また台湾に行ってきたわけです。自分の中では4回目。 今回は初台湾の友人に台湾の魅力を感じてもらうべく、普通の観光も交えながら、美味しいものをたらふく食べる計画でした。 結果は・・・ ちょっとずつ書いていきたいと思います。</description></item><item><title>台湾でのwifi</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%A7%E3%81%AEwifi/</link><pubDate>Sat, 13 Jan 2018 04:09:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%A7%E3%81%AEwifi/</guid><description>タイガーエアの羽田5:00発、桃園23:50発が気に入り過ぎて、来週も。 先月は、土日の休みをフルに生かすぞ、という感じでしたが、今回は、仕事の後台湾に寄って帰ろう、という感じで金曜夜会社→台湾→日曜朝自宅帰還です。 ところで、これまでの台湾旅</description></item><item><title>台湾南部（粗い&amp;hellip;）</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%EF%BC%88%E7%B2%97%E3%81%84%EF%BC%89/</link><pubDate>Fri, 12 Jan 2018 14:00:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%EF%BC%88%E7%B2%97%E3%81%84%EF%BC%89/</guid><description>本投稿で、いったんシリーズ終了。また行くので… 今回の旅行は台湾3回目。前2回は台北に入って高雄から出る形でしたが、その間は（新竹はちょっと行きましたが）すっ飛ばしていました。 今回は、「例の写真」を撮りたい（and 台湾における過去の日本人の活</description></item><item><title>習慣化リストに「竜馬がゆく」</title><link>https://jqinglong.github.io/programmers-office/%E7%BF%92%E6%85%A3%E5%8C%96%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AB%E3%80%8C%E7%AB%9C%E9%A6%AC%E3%81%8C%E3%82%86%E3%81%8F%E3%80%8D/</link><pubDate>Sat, 06 Jan 2018 01:25:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%BF%92%E6%85%A3%E5%8C%96%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AB%E3%80%8C%E7%AB%9C%E9%A6%AC%E3%81%8C%E3%82%86%E3%81%8F%E3%80%8D/</guid><description>この年になって、「竜馬がゆく」を読んでいます。 竜馬がゆく (新装版) 文庫 全8巻 完結セット (文春文庫) posted with カエレバ 司馬 遼太郎 文藝春秋 2012-03-13 Amazon 楽天市場 7net 司馬遼太郎は「坂の上の雲」から入って感動し、「街道をゆく 40 台湾紀行」などは絶品だと思いますが、さら</description></item><item><title>台湾の色々な値段</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%AE%E8%89%B2%E3%80%85%E3%81%AA%E5%80%A4%E6%AE%B5/</link><pubDate>Wed, 03 Jan 2018 04:59:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%AE%E8%89%B2%E3%80%85%E3%81%AA%E5%80%A4%E6%AE%B5/</guid><description>セブンイレブンでキャッシング（100NTDの手数料） 12/16 5000 18793円（3.758） 12/17 2000 7517円（3.758） （参考）空港両替12/16掲示 0.259（3.861）手数料別？ ※今回初めてキャッシングを試しましたが、直接カードで決済するより、</description></item><item><title>空港での過ごし方</title><link>https://jqinglong.github.io/programmers-office/%E7%A9%BA%E6%B8%AF%E3%81%A7%E3%81%AE%E9%81%8E%E3%81%94%E3%81%97%E6%96%B9/</link><pubDate>Tue, 02 Jan 2018 01:39:22 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%A9%BA%E6%B8%AF%E3%81%A7%E3%81%AE%E9%81%8E%E3%81%94%E3%81%97%E6%96%B9/</guid><description>早朝便発深夜便着ということで、空港の過ごし方は色々考えてはいましたが、思ったよりも快適でした。 当然日によるのだとは思いますが、金曜日でしたが、ベンチも空きがないことはなかったです。そして、羽田空港は電源が豊富。Wi-Fiも飛んでいるので、ネ</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2018 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/archives/2018/</link><description>Recent content in 2018 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 31 Dec 2018 02:45:55 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/archives/2018/index.xml" rel="self" type="application/rss+xml"/><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</link><pubDate>Mon, 31 Dec 2018 02:45:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</guid><description>Code4Startup
+年末なので、頑張ります。Task22まで来ました。
+トレイ（ショッピングカート）画面で、注文者の住所を入力するところで、地図と連携。
+とりあえず、キーワドとしては、
+MKMapView
+CoreLocation.Framework
+info.plistの
+Privacy – Location When In Use
+Privacy – Location Always
+CLLocationManager
+というあたり。
+次のTask23は決済部分で、Task24がお待ちかねドライバー機能、全27タスクの終わりが近づいてきました。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 詳細画面からショッピングカート</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</link><pubDate>Mon, 31 Dec 2018 00:24:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</guid><description>Code4Startup
+リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。
+途中のミニ講座は、「pyramid if」。
+pyramid ifで調べても何も出てこないので、この講座独特の言葉でしょうか。しかし、「Pyramid of doom」という言葉はあるようです。
+https://en.wikipedia.org/wiki/Pyramid_of_doom_(programming)
+簡単に言えば、過剰な入れ子（ネスト）構造でしょうか。そこでなぜ「doom」なのかはやはり不明。
+そして、ifの多重入れ子回避の対応として、Swiftでは「guard」があるよ、というお話です。
+そして、この「ガード節による入れ子条件記述の置き換え」という方法は、ファウラー「リファクタリング プログラミングの体質改善テクニック」からきているのですか・・・。大昔に読んだ・・・
+  リファクタリング―プログラムの体質改善テクニック (Object Technology Series)posted with カエレバ マーチン ファウラー ピアソンエデュケーション 2000-05 Amazon 楽天市場 7net</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ リストの実装</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</link><pubDate>Sun, 23 Dec 2018 00:26:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</guid><description>Code4Startup Task19はレストランリストの実装。
+最初は、仮実装でリスト表示の枠組みを作っておいて、ここで、API連携により実際のデータを表示させます。
+合わせて、サーチバーの実装でデータのフィルタリングを行い、Activity Indivatorという、Windowsで言えば砂時計を表示させます。
+とりあえず、この辺は淡々と進めます。</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part2）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 09:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</guid><description>WordPressサイトを引っ越したものの、なかなか苦労しましたという話の後編。
+前編は
+サイト引っ越し、そして、再引っ越し（Part1）
+WordPressサイトの引っ越し方法 色々あると思いますが、毎回検討するのは、こちらのプラグイン。
+All-in-One WP Migration – WordPress
+そして、毎回容量オーバーに引っかかっている気が・・・
+あまり、検索で引っかからないのですが、その後の作業の中で、以下のような方法もあるのではないか、と思っています。試してませんが、これをまとめておくと次回に役立ちそうな気はしますね。
+Jetpack、UpdraftPlus、あと忘れた・・・
+phpmyadminのイメージ追加 今回は結局、力業で、DBもダンプ取ってリストア、ファイルは丸ごとwp-content/uploadsを持ってくる。
+そのために、是非新サイトのDBもphpmyadminで参照したいということで、イメージを追加します。
+これ自体は比較的すんなりいきました。下記を参考にさせていただきました。
+https://qiita.com/furu8ma/items/50718efebee20fd24517
+/home/wordpress/mariadb/docker-compose.yml
+に下記を追加します。
+phpmyadmin:
+image: phpmyadmin/phpmyadmin
+environment:
+– PMA_ARBITRARY=1
+– PMA_HOST=db-data
+– MYSQL_USER=●●●
+– MYSQL_PASSWORD=●●●
+– MYSQL_ROOT_PASSWORD=●●●
+links:
+– mariadb
+ports:
+– 8080:80
+volumes:
+– /sessions
+networks:
+– common_link
+PMA_HOSTのdb-dataは、この直前で定義しているデータベースデータのコンテナ名です。
+また、8080で公開されるので、ファイアウォールのルールで8080を解放する必要があります。
+ファイルの移行 DB移行後、最初はそのままデータをINSERTしてしまったら、最初のページから旧サイトに飛ばされるという事態になり、文字列を変換してからINSERTするように修正。
+次にファイルの移行ですが、こちらについては、まずファイル20MB制限があったので（何の話か忘れてしまいましたが）、分割してzipでアップしました。
+そして、GCE初期状態ではzipが入っていなかったためインストール。
+sudo apt install unzip
+なぜだか、ずいぶん画像リンク切れが多発していますが、とりあえずは良しとします。
+サーバ停止 とりあえず良しとして、アナリティクスの設定をしていたら、数日後、サイトの検索が利いていないことに気づきました。
+おかしいと思い、Dockerのダウン・アップをすると利くようになるので、はて？と思っていたら、しばらくするとまた同じ現象。そして、だんだん間隔が短くなっていき、最後は、SSHが接続できなくなってしまいました。
+Webコンソールだからかなと、ここでgloudコマンドツールをインストールすることにします。
+しかし、gloudコマンドツールは使えるようになっても、そのSSHはやはり使えません。
+Google公式トラブルシューティングということで、
+https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-ssh?hl=ja
+を試していきます。
+「インスタンスをシャットダウンせずに検査する」あたりは、今回の件とは関係なくためになる、GCEの色々な機能の勉強になる手順でしたが、結局デバッグインスタンスにも接続できません。</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part1）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 02:30:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</guid><description>サイト引っ越しの目的 Lighthouseを知って調査してみると、そういえばこのご時世にHTTPS対応されていない。
+また、体感としてページの読み込みが遅い。
+サイト構成も、イマイチに感じられてきた。
+ということで、引っ越しをすることにしました。
+さくらのレンタルサーバは使っているので、それでも良いと思いましたが、新しいことにも挑戦しようということで、引っ越し先を検討したところ、こちらのサイトが面白かったので、これに従いました。
+GCPの無料枠でdev.toなみの爆速WordPress環境を構築する 引っ越し手順でのトラブル色々 上記サイトの手順は、非常に良くできているので、基本的には、そのまま従えば大丈夫なのですが、私の環境の問題等で、若干はまったところがありました。
+freenom 大した話ではないですが、最初登録した際にエラーになりました。
+そういう場合は、Service &amp;gt; My Domainsから確認できる。
+プロキシサーバーコンテナを起動（nginx-proxy） 今回の方法では、Docker-composeで、いくつかのDockerコンテナを起動して、それらを連携して動作させます。
+大きな手順としては、Dockerインストール、Docker-composeインストール、Dockerネットワーク作成、プロキシサーバーコンテナを起動（nginx-proxy）、と進めていくのですが、最初のコンテナであるnginx-proxyの起動でエラーとなりました。
+Creating nginx-proxy … error
+・・・
+ERROR: for nginx-proxy Cannot start service nginx-proxy: b’driver failed programming external connectivity on endp
+oint nginx-proxy (・・・): Error starting userland proxy:
+listen tcp 0.0.0.0:80: bind: address already in use’
+という感じです。よく読めば、ポート80番がバッティングしているとわかります。
+元々、勉強用に色々立ち上げていたGCE環境のため発生した問題で、綺麗な環境であればこれは発生しないと思われます。
+これに対して、最初は、/home/wordpress/nginx-proxy/docker-compose.yml　を編集して、80:80　→　8088:8088　と変更しました。
+これにより、起動するようにはなりました。ただ、その後結局他のエラーが発生し、そもそも新しいサイトを8088で公開するのもありえないので、
+sudo service apache2 stop
+sudo update-rc.d -f apache2 remove</description></item><item><title>Meet Magento 2018 – Google講演</title><link>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</link><pubDate>Sat, 17 Nov 2018 07:39:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/meet-magento-2018-google%E8%AC%9B%E6%BC%94/</guid><description>先日参加した Meet Magento 2018 得られたものを書きたいと思いつつ、多すぎてどうしようという状態。 とりあえず、書きなぐっていきますが、息切れの可能性しかなし。 The path to purchase with Google 最後はGPayの宣伝！と思いつつ、色々なサービスの紹介が面白かったです。 https://httparchive.org/ 資料を作る際の統計情報的な根拠として、使い勝手がよさそうですね。 revenue impact calculator 検索すると、https://www.thinkwithgoogle.com/feature/mobile/　に行けと言われるます。で、このサイトを調べようとすると、Domain not found！弱小すぎてダメみたい。 Lighthouse https://developers.google.com/web/tools/lighthouse/?hl=ja
+に情報がありますが、むしろ簡単なのは、F12デベロッパーツールのAudits。
+さらに、セミナーと同日発表になっていますが、PageSpeed Insights　にLighthouseが組み込まれたとのこと。
+で、このサイトを調べようとすると、Lighthouse was unable to reliably load the page you requested！
+弱小すぎるにも程がある。 Lighthouseをもう少し使ってみる さて、せっかくなので、F12→Autditsをもう少し使ってみます。
+まず、Performanceから試してみると、画像が大きいよ、と言われます。最近、ページ上部にスライダー画像を付けましたが、早速悪影響があるということで、画像を調整しました。最近アナウンスされた、Googleの
+https://squoosh.app/
+を使ってみました。既存のアップロード済み画像を一気に調整できたらうれしいです。
+SEOについては、meta descriptionがないということだけだったので、さっと付けられるところだけ付けていきます。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ API呼び出し</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</link><pubDate>Sat, 17 Nov 2018 01:07:21 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</guid><description>Code4Startup
+先に作ったFacebook連携用APIの呼び出し。
+ここでログイン・ログアウトの機構を一気に作るので、ここをやっておかないとドライバー用アプリが進められなくなる。
+が、とりあえず、一旦は一通りビデオを見てみることにする。
+この先は、その他API呼び出しの部分なので、ある意味飛ばしても良いはず。
+一つへーと思ったのは、API呼び出しで、httpだと怒られる訳ですが、info.plistで、App Transport Security Settingsの設定を追加することで接続できるようになる。
+例えば、この辺の情報ですね。
+https://qiita.com/uhooi/items/68939999c2c31e5f5557
+ </description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook接続</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</link><pubDate>Tue, 13 Nov 2018 22:33:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</guid><description>Code4Startup
+Task17ではFacebookへの接続。
+色々なものをインストールしますが、それによりこんなに簡単にできるのだ、ということが感じられます。
+ただ、やればできそうなので、一旦ビデオだけ見てスルーしてます。
+そして、Task18に入ると、Asynchronousの世界の講義が始まりました。そして、Closureの解説。
+Appleのドキュメントも読みましょうと。
+https://docs.swift.org/swift-book/LanguageGuide/Closures.html
+ </description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ デザインなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 11 Nov 2018 01:59:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</guid><description>Code4Startup
+Task 16終了。
+最後は、デザインの統一等を行いますが。
+UIApplication.shared.statusBarStyle = .lightContent
+は、Setter for ‘statusBarStyle’ was deprecated in iOS 9.0: Use -[UIViewController preferredStatusBarStyle]
+という警告が出ます。しかし、
+UIApplication.shared.preferredStatusBarStyle = .lightContent
+はダメです。これはこのままにしておきます。
+また、
+UINavigationBar.appearance().titleTextAttributes
+= [NSForegroundColorAtrributeName: UIColor.white]
+はエラーとなり、コメント欄では、[NSAttributedStringKey.foregroundColor: UIColor.white]
+にしたら良いというコメントがあるのですが、正しくは、
+[NSAttributedString.Key.foregroundColor: UIColor.white]でした。
+また、色選択の支援Webサービスが紹介されています。
+http://uicolor.xyz/#/hex-to-ui
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ cocoapods</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</link><pubDate>Sat, 10 Nov 2018 12:14:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</guid><description>Code4Startup
+さて、クレジットカード情報入力画面を作るにあたっては、cocoapodsなるものを導入するようです。
+ターミナルで、sudo gem install cocoapodsを叩きます。
+ビデオでは1 gem installedであっさり終わっていましたが、私の環境では結構な量のインストールログが流れて、28 gem installed。そもそも、ターミナルを立ち上げるのさえ初めてというまっさら環境ですから、そんな感じなのでしょうか。
+次にpod initによって、Podfileというファイルができますが、それをVisual Studio Codeで開いて保存したらファイル名が「Pod file」になっていた。まあまあの驚き（何かの操作ミスかとは思いますが、そんなミスする？？）。
+さらに、pod installすると、ビデオではすぐにStripeのインストールが始まっていますが、私の環境では、Analyzing dependenciesから始まって、結構な量の何かをインストールし始めて、ちょっと不安になりましたが、無事完了。
+そして、これをインストールすることにより、Viewにクラスを指定するだけで、クレジットカード番号入力欄が勝手にでき上がるというのはセンス良い！
+という訳で、この辺も飛ばさずにやっておくべきですね。
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift続行中</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</link><pubDate>Sat, 10 Nov 2018 03:22:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</guid><description>Code4Startup
+さて、Swiftでの開発、ViewController、segue等の基本的な概念を、あまり理解せずに進めているので、これで一人で作れるのかと言ったら微妙ですが、それでも色々繰り返していくうちに何となくは解ってくるようには思われます。
+で、一番興味があるのは、ドライバー用の地図と連携する部分なので、途中で一旦そちらに飛んでみたのですが、いつの間にかMVCのグループ分けがされていたり、ソースを流用したりするところがあるので、やはりそれは無理があるようです。
+ですので、ちょっと書くのは飛ばしながらでも一通りは見ていかないとダメかなということで、続行していきます。
+そして書きながら、Android版は全く作り直しだよな、と、やはり悩みは続きます・・・
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</link><pubDate>Sun, 28 Oct 2018 14:30:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</guid><description>Code4Startup
+iMac購入 一旦Xamarinを始めたわけですが、そして第一印象はさほど悪くもなかったのですが、結局iOS版を作成するためにはXcodeの入ったMacが必要になるということで、熟慮した結果（1日ほど）iMacを購入しました。
+iMac MK462J/A 一体型 PC 27型 Retina 5K Late 2015 Core i5 6500 3.2GHz 24GB HDD1TB High Sierra 10.13
+中古ですが全く中古感なし。それでいてメモリが標準8GBのところ24GBに増設されており、値段は標準新品より7万円位安い。
+12インチMacBookの整備品も魅力はありましたが、使用中のThinkPad T430sも全然現役で使えることと、値段も上記中古品ならあまり変わらなくなってしまうということで、ちょっとだけ贅沢品を買いました。
+快適そのものです。
+swift開始 ということで、すぐさまXcodeをインストールし、と思ったらOSアップデートが必要と言われたのでアップデートし、環境を整えました。
+ちなみに、エディタどうしようかと思い、Macのエディタを検索したらいまだにCotEditorとか上位に出てきて、ムムとなりましたが（以前Mac使ってた時にはCotEditor派でしたけど）、素直にAtomとVSCodeで悩んでVSCodeにしました。
+始めてみると、やはりこのデザインツールは素晴らしい。ここまでサポートしてくれると、やる気の出方が違います。
+とりあえず4レッスンやってみてのハマりポイントは二つ。
+一つは、FoodTaskerMobile-Bridging-Header.hのファイルの場所。レッスンの中ではこれをLibディレクトリに移動するのですが、参照できませんというエラーになります。
+これを参照できる場所に戻しても良いのですが、やった対応は、プロジェクトのBuild SettingsのObjective-C Bridging Headerの記述を削除すること。これで、このエラーは解消しました。
+（2018/11/04）
+さすがにこれはダメ。後で、self.revealViewControllerというところの参照ができなくなります。
+FoodTaskerMobile/Lib/FoodTaskerMobile-Bridging-Header.h
+とすることで正常動作になります。
+もう一つは、画面遷移しても目的のページが表示されず、白いままになってしまうこと。これは、実はView Controllerのページが表示されていたのですが、なぜそうなるか。結論は、このコントローラに対しては、クラスSWRevealViewControllerを指定しなければならないのですが、それが漏れていたため。ビデオではちゃんと設定することになっているので、その部分で居眠りしていたかもしれません。
+ということで、基本的な画面の作り方と、遷移の仕方は完了。
+ついでに言うと、レッスンで使用しているアイコンはどこかで手に入れられるのか？？謎。
+Code4Startup</description></item><item><title>格納型XSS システムアーキテクト試験より</title><link>https://jqinglong.github.io/programmers-office/%E6%A0%BC%E7%B4%8D%E5%9E%8Bxss-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E8%A9%A6%E9%A8%93%E3%82%88%E3%82%8A/</link><pubDate>Mon, 22 Oct 2018 21:53:16 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%A0%BC%E7%B4%8D%E5%9E%8Bxss-%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E8%A9%A6%E9%A8%93%E3%82%88%E3%82%8A/</guid><description>日曜日は、情報処理技術者試験。システムアーキテクト試験(SA)を受験してきました。
+午前Ⅱの回答は即日公表され、80点でしたので、あとは午後次第。感触は良かったですが、さて、どうなることやら。
+午前Ⅱの試験は勉強になるものが多いですが、今回受験中に知って気になったのが、「格納型XSS」という言葉。
+IPAのサイトでも解説されていました。
+https://www.ipa.go.jp/files/000024726.pdf
+こちらのサイトだと、「反射型」は攻撃者が自分で出力結果を利用し、「格納型」は第三者に出力結果を利用させる、という違いのように思われ、それならこのように分類することも納得できますが、このページの元となっている共通脆弱性タイプ一覧CWEの説明では、格納型もあくまでも第三者攻撃の手段と捉えているようです。
+https://jvndb.jvn.jp/ja/cwe/CWE-79.html
+他の様々なサイトを見ても、CWEの説明を引用して説明しているようです（そりゃそうだ）。
+けど、そこで例として挙げられるURLにスクリプトを埋め込む等は、スクリプトを格納しているのとあまり意味合いは変わらなくないかなと、いまいち腑に落ちません。
+当初反射型しかなくて、格納型が出てきたというなら、より無意識に被害者になるパターンが増えてきたという警鐘を鳴らす意味があると思いますが、どちらかというと格納型のパターンの方が昔から言われてきている方法だと思いますし。
+今回下記の本を使用しました。正直この試験は、午後は対策しにくい（どちらかというと国語の問題）ので、午前Ⅱ対策を頑張るのが良いのかなと思います。（趣味の読み物としては午後試験の内容は最高）
+ALL IN ONE パーフェクトマスター システムアーキテクト 2018年度 (旧:合格テキスト・合格トレーニング) posted with カエレバ TAC情報処理講座 TAC出版 2018-03-25 Amazon 楽天市場 7net</description></item><item><title>XamarinのXAMLのデザイナー</title><link>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</link><pubDate>Sat, 13 Oct 2018 14:11:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</guid><description>Xamarinも楽ではないですなー
+Xamarinのチュートリアル https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin
+で、最初のとっかかりは良かったのですが、構成がいまいちまとまりきっておらず、内容もビデオを見たりするのが多いのでちょっと進めにくい。
+ということで、こちらをやってみようと思います。
+かずきのXamarin.Forms入門 posted with カエレバ 大田　一希 2016-12-29 Amazon 楽天市場 7net （もうすこし画像何とかすればよいのにと思いますが。もったいない・・・）
+16ページ
+StackLayout.Children
+省略可能となっているが、そもそも廃止されてないかな？？
+デザイナが使えない 19ページ
+グリッドの画面を作ってみるというところで、ここはデザイナを使ってみるか、と思ったわけですが。
+Xamarin.formsのデザイナは提供されていない？
+しかし、こんなページもあるので、ないことはないのでは？？
+https://docs.microsoft.com/ja-jp/visualstudio/designers/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2017
+Blendならもしかしたら、と思いさらに頑張って10GB空けてインストールしたが、そもそもXamarinのテンプレートがない。
+https://marketplace.visualstudio.com/items?itemName=mohamedalinouira.XamarinFormsTemplates
+をインストールしてみるがダメ。
+https://developercommunity.visualstudio.com/content/problem/272117/xamarin-designer-not-working.html
+を見てアルファ版のフィックスも入れてみたがダメ。
+よくよく見てみると、デザイナの説明は、Xamarinの説明ではない！
+Windowsユニバーサルとか、デスクトップアプリケーションをxamlで作る場合はデザイナが使えるけど、xamarinのxamlではデザイナは使えないというお話でした。
+プレビュー機能は提供されているので、こんな感じになります。
+この画面でいうと、左側のxml記述に、一番左のツールボックスからドラッグアンドドロップはできます。
+これで頑張るしかないのですね。
+なお、Windowsユニバーサルの方で作成したXamlからコピペできるかなと思ったら、色々違うようでそれもできず。
+厳しい！</description></item><item><title>とりあえずxamarinチュートリアル中（初心者の超入門編）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</link><pubDate>Sat, 13 Oct 2018 01:34:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</guid><description>Code4Startup
+xamarinの選択 Code4StartupはここからSwiftによるモバイルアプリ開発に入ります。
+とっかかりの部分の講座を見てみましたが、やはり画面デザインから入りますよね。
+さて、Windows上にswift環境は用意したつもりだったのですが、Ubuntu上でSwiftが動くというのは、言語自体が動く、コンパイルが動くというだけの話のようです。
+しかし、Swiftを使う目的は基本的にはiOSアプリを作るためであり（勝手な想像）、画面を作れないのであれば10割がた意味がないのではないかと思うのです。
+というわけで、改めてiOSアプリをどう作るか考えます。Monacaも経験したので当然それは考えるのですが、やはりまだ馴染めきれない。
+今後メジャー化していくと思われるFlutterもまだ早いような気がする。
+結局以前考えたxamarinに戻ってしまいました。
+やはり、慣れ親しんだ.NET（と言っても私の主戦場はVB.NETであり、C#はほぼ素人ですが、それでも）なら、他よりも生産性も高く進められるのではないかと思うのが大きな理由です。
+Visual Studio 2017 さて、そう思った段階でインストールされていたVisual Studioは2015でした。
+ただ、xamarinはインストールされていなかったので、入れようとしたら20GBくらい必要と言われます。
+きついぜ！と思いつつ、一生懸命不要ファイルの掃除をして、インストールしました。我が家のネットワークは不安定なのか、一晩たっても終わっておらず、その日帰って確認できたという、丸一日作業になってしまいました。
+ところが、いざ始めようとしたときに目についたのが、2017ならCommunity版でiOS リモート シミュレーターが使えるようになったという情報。iOSアプリを作りたいがためにこんなに悩んでいるのに、これを使わない手はないでしょう。ということでインストールし直し。
+2015を完全に削除するためには、膨大な手間がかかるということで、MS謹製の削除ツールを使用して削除しました。これも、朝起きたら1段階目が終わったような状態で、再度ツールを実行する必要があり、結局丸一日。
+インストール自体は順調に終わりましたが、なかなか手ごわいです。
+xamarinチュートリアル では、何はともあれチュートリアルということで、
+https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin
+から始めてみます。
+最初はエミュレータで画面表示するのが目的ということで、ソースはコピペ。
+初回起動だけなのか、かなり時間がかかりましたが、Andoroid版画面はプレビューできました。
+問題はiOSです。
+結論としては、やはりMacOS機＝XCode機が必要ということです。
+Xamarin.iOS 開発のために Mac とペアリングする
+そうか、ということでちょっとがっかり。
+ほぼほぼの開発はWindows機で行って、リリース時の手続き的なところだけMacがあればよいのかと勘違いしていました。
+最近はMacを貸し出してくれるところもあるので、最後はそこを利用しようとしていたのですが、ちょっと方針が変わります。
+けど、Mac買うならSwiftでいいじゃんとなりますしね・・・
+（と言いつつMacBook欲しくなりつつある・・・
+買うなら、0.92kgが魅力のこれ）
+MacBook (12-inch/1.1GHz Dual Core Intel Core m3/256GB/8GB/802.11ac/USB-C/ローズゴールド) posted with カエレバ アップル 2016-04-20 Amazon 楽天市場 7net とりあえず、xamarin勉強を進めてみます。
+  Essential Xamarin　ネイティブからクロスプラットフォームまで モバイル.</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Stripeの使用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</link><pubDate>Mon, 08 Oct 2018 02:45:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</guid><description>Code4Startup
+自作サービスの決済手段として何を使うか、PayPalは開発者にやさしいなと思っていましたが、Stripeも十分良さそうです。
+[][1]トップメニューに「開発者」があり、このサービスの向き先が伺える ちなみに、日本のサービスで、申込・審査を行わずに利用できるサービスはあるでしょうか？？
+ちょっと違うんだよなーと思ってしまいます。
+もちろん、そういうビジネスはそれでありなのですが、違うビジネスが展開されないのはなぜだろう、ということです。
+そして、PayPal。
+開発者向けサービスも充実しているし、無料でテストサイトでの決済を確認することもできるし、実際に運用する際の手数料も安いとは思いませんが（弱小サイトを前提とする場合）許容できるのではないかと思いますし、非常に使いやすいと思います。
+[][2]PayPalも開発者にやさしい ただ、唯一最大の問題が、決済サービスをしようとするためにはpaypalの会員登録が必要ということ。
+私のように一度登録してしまっている人としては、そういうものだと分かって使うのでよいのですが、paypalに縁のなかった人がいきなり支払いを行おうとしたらpaypal会員登録から始まってしまうというのは、ちょっとハードル高いのではないかと思われます。
+それに対して、Stripe。
+普通にクレジットカード情報を送信することにより（実際は端末にStripeのトークンが返されて、これをサービスに送信することで、サービスがそのトークンとサービスのAPIキーを紐づけて）決済されるので、違和感なしで決済完了できるということです。
+なお、開発中のアプリでは、ユーザ認識にユーザトークンのやり取りをしているので、トークントークン言われて分からんわ、という感じになりそうですが（実際それを間違えて送信しているというコーディングミスをしたり）、冷静になれば特に問題はありません。
+なお、開発者向けドキュメントの中でデモ機能が用意されていて、そこでダミーのカード情報を送信することによりStripeのトークンを取得できる（そして、それを使って開発サービスのテストができる）わけですが、講義の中で紹介されているURLは既に変わってしまっており、stripe docs→Payments→Stripe.js and Elements→Quickstart　（Card Element Quickstart）
+https://stripe.com/docs/stripe-js/elements/quickstart
+から利用できるようになっています。
+これは、別件のWordpressからの決済でも使ってみたいと思います。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Chart APIなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 07 Oct 2018 08:25:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</guid><description>Code4Startup
+Task14までdone。
+途中結構長い時間はまったのが、
+Order.objects.filter・・・
+とすればよいところを
+OrderSerializer(Order.objects.filter・・・
+としてしまったために、発生したエラー。
+他からのコピペで無意識についてしまったわけですが、これを探りながらの他のバグにも気づいたし、まあよいか。
+Task14ではレポート画面と言ことで、グラフを出力するために、
+Chart.js
+を使います。
+これはこれでよいなと思いますが、
+Google Charts
+もあるからね、とは思ってしまいます。
+そして、いよいよTask15でPythonは終了となりますが、一つの山場と考えているStripe連携。
+ここまで連休中に終わらわせておいて、Swiftに入りましょう。</description></item><item><title>AWS Loft vs YAHOO LODGE</title><link>https://jqinglong.github.io/programmers-office/aws-loft-vs-yahoo-lodge/</link><pubDate>Sat, 06 Oct 2018 03:29:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/aws-loft-vs-yahoo-lodge/</guid><description>AWSオープンということで、早速行ってきましたので、YAHOO LODGEとライバル比較！
+AWS Loft https://aws.amazon.com/jp/start-ups/loft/tokyo/
+目黒駅前（目黒セントラルスクエア）
+平日のみ（平日（月〜金） 10:00 〜 18:00）
+入館時に、AWSアカウント ID（12桁数字）記入が必要
+ YAHOO LODGE https://lodge.yahoo.co.jp/
+永田町、赤坂見附など（東京ガーデンテラス）
+休日も入館可能（9:00-21:00　休館日：年末年始、毎月第一日曜日、不定休）
+身分証で入館
+所感 どちらも、館内のきれいさ、景色の美しさは申し分なし。
+土日もやってくれてるという点で、LODGEのほうが助かりますが。
+また、LODGEの下2階のファミマ!!が、素晴らしいので、ダブルで作業できるという点でも、強い。
+しかも、成城石井もあるので、お弁当ラインナップは個人的には最強。
+※2018/10時点の情報です。
+AWS [][1]エレベーターから雰囲気を醸し出すのがさすが [][2]ガラス面積が大きく快適 [][3]カフェも格安で提供 [][4]段ボール感
+LODGE [][14]これまであまり意識していませんでしたが、意識高い系書籍もいろいろ [][15]赤坂の景色も負けていません [][16]1g2円で好きに詰められる（詰め方のセンスはしかたないです） [][17]カフェというかレストラン おまけのファミマ!! [][18]ここの文具がまた侮れない（多分季節ごとに入れ替え）</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Postmanのはまりポイント</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link><pubDate>Mon, 01 Oct 2018 13:04:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</guid><description>Code4Startup
+Task11で、27分の長丁場のレッスンがあります。
+いったん全部見てから、書いてみたのですが、途中ではまりました。
+「AccessToken matching query does not exist.」
+これは、結構な人がはまっているようなのですが、なかなかまともな回答がついていないように思われます。
+正しい回答はこちら。
+https://uploads.disquscdn.com/images/bcf707b4c65186dcfcc293547fc57bbae63e2fa0fbddc89aa6b82dbdb7418f69.png
+Postmanのパラメータ指定時に、Body→form-dataを指定する必要があります。
+そうしないと、request.POST.get(“access_token”)がNoneになってしまうのでした。
+改めて、ビデオを見返すと、ちゃんと説明してくれてますなぁ＞＜
+そして、同じ質問が、teratailに上がっていたので、初めて回答してみました。
+もう少し飛ばしていきたいのですが、必ずどこかではまりますね・・・</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 久しぶり</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</link><pubDate>Sat, 29 Sep 2018 13:59:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</guid><description>Code4Startup
+色々並行ででやっていると、再開方法を確立しておかないと忘れますね。
+source myvirtualenv/foodtasker/bin/activate
+cd foodtasker/
+python manage.py runserver xxx.xxx.xxx.xxx:8000
+これでhttp://xxx.xxx.xxx.xxx:8000/が動くようになる、という感じですね。
+ということで、Task10まで終わらせました。
+とありあえず、Task15まで一気に進めて、Tsk16からのSwiftによる顧客向けモバイルアプリ作成を早く試してみたい。
+ ちなみに、Pythonやってるなら、こちらも面白そうですね。
+Pythonで学ぶ『ブロックチェーンプログラミング入門』が良すぎた話
+ 関連記事 Code4StartUp ～ UberEatsを作ろう ～ Swift環境 Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加 https://www.programmers-office.ml/?s=code4</description></item><item><title>Magentoのベースページの仕組み</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</link><pubDate>Fri, 28 Sep 2018 06:31:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AE%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF/</guid><description>自分で作成したウェブサイトにWhat’sNewを出そうと思いましたが、それを調べる過程で、ベースページの仕組みが分かってきたので先にそちらを確認。
+1.自分で作成したウェブサイトのホームページをドキュメントルートにする 現在、元々のサンプルデータのウェブサイト　http://example.com/magento/　と　自分で作成したウェブサイトhttp://example.com/aaa/　がある想定で、自分で作成したウェブサイトを　http://example.com/aaa/　ではなく　http://example.com/　にしようという話です。
+これは新しいウェブサイトを表示できるようにしたのとやり方は同じで、店舗＞設定＞設定　の画面で、左上の「ストアビュー」を、自分で作成したウェブサイト（ストアビューではなくウェブサイト）に変更し、その状態で、左メニュー「Web」の「ベース URLs」等をhttp://example.com/にします。さらに、サーバにて
+cd /opt/bitnami/apache2/htdocs/magento
+cp .htaccess ..
+cp index.php ..
+cd ..
+ln -s /opt/bitnami/apache2/htdocs/magento/app/ app
+ln -s /opt/bitnami/apache2/htdocs/magento/lib/ lib
+ln -s /opt/bitnami/apache2/htdocs/magento/pub/ pub
+ln -s /opt/bitnami/apache2/htdocs/magento/var/ var
+mv index.html xindex.html
+とやって、index.phpをを同じように修正するだけです。サンプルウェブサイトも生きています。
+2.店舗ページの作り方 そして、この下に、各店舗のページを作ろうと思います。
+すなわち、ドキュメントルートは自分が作成するサービスのトップページにして、その中で複数店舗の商品を使うこととし、各店舗のページも作成する、ということです。
+これも、同じようにやろうとしたらうまくいきませんでした。
+PARAM_RUN_TYPEの設定値は、ウェブサイトの場合は「website」でしたが、店舗の場合は「store」とのことです。
+ところが、その方法で、要するに店舗用ウェブサイトを作るようなイメージですが、元々のサンプルサイトにリダイレクトされてしまいます。
+そこで、またSQLを解析しようと思いますが、今回は、昨日教えてもらった技を使います。
+bin/magento dev:query-log:enable
+これにより、実行ログを出力してくれます。
+いちいちmy.cnf編集しなくて良いし、/opt/bitnami/ctlscript.sh restart mysql しなくてよい。
+ただ、そのクエリの呼び出し元情報も含めて大量のログになるので、ちょっと醜いのですが、対処としては、
+（Magentoインストール先配下の）var/debug/db.log を「SQL: 」でgrepします。
+で、見てみたのですが、今回は空振りで、たいしたログは出ていませんでした。
+ここで、ちょっと軌道修正。
+http://example.com/shop_a
+を見ようとしていたのですが、普通にページを作って、それを見ることにします。
+そうすると、http://example.com/shop_a/new_page　という形で表示される。</description></item><item><title>Magento ウェブサイトの切り替え</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</link><pubDate>Wed, 26 Sep 2018 02:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88/</guid><description>今やろうとしているのは、Magentoのサンプルのウェブサイトはアパレル業的なサンプルになっているので、これはこれで置いておいて、別の飲食業的なサイトを作ることです。
+Magento ホームページカスタマイズへの道 まず、とっかかりの部分を作りました。 MagentoのSQL解析 商品の登録のされ方を分析し、商品属性、特に在庫状況が重要だと知りました。 続いて、ウェブサイトを分けてみたいと思います。
+1.Magentoの商品のカテゴリ分け そもそもなぜ、このタイミングでウェブサイトを分けるかというと、商品登録の正しさが確認できないからです。
+サンプルとして登録されているアパレル商品とは別に、ピザを登録し、それをピザ用のページに出したいと思います。が、これがまた難しい。
+最初にやったように、ウェブサイト、店舗、ストアビューは作っておきます。
+そして、店舗でルートカテゴリを選択するので、ルートカテゴリ（カタログ＞カテゴリ）を作ります。
+で、例えば、この店舗用のWhat’sNewを作ります。そして、サンプルのWhat’sNewに表示される商品はどのようなものか見てみると、
+SELECT `mg_url_rewrite`.* FROM `mg_url_rewrite` WHERE (`request_path` IN (‘what-is-new.html’, ‘what-is-new.html/’)) AND (`store_id` IN (‘1’))
+というようなSQLが実行されていることが分かります。
+そして、表示したいページをIN句を変えて見てみると表示されませんので、最後のAND条件を外してみてみると、store_idが1以外で登録されていることが分かります。
+では、どのようにstore_idを変えるのだという話になります。
+2.Magentoにおける複数店舗（というかウェブサイト）の登録方法 ところが、多くの情報ではウェブサイト、店舗、ストアビューを登録できる、という話で終わってしまって、なかなか複数店舗を実際にどのような設定で表示させるのか、という情報が見つかりません。
+と言いつつ、割と初期の段階で、公式情報のドメインを分けるみたいな話は出てくるのですが、いや、そこまでやらなくてよいから引数透とかで分けられるんじゃないの？？みたいなところでもがきます。
+例えば「___store」を使うみたいな話です。
+しかし、結論でいえば、それは無理で、おそらく簡単なのは、ディレクトリ自体を分ける方法です。
+例えば、サンプルのウェブサイトをhttp://example.com/magento/　で作っていたら、http://example.com/aaa/　のようにするということです。
+参考はこちらとこちら。
+https://docs.nexcess.net/article/how-to-configure-magento-2-storefronts.html https://magento.dekirumonn.com/forums/topic/multi-store-%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E8%A8%AD%E5%AE%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/ apache素人なのでちょっとビビっていたのですが、これについて言えばそんなに難しくはなく、index.phpと.htaccessをコピーして、index.phpを一部書き換えましょう、ということ（書き換えサンプルは実はindex.phpの一番先頭に書いてあります）。
+そして、app、lib、pub、varへのシンボリックリンクを、元インストールしたディレクトリの方に張っておきましょう、ということです。
+bitnami環境だと、
+ln -s /opt/bitnami/apache2/htdocs/xxx/app/ app
+ln -s /opt/bitnami/apache2/htdocs/xxx/lib/ lib
+ln -s /opt/bitnami/apache2/htdocs/xxx/pub/ pub
+ln -s /opt/bitnami/apache2/htdocs/xxx/var/ var</description></item><item><title>MagentoのSQL解析</title><link>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</link><pubDate>Sat, 22 Sep 2018 07:30:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%81%AEsql%E8%A7%A3%E6%9E%90/</guid><description>自分で作成したページ・ウィジェット・ブロックに思うように商品が表示されない。
+ならば、どのようなSQLが流れていて、何が引っかかって表示されないのか調べてみよう、という活動です。
+1.環境整備 (1)SSH接続用ターミナルソフト Tera TermでもPuttyでも、お好きなものをどうぞ。
+ではあるのですが、AWS内bitnamiで構築した環境のMy SQLに接続する、という観点で。
+Puttyでは、Host Nameにユーザ名@xxxを記載しますが、bitnamiで構築した場合は、
+ubuntu@xx.us-east-2.compute.amazonaws.com
+というようになります。
+そして、Connection＞SSH＞Auth　でPrivate keyにppkファイルを登録します。
+この接続状態をそのまま保存しておいて、次回からはSaved Sessionから呼び出すだけなので、現在は基本的にはPuttyを使用しています。
+Tera Termでは、ホスト欄にxx.us-east-2.compute.amazonaws.comを入力しOK、ユーザ名にubuntu、「RSA/DSA/ECDSA/ED25519鍵を使う」で、ppkファイルではなくpemファイルを指定する、という形になり、ホスト名以外は次回に覚えてくれていないので、ちょっと面倒だなと思っています。ターミナル上での見た目はTeraの方がきれいなので好きなのですが。
+(2)WinSCP ファイルのアップ・ダウンロード用にはこちら。
+SFTPで、ホスト名はxx.us-east-2.compute.amazonaws.com、ユーザ名はubuntu、設定＞SSH＞認証の秘密鍵にppkファイルを指定します。
+これも、保存しておけば、次回以降の接続はリストから選択するだけなので、よいです。
+(3)A5 : SQL Mk-2 これが本日のポイント。
+https://a5m2.mmatsubara.com/
+DB接続ツールは色々ありますけど、個人的にはこれが最強だと思っています。
+特に、最強なのがSQL整形機能。今回のように、ログからSQLを取り出して解析しようと思う時に、Ctrl-Q一発でSQLを見やすくしてくれるのは、非常に助かるので、普段の会社の仕事でも使っております。
+これの接続は、ちょっとばかり難しいです。トンネリングでの接続になります。
+A5 : SQL の接続を作成する際にはMySQL/MariaDBを選択できます。その中の設定で、SSH2トンネルの指定ができます。
+「SSH2トンネル」タブのSSH2ホスト名をxx.us-east-2.compute.amazonaws.com、ユーザーIDをubuntuにして、秘密鍵ファイルにpemファイルを指定します。
+その上で、「基本」タブのサーバー名にはSSH2サーバーから見たサーバー名を指定するので、初期の状態ならlocalhostを指定します。Magento用に作成したユーザーID、パスワードを指定しますが、
+grant select on *.* to home;
+が必要だったように思います（記録し忘れている）。
+ということで、この3点セットがそろうと、割と自由にDBもいじれるかと思います。
+2.MySQLのクエリトレース 普段はSQL Serverが主戦場なので、トレース取得はProfilerを便利に使用させていただいています。
+ではMySQLはどうかということで、こちらを参考にさせていただきました。
+http://blog.szmake.net/archives/496
+my.cnfはどこにあるかというと、これはbitnami特有で、/opt/bitnami/mysql/　にあります。
+また、my.confを編集した後、MySQLをリスタートするのですが、これもbitnami特有で
+sudo /opt/bitnami/ctlscript.sh restart mysql
+となります。
+bitnamiでは、/opt/bitnami　配下に色々なものが存在する、ということを認識しておくだけでもいろいろはかどるかと思います。
+3.Magentoで実行されるSQL で、トレースを取ってみた結果です。
+例えば、
+SELECT `mg_store_website`.* FROM `mg_store_website`
+↓
+website_id code name sort_order default_group_id is_default</description></item><item><title>Magento ホームページカスタマイズへの道</title><link>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 21 Sep 2018 15:17:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Magentoのサンプルのホームページはアパレル業的なサンプルになっていますが、これを飲食業的なサンプルにしたいと思っています。しかし、なかなか思うようにいきません・・・
+1.やろうとしていること サンプルのトップページにあたる
+http://example.com/magento/　（magentoはインストール時に指定）
+これが、通常ベースURLになります。そして、ここに表示されているのは、アパレル業的なサンプルデータです。
+今後の勉強用にこれはこれで残しておきたいのですが、できれば、アパレルサンプルはベースURLではなく別のURLにして、ベースURLで表示される内容を飲食業向けにしたいと思っています。
+ただ、このベースURLで表示される内容のカスタマイズすら、どこから行うか分かりませんので、それは置いておき、まずは、とにかく飲食業向けホームページを作ることを目標とします。
+2.ウェブサイト、店舗、ストアビューを作る 最初の基本は、ウェブサイト＞店舗＞ストアビュー　の構成です。
+https://docs.magento.com/m2/ce/user_guide/stores/websites-stores-views.html
+https://www.programmers-office.ml/magento-open-source-user-guide/getting-started/configuration_configuration-basic/stores_websites-stores-views/
+今イメージしているのは、この飲食業向けに、標準のウェブサイトとは別のウェブサイトを作ります。
+その下に、店舗を複数作ります。ストアビューは、通常複数言語対応用に使用されるようですので、これは各店舗1ストアビューとします。
+https://docs.magento.com/m2/ce/user_guide/configuration/scope.html
+https://www.programmers-office.ml/magento-open-source-user-guide/getting-started/configuration_configuration-basic/stores_websites-stores-views/configuration_scope/
+3.商品を作る 次に商品を作ろうとしますが、いくつか、前提知識が必要です。
+まず、最初に選択する必要がある、属性セットというものがあります。
+これを選択することにより、商品として登録する属性の内容が切り替わります。
+例えば、服にはサイズという属性があるが、カバンにはサイズという属性はない、というような形です。
+そして、サンプルとして登録されている属性セットはアパレル用のものなので、料理用の属性セットを作成します。
+例えば、ピザという属性セットを作成します。
+しかし、実は、それよりも前に把握しておくべき内容があります。それは、商品には商品タイプというものがある、ということです。
+https://docs.magento.com/m2/ce/user_guide/catalog/product-types.html
+https://www.programmers-office.ml/magento-open-source-user-guide/catalog/catalog_product-create/catalog_product-types/
+例えば、ピザの場合は、一種類のメニューに対して、サイズという考え方があると思います。
+そのような複数バリエーションを持つ場合は、Configurable Productを指定して、新規商品の追加を行います。
+商品タイプは見えるようになっておらず、そのまま新規商品画面に遷移できるので、最初は分かりませんでした。
+4.ページを作る では、いよいよ、コンテンツ＞ページ　から、この飲食業ウェブサイト用のページを作ります。
+ページのタイトル等を入力して、デザインを決めて、コンテンツを作成します。
+で、ここが今日の本題なのですが、なかなか思うように表示がされないのです。
+コンテンツのエディタとしては、ビジュアルに色々できます。
+一番基本は、ウィジェットの追加という方式かと思います。
+例えば、静的ブロックの挿入ということができ、そこで、サンプルとして用意されているブロックを挿入することは簡単です。
+しかし、それではアパレルの商品が表示されてしまうので、ピザを表示させようと思います。
+例えば、商品一覧というウィジェットタイプがあるので、それを選び、商品の条件として、属性セットがピザと等しいもの、という指定をします。
+しかし、表示されません。
+何が悪いのやら、となります。
+5.SQL解析を始める ここで、ユーザガイドを丁寧に読み始めるというのが王道かと思い、だからこそユーザガイドの和訳を始めたわけですが、そう簡単に把握はできなそうです。
+むしろ、実行されるSQLを解析した方が、原因にたどり着くのは早いのではないかと思い、そちらからのアプローチに切り替えました。
+その話は明日に続けたいと思います。
+関連記事 Magento(マジェント)始めました</description></item><item><title>グループでのタスク管理</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/</link><pubDate>Tue, 18 Sep 2018 11:47:05 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%A7%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/</guid><description>さてMagentoを調査しているのは、あるプロジェクトで使おうとしているからです。これはいつもの一人プロジェクトではなくて、グループで行おうとしています。
+そのプロジェクトで、タスク管理ツールを使いたいなと思い、ちょっと調べてみました。
+1.有名そうなウェブ上のサービス 世界的に、となると、AsanaとWrikeが強そうに思われました。
+asana
+Wrike
+どちらも日本語対応もされていますし、見た目もきれいです。確かに、スケジュールの概念も欲しいとは思ったので、ガントチャート機能も魅力的です。
+日本だと、Backlogでしょうか。
+Backlog
+ヌーラボさん、あちこちのイベントに通っていたころは接点もあったので、懐かしいなという気持ちで、応援もしたい気持ちはあります。
+シンガポールのNuSpaceにも期待していたのですが、私が行くタイミングには間に合いませんでした。しかし、準備は進んでいるようですので、もしもまたシンガポールに行くようなことがあれば、是非訪問してみたいと思っています。
+NuSpace
+そして、みんな大好きソフトウェアかんばん（って最近言わないのかな・・・）に特化した、Trelloは人気のように思われます。
+Trello
+2.インストールするなら 上記のウェブサービス利用型と異なり、自分でサーバ立ててインストールするなら、Redmineはかなり強いのではないかと思っています。
+Redmine
+この辺見ていると、ガントチャートもカレンダーもWikiも、何でもあるよね、という感じでうっとりするレベルです。
+3.考察 で、どうしようか考えたのですが、やはり無償で済むなら済ませたい。ウェブサービス系は、皆さん無料トライアルはあるけど、無料プランはないのですね（Wrikeはあるように見せかけてすでに終了している模様）。
+Redmineはサーバ準備して、インストールして、というハードルの高さと、インストールにはまったりしてまた時間かかるんじゃないのという恐怖感。
+タスク管理ツールを紹介しているサイトはたくさんありますが、なかなかこれ以上の情報がないように思われます。
+4.GitLab一択では しかし、見つけました。無料のウェブサービス。
+このページの画像を見てもらえば、一目瞭然かと思います。
+Issue Boards
+イシュー（課題）を、とりあえず登録したものはOpen、具体的に始める段階になったらToDo、着手したらDoing、完了したらClosedという分類でタスクの状況が見えるようになりますし、イシューをドラッグアンドドロップで移動したりすることもでき、操作性も悪くないです。
+大きな声では言ってはいけないのかもしれませんが、Trelloよりよいのでは？？
+ということで、今はこれを使ってタスク管理しています。
+まだコーディングには入っていませんが、ソースもドキュメントもまとめて管理できて、言うことないのではと思っています。
+なお、余談ですが日本語化しても、この画面はBoardとなっています。中国語だと看板です。日本語でなぜ「かんばん」にしないのだろう。時代が変わったのですか？？
+（私の頭はこの辺かな）
+  GitLab実践ガイド (impress top gear) posted with カエレバ 北山 晋吾 インプレス 2018-02-01 Amazon 楽天市場 7net  関連記事 Agilo ソフトウェアかんばん　初日の感想 平準化</description></item><item><title>Magento(マジェント)始めました</title><link>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link><pubDate>Mon, 17 Sep 2018 12:51:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/magento%E3%83%9E%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid><description>現在作ろうとしているサービスの基盤として、Magento(マジェント)がよいのでは、と思い、Magento(マジェント)を使い始めました。
+いろいろ苦労していますが、やったことを片っ端から忘れてしまうので、ちょっとずつ記録を残していきたいと思います。
+1.インストール先、方法について (1)AWS Lightsail 一番小規模の構成だと1か月無料で使用できます。
+簡単に起動できるのは感動です。ただ、これだとパワー不足です。サンプルデータを入れようとすると途中で失敗するので、いったんメモリを増やしたりする必要があります。
+今改めて試してみたらまた感じ方も違うかもしれませんが、。
+(2)AWS Bitnami こちらはEC2のインスタンス作成に、AWS Marketplaceで提供されているBitnamiのAMI（Amazon マシンイメージ）を使用するという方法です。
+こちらもサンプルデータを入れようとするとエラーになるのですが、その理由はシステム構成をバージョンアップしなければならないということでしたが、どうやってもPHPを7.1に上げられず、断念しました。BitnamiがMagento2.2環境を提供してくれるようになると、これはかなり有望な選択肢になると思います。
+(3)GCP Bitnami では、ということで、いったんAWSではなく、GCPの方に立てようとしてみたのですが、AWS Bitnamiとほぼ同じ結果でした。
+Bitnamiのイメージではなく、通常構成でインストールしようともしてみましたが、それも失敗（理由はもう忘れてしまいました）。
+(4)AWS クイックスタート もういちど、AWSに戻り、やはり手順書見ながらやらないとね、ということで、こちらを参照。
+AWS クラウドでの Magento: クイックスタートリファレンスデプロイ
+サンプルデータ付きでインストール完了。
+しかし、翌日、請求警告メール。改めて見てみると、これはものすごいリッチな構成で環境ができています。
+（転載）
+慌てて環境削除しました。
+(5)AWS LAMP with PHP 7.1 Certified by Bitnami 最終的に現在使用している環境はこれ。Magento入りのAMIではなく、LAMP環境まで入っているAMIにMagento2.2.5をインストールしました。
+こんな素人状態で大丈夫かなと思いつつ、AWSの勉強もしながらMagentoも勉強していきます。
+2.現状の問題 問題もいろいろあるのですが、ありすぎて、とりあえず役立ちそうなところから勉強していく感じです。
+(1)bin/magento setup:upgrade等をすると500エラーになる この問題のために、当初はサンプルデータを入れられず悩んでいました。
+ところが、サンプルデータはインストール後にsetup:upgradeしなくてもちゃんと入っていましたので、それでしばらく動かしていました。
+ただ、管理画面を日本語化しようとして、
+composer require mageplaza/magento-2-japanese-language-pack:dev-master
+php bin/magento setup:static-content:deploy -f ja_JP
+php bin/magento cache:flush
+とやったら、また500エラーになってしまいました。
+そうなった場合、
+bin/magento deploy:mode:set developer
+とすると一応は動きます。しかしなぁ・・・
+(2)Cronを動かせていない もしかしたら、これが(3)の原因だと悲しいのですが、これもなかなか手順が分からず・・・
+(3)ホームページのカスタマイズができない サンプルのホームページは一応残しておいて、特定のストアビューのホームページを作って、ウィジェット等を配置したいのですが、うまくいっていません。</description></item><item><title>世界のチャイナタウン</title><link>https://jqinglong.github.io/programmers-office/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%82%BF%E3%82%A6%E3%83%B3/</link><pubDate>Mon, 17 Sep 2018 01:39:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%82%BF%E3%82%A6%E3%83%B3/</guid><description>各国チャイナタウン比較をしてみたいですが、そもそも最近横浜も行ってないし、不十分ながら羅列。
+シンガポール シンガポールというと洗練されたイメージがあり、チャイナタウンも横浜的な整備されたチャイナタウンかな、と何となく思っていたのですが、想像以上に良い意味でごちゃごちゃでした。これぞチャイナタウンと言ってもよいかもしれません。
+駅前（北側？）に大きなショッピングビル
+南側？が商店街
+ちょっと離れたところにあるマックスウェルフードセンターが、一番コスパ高かったと思います。
+ニューヨーク ある意味、チャイナタウンという英語はニューヨークのチャイナタウンを指すのでは、と思うくらい有名かと思われる、ニューヨークチャイナタウン。
+孔子像の前にもシティバイクがずらり
+こんな感じでひたすらお店が並んでいます。ただ、何となく生活感はないというか。そういう意味だと横浜に近いかもしれませんが、お土産屋さんがあるわけでもなく・・・
+一軒入ってみました。麻婆豆腐はあまり辛さのない、ザーサイ味的な麻婆豆腐でした。
+アメリカにあったって、中華街では麦当劳です。
+ワシントンDC ワシントンDCにもチャイナタウンはあります。しかし、ここは逆に、普通の生活しかない、けど、チャイナだけでもない、という、こんな門を作らなくてもよかったんじゃない、とうい感じです。
+薄っぺらい門があるだけで、チャイナ以外も入り混じっている
+こんな感じで、漢字は見られますけどね。ていうか、ここのHOOTERSの店員は中国人だったのだろうか。入ってみればよかった？
+ 西川口 オチのような扱いですみません。普通の街がチャイナタウン化していくという現在進行中の面白さがあります。
+駅ビル内の総菜屋さんから始まってます
+夜は映えますね
+最近多いと思ったのが、この大鍋料理。
+ヨーカドーの中だってこうなっちゃいます
+芝園団地 生活の場としての中華街最前線（完成形？）と言えば芝園団地。
+共存のように見せているけど、多分本当は1か国語で十分。</description></item><item><title>Hooters初入店</title><link>https://jqinglong.github.io/programmers-office/hooters%E5%88%9D%E5%85%A5%E5%BA%97/</link><pubDate>Thu, 13 Sep 2018 11:46:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/hooters%E5%88%9D%E5%85%A5%E5%BA%97/</guid><description>いえ、そうではありません。それは誤解です。
+https://prtimes.jp/main/html/rd/p/000000008.000028394.html
+ワークスペースとして利用できるのです。
+「フーターズでテレワーク」とか検索してみてください。皆さん、下心全開で仕事してますよ。
+そんな中から一番役に立つと思われるページは、こちら。
+https://de-gucci.com/blog/29475
+ちゃんと入店の準備をしてから行きましょうというお話です。
+で、私も準備して行ってきました。で、ちょっとマイナス気味の所感。
+・顔認証は時間がかかる。ネットワークのせいか、顔のせいか・・・
+帰りはあまりに時間がかかるので、QRコード認証にしたら、あっという間でした。
+・そもそもネットワークはあまり早くなかったような（測定したりしないので感覚です）
+・電源席は満員ということで普通の席でした。ソフトドリンクはたっぷり入って200円で安いから、その辺のカフェよりは良いかもしれませんが、電源使えないとあまり意味ないのですよね・・・</description></item><item><title>ワシントンDC見学</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3dc%E8%A6%8B%E5%AD%A6/</link><pubDate>Thu, 13 Sep 2018 04:58:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3dc%E8%A6%8B%E5%AD%A6/</guid><description>旅程は、8/11（土）8:30羽田出発エアチャイナ北京経由便、同日14:35ワシントンダレス空港到着。途中、8/14（火）6:00発の国内便でニューヨークへ行き、8/15（水）10:35ニューヨーク発のAmtrak（列車）でDCに帰還。8/17（金）16:35発便で北京に8/18（土）18:25到着。北京に一泊して、8/19（日）17:10発、羽田21:30着。月曜日から仕事しましたよ。いや、出勤はしましたよ（つらかった）。
+1.そもそもワシントンDCって言っても 「ワシントンDC　地図」でGoogle検索すると、この画像が表示されます。
+よく、ワシントンDCには空港が3つあると言われ、今回利用した国際便で利用したのはダレス空港、国内便で利用したのはロナルドレーガン空港ですが、ダレス空港は、この画像の左端、切れかかっているところにありますし、ロナルドレーガンもDCとして囲まれている枠線よりは外にあります。有名なアーリントン墓地も外です。ですから、東京と言っても、成田も東京国際空港だし、ディズニーランドも東京ディズニーランドだし、みたいな捉え方が良いのかなと思います。
+ちなみに、川を渡って西側がバージニア州で、実は今回ほとんどバージニア州で過ごしました。
+2.政治の中心と言うよりは観光地では ワシントンDCというと、ニューヨークが経済の中心であるのに対して、政治の中心というイメージでしたが、霞が関、永田町のような雰囲気ではなく、やはり観光地なのでは、と思いました。
+ベストスポットの一つと思われる連邦議事堂、入るときにガイドさんがちょっと警察官と交渉的なことをしていましたが、とは言え、このノリで入って行けてしまうのは、日本ではちょっと考えられないのではないでしょうか。
+その他の建造物も美しさというか荘厳さが感じられ、見てて惚れ惚れしました。
+DCの鉄道駅、ユニオン駅
+ジョージワシントン大学
+議事堂の美しさは格別だと思いました。
+3.セグウェイ そして、その街を移動する手段として、セグウェイはベストではないかと思いました。
+今回の初体験の中でもかなり興奮度の高い体験でした。
+ワシントンDCで面白いのは、道路の真ん中が自転車等のレーンになっているということ。セグウェイもそこを堂々と走る形になります。
+乗りこなしもすぐになれますし、何も疲れることなくそれなりのスピードも出ますし、今更ながらこれは面白い乗り物を発明したものだと感動してしまいました。
+4.今後のIT集積地としての役割 AWSでもGCPでも、サービスを使用しようと思いリージョンを選択しようとすると、バージニア北部というリージョンがあることに気づきます。
+それはどこかというと、まさに今回訪問した場所になります。
+ダレス空港にほど近い、レストンという場所に、IT企業が集まってきています。
+街はまだそんなに大きいとは言えませんが、きれいに整備されてきています。
+恐らく高給取りの皆さんがこの中心部に住んで、車で10分ほど行ったところにあるデータセンターで働く、みたいな図式が想像されます。
+5.ペンタゴン このエリアに行くのであれば見たいと思っていたものの一つがペンタゴンでした。
+しかし、付近では写真撮影禁止、車で移動するとちょっと離れたところからは写真取れますが、五角形を感じられるわけではなく、建物もくすんだ色で、こんなにインスタ映えしないものか、と愕然としました。繰り返します。ペンタゴンはインスタ映えしない。
+ところで、地下鉄駅としては、ペンタゴン駅とペンタゴンシティ駅があります。
+ペンタゴン駅は駅のホーム内から撮影禁止。外に出ても、インスタ映えしないペンタゴンとバス停があるのみです。
+それに対して、ペンタゴンシティ駅は、駅前に大きなショッピングモールがあり、その他、このエリアの商業の中心と思われる風情です。
+この駅前のショッピングモール、入り口に中国語の看板があって驚きました。
+実は中国資本なのかと思いきや、そういうわけでもなさそうです。しかし、このSimon Property Group（西盟地产集团）のやっているアウトレットモールでも、中国語が目立っていましたので、何かはあると思うのですが・・・
+6.買い物、食事 ワシントンDCだけというわけではなく、事情はニューヨークもそんなに変わりませんが、とにかくいわゆるお土産がない！
+今回なんとか勝ったのは、スミソニアン航空宇宙博物館で、宇宙食。
+また、ホワイトハウス近くにはお土産屋さんがありましたが、日本人が好みそうな、特に会社バラマキに適したようなものはなく、買ったのは屈辱のワシントンDCチョコレート（単にそう書いてあるだけの普通のチョコレート）。
+どうせなら、トランプ大統領チョコレートとかにしてくれれば、多少はウケも取れると思うのですが・・・
+食事で気になったのは、地球の歩き方に書いてあったクラブケーキ。
+ちょっと高級店に入って、アメリカ式接客の圧をたっぷり浴びてしまいましたが、それも含めて楽しくおいしい店でした。
+6.まとめ DCだけで1週間も観光する所ではないように思いますが（今回ほとんど行けなかった博物館系が好きな方は良いかもしれませんが）、セグウェイで半日で一回りして、翌日から気になったところを回っていく、なんていうのは良い観光の仕方かもしれません。</description></item><item><title>シェアサイクル、シェアXXX</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2xxx/</link><pubDate>Tue, 11 Sep 2018 11:45:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%80%81%E3%82%B7%E3%82%A7%E3%82%A2xxx/</guid><description>自転車についてはやはり書いておかざるを得ない。
+1.日本 最近の日本の状況はどうなんでしょうか。
+東京では一応順調に増えているように感じます。
+個人的には渋谷区が入ったのが嬉しい。
+あとは、中野区、豊島区も頑張れ！
+ドコモ・バイクシェア
+https://www.d-bikeshare.com/
+ソフトバンクとセブンイレブンが組んだHELLO CYCLINGは、アナウンスされてから大分時間がたっているように思いつつ、あまり見かけないような気がしますが、マップを見るとまあまあ展開されているのですね。今度乗ってみます。
+https://www.hellocycling.jp/
+メルカリのメルチャリも話題になったと思ったらその後音沙汰なく、部分的に始まりつつある、という感じでしょうか。
+https://merchari.bike/
+個人的には、シェアサイクルに興味を持つきっかけとなり、わざわざ乗りに行った金沢のまちのりにも引き続き頑張ってほしいと思っています。
+2.ニューヨーク 今回、ニューヨークでcitybykeに乗ってきました。
+一つの特徴として、手続き的に借りやすいです。クレジットカードのみで手続きが完了します。
+かなり広まっていると言ってよく、マップを見ても万遍なさが分かると思います。
+日本も増えてきていますが、自転車用レーンが整備されているのも強いです。
+最初に乗った自転車は無段変速というのでしょうか、よくあるタイプと同じで右手側のグリップを回すのですが、3段階とかではなく、回した分だけギアが変わるような動きが面白かったです。
+（この写真では分からない・・・）
+ところが2台目以降は普通の3段変速で、自転車もバラバラなんだというのも新鮮でした。
+ちなみに、私は身長181cmですが、1台たりともサドルを下げずに乗れた自転車はなかったというのはちょっと悔しかったです・・・
+（栄光のプラザホテルの前にも山ほど・・・）
+また、他のレンタル業者もいっぱいいました。
+3.ワシントンDC ワシントンDCでは乗りませんでしたが、一応ありました。感覚的には東京と同程度という感じでしょうか。
+4. 北京 中国式は何と言っても乗り捨て式。現在は三国時代のようで、オレンジ、黄色、青の自転車が街中にあふれています。
+自転車用レーンもかなり整備されています。
+今回オレンジのモバイクは北京在住の友人に支払ってもらって乗り、黄色のofoには自分のお金で乗りました。ただ、これは準備不測のためにちょっと苦労しました。
+ofoはクレジットカード決済ができるのですが、手続き完了のためにはSMS認証が必要です。しかし、今回通信専用SIMしか持っていかなかったので、SMSが受けられませんでした。事前に国内で認証通しておけばよかっただけなのですが、やっちまったなと諦めかけましたが、先ほどの友人が裏技的なサービスを押してくれました。WeChat上で色々なサービスが展開されているのですが、その中にSMSを代行で受けてくれるサービスがあるのです。おかげで手続き完了して、自転車を満喫できました。
+5.自転車以外のシェア もう一つ書いておきたいのは、このような形でシェアされているのは自転車だけではないということです。
+6月に行ったシンガポールでもありましたが、ワシントンDCでは、LimeBikeとBIRDの電動キックボードが目立ってました。
+https://www.li.me/
+https://www.bird.co/
+この辺も知っていればアプリダウンロードしておく等準備ができたのですが、とっさに手続きができずに残念ながら乗ることはできませんでした。
+しかし、6月に行ったシンガポールでもこれはありましたし、より手軽ということで広がる可能性はあるのではないかという気がします。
+さらに、中国ではオートバイ的なものもシェアされていました。
+mebikeなんていう、冗談で所みたいな名前ですが、意外と置いてありましたし、乗っている人もいました。これはコストに見合わないのでは、という気がしますが、そう考えると日本の自転車が電動自転車なのは、なかなかすごいですね。高くても仕方ないか。ただ、東京では、あまりに坂だらけなので、電動は必須だなと思います。
+7.まとめ 中国ではこの業界は経営危機だという話も出ているようですが、ここまでのインフラを作り上げた経験は強いなと思います。少なくとも道路を変えてしまいましたから、もう少し収益の良いモデルもどんどん出てくるのではないかと思いますし、キックボードの次の乗り物も見てみたいです。
+関連記事 シンガポール ダイジェスト3 2018年6月 スタートアップハブ 日経プラス10のシンガポール特集</description></item><item><title>Viber初体験</title><link>https://jqinglong.github.io/programmers-office/viber%E5%88%9D%E4%BD%93%E9%A8%93/</link><pubDate>Mon, 10 Sep 2018 12:08:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/viber%E5%88%9D%E4%BD%93%E9%A8%93/</guid><description>書きたいことは山ほどたまっているのですが、次に進みたい気持ちも抑えられず・・・
+前回まで書いていたMonacaアプリwithWPは、形にすることができました。
+諸事情により非公開アプリですが、一つ形をつかむと、それを基礎として発展させるアイデアが出てきますね。
+それがきっかけでありがたいお話をいただいたりして、そういう意味でも作ってよかったなと思っています。
+その後、アメリカ・中国に行ってきたので、その話もまとめておきたいのですが、全体をまとめようとすると膨大なボリュームになってしまうので、その話も挟みつつ、今やっていることも挟みつつ、小さくテーマ分けしていこうと思います。
+今回は小さいネタで、Viber。
+今どきは、国内だろうが海外だろうが、知人との通話なんていくらでも手段はあると思います。
+一番多用しているのはFBのMessenger。LINEもたまに。
+今回、アメリカに行くにあたり、FB以外の経路も用意しておこうということで、WhatsAppとViberをインストールすることにしました。
+WhatsAppは知っていました。WhatsAppが世界一のユーザ数という話も聞いたことがありますが、現在もそうでしょうか？
+それに対して、Viber、まったく知りませんでした。
+楽天が買収してたのですね。最近は割とヘビー楽天ユーザですが、それでも気付いていませんでした。
+今回、一度、Viberに助けられました（と言いつつ助けられ未遂ですが）。
+ニューヨークで、現地夜景ツアーを頼んでいたのですが、時間になってもお迎えが現れません。
+今回は通信専用SIMで行っていたので、電話もできません。
+しかし、Viberは電話回線への電話もできるのですね。それは有償なのですが、GooglePayと連携してくれて、難しい手続きを経ずに利用することができました。
+（ただ、未遂に終わったのは、連絡先の事務所が電話に出てくれなかったということで・・・けど、その後あれこれあって素晴らしい夜景を楽しめたというのはまた別の話）
+さらにそれよりも衝撃を受けたのが、電子マネー機能を持っているということです。
+ちょっと、ここからは現在確認できる情報とは齟齬があるので、勘違いか、別の話と混じっていますが、大筋は下記のとおりです。
+今回、中国でWeChatPayを使いたかったので、羽田空港でポケットチェンジで入金をしました。
+これは、お金を別の通貨の電子マネーとして入金することができるというものです。
+すなわち、日本円を投入して、変換したい通貨を指定して、どの電子マネーに入金するかを指定できるのです。
+そこで、中国元を指定して、WeChatPayをしていしたのですが、WeChatPay以外にViberも指定できたのです。
+（現在下記情報を見ると、ViberはUSDとEURとなっていますが・・・
+https://www.pocket-change.jp/ja/voucher-list/
+）
+で、要はViberは中国でも広く使われているのか、と思ったのです。
+その後中国でViberが使われているような気配はなかったので、本当のところはどうか分かりません。
+しかし、少なくともWhatsAppにはそんな機能はないと思いますので、実はMessengerアプリの今後の覇権争いは、まだまだこれからなのでは、と感じました。
+（しかし、ネタを寝かしても忘れるばかりでよいことありませんね）
+関連記事 MonacaアプリwithWP</description></item><item><title>CORSを乗り越えて</title><link>https://jqinglong.github.io/programmers-office/cors%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%81%A6/</link><pubDate>Sat, 21 Jul 2018 12:31:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/cors%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%81%A6/</guid><description>さくらレンタルサーバの共有SSL（続き） さくらにテストサイトを立てて、データもコピーします。
+あまり作りこんでいない段階でしたら、普通に、DB新規作成→WordPressをインストール→データエクスポート・インポートでやっても大した手間ではありません。
+そして、共有SSLの設定は簡単です。
+https://help.sakura.ad.jp/hc/ja/articles/206054862&amp;amp;#8211;%E5%85%B1%E6%9C%89SSL-%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95
+これにより、「the content must be served over HTTPS.」のエラーは解消します。
+MonacaアプリがさくらサーバからJSON取得する場合のCORS対応 次は、予想通りではありますが、「No ‘Access-Control-Allow-Origin’ header is present on the requested resource.」エラーになります。
+※ちなみに、この辺のエラーは、Chromeデベロッパーツール（F12キー）で確認します。
+個人的には、これの対応についての情報も分かりにくかったです。
+これは、ブラウザ側の制約だ、ということで、それを回避するのは、クライアント側アプリだと考えました。
+しかし、config.xmlには既にの記述があるので、これで回避できていないとおかしいのでは、とかなり悩みました。
+結論としては、データを提供する側で回避用のヘッダを付けます。自分が提供するデータを勝手に取られるのはまずいが、データ提供側で許可しているならブラウザも安心して取得する、という感じでしょうか。
+ですので、サーバアプリ側でヘッダを追加します。
+PHP・WordPress記述なので、こんな感じです。（$wpdb-&amp;gt;get_results　が好き）
+$rows = $wpdb-&amp;gt;get_results($sql);
+if ($rows) {
+$json_data = json_encode($rows);
+}
+header(‘Access-Control-Allow-Origin: *’);
+header( ‘Content-Type: application/json; charset=utf-8’ );
+echo $json_data;
+これにより、CORS制約も回避されました。
+Monaca（Vue）でのJSON取得処理 これで、データが取得されましたので、あとは画面で使うように加工します。
+ここも、まあまあ苦労しましたが、
+var data = [];
+・・・
+axios.get(‘[https://xxx’)][1]
+.then(function (response) {
+for(var i = 0; i &amp;lt; response.</description></item><item><title>GCEの開発環境にSSL証明書を入れようと思ったが</title><link>https://jqinglong.github.io/programmers-office/gce%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%ABssl%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%8C/</link><pubDate>Fri, 13 Jul 2018 23:27:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%ABssl%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E5%85%A5%E3%82%8C%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%8C/</guid><description>＜環境の復習＞
+サーバサイドの開発をAWS Cloud9で行います。
+なるべく無料範囲で、ということで、EC2を使用せず、GCP上のGCEに接続します。
+ですので、サーバ側開発環境はGCEに立っています。
+クライアント側開発は、クロスプラットフォーム開発を行うためにMonacaを使用しています。
+ですので、開発中は、MonacaからGCEに接続して、JSONを取得しよう、と考えています。
+本番環境は、さくらレンタルサーバにサーバアプリを構築し、Monacaでビルドしたモバイルアプリから接続します。
+ここまで、GCE上でWordPressを動作させており、Monacaでデザインの概要を作成しました。
+次は、MonacaからJSON取得をしようとしています。
+Let’s Encrypt さて、MonacaからGCEに接続してJSONを取得しようとしたところ、
+The page at ‘https://ide.monaca.mobi/’ was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint ‘http://xxx/’. This request has been blocked; the content must be served over HTTPS.
+というエラーになりました。
+これは、ここまでの調査の中で予期されたエラーなので、では、SSL証明書を導入しましょう、ということになります。
+こちら
+https://nozomi-hiragi.com/gcd_wp_ssl_support/
+を参考に、Let’s Encryptを入れようと思いました。
+SSL証明書も無料の時代、すごいなと思います。
+ところが。やはり、ところが。
+ConfigurationError: Requested name xxx.xxx.xxx.xxx is an IP address. The Let’s Encrypt certificate authority will not issue certificates for a bare IP address.</description></item><item><title>Monaca Onsen UI V2 Vueで外部JSON取得</title><link>https://jqinglong.github.io/programmers-office/monaca-onsen-ui-v2-vue%E3%81%A7%E5%A4%96%E9%83%A8json%E5%8F%96%E5%BE%97/</link><pubDate>Thu, 12 Jul 2018 09:11:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca-onsen-ui-v2-vue%E3%81%A7%E5%A4%96%E9%83%A8json%E5%8F%96%E5%BE%97/</guid><description>フロント側画面デザイン作成
+↓
+サーバ側WordPress構築
+↓
+ということで、再度フロント側に戻り、WordPressのデータを参照します。
+いやー、あきらめそうになりましたが、かろうじて持ちこたえました。
+$http.getの使用 サンプルを探し始めてすぐに見つかったのが、こちら。
+Monaca Onsen UI V2 Vue Navigation 上でサーバサイドから取得したjsonが画面に反映されない
+この中で使用されているthis.$http.getを使用したいのですが、そのままこの記述を使わせていただくと、
+Cannot read property ‘get’ of undefined
+となります。このエラーメッセージも分かりにくいですが、ただ、比較的すぐに、this.$httpが参照できていないということが分かります。
+では$httpは何なのかというと、これもvue-resoureぽいな、ということが分かり、Axiosにとって代わられそうだということも分かります。
+が、これらをどう参照したらよいのかが分からず、苦労しました。
+先に結論を書くと、monacaのターミナルで、npm install axiosを叩きます。
+Vue.js 単一ファイルコンポーネント 結論にたどり着くまでに時間がかかった一つの理由が、多くのサンプルが、単一ファイルコンポーネントの構成を前提にしていないことです。
+未だに理解しきっていませんが、単一ファイルコンポーネントの場合は、srcの中で.vueファイルに記述をしていき、Monacaの場合は、保存すると、Webpackが動いてwwwにファイルが作成される、ということのようです。
+ですから、src側に外部ライブラリをセットしなければいけないのでは、と考え、しかし、Monacaで用意されている「JS/CSS コンポーネントの追加と削除」では反映されているように見えないし、と悩みました。
+CDNで参照したらどうだろう、なども試しましたがダメでした。
+（逆に、CDNで参照する方法は取れないの？という疑問は残ります・・・）
+また、Monacaのターミナル機能は最近の追加機能だと思いますが、それまではどうしていたの？？という疑問も・・・
+とりあえずは先に進めるようにはなりましたが、axoss.getでの参照はSSLでの接続が要求されているので、それをどうするか（接続先のWordPressはGCE上に構築しており、無償範囲での利用にトライしているため）、またアプリがMonacaでJSON取得先がGCEの場合に、クロスドメイン制約に引っかかるだろう、など乗り越えるべき壁はまだまだありそうです・・・
+浮気 もうダメだと思って、ちょっと浮気も考えました。クロスプラットフォーム開発の基盤として、まずUnity。
+ゲーム以外にでも使えるだろうとは思うのですが、はてさて。。。
+次に考えたのはXamarin。iOS用のビルドにMac端末が必要とのことで、もうしばらく様子見。
+浮気せずにすんだのは、良かったのかな・・・
+  速習webpack 速習シリーズ posted with カエレバ 山田祥寛 WINGSプロジェクト 2018-04-27 関連記事 VSUG DAY 2013 Summer とりあえずxamarinチュートリアル中（初心者の超入門編）</description></item><item><title>GCE（Google Compute Engine）上のMariaDBに外部から接続</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E4%B8%8A%E3%81%AEmariadb%E3%81%AB%E5%A4%96%E9%83%A8%E3%81%8B%E3%82%89%E6%8E%A5%E7%B6%9A/</link><pubDate>Fri, 06 Jul 2018 09:16:43 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E4%B8%8A%E3%81%AEmariadb%E3%81%AB%E5%A4%96%E9%83%A8%E3%81%8B%E3%82%89%E6%8E%A5%E7%B6%9A/</guid><description>GCPのファイアウォール GCEにインストールしたMariaDBに、その中のWordPressから接続できていますが、ここにプラグイン用のテーブルを追加したり、データをいじったりしたい。
+その際に、全てコマンドベースでやるのもつらいし、さらにphpMyAdminをインストールするのもはまりそうな匂いがプンプン。
+ということで、ローカルのツールから接続することにします。
+まずは、GCPのファイアウォールルール追加です。
+場所は、VPCネットワークの中にあります。
+設定するのは、上りで、tcp:3306を許可します。
+しかし、これだけではつながりません。
+リスナー追加 netstat -tlpn
+を叩くと、
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tcp 0 0 127.0.0.1:3306 0.0.0.0:* LISTEN –
+と表示されます。
+これだと、ローカルからしか接続できないわけです。
+これを変更するためには、bind-addressの記述をコメントアウトする、という情報が見つかります。
+問題は、この記述がどこにあるかです。
+結論としては、
+/etc/mysql/mariadb.conf.d/50-server.cnf
+にありました。
+これを修正して、sudo /etc/init.d/mysql restart　すると、
+tcp6 0 0 :::3306 :::* LISTEN –
+となってくれました。
+しかし、実はこれでもつながりませんでした。
+select user, host from mysql.user;すると
++—————+———–+
+| user | host |
++—————+———–+
+| hoge | localhost |
+| xxxxxxxxxxxxx | localhost |</description></item><item><title>GCE（Google Compute Engine）へのWordPressインストール（2）</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%882%EF%BC%89/</link><pubDate>Tue, 03 Jul 2018 20:50:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%882%EF%BC%89/</guid><description>今回でWordPressインストールまでたどり着こう。
+参考は、こちら。
+https://qiita.com/yuichiyuichi447/items/4bb3b9dbb69ee5a693cf
+GCEへのApacheインストール これは
+sudo apt install apache2
+だけ。
+ただ、この時点でちゃんと動作を確認すべき・・・
+GCEへのPHP7インストール sudo apt install -y php php-mysql libapache2-mod-php
+ここでも、動作確認すべき。
+GCEへのWordpressインストール さらに、こちらを参考。
+https://qiita.com/seijikohara/items/f34753b2a783e03d7db4
+/etc/apache2/apache2.conf
+へのWPインストール先追記は、あえて自分のHOME配下に変更。
+そして、そのディレクトリを作成しておく。
+curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+こちらでは、curlを使用。wgetとはあまり差はないのですかね。趣味の範囲？
+wp core download –locale=ja –path=/var/www/html/wordpress –allow-root
+を叩くときに、apache2.confで指定したパスに変更。
+また、wp-config.phpの修正で、AUTH_KEY等はコピペが必要です。
+この際、AWS Cloud9でviに張り付ける場合は、右クリックコピーではダメで、必ずCtrl-C Ctrl-Vです。
+また、いつも忘れますが、viで複数行削除は、
+削除範囲の開始行で「ms」 削除範囲の終了行で「me」 「:’s,’ed」と入力し、Enter です。
+さて、これで動くと思いきや、そうは問屋が卸さないのがいつものこと。
+まず、手順を二つ参照したために、そもそもWP用のDBを作る作業が抜けていました。
+これは
+CREATE DATABASE xxx DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+GRANT ALL ON xxx.* TO ‘xxx’@’localhost’;
+だけしておけばOK。
+しかし、wp option get homeを叩くと</description></item><item><title>GCE（Google Compute Engine）へのWordPressインストール（1）</title><link>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/</link><pubDate>Fri, 29 Jun 2018 09:15:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/gce%EF%BC%88google-compute-engine%EF%BC%89%E3%81%B8%E3%81%AEwordpress%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/</guid><description>さて、環境を定めたら、WordPressをインストールします。
+Cloud Launcherではない GCP・WordPressで検索すると、コンソールのCloud Launcherからインストールする方法が多数ヒットすると思います。
+確かに、メニューから選択して簡単にインストールできそうです。
+この流れは魅力的。
+しかし、これは、WordPress用にインスタンスを立ち上げるサービスになります。
+そうすると、結局二つ目のインスタンスになってしまい、Always Freeから外れてしまいます。
+今回やりたいのは、既存のGCEインスタンスにWPをインストールするということです。
+（完全に言葉が間違っていたので追記）
+GCP（Google Cloud Platform）はGoogleのクラウドの状のサービス諸々ですね。
+ですから、GCP・WordPressで検索すれば当然GCP上にWordPressのサービスを立ち上げる方法がヒットするでしょう。
+GCE（Google Compute Engine）は、GCPのサービスの中の一つで、IaaS環境を提供してくれているというものです。今やろうとしているのは、そのGCE環境の中にWordPressをインストールする、ということなので、GCE・WordPressで検索すべきです。そうすると、もう少し違う情報も出てきます。
+GCEへのMySQLインストール さて、WordPressをインストールするとなると、必要なのがMySQLです。
+方法としては、外部に接続する方法も「あり」かとは思います。
+元々さくらレンタルサーバに環境作ろうとしたくらいですので、さくらのDBに繋ぎに行ってもよいわけです。
+しかし、ここは、怖いもの見たさで、GCE内にMySQLもインストールします。
+そして、ここでも、GCPコンソールから「SQL」という魅力的なアイコンが見えます。
+これをクリックすると、簡単にMySQLがインストールできそうです。
+しかし、これも、データベース用のインスタンス立ち上げサービスです。
+あくまでも、既存のインスタンス内にインストールしたいので、これは使用しません。
+MariaDB そこで、一番参考になりそうなのがこちら。
+https://qiita.com/mekabuko/items/d0ef4492f60e40f84f84
+そして、MariaDBという名前が気になりつつ、MySQL入っていないかなと思って、mysqlを叩いてみました。
+$ mysql
+The program ‘mysql’ can be found in the following packages:
+mysql-client-core-5.7 mariadb-client-core-10.0
+Ask your administrator to install one of them 出た、mariadb。MariaDBって何？
+基本情報はググれば分かるとして、最近は利用が伸びていて、PL/SQLに対応し始めた、というのが趣深いですね。
+ということで、Mariaをインストールすることにします。
+上記では、yumでインストールしていますが、こちらの環境はUbuntuなので、sudo apt-get install mariadb-server。
+インストール成功しましたが、こちらと同じ状態になっています。
+https://jyn.jp/ubuntu-16-04-mariadb-password-bug/
+書いていただいている対応により、接続できるようになりました。
+ いったん休憩にします。</description></item><item><title>AWS Cloud9からさくらレンタルサーバはあきらめた</title><link>https://jqinglong.github.io/programmers-office/aws-cloud9%E3%81%8B%E3%82%89%E3%81%95%E3%81%8F%E3%82%89%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AF%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9F/</link><pubDate>Thu, 28 Jun 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/aws-cloud9%E3%81%8B%E3%82%89%E3%81%95%E3%81%8F%E3%82%89%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AF%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9F/</guid><description>画面デザインはそれっぽくなってきたので、いったんバックエンドに入ろうと思います。
+そして、最初の宣言（Monacaでハイブリッドモバイルアプリ開発）通り、AWS Cloud9＋さくらレンタルサーバで作ろうと思いました。
+が、結論としては、諦めました。以下、できる方法をお探しの方には、あまりお役に立てません。
+さくらレンタルサーバへのSSH公開鍵接続 これに関しては、割と情報はそろっていると思います。肝は、各フォルダへのパーミッション設定のようです。
+今回、これに成功したかは不明です。
+この画面で「AWS Cloud9 couldn’t connect to SSH server」エラーが出続けました。
+このメッセージからはSSHでの接続に失敗しているのではと思い、ずっと調べていました。
+こちらの情報は良いと思いました。
+https://qiita.com/fukusuke/items/6eb9f8593a296a95798c
+しかし、これはさくらレンタルサーバでは、root権限がなく、自分のHOME配下外のファイルの参照も厳しいです。
+で、ふと思いました。Cloud9はNode.jsが必須だったと。それが原因でこのメッセージなのではないか。
+さくらレンタルサーバへのNode.jsインストールは不可 ということで、Node.jsインストールを試みますが、これまた、いろいろ情報がありつつも、難しいという結果。
+gmakeで失敗したのは、
+logging.cc:(.text._ZN2v84base13DumpBacktraceEv+0x24): undefined reference to `backtrace’
+logging.cc:(.text._ZN2v84base13DumpBacktraceEv+0x31): undefined reference to `backtrace_symbols’
+というものですが、最終的には、そもそもインストール禁止だということで納得しました。
+そもそも、レンタルサーバは複数のユーザが同じサーバーを共有するのであり、他の利用者に迷惑をかけるような利用は不可です。
+正直、レンタルサーバというものを、ちゃんとイメージできていなかったのですが、今回 ls /homeをしてそういうことか、と理解しました。
+そうであれば、下記のような禁止事項も納得です。
+https://www.sakura.ne.jp/terms.html
+・・・daemonとしてサーバーに常駐するプログラムの実行
+ということで、さくらへの接続は止めて、今回もGCPで開発環境を構築することにしました。
+AWS Cloud9からGCE（Google Compute Engine）への二つ目の接続 さて、すでに開発環境を作ってあるGCP（Google Cloud Platform）のGCE（Google Compute Engine）ですが、せっかくなので、別の環境を作ろうと思いました。
+バイブルは、こちら。
+https://qiita.com/j-un/items/f5d72d21f67d384d3c84
+プロジェクトとして今回用のプロジェクトを作り、インスタンスを作ろうとします。
+で、設定を選んでいくと、料金表示がされます。・・・料金。
+無料で利用できるということでGCPを選んでいるので、無料の条件を再確認すると、
+https://cloud.google.com/free/
+1 f1-micro インスタンス（1 か月あたり、米国リージョンのみ）です。
+ということで、既存のインスタンスに接続することにします。
+初回作成時に失敗したと思いましたが、Cloud9環境を作るディレクトリは指定できます。
+前回は自分のHOMEを指定する形になってしまいましたが、今回は、その下にディレクトリを作って、そちらを指定しました。
+ということで、ようやく、バックエンド側開発に入ります。</description></item><item><title>MonacaでのOnsen UI V2 Vue Tabbar</title><link>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%81%AEonsen-ui-v2-vue-tabbar/</link><pubDate>Sun, 24 Jun 2018 06:58:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%81%AEonsen-ui-v2-vue-tabbar/</guid><description>まず、Monacaで画面デザインを作っています。
+新規プロジェクトでは、「Onsen UI V2 Vue Tabbar」を選択します。
+しかし、各種サンプルを見ながらなんとかなるかなと思いいつつ、なかなかしんどいですね。
+この構成の場合、何かを調べようと思ったら、Monacaという基盤の話なのか、Onsen UIというデザインフレームワークの話なのか、Vueという画面制御フレームワークの話なのか、を切り分けながらそれぞれのマニュアルなり、情報なりを調べる必要があるわけです。
+で、いきなり、はまったのが、画面上部のツールバーに画像を表示したいな、と。
+そこで考えるべきは、画像をどこに置くのか、どういうパスを書けば参照してくれるのか、普通にimgタグを使うべきなのか、他に作法があるのか、等ですが、それぞれの守備範囲がいまいち理解できずに、調べようがないなと思うわけです。
+結論としては、サンプルとして公開されているポケモンアプリ（https://docs.monaca.io/ja/sampleapp/samples/）で、画像の置き場はsrc/publicか、と理解し、あとはimgタグでやってみて、うまくいっているからよいか、みたいな感じです。
+もう一つの例としては、画面を黒系統にしたいなと思い、Onsen UIのテーマローラー（https://onsen.io/theme-roller/）というのでDark themeといのがあるのが分かったのですが、それの適用方法が分からない。見てるとテーマローラーで生成したファイル群をダウンロードして、配置して、という方法が出てきますが、細かくカスタマイズしたいならそうかもしれませんが、単にテーマを適用したいだけなんだよ、ということでもう少し調べると、onsen-css-components.cssをonsen-css-components-dark-theme.cssに書き換えればよい、という情報が見つかります。
+これはどこに書いてあるのだ、というところから始まりますが、それは検索して、今回の構成の場合はmain.jsに書いてあることが分かります。cssの読み込みをjsでやる、というところで既に古い頭にはつらいのですが、そういうものです。
+ところが、このように書き換えてみても反映されない。むむ、と思い、もう少し調べると、dark-onsen-css-components.cssだよ、という情報が見つかり、これでOK。
+しかし、なかなか辿り着かないよ、と思いつつ、やっていくうちに馴染むだろうと思い込んで、先に進みます。
+React、Angular、Vue.js、React Nativeを使って学ぶ はじめてのフロントエンド開発 原 一浩,taisa,小松 大輔,永井 孝,池内 孝啓,新井 正貴,橋本 安司,日野 洋一郎 技術評論社 2018-05-09 &amp;lt;div class=&amp;quot;kaerebalink-salesranking&amp;quot; style=&amp;quot;margin-bottom: 5px;&amp;quot;&amp;gt; 売り上げランキング : 8419 &amp;lt;/div&amp;gt; &amp;lt;table style=&amp;quot;border: currentcolor; margin-top: 10px;&amp;quot;&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td style=&amp;quot;border: currentcolor; text-align: left;&amp;quot;&amp;gt; &amp;lt;/td&amp;gt; &amp;lt;td style=&amp;quot;border: currentcolor; padding-left: 10px; font-size: x-small; vertical-align: bottom;&amp;quot;&amp;gt; by &amp;lt;a href=&amp;quot;https://kaereba.</description></item><item><title>Monacaでハイブリッドモバイルアプリ開発</title><link>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</link><pubDate>Sat, 23 Jun 2018 11:21:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/monaca%E3%81%A7%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</guid><description>Monaca再開 今回、とあるアプリを作ろうと思い立ち、以前ちょっと遊んでいたMonacaを改めて使ってみたいと思います。
+その間色々進歩していると思うので、割と一から勉強の部分も多々ありますが、地道に。
+作ろうとしているものの構成は下記の通り。
+システム構成 フロントエンド Monaca
+Onsen UI V2 Vue Navigation
+https://press.monaca.io/atsushi/2533
+Vueを使ってみたいと思ってはいたのですが、この記事に後押しされました。
+あまり複雑な画面にはならないと思いますが、その分遊べるところは遊ぼうという感じ。
+バックエンド WordPress（REST API）
+依然作ったWebアプリは、WordPressの豊富なテンプレートを生かしたこ洒落たUIにしたいという目的で、WordPressのプラグインという形でアプリを作りました。
+ところが、WordPressプラグインをゴリゴリ書いていると、UI側のメリットよりも、開発フレームワークとして使いやすいと思うようになりました。
+その意味で、WordPressを使い、ユーザ管理、コンテンツ管理、データIOを行って、フロントエンドにはREST APIで返す、という方法をとってみたいと思います。
+プラグインの作成 – WordPress Codex 日本語版
+開発環境 Cloud9＋さくらレンタルサーバ
+並行して行っている、Code4Startupの開発環境は、Cloud9＋GCE（Google Compute Engine）ですが、ちょっと環境構築がしんどかった
+https://www.programmers-office.ml/2018/05/03/code4startup-%ef%bd%9e-ubereats%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86-%ef%bd%9e-python-django%e7%92%b0%e5%a2%83/
+ので、今回は、せっかく契約していることもあり、さくらレンタルサーバを使いたいと思います。
+バックエンドのWordPressもさくらに立てるので、開発ソースと運用環境が両方さくらにあることのメリットが何かあるかも、探ってみたいと思います。
+というわけで、今後に乞うご期待！</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</link><pubDate>Sun, 17 Jun 2018 00:01:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</guid><description>Code4Startup
+Task 8、9の辺りは、ひたすらページ作成のコーディングをしていきます。
+こういうドリル的なこと：写経も必要。
+すんなりいかないところとして、
+modelの作成で
+restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+講義の中では、on_deleteは記載していませんが、必要と怒られます。
+offsetの書き方は注意
+https://www.programmers-office.ml/2018/04/03/code4startup-%ef%bd%9e-landing-page%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86/
+Code4Startup
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 88013 by カエレバ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</link><pubDate>Fri, 15 Jun 2018 23:52:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</guid><description>以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・
+Bootstrap4 講義はBootstrap3ベースになっていますが、最新のBootstrap4を使おうとすると、色々調べながら進める必要があります。
+まず、jquery等の読み込みですが、講義で参照しているbasic templateは使用できないので、Introductionを見ると、そこにStarter templateがあります。
+必要なJS読み込みは
+となっています。
+さらに、django-bootstrap3をインストールしていますが、ここはpip install django-bootstrap4にします。
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 28003 by カエレバ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</link><pubDate>Fri, 15 Jun 2018 23:48:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</guid><description>Code4Startup
+以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・
+Bootstrap4 講義はBootstrap3ベースになっていますが、最新のBootstrap4を使おうとすると、色々調べながら進める必要があります。
+まず、jquery等の読み込みですが、講義で参照しているbasic templateは使用できないので、Introductionを見ると、そこにStarter templateがあります。
+必要なJS読み込みは
+となっています。
+さらに、django-bootstrap3をインストールしていますが、ここはpip install django-bootstrap4にします。
+スタイルの読み込みがちゃんとできていないので見た目はもやもやしますが、とりあえず進めます。
+Code4Startup
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 28003 by カエレバ &amp;nbsp;</description></item><item><title>シンガポール ダイジェスト3 2018年6月 スタートアップハブ</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB-%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%883-2018%E5%B9%B46%E6%9C%88-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</link><pubDate>Wed, 13 Jun 2018 12:09:41 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB-%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%883-2018%E5%B9%B46%E6%9C%88-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</guid><description>シンガポールダイジェストは今回が最後です。
+（シンガポール ダイジェストその1はこちら、その2はこちら）
+BSジャパン 日経プラス10 イノベーションどう生み出す!?先進シンガポールの突破力 今回行く直前に、たまたまテレビ番組「BSジャパン 日経プラス10 イノベーションどう生み出す!?先進シンガポールの突破力」を観ました。
+メモから抜粋すると
+・スタートアップ支援企業（スタートアップハブ？）
+・SPECTRUM
+https://www.spectrum.global/
+・thebridge
+https://thebridge-asb.com/
+・Plug-in@Blk71
+NUSエンタープライズとの協業
+※シンガポール国立大学（National University of Singapore／NUS）
+https://www.worksight.jp/issues/538.html
+・電動キックスクーターのシェアリングサービス「Telepod」
+https://japan.cnet.com/article/35104102/
+・セントーサケーブルカーからの景色
+などが、印象に残りました。
+全部見てみたかったのですが、やはり1日では限界があり、SPECTRUMはビルの外観だけ、thebridgeとTelepodは見送りました。
+SPECTRUM Bugis駅という比較的街中、ラッフルズホテルからもほど近く、良い立地のところに巨大な、そして特徴的な、きれいなビルが建っており、この中に入っているということです。
+このビルだと、それなりの設備が期待できると思いますが、固定デスク一つ借りるようなプランで、600Sドルから。5万円ですか。
+https://www.spectrum.global/memberships/
+ただし、場所借りだけでなく、コンサルティング的なものも含まれるようです（経済情勢レポートとか、イベント参加とか）。
+シンガポールでも色々あるわけですが、ちなみに東京と比較してみましょう。
+東京のスタートアップハブ まず、スタートアップハブという名前を掲げて、SPECTRUMとも同様のサービスを提供していると思われる、Startup Hub Tokyo。
+https://startuphub.tokyo/
+「Startup Hub Tokyoは東京都からの委託を受けて株式会社ツクリエが運営しています。」とあり、Webサイトも、東京都中小企業振興公社がやっているTOKYO創業ステーションのサイトに紐づけられています。TOKYO創業ステーションとしても、コンサルティング、セミナー開催、施設提供を行っていますが、その関係性は分かりにくい気がします。
+それはさておき、内容としては、部屋貸しではなく作業スペース貸しのイメージでしょうか。会員制サービスですが、会費は基本無料という太っ腹。保育サービスもありますよ、とこの辺は何がStartup Hub Tokyoのサービスで、何がTOKYO創業ステーションのサービスなのかわかりにくい…
+と見てると、むしろ、TOKYO創業ステーションの方がSPECTRUMに近いか。こちらは、施設提供という面では、現時点で5カ所のオフィスの情報を提供し、補助を行ったりもしています。現在入居者募集中の白鬚西R&amp;amp;Dセンターというところを見ると、貸付料：毎月支払総額27,090円～95,131円とありますので、金額的にはデスク一つ5万円よりは割安なのかもしれません。
+あるいは、レンタルオフィス、コワーキングスペースという切り口で探してみても、同様のサービスが見つかるかもしれません。
+例えば、ビジネスエアポート。
+スペース貸し、部屋貸し、両タイプありますが、例えばスペース貸しだとこんな感じ。
+https://business-airport.net/share_work_place/
+さらに言えば、Yahoo!のLODGEなんかも、目的は同等で、無料キャンペーン継続中です。
+最初に5万円という基準を持って各所見てみると、割と東京で受けられるサービスもリーズナブルなのでは、と思えてきます。
+その他の地域のスタートアップハブ 日本の各地のサービス 探してみると、こういったサービスに力を入れている自治体も多いようです。
+一例として、宮崎市。
+http://www.miyazaki-cci.or.jp/support/
+会員の種類によって期間が変わりますが、施設無償利用等できるとのこと。
+http://www.miyazaki-cci.or.jp/support/news/2018/04/post-19.html
+カナダ 今回帰りの飛行機用に買った雑誌「Inc.」。
+https://www.inc.com/
+Webサイトのタイトルが「Small Business Ideas and Resources for Entrepreneurs」となっている通り、スタートアップ向け情報満載です。
+そして、その中の記事で取り上げられているのが、カナダ。ニューヨークやサンフランシスコより安いよと。</description></item><item><title>シンガポール ダイジェスト2 2018年6月　五月天（メイデイ）コンサート</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2-2018%E5%B9%B46%E6%9C%88%E3%80%80%E4%BA%94%E6%9C%88%E5%A4%A9%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%87%E3%82%A4%EF%BC%89/</link><pubDate>Sat, 09 Jun 2018 09:12:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB2-2018%E5%B9%B46%E6%9C%88%E3%80%80%E4%BA%94%E6%9C%88%E5%A4%A9%EF%BC%88%E3%83%A1%E3%82%A4%E3%83%87%E3%82%A4%EF%BC%89/</guid><description>今回の主目的、五月天（メイデイ）コンサートについて
+（シンガポール ダイジェストその1はこちら）
+（2020年1月26日）最近このページを見に来てくれる人がいるのは、きっと8月のシンガポール公演が発表されたからですね。なのに、写真がちゃんと貼られておらず、悲しいことになっていました・・・。写真を貼りなおします。
+実は、去年の北京鳥の巣、正月の登桃園の最終日も行っているのですが、追って書きたいと思います。
+改めて、五月天（メイデイ）について Mayday – アミューズ オフィシャル ウェブサイト
+https://baike.baidu.com/item/%E4%BA%94%E6%9C%88%E5%A4%A9/17011（中国語説明）
+日本語オフィシャルサイトでは「1999年のデビュー・タイミング」とありますが、1997年に前身のSo Bandから五月天という名前になっており、2017年には結成20周年イベントもやっています。
+「2012年4月には、史上初となる北京国家体育場（鳥の巣）で2日連続公演を開催。20万枚のチケットを即日完売。」というあたりで、凄まじさを感じていただければ。
+現在のワールドツアー「人生无限公司世界巡回演唱会」（英名：LIFE TOUR）は、今回のシンガポール回が89回目。2018年1月7日の回の時点で226万人が参加しているとのことです。
+https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E5%85%AC%E5%8F%B8%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83
+シンガポール支社へ出勤！ ツアー名の「人生无限公司」は「人生無限会社」を意味します。
+直近のアルバム「自伝」に「人生有限公司」という曲があり、それをさらにちょっとひねっています。
+Mayday (五月天) – 人生有限会社 / 人生有限公司 – KKBOX
+で、このコンサートが会社なので、コンサートに参加することを中国語で「上班」すなわち出勤と言います。アンコールの掛け声は「加班！」（残業！）です。
+直近の5月19日、20日にも武道館でコンサートがありました。
+http://www.mayday.jp/life2018/
+こちらにも参加したわけですが、海外のバンドが日本で行うコンサートとしての武道館というのは十分ステータスがあると思うものの、本気を出した大規模のライブを見たいという気持ちが盛り上がり、シンガポールまで出張（遠征）することにしました。ちなみに、今回のシンガポール回には”无限放大版”（無限拡大版）という名前が付いており、最大規模のステージが見られるだろう、というのが決定打となりました。
+会場は、シンガポールナショナルスタジアム。駅から気合が入っています。
+川沿いで、マリーナベイサンズを望む、立地的にも美しい会場。
+入場はバーコードスキャンで、長い行列ができるということもありませんでした。
+中に入ると、「これが埋まるのか～」とこの時点で早くも感動を抑えられません。
+4万人の観客だったそうです。
+そして、巨大なスクリーン。これが見たくてシンガポールまで来たわけです。
+オープニング前に前座さん（失礼！充分売り出し中の歌手です）が歌うのは、朝礼。朝礼に間に合わない人たちが結構いてびっくり。
+コンサートは、ショートフィルムから始まり、随時そのストーリーをはさみながら進みます。
+さらに、曲によって、映像演出が凝らされます。
+一番見たかったのが、「成名在望」。
+雰囲気はオフィシャルビデオでも見られます。
+Mayday五月天 [ 成名在望 Almost Famous ] 現場無限Life版 Official Music Video
+これを生で見る、この人の海の中に自分がいる、それを体験したかったのですが、想像以上の迫力でした。
+このビデオの映像だと、競技場を縦長に使っていますが、今回は横長に使っているので全体の幅が長いと思いますし、スクリーンの高さも大分高いと思います。
+途中ゲストは、李宗盛。「僕のこと知ってる？」なんてトークしますが、超大物、かつ、五月天の父的存在。
+さて、五月天のコンサートではファンは歌い放題に歌っているので、毎回声の限りで歌い続けます。
+声も枯れたところで、最後の曲は、ファンと一緒にLaLaLaで終わるという流れです。
+まず、本編終了が「人生海海」。アンコール前のいったん終了の儀式的なところが個人的には好きではなく、武道館の時にも、「アンコールは予定されているけど、まあ、いったん終了ね」という感じを受けていたのですが、今回はいったんきっかり終わらせる感じを受けました（気のせい？）。武道館の時にはあまり意識していなかったですが、この曲のスクリーン映像でスタッフロールが流れているのですね。ちゃんとした終了感があると、LaLaLaにも力が入ります。
+アンコールに入ってから、「转眼」という曲では、メインストーリーの映画とは別に、この曲用のアニメーションフィルムが流れます。
+ここでは、映像がメインで、本人たちは片隅で歌っているような形になるのですが、これも恐らく映画をこんな巨大なスクリーンで見ることはないだろうなという圧倒感がありますし、日本で見て分かっているストーリーなのですが、やはりしんみりさせる名曲ならではの名映像でした。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook認証</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</link><pubDate>Sat, 09 Jun 2018 00:26:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</guid><description>Code4Startup
+続いて、oauthによるFacebook認証。
+この辺の実践感がこの講座の良いところ。
+https://developers.facebook.com/
+スタートガイド→Facebook for Developersアカウントを作成するところから始めます。
+画面構成は講義ビデオの時からは大分変っているようですが、何とか進められます。
+で、django-rest-framework-social-oauth2==1.0.4をインストールすることになっているのですが、
+ImportError: No module named ‘social_django’
+となります。
+↓
+https://teratail.com/questions/115059
+pip install social-auth-app-django
+↓
+ImportError: No module named ‘braces’
+↓
+pip install django-rest-framework-social-oauth2 -U
+→django-rest-framework-social-oauth2==1.1.0
+↓
+OK
+という感じで（分かりますか(^_^;;;)）、結局最新バージョンでないとライブラリ間の構成が合わないという話。
+requirements.txt　の記述は
+django-rest-framework-social-oauth2==1.0.4
+のままだけど・・・
+でうまくいったかと思いきや、アプリ画面を開くと
+You may need to add ‘x.x.x.x’ to ALLOWED_HOSTS. のエラー。
+settings.py
+のALLOWED_HOSTS に追記すれば確かに起動するようになった。
+https://www.deep-blog.jp/engineer/archives/4287
+しかし、これまで書いていなかったのになぜ？ちょっと気持ち悪い。
+Facebook認証の流れについては、
+https://stackoverflow.com/questions/18995448/rails-api-authenticate-users-from-native-mobile-apps-using-username-password-or
+と同じ内容の図がもう少しきれいに書かれていて、なるほど、と思いました。
+そして、ブラウザ・サーバアプリ・Facebook間でのやり取りは、アプリを作る前に試しましょうということで、POSTMAN。
+このJSON大流行のこのタイミングで、このツールをぶつけてくるところがなかなか（たまたま）。
+python-social-auth のPipelineの説明は、ビデオ見てると行方不明になりますが、下記になります。
+https://github.com/python-social-auth/social-docs/blob/master/docs/pipeline.rst
+ちょっと、Facebook認証で情報を取り出せるようになるので、GDPRが気になるところ。
+個人で試しているうちは気にしなくても良いかもしれませんが、早急に考えないといけないかと思っています。
+Code4Startup
+独学プログラマー Python言語の基本から仕事のやり方まで コーリー・アルソフ 日経BP社 2018-02-24 売り上げランキング : 204 by カエレバ</description></item><item><title>シンガポール　ダイジェスト　2018年6月</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%80%80%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%802018%E5%B9%B46%E6%9C%88/</link><pubDate>Fri, 08 Jun 2018 08:38:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%80%80%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%802018%E5%B9%B46%E6%9C%88/</guid><description>先週行ってきたシンガポールについての記録を残しておきます。
+両替 両替は、事前に都内「アクセスチケット」でやっておきました。
+https://www.access-ticket.com/shop/detail/64
+その時点で、東京駅前店100Sドル8104円。
+秋葉原店の方がレート良かったですが、在庫がなかったので。
+全ての店舗で外貨取り扱いがあるわけではない（池袋店ではありませんでした）のでご注意。
+また、「インターバンク」も事前連絡制なので安心、かつ、レートもそこそこ良いです。
+http://www.interbank.co.jp/
+そうは言っても、現地の方が良いのではと思ったのですが、チャンギ空港では円買取が1.213なので100Sドルあたり8244円、チャイナタウンの両替店では5000円で60Sドルなので、100Sドルあたり8333円でした。
+他の通貨のレートもよさそうだっでしたが、両替のためだけにウロチョロするのももったいないので、個人的なおすすめは、アクセスチケット秋葉原店に行って、在庫がなければインターバンクに電話、という感じかなと思います。
+空港設備 最近、深夜出発が多かったのですが、今回はちょっと早めの時間だったので、自動化ゲートの登録をしました。
+法務省：自動化ゲートの運用について（お知らせ）
+これとは別に、帰国側では、顔認証ゲートもスタートしています。
+法務省：羽田空港における「顔認証ゲート」の導入について
+下記ページによると、自動化ゲートの利用率が上がらないために導入されているよう。
+http://business.nikkeibp.co.jp/atclh/NBO/mirakoto/design/2/t_vol22/
+ちょっともやもやしますね。
+また、出入国審査とは別に、その前に航空会社のパスポートチェックがあるため、事前にネットチェックインしていても、カウンターでの手続きが必要というのも、そこでちゃんとした搭乗券がもらえる安心感はあるのですが、若干すっきりしない感じはあります。
+一方、シンガポール。出国時は、ネットチェックインしてあり、預け荷物がなければ、航空会社のカウンター手続きは不要でした。
+また、出国審査も、人のいる方に並ぼうとすると、機械の方でどうぞと案内されました。で、パスポートスキャンして顔認証で終わり。
+初めてだったので、あとはこの紙っぺらのバーコードで飛行機に乗るんだ、とちょっと不安でしたが、そういうものだと分かっていれば楽々ですね。
+日本頑張れ。（というか、一部で始めているということは、安全面への配慮とかではなく、単純に遅れている、ということですよね。もやもや…）
+食事（チキンライス） シンガポールと言えば、シンガポールチキンライス！思う存分、食べ比べてきました。
+（1）空港フードコート
+ローストタイプト、スチームタイプがありました。どちらも単品だと4.8Sドル。個人的には、色々なタレを楽しむスチームタイプがよりよかったです。卵トッピングは0.8Sドル。いずれも絶品と言ってよい美味しさでした。
+到着直後と、帰国直前に食べたのですが、空港でこの値段で食べられるなら、街中では他の食べ物に集中する、という作戦も大いにありかと思います。
+（2）大学食堂
+いきなり、ライスではないのですがチキンライスとチキンヌードルを売っている大学の食堂。
+空港から大学に直行して、すぐにチキンライスというのも芸がない、ということでヌードルにしてみました。レモンチキンヌードル。
+3.5ドルです。お味は悪くないですが、安いと思って大学食堂を狙うならば、過度な期待はしない方が良いかな、という印象です。
+（3）マックスウェルフードセンター
+こちらは有名店。行列が絶えないようですが、並んでもそんなに時間がかからないそうです。
+有名店の二つくらい隣のお店。
+お値段は失念・・・4Sドルくらいだったかと思います。
+写真からこの柔らかさ伝わりますでしょうか。今回のベストチキンライスでした！
+食事（その他） カヤトースト
+喜園珈琲店のカヤトーストはふわふわ。本当においしかったです。
+これとちょっと甘いコーヒーで25Sドル。朝、あまり時間ない中で無理やり予定を詰め込んだ形でしたが、行ってよかったと思います。
+米蒸系のお菓子
+こちらは、空港のフードコート入り口に出店していた売店にて。
+ういろうとかのねっとり系のお菓子が好きなので、全種類食べたいと思いながら二つ購入。
+案の定美味しかったです。
+ホッケンミー＆バクテー
+こちらはセントーサ島ユニバーサルスタジオ前のマレーシアフードストリートにて。ホッケンミーって、2種類ありますかね。
+写真からは伝わらないように思いますが、ホッケンミーは2人前ですか、というくらいの量。これにご飯はつらかったので、普段あまり残さないのですが、ごはん半分は、スタッフの方に美味しくいただいてもらいました…
+かき氷
+マレーシアフードストリートもう一品、かき氷。
+行く前から気になっていた、チェンドルというものが乗っています。緑色の物体です。
+で、チェンドルかき氷の場合は、ココナッツミルクがかかるのが、定番のようですが、これが美味しい。日本でもやればよいのにと思います。
+ただ、氷は普通のタイプ（チャイナタウン駅近の有名店だとふわふわタイプのようですが）で、頭がキンキンになりながら食べていました。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ heroku環境整備</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</link><pubDate>Fri, 08 Jun 2018 01:47:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</guid><description>Code4Startup
+さて、herokuが動作するようになると、おもむろにGunicornをインストールします。
+Gunicornとは何か http://gunicorn.org/
+Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX.
+Python製のWSGI サーバ
+WSGI とは何か http://gihyo.jp/dev/feature/01/wsgi/0001
+WSGIはJavaにおけるJava Servelet APIと同じように，WebサーバとWebアプリケーション間の汎用的なインターフェースを定義しています。
+要するに、Djangoを動作させるための土台、と考えればよいでしょうか。
+次にインストールするのが、WhiteNoise
+WhiteNoiseとは何か https://pypi.org/project/whitenoise/
+http://furodrive.com/2016/01/white_noisedjango/
+WhiteNoiseとはWSGIアプリケーションのための静的ファイルを配信するのを簡単にしてくれるライブラリです。
+少しの設定をするだけでAmazon S3やNginxに頼ることなく静的ファイルを配信できます。
+本番サーバーで画像やcss等を参照できるようにするには色々と手順を踏まないといけなかったのですが、WhiteNoiseを使うとそのような手間が省けて大変便利です。
+続いて、dj-database-url
+dj-database-urlとは何か https://github.com/kennethreitz/dj-database-url
+http://y0m0r.hateblo.jp/entry/20121130/1354290868
+dj-database-urlを使うとdb接続文字列を環境変数DATABASE_URLから取得させることができます。
+さらにpsycopg2 PythonのPostgreSQL用ドライバ
+これで、herokuに乗せるわけですが、色々講義内で想定されているエラー以外に、想定外のエラーが。
+could not determine PostgreSQL version from ‘10.4’
+諸々のサイトを見るとpsycopg2のバージョンを上げろと。
+http://initd.org/psycopg/docs/
+こちらで表示されるのが、現時点で2.7.5なのでそうしてみます。
+そうすると、こんな感じのエラー
+Could not find a version that satisfies the requirement psycopg2==2.7.5 (from -r /tmp/build_f493d80720eb882b01a250f718f3b058/requirements.txt (line 6)) (from versions: 2.0.10, 2.0.11, 2.</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道は続く</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</link><pubDate>Wed, 06 Jun 2018 13:57:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</guid><description>Code4Startup
+前回からの続き
+インストールされたということで、heroku loginしてみると、
+Error: login is not a heroku command.
+再インストールしなさいという情報があるので、
+curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+しかし、エラー変わらず。
+手当たり次第という感じですが、
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+変わらない。
+https://teratail.com/questions/125977
+に従ってみる。
+npm uninstall -g heroku
+これでもheroku –versionは出てくるが・・・
+wget https://cli-assets.heroku.com/heroku-cli/channels/stable/heroku-cli-linux-x64.tar.gz -O heroku.tar.gz
+tar -xvzf heroku.tar.gz
+mkdir -p /usr/local/lib /usr/local/bin
+sudo mv heroku-cli-v6.16.18-62346b1-linux-x64/ /usr/local/lib/heroku
+↓実際に作成されたディレクトリ名に変更
+sudo mv heroku-cli-v6.99.0-ec9edad-linux-x64/ /usr/local/lib/heroku
+sudo ln -s /usr/local/lib/heroku/bin/heroku /usr/local/bin/heroku
+失敗
+ln: failed to create symbolic link ‘/usr/local/bin/heroku’: File exists
+↓
+sudo unlink /usr/local/bin/heroku</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 01 Jun 2018 13:13:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Code4Startup
+講義ビデオは突然heroku loginから始まった。
+しかし、cloud9ではherokuコマンドは効かない。
+よって、インストールから。
+http://www.lib-arc.com/entry/2018/04/15/234355
+こちらでは、nodeは入っている前提。しかし、少なくとも私の環境には入っていない。
+そこから。となると、こちらを参考。
+https://qiita.com/beplocks661/items/8d840b6efcdcd14009bf
+と思ったらnvm: command not found。
+https://qiita.com/seibe/items/36cef7df85fe2cefa3ea
+ここから。
+sudo apt-get install -y nodejs npm
+sudo npm cache clean
+sudo npm install n -g
+sudo n stable
+node -v
+v10.2.1
+ここからやっとherokuインストール
+npm install -g heroku-cli
+インストールは始まったけど、エラー
+・・・
+npm ERR! Please try running this command again as root/Administrator.
+・・・
+sudo npm install -g heroku-cli
+でOK
+heroku -v
+heroku-cli/7.0.9 linux-x64 node-v10.2.1
+という感じでよいのでしょうか。
+開発環境構築の基礎を学べます。
+ん？cloud9って、こういうものでしたっけ？？
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Djangoのデバッグ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</link><pubDate>Fri, 01 Jun 2018 07:14:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</guid><description>Code4Startup
+前回に続き、Registration機能の実装ですが、どうもデータが登録されません。
+では、ということでデバッグ実行をしようと思ったのですが、これがまたうまく動きません。
+そもそもサービス起動のために
+python manage.py runserver xxx.xxx.xxx.xxx:8000
+を叩かなければいけないということですから、普通にRunボタンを使って実行することができないわけです。
+では、と思って、New Terminalでコマンド実行用のウインドウを開いて、その中で上記のコマンドを叩こうとしましたが、cdコマンドが効いてくれないようです。
+ではでは、
+python foodtasker/manage.py runserver xxx.xxx.xxx.xxx:8000
+とすると、
+Traceback (most recent call last):
+File “foodtasker/manage.py”, line 17, in
+“Couldn’t import Django. Are you sure it’s installed and “
+ImportError: Couldn’t import Django. Are you sure it’s installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+となってしまいました。
+なお、こちらのサイトでも、2017年12月3日現在、デバッグ実行ができないと判断されているようです。
+むう。。。
+とりあえずはやむを得ないので、こちらを参考に、コンソールに出力。いつの時代も安定のコンソール出力。
+失敗の原因は色々で、objectsとobject（誤）とか、FalseとFALSE（誤）とか。
+もう少しエディタの力で何とかならないものか・・・
+Code4Startup
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 228</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Registration</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</link><pubDate>Mon, 28 May 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</guid><description>Code4Startup
+Djangoで持っているUser管理の機構を利用する部分。
+それ以外に内容的に特筆すべきところはないですが、いったんエラーを発生させて、コンソールに表示されているエラーを確認して、対処するという流れ。
+Cloud9だと、コンソールウインドウを見ながらソースを書いているような画面構成で、ソースを保存した時点でエラーがあればエラーを表示してくれる。
+これは非常に便利。
+Code4Startup
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装
+posted with カエレバ
+斎藤 康毅 オライリージャパン 2016-09-24
+売り上げランキング : 231</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Sign In &amp; Sign Out</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</link><pubDate>Sat, 26 May 2018 00:19:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</guid><description>Code4Startup
+画面を横に並べて、動画見ながらコーディング、という形にすればよいのでしょうが、動画を見てから書こうとすると、しばしば間違いが。
+ログインページのテンプレートファイルで
+{% load staticfiles %}
+を忘れずに。忘れるとinvalid block tag ‘static’というエラーが発生。
+{% csrf_token %}
+というお約束。こういうの見ると萌える。
+で、一通り書いてみましたが、
+http://（公開アドレス）:8000/restaurant/sign-in/
+で何も表示されない。なんだろうと探ります。
+あまりコーディング中の自動補完（clodu9のAce Editor）は正しくないのも、うーん（Visual Studioっ子なので）。
+django.contrib.auth のauthが表示されなかったり、
+auth_views.logoutは表示されるけど、auth_views.loginは表示されなかったり。
+かなり手間取りましたが、実際は単なる記述ミス。
+タグは自動補完が走り、例えば」を入力すると「」になってしまう罠。 ちなみに、url名は「sign-in」、テンプレート名は「sign_in.html」みたいなのは、一般ルールでしょうか？
+これもsign-inと書くべきところをsign_inと書いていたりしました（そういう補完候補が出る、というのもあるし）。
+なんとかかんとか、ログイン認証の仕組みができました。先は長いぞ。
+Code4Startup
+  ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 231</description></item><item><title>xperiaのなぜ</title><link>https://jqinglong.github.io/programmers-office/xperia%E3%81%AE%E3%81%AA%E3%81%9C/</link><pubDate>Thu, 24 May 2018 14:02:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xperia%E3%81%AE%E3%81%AA%E3%81%9C/</guid><description>以前、Xperia Z Ultraを持っていましたが、寿命を迎えた際に結局これだと納得できる後継機を見つけることができず、いわゆるZUltra難民になりました。
+当時調べたのが下記＜ファブレット比較＞ですが、今でもあまり状況は変わっていないように思われます。
+個人的には、軽さと、画面サイズを求めています。
+で、今、携帯はGalaxy Note8を使用しています。
+https://www.programmers-office.ml/2017/10/21/%E6%90%BA%E5%B8%AF%E6%A9%9F%E7%A8%AE%E5%A4%89%E6%9B%B4/
+ちょっと重たいですが、性能は申し分ありません。
+もう少しあれこれ活用したいですが、若干引っかかるのが画面サイズ。
+細長端末は、ちょっと最近進行中の老眼にはつらいのです。
+そこでタブレットに興味を持っており、現在、一番気になるのは、HUAWEI MediaPad M3 Lite 8 です。
+＜タブレット比較＞ ■HUAWEI MediaPad M3 Lite 8
+幅　約123.3 mm
+縦　約213.3 mm
+厚さ　約7.5 mm
+重さ　約310 g
+8 inch (1920 x 1200) IPS
+Android 7.0
+重さ、薄さは、ここまでのものはなかなかないです。
+ちょっとキワモノ気味の中華タブでも、ここまで行きません。
+お値段気にしなければiPad miniは行けてますが・・・
+■iPad mini 4
+7.9型（2048×1536）
+134.8×203.2×6.1mm
+298.8g
+■ZenPad 3 8.0
+7.9型（2048×1536）
+約136.4×205.4×7.57mm
+約320g
+Android 6.0
+■Teclast T8
+8.4インチ 2560 x 1600
+218mm×126mm×7.8mm
+368.7g
+Android 7.</description></item><item><title>日経プラス10のシンガポール特集</title><link>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</link><pubDate>Wed, 23 May 2018 13:13:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%B910%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E7%89%B9%E9%9B%86/</guid><description>昨晩の日経プラス10のシンガポール特集（うちのテレビの自動録画、いい仕事した！）。
+見に行きたいところがわんさか。
+https://jcc.jp/news/13510974/
+SPECTRUM
+スタートアップ企業等が集まるワークスペース
+https://www.spectrum.global/
+thebridge
+同じく
+https://thebridge-asb.com/
+Plug-in@Blk71
+NUSエンタープライズ
+シンガポール国立大学（National University of Singapore／NUS）
+同様
+https://www.worksight.jp/issues/538.html
+電動キックスクーターのシェアリングサービス「Telepod」
+https://japan.cnet.com/article/35104102/
+あと、基本中の基本だと思いますが、セントーサ島へ行くロープウェイからの景色も刺激的なようなので、見てみたい！</description></item><item><title>仙台旅行は週末パス？</title><link>https://jqinglong.github.io/programmers-office/%E4%BB%99%E5%8F%B0%E6%97%85%E8%A1%8C%E3%81%AF%E9%80%B1%E6%9C%AB%E3%83%91%E3%82%B9%EF%BC%9F/</link><pubDate>Sun, 20 May 2018 04:29:49 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E4%BB%99%E5%8F%B0%E6%97%85%E8%A1%8C%E3%81%AF%E9%80%B1%E6%9C%AB%E3%83%91%E3%82%B9%EF%BC%9F/</guid><description>先日、急遽所用で仙台に行ってきました。
+これまでは、駅レンタカーを使用していましたが、もう少し安い方法があるのでは、と調べてみたところ、週末パスが最強ではないかと思っています。
+週末パス
+こちらは、大人8,730円で、エリアも、千葉県全域、伊豆急下田、新潟、酒田、くりこま高原、女川、という範囲をカバーしています。
+通常料金で、東京－仙台間が片道乗車券5,940円ですから、往復で3,150円お得です。
+普通は新幹線を使うと思いますので、これにプラス片道4,430円（やまびこ）、もしくは5,260円（はやぶさ）かかります。
+はやぶさ往復で、19,250円です（通常は22,400円）。
+これに現地でレンタカーを使用するとします。
+この場合に候補となるのが、
+レール＆レンタカーきっぷかと思います。
+これは、「同乗者全員のJR線乗車券が２０％割引・特急料金やグリーン料金等が１０％割引でご利用いただけます」という制度です。
+これで計算すると、乗車券往復9,504円、やまびこ特急券9,468円、計18,972円となります。
+そうすると、こちらの方が週末パスよりちょっとお得のように思われます。
+しかし、実は、これにプラスするレンタカー料金が問題です。
+今回は24時間ベーシックタイプ（5人乗りのフィット、デミオ、ヴィッツ等のクラス）を使用しましたので、それを例とします。
+https://www.ekiren.co.jp/annai/ryoukin/r_rkn_list1.html
+こちらの表で、7,400円です。
+これに対して、通常のレンタカーサービスを調べてみます。
+例として、楽天を使います。
+https://travel.rakuten.co.jp/cars/
+当然各店舗で微妙に違うのですが、今回利用したオリックスレンタカーだと、6,170円というのがヒットします。
+楽天ユーザならポイントが付きますが、これは61ポイントなので誤差とします。
+これで比べると、
+レール＆レンタカー：18,972＋7,400＝26,372円
+週末パス＋格安レンタカー：19,250＋6,170＝25,420円
+となるのです。
+—
+実は、これを書くまでは、もっと差があると思っていたのですが、さほどではありませんでした。
+その時に調べたときは、くりこま高原より遠くないと利かない割引とか、駅レンタカーの値段がもっと高く見えていたのですが、ちょっとその情報が分からなくなってしまいました。
+また、こんなキャンペーンもありました。
+JRおトクなきっぷ＋駅レンタカープラン(2018年度)
+https://www.jrerl.co.jp/campaign/detail?topics_no=351&amp;amp;sid=jrerl
+この場合、週末パスを使い、同条件のレンタカー料金6,480円となりました。
+少しだけオリックスが安いですが、実はオリックスは駅から7分ほど歩きます。
+不慣れな街を歩く手間を考えると、310円の差で駅隣接の駅レンタカーを借りるというのもありかなと思います。
+以上ご参考まで！</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Django環境続き</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</link><pubDate>Fri, 04 May 2018 03:48:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</guid><description>Djangoが動作する環境ができたら、アプリを作成していきます。
+「python manage.py startapp foodtaskerapp」により
+foodtasker
+foodtaskerapp
+のディレクトリが並ぶ形になります。
+ここから、行ったり来たりになりますが、
+・まずは、foodtaskerのsettings.pyのINSTALLED_APPSに追加
+・次に、foodtaskerappのviews.pyにhomeメソッド追加
+・次に、foodtaskerのurls.pyのurlpatternsに追加
+・次に、foodtaskerappにtemplateディレクトリを作成し、home.html作成
+という形で作成していきます。
+講義ビデオではatom＋emmetのスニペットが快適そうに見えますが、まあ、そんなに使うものでもないと思うので、Cloud9のAceエディタの機能で進めます。最低限のスニペットはありますので。
+いったん実行すると、「TemplateDoesNotExist」エラーが発生しましたが、単純に、
+テンプレートフォルダ名は「template」ではなく「templates」ということでした。失礼。そして、
+python manage.py migrate
+python manage.py createsuperuser
+により、管理画面が表示されます。
+bootstrapも組み込んで（Bootstrap 4ではグリフアイコンをサポートしないため、「fonts」フォルダは削除されましたとのことなので、最新版を取得するとここはちょっと違います）、次はTask3です。
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 303</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Python/Django環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 03 May 2018 00:31:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</guid><description>次は、Webアプリ側の環境で、Djangoです。
+もう、これは、最初からCloud9で楽勝でしょう、と思っていたら甘かった・・・
+AWS Cloud9とは 　元々Cloud9を使用しており、開発環境をワンクリックで簡単に構築できることが売りだったので、それでよいやと思っていたわけです。
+ただ、昨年AWSに統合されたバージョンがリリースされました。最初は旧版とAWS版並列で行くていくのかなと思っていたのですが、どうやら移行を促されるようなので、この機会にAWS版を使用することにしました。
+（旧版は新規プロジェクト作成時は、こんな感じでテンプレートを選択できます。ボタンを押すだけで、すぐに開発環境ができあがり、ソースを書き始めることができます。）
+　いざ使おうとすると、色々分かってきます。
+まず、AWS Cloud9は、IDEとしては無償なのですが、環境とセットにはなっていません。
+分かりにくいですが、他のサーバを使用してSSHで接続するか、AWSのEC2に乗せる必要があります。すなわち、環境自体は無償とは限らないということです。
+EC2も12か月間は無償利用できるというのがアピールされていますが、1年後にどうするか悩むことになるのであれば、そこには頼りたくないなという気持ちがわきました。
+選択肢として、たまたま最近さくらレンタルサーバを契約したので、それでもよいかと思ったのですが、それだと世間の人にとっては無償でもなんでもなくなりますし、そちらは今あまり壊したくないというのもありました。
+そこで他の選択肢を探し、見つけたのがGCE（Google Compute Engine）でした。
+GCE（Google Compute Engine）を使用する 　GCEは、最初にOSやCPU等を選択して、まっさらのOS環境が提供される、という意味で、レンタルサーバとほぼ同様と考えてよいかと思います。
+とはいえ最低限のものは入っていると予想して、設定を開始します。今回必要なのはPython3でDjangoを動かすことです。
+ここで頭の中に持っておいた方が良いと思うことは、Cloud9（AWS）側の設定と、GCEの設定がある、ということです。そして、ほとんどの作業はGCE側の設定です。Cloud9の画面を見ていますが、それはGCEに接続して作業しているということです。
+　話がいったんAWS Cloud9に戻りますが、新規プロジェクト作成時に、ワンクリックで環境設定してくれる、という機能はなくなってしまいました。繰り返しますが、あくまでもIDEです。ですから、SSHで接続した後は、必要なインストール作業を行う必要があります。IDEの中にターミナル機能が統合されている等は旧版と同じですので、そこで以下の作業を行います。
+　まず、Cloud9側でPython3を選択します。けど、これは要はIDEの設定であり、環境の設定ではありません。
+では、ということで、ここからCode4StartUpのビデオを見ながら環境を作っていこうと思います。
+そしていきなり躓きます。「sudo apt-get install python3-venv」ができません。以下失敗なので、簡単に流しますが、python3.4-venvなら成功しますが、ビデオの後の方で3.5であることを確認されますので、やばい、3.5にあげないと、と思います。Cloud9の画面では「/usr/local/lib/python2.7/dist-packages:/usr/local/lib/python3.4/dist-packages:/usr/local/lib/python3.5/dist-packages」と書いてあるのに何でないのだ？と思っていたましたが、これはあくまでもIDEの設定です。環境は別です。
+色々調べて、「sudo python -m pip install –upgrade pip」しようとしますが、ないと言われます。色々あって、3.5ではなく最新の3.6でよいやと思い「sudo add-apt-repository ppa:jonathonf/python-3.6」以下・・・（省略）でインストールします、しかし、「python3.6 –version」では3.6インストールが確認できますが、「python3 –version」ではまだ3.4を参照しています。
+そこで、pyenvというものの存在に出会い、「curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash」でインストールしようとしますが、gitが入っていない、とのエラー。なんと！そこからですか！
+gitインストールしてから再度pyenvインストールして、それでも「pyenv install –list」で表示されないので「sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils」して、「pyenv install 3.</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</link><pubDate>Wed, 02 May 2018 02:15:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</guid><description>Code4Startup
+こちらが本題の、UberEatsを作ろう（Create UberEats with Python/Django and Swift 3）。
+まずは、環境構築から始まるのですが、Python、Heroku、Atomは使用するしないは良いとして、XcodeはWindows環境だとどうしようもない。
+しかし、今の時代、色々な方法はあるようで、Swiftのためだけなら、Xcodeがなくても何とかなるっぽい。
+ということで、環境作ってみました。
+IBM Swift Sandboxはもう存在しない？ まず、最初に、「IBM Swift Sandbox」というものが気になりましたが、現在はリンク切れです。
+ただ、もう少し粘ってみると、IBM Cloud App Service というものに誘導されます。
+こちらを登録すると、開発環境も使えるようになるのですが、その言語がSwiftになっています。
+（いろいろなタイプが選べますが、一番左上の「プロジェクトの作成」を選ぶとswiftになるのです。）
+けど、より簡単なのは、Swift Kituraを選択することのようです。
+しかし、いずれにせよ、Swift Sandboxで企図されていたようなものではないようです。その場でソースを書いて実行するのであればよかったのですが、あくまでもローカルでソースを書くのであれば、ちょっと必要性が薄いかなと。
+こちらは、いったん中断しておきます。
+ローカルにSwift環境を構築 ですので、ローカルに環境を構築することにします。
+基本的には、
+https://qiita.com/akira_/items/e5550dbb571a20deb3c1
+を参考にさせていただきました。
+Windows Subsystem for Linux、知りませんでした。
+途中再起動等入るのと、これを有効にした後に、Linuxパッケージを導入する、というところに注意です。
+Windowsでこんな選択画面を表示する、ということ自体驚きですが、いかがでしょうか。
+その後は、インストールされたUbuntuバージョンに合わせて、記述を調整しながら進めれば、環境構築完了し、Hello worldまでは行けました。
+なお、元々Git Bashが入っていた環境ですので、バッティング等も気にならないでもないですが、とりあえずどちらも動いています。
+（2018年10月）結局MAC購入 Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行 結局、iOSアプリ作ろうと思ったら買わざるを得ませんでした・・・
+ Code4Startup</description></item><item><title>スポンサー企業調査　Ruby X Elixir Conf Taiwan 2018</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E3%80%80ruby-x-elixir-conf-taiwan-2018/</link><pubDate>Tue, 01 May 2018 05:43:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E4%BC%81%E6%A5%AD%E8%AA%BF%E6%9F%BB%E3%80%80ruby-x-elixir-conf-taiwan-2018/</guid><description>先日、Ruby X Elixir Conf Taiwan 2018というイベントがあったそうです。
+知っていたらGWにかけて台湾行っていた？？かは、さておき、このページの下にあるスポンサー企業一覧に興味を持ちました。
+一つ一つ見てみたいと思います。
+honestbee https://www.honestbee.tw/
+料理や食品の配達サービス。
+日本でもサービス展開しています。
+honestbee | 買物代行コンシェルジュ
+Cyberbiz https://www.cyberbiz.co/
+ショップ向け各種サービス提供という感じでしょうか。
+このページのさらに下の各社サービスがまた気になりますね。
+GANDI.net https://www.gandi.net/
+ドメイン名サービス、およびホスティング等のインフラ系サービスですね。
+ホスティング、台湾元表示だと思って高いと思ったら、円に変換してくれているとのこと。
+https://www.gandi.net/en/simple-hosting
+だと安いですね。先日米国サービス等も比較したうえでさくらを申し込みましたが、これは考えもしなかった…
+SARA CARES https://www.saracares.com.tw/
+オンライン保険。
+SHOPLINE https://shopline.tw/
+オンラインショップ開設サービス。
+思ったより数が多いのでここまでにしておきます。
+幅広いですね。全部Rubyで開発しているサービスなのでしょうか？</description></item><item><title>Code4StartUp ～ Landing Pageを作ろう</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</link><pubDate>Tue, 03 Apr 2018 14:44:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</guid><description>ちょっと、Noteを使ってみたりもしており、こちらはご無沙汰になりました。
+Noteのような厳しい制約の中で書くのもそれはそれでありだと思うのですが、ちょっと厳しすぎる感もあり。
+しかも、有償化はそんな簡単な話ではないなと。
+ただ、ちゃんと構造化した文書、というものは意識したいなと思います。
+Code4StartUpを始めてみる 　実は結構前に始まっているサービスですが、最近知り、今の私に非常にマッチした学習ができそうということで始めることにしました。
+登録は無料なのですが、登録すると、時間限定で、プレミアムプロジェクトであるUBER EATSコースが、499ドルから99ドルになるとの表示。あざとい・・・と思いながらぽちりました。なぜならUBER EATSこそが、今回のきっかけだから。
+Landing Page作成プロジェクト 　しかし、最初は無料コースから。
+無料コースとはいえ、Bootstrapでランディングページを作って公開するところまでやってみよう、というのはなかなかセンスが良いのではと思います。
+そして、色々知らないサービスも勉強させてもらえました。
+Start Bootstrap
+https://startbootstrap.com/
+Bootstrapのデザインテンプレート。
+日本人向けだとまたちょっと違うかなという気もしますが、今回は日本人向けではないので、そういう意味でも役に立ちます。
+Font Awesome
+https://fontawesome.com/
+講義ビデオの中では、fontawesome.ioになっている。
+そして、envelope-opeのページに記載されているリンクも、講義ビデオだとclass=”fa … だけど、現在のページだとclass”fas …
+理由はFont Awesomeが4から5にアップグレードされているためでした。
+”fa fa-map-marker fa-stack-1x fa-inverse”でアイコンは変更されます。
+Chromeの右クリックInspectは日本語版だと検証（Ctrl+Shift+I）。
+講義の中で使われている記述”col-md-offset-3”が反応しない。→offset-md-3が正解。
+理由はBootstrapが3から4にアップグレードされているため。
+MailChimp
+https://mailchimp.com/
+メール送信サービス
+。昔DM送信で苦労した記憶が18年たっても忘れられない身としては、ありがたや。
+Wufoo
+https://www.wufoo.com/
+フォーム作成サービス。今どきはこんな風に実装するんですね。
+githubデスクトップ
+なかなかgithubを導入しきれませんが、これはちょっと良いかも？後日導入記を書くことになりそう。
+Bluehost
+海外有料サーバはあまり調べたことがなかったですが、ここが主力っぽいですね。日本だとさくらの位置づけ。ただ、日本のサービスと違い、1ドメイン取得無料は大きいかも。
+一通り見てみました。
+後は、公開前のセキュリティチェック等があるとよいのではと思いました。
+そして、UBER EATSコースに入っていきたいと思います。</description></item><item><title>201801台湾に行きたいわんpart4　追加情報</title><link>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4%E3%80%80%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1/</link><pubDate>Sat, 24 Feb 2018 13:03:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4%E3%80%80%E8%BF%BD%E5%8A%A0%E6%83%85%E5%A0%B1/</guid><description>1月の台湾旅行情報のまとめができないまま、1か月以上経過。
+レシートを見ながら簡単に振り返ってみると。
+今回も、ATMで5000元引き出し。セブンイレブンじゃなくて、空港のATMでやりました。
+後日のカード決済額は18,933円＋ATM手数料216円＝19,149円→レート3.8298。またちょっと円安になってますかね。
+鼎泰豊のレシートは明細がなくて面白くない。
+二人で1,549元は、ちょっと食べすぎですね。きくらげとかホウレンソウとか残しちゃったし。
+今回、同行者には、悠遊カード(EASYCARD)ではなく、一卡通(iPASS)を買ってもらいました。単に、違うものを見て見たかったというだけで、他人を実験台に使うという・・・
+ほとんど地下鉄でしか使わなかったので、違いも何もなかったのですが、最後に空港の一番奥まで行ったところの自動販売機で悠遊カードしか使えなくて、代わりに買ってあげたということがありました。惜しい！
+なお、空港で変わったデザインの悠遊カードがあれば、それでもよかったのですが、ちょっと見当たりませんでした。
+時間がたってしまうと、気持ちも平常に戻ってしまうので、あまり面白いことが書けません。
+鉄は熱いうちに打てです。
+買ってきてからこれを読んでます。軽く読めて、微妙にツボにはまる内容が多いので、個人的にはおすすめです。
+台湾で日本を見っけ旅　ガイド本には載らない歴史さんぽ 台湾でさがす なつかしい日本
+posted with カエレバ おがたちえ ぶんか社 2016-02-18 Amazon 7net</description></item><item><title>春分の日までにテキスト1冊仕上げよう 2018 に参加</title><link>https://jqinglong.github.io/programmers-office/%E6%98%A5%E5%88%86%E3%81%AE%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AB%E3%83%86%E3%82%AD%E3%82%B9%E3%83%881%E5%86%8A%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%88%E3%81%86-2018-%E3%81%AB%E5%8F%82%E5%8A%A0/</link><pubDate>Fri, 09 Feb 2018 17:10:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E6%98%A5%E5%88%86%E3%81%AE%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AB%E3%83%86%E3%82%AD%E3%82%B9%E3%83%881%E5%86%8A%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%88%E3%81%86-2018-%E3%81%AB%E5%8F%82%E5%8A%A0/</guid><description>いつもお世話になっております、Mandarin Note様。
+こちらで、恒例の「春分の日」企画、「春分の日までにテキスト1冊仕上げよう 2018」が始まりました。
+#shunbun2018
+ちなみに、昨年はなかったのかな。2016の様子は#shunbun2016。
+これまでは、「そうかー」と眺めている（ことすらしていない）だけでしたが、今年は参加してみようと思います。
+では、何で参加するか。
+本来やるべきは、先日入手した「データベーススペシャリスト合格教本」。
+データベーススペシャリスト合格教本（平成30年度） CD-ROM付き [ 金子則彦 ]
+posted with カエレバ 楽天市場 Amazon 7net 560ページ。35日で割ると16ページ/日。試験は4月15日（日）なのでそのペースでやらなければいけないのですが、つらい報告を続けることになりそうなので、もう少し軽い素材が良いなと。
+インタラクティブ囲碁入門 良い素材を見つけました。
+以前（10年前くらい？）から、囲碁に興味はありつつ、勉強することなくここまで来たのですが、今回企画に乗って、囲碁の勉強をしてみたいと思います。
+目標は、女酒場放浪記で活躍中の万波奈穂三段に出会うこと！（何か違う・・・）
+教材は、インタラクティブ囲碁入門。回数もちょうどよい35回。
+これが、なぜ良い素材なのか。
+メニューの上に「外国語版」の文字が見えます。そう、中国語版もあるのです。
+交互式围棋教程
+囲碁の勉強をしながら、中国語の勉強！
+学習の進め方 日本語のページを見て、中国語のページを見て、見たページと気になる言葉をtweetする。
+そんな感じで進めてみたいと思います。
+ちなみに、演習問題がFlashプレーヤーなのが、ちょっと残念。それ用にブラウザ（Puffin）を入れてしまいました。
+さあ、頑張っていきましょう～
+なんじゃこりゃ
+万波奈穂・女流棋士クリアファイル
+posted with カエレバ 楽天市場 Amazon 7net</description></item><item><title>USB type-CアダプタでDeX</title><link>https://jqinglong.github.io/programmers-office/usb-type-c%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7dex/</link><pubDate>Sun, 04 Feb 2018 12:09:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/usb-type-c%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%81%A7dex/</guid><description>昨日はデータベーススペシャリストの本を買おうと思ったのですが、某森で2017年度版を見つけてしまい、それでいいかと思ってしまいました。色々すみません。
+ではポイントで何か他の物を、と考えている中で、この記事が目に留まりました。
+https://www.sunmattu.net/smartphone/10511
+Note8の更なる活用を目指して、ちょっと投資してみます。
+正規のDeX Stationも決して高いというわけでもないように思いますが、ちょっと遊んでみるという金額でもないのは事実。
+Galaxy Dex Station 【Galaxy純正 国内正規品】 Galaxy Note8 / S8 S8+対応 EE-MG950TBEGJP
+posted with カエレバ by Galaxy 2017-11-01 Amazon 楽天市場 というわけで、上記記事に紹介されている方法を試してみようということで、アダプタを申し込んでみました。
+まだ来ていないので、何か面白いことがあったら書いてみようかと思います。
+3-in-1 USB 3.1 Type-C →HDMIアダプター USB3.0ハブ Type Cメスチャージアダプター USB3.0 Type C-HDMIマルチ変換アダプタ typec変換アダプター 3ポート 変換アダプター アルミ 頑丈 Type-C 変換アダプター USB変換アダプター hdmi-type-c USBハブ【ゆう】 価格:2,680円
+(2018/2/4 21:08時点)
+感想(1件) 追記 上記のアダプタではDexモードになりませんでした。</description></item><item><title>データベーススペシャリスト試験</title><link>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E8%A9%A6%E9%A8%93/</link><pubDate>Sat, 03 Feb 2018 03:56:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E8%A9%A6%E9%A8%93/</guid><description>情報処理技術者試験、平成30年度春期試験は4月15日（日）に実施されます。
+今回は、データベーススペシャリスト試験　（DB）を受験しようと思います。
+前回PM合格しているので午前免除が使えないかと思ったら有効期間2年ということで、ギリギリアウトでした。
+合格したのそんな前だっけ？？という感じですが、2015年でした。
+早速本を購入。（どちらかというと期限付きポイントの使い道を考えていたら思いついたという感じ）
+下記2冊が売れ筋でしょうか。
+平成30年度 データベーススペシャリスト合格教本
+posted with カエレバ 金子 則彦 技術評論社 2017-09-14 Amazon 楽天市場 7net 情報処理教科書 データベーススペシャリスト 2018年版
+posted with カエレバ 三好 康之 翔泳社 2017-09-12 Amazon 楽天市場 7net 本当は相性もあるので、実物見て決めたいところですが、付録が充実してそうなので合格教本の方にしてみました。KOBOなのでCDはないですけど、ダウンロードとかできるのでしょう。
+で、ポチろうと思ったところで、そういえばと、下記を思い出します。
+ということで、購入は今晩ですね。</description></item><item><title>Eight続き</title><link>https://jqinglong.github.io/programmers-office/eight%E7%B6%9A%E3%81%8D/</link><pubDate>Thu, 01 Feb 2018 18:27:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/eight%E7%B6%9A%E3%81%8D/</guid><description>ルノアールでの登録を一旦断念したEight。
+しかし、その時に登録済みの名刺を使って登録する機能の途中まで進んでいたので、会社アドレスに来ていた認証メールをクリックして登録してしまいました。
+あぁこの人たちが私を登録してたんですねと、それはまぁ良いのですが、逆に全然関係ない世界中の人たちの名刺が検索できるんですね。
+誰かに名刺を渡すと、自分の知らない内に世界中の人達がその名刺を見ることができるようになる。
+Eightの個人情報保護法に関するページ
+…矛盾してないのかな…
+こちらも参考になるかも。
+名刺管理の「Eight」、ひそかに進むSNS化と見直しておきたい公開設定</description></item><item><title>ルノアールで名刺アプリEight</title><link>https://jqinglong.github.io/programmers-office/%E3%83%AB%E3%83%8E%E3%82%A2%E3%83%BC%E3%83%AB%E3%81%A7%E5%90%8D%E5%88%BA%E3%82%A2%E3%83%97%E3%83%AAeight/</link><pubDate>Sun, 28 Jan 2018 12:41:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%83%AB%E3%83%8E%E3%82%A2%E3%83%BC%E3%83%AB%E3%81%A7%E5%90%8D%E5%88%BA%E3%82%A2%E3%83%97%E3%83%AAeight/</guid><description>ちょっと前にルノアールで名刺アプリEightを使えることを知り、今日試しに来てみました。
+まずは、アプリダウンロード。
+店先では、Eight scanをダウンロードするようにとのアナウンスがありますが、ダウンロードすると、Eightが必要と言われます。
+言われるがままに、Eightをインストールすると、自分の名刺を登録するように言われます。
+実は、会社では近々Sansanが使えるようになるようで、今回の目的は、仕事外の活動でいただいた名刺の管理でした。ですので、会社との紐づけはしたくなかったのですが、プライベート用の名刺は持っていないので、Eightにログインすることができず、本日の試みは終了となりました。
+そうかー、そうなのかー
+ということで他を探すことにします。
+Wantedly Peopleなんかがちょっと面白そうですかね。
+あとは、昔からEvernoteを名刺管理に使おう、という話はよくあるように思いますが、であれば、Google Keepでもよいのでは、と思ったら、まあ普通に撮影してラベル付ければよいという話ですね。
+撮影が面倒なので、ルノアールのスキャナが使えるのが魅力的だったわけではありますが。</description></item><item><title>201801台湾に行きたいわんpart4</title><link>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4/</link><pubDate>Sat, 27 Jan 2018 22:59:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/201801%E5%8F%B0%E6%B9%BE%E3%81%AB%E8%A1%8C%E3%81%8D%E3%81%9F%E3%81%84%E3%82%8F%E3%82%93part4/</guid><description>で、先週また台湾に行ってきたわけです。自分の中では4回目。
+今回は初台湾の友人に台湾の魅力を感じてもらうべく、普通の観光も交えながら、美味しいものをたらふく食べる計画でした。
+結果は・・・
+ちょっとずつ書いていきたいと思います。</description></item><item><title>台湾でのwifi</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%A7%E3%81%AEwifi/</link><pubDate>Sat, 13 Jan 2018 04:09:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%A7%E3%81%AEwifi/</guid><description>タイガーエアの羽田5:00発、桃園23:50発が気に入り過ぎて、来週も。
+先月は、土日の休みをフルに生かすぞ、という感じでしたが、今回は、仕事の後台湾に寄って帰ろう、という感じで金曜夜会社→台湾→日曜朝自宅帰還です。
+ところで、これまでの台湾旅行は、一人旅だし、SIMフリーのスマホだし、いざという時は電話かけるのも勉強だし、ということでSIMカードを購入していました。
+しかし、来週は二人旅、電話かけることもまずない、ということであれば、通信共有できるwifiルータの方が良いのでは、と思って調べてみました。
+巷でよく見る、イモトのwifi。
+500MB/日、速度：4Gで、通常価格だと1,280円/日。割引（例えば価格.com）が効いても620円。
+まあ、日本で借りると他社でも大体これくらいでしょうか。
+そもそも、弾丸ツアーの場合、現地には1日しかいないのに、0泊3日みたいな旅行になってしまうので、3日間借りることになってしまうわけですね。最初から不利です。
+では、ということで、台湾の空港受取のサービス。
+例えば、FUN WIFI。
+http://www.funwifi.jp/order.html
+こちらも1日680円。ただし、本当に1日でよいのでよりお得。
+しかしながら、ここからが本題で、これらは結構値引き合戦が激しそうなイメージ。そんな中から、見つけたのが、灯台下暗しのタイガーエアの割引チケット。タイガーエアのページから「チケット」で見ると色々なチケットの予約ができるようになっています。
+https://event.kkday.com/ja/campaign/tigerairticket
+wifiルータはこちら。
+https://www.kkday.com/ja/product/3598?cid=2016&amp;amp;ud1=ticketjp
+4G通信無制限で、1日297円です。電話番号不要なら空港SIMの3日300NTDの1日当たり金額より安いですね。
+そう思って見てみたら、Howto Taiwanでも紹介されていました。さすが。
+http://howto-taiwan.com/2454/</description></item><item><title>台湾南部（粗い&amp;hellip;）</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%EF%BC%88%E7%B2%97%E3%81%84%EF%BC%89/</link><pubDate>Fri, 12 Jan 2018 14:00:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%EF%BC%88%E7%B2%97%E3%81%84%EF%BC%89/</guid><description>本投稿で、いったんシリーズ終了。また行くので…
+今回の旅行は台湾3回目。前2回は台北に入って高雄から出る形でしたが、その間は（新竹はちょっと行きましたが）すっ飛ばしていました。
+今回は、「例の写真」を撮りたい（and 台湾における過去の日本人の活躍をより身近に感じたい）ということで、乌山头を目的地に含めました。
+乌山头は普通に調べると、台南から向かうルートが紹介されますが、色々調べていると、嘉義からのルートで行かれている人もいらっしゃいました。
+数年前にKANOを観て以来、嘉義も行きたいリストに入っていましたので、欲張って嘉義と台南両方訪問することにします。
+嘉義ではやはり噴水ロータリーを見て、鶏飯を食べないとね、ということで、そこからスタート。その鶏飯。元来、こういう感じの鳥は好きですし、こういう感じのご飯は好きですが、表現しようのない最高の美味さ！後で入ったもう一軒の店でも鶏飯を食べ比べましたが、噴水鶏肉飯は格別でした。その後、檜意森活村でKANO撮影の雰囲気を感じて、駅に戻ります。
+が、なんと、そこから電車1時間半待ち。そんな都会の電車でもないのですから、ちゃんと電車の時間は把握してから回りましょうということですね。
+※ちなみに、改めて電車の時間は確認する必要はあると思いますが、下記の行き方は大いに参考になりますね。
+https://www.tripadvisor.jp/ShowUserReviews-g293912-d1633171…
+乌山头へは、隆田からタクシーに乗ります。値段は、先に書いたように800元定額制。
+運転手さんは、「はったさんが…」と日本語を混ぜながら、基本的には片言英語で説明してくれます。まずは八田与一銅像からスタート。去年破壊行為があった影響か、銅像の周りはテープが張られて近づけなくなっており、同じ格好をして写真を撮るという例の写真は撮れませんでしたが、その他ダムの壮大さを感じたり、解説ビデオで勉強させてもらったり、楽しむことができました。
+そして、台南に向かいます。
+嘉義、隆田から向かうと、超大都市です。バスの乗り方が分かりません。
+最初の目的地は林百貨店。そちらに向かうかなと思われるバスが来たと思われるのですが、乗ってよいかどうか、どうもしっくりこない…
+諦めて、タクシーに乗りました。で、これも先に書いた通り、カフェで楽しんで、お土産を買い、林百貨店もちょっと眺めて、食事に向かいます。
+目的地は、安平老街。これもちょっと時間がないような気がしましたし、バスはまだ怖かったので、タクシー。しかし、これが遠い遠い。あれ、時間やばいのでは、とビクビクしながら到着。
+老街でお目当てのエビ捲きと、以前さほどでもないかなと思った牡蠣卵（蚵仔煎）。これはどちらも美味しく、とりあえず来た甲斐はありました。
+ただ、18時くらいですでに閉店モード。あまりゆっくりできず、さらに芋圆だけ食べて帰ります。帰りは、エビ捲き屋さんで聞いた通り、バスで。もしかして悠游卡も使えたかもしれなかったですが、現金で払おうとして、ちょっと手間取って、またビクビク。
+さて、台南から、高鐵で桃園に戻ります。
+これも目算でこれくらいの時間だったら大丈夫だろう、ということで向かったのですが、まず、指定席は商務席含めて最終便まで満員です。
+時間も、思ったよりギリギリかな、と思いながらも、この時点ではまだ時刻表までは調べません。余裕があるふりしてお土産なんぞ買って、乗り込もうとすると、驚くべき超満員。1時間立ちっぱなしか、とがっかりしながら耐えます。
+で、一息ついて、車内アナウンスを聞く。え、まずくない？？飛行機は23時50分発。タイガーエアは45分前の搭乗手続き必須。高鐵桃園から空港まで30分弱。この列車の南港到着は…そうだとすると桃園到着は…あまり余裕ないのでは？！
+さらに、車内の電光掲示板を見ていると、台中○時、台北○時、南港○時…、え、まさか桃園止まらないやつ？？と、台中駅に到着。いったん降ります。駅の掲示板、遠くて見えない…。そういえば、台南で乗るのを見送っていたお姉さんもいた。次の電車にしよう！
+で、時間を確かめると、次の電車は30分後。さらにその次の電車は40分後。えー、このタイミングだけ、この待ち時間？？間に合わないんじゃないの？？そもそも、台南から桃園1時間じゃ着かないじゃん。もし間に合わなかったらどうなるんだろう。明日は会社は半休か。半休で済むのか？もう、ビクビクを越えて、心臓バクバクでした。
+結局、22時過ぎに高鐵桃園、22時45分くらいに空港到着で、ギリギリセーフでした。
+ご利用は計画的にということで、締まりませんが終了です。
+オモロイ台南-台湾の古都でしこたま食ってきました-
+posted with カエレバ ヤマサキ タツヤ KADOKAWA / エンターブレイン 2014-07-31 Amazon 楽天市場 7net</description></item><item><title>習慣化リストに「竜馬がゆく」</title><link>https://jqinglong.github.io/programmers-office/%E7%BF%92%E6%85%A3%E5%8C%96%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AB%E3%80%8C%E7%AB%9C%E9%A6%AC%E3%81%8C%E3%82%86%E3%81%8F%E3%80%8D/</link><pubDate>Sat, 06 Jan 2018 01:25:39 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%BF%92%E6%85%A3%E5%8C%96%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AB%E3%80%8C%E7%AB%9C%E9%A6%AC%E3%81%8C%E3%82%86%E3%81%8F%E3%80%8D/</guid><description>この年になって、「竜馬がゆく」を読んでいます。
+竜馬がゆく (新装版) 文庫 全8巻 完結セット (文春文庫)
+posted with カエレバ 司馬 遼太郎 文藝春秋 2012-03-13 Amazon 楽天市場 7net 司馬遼太郎は「坂の上の雲」から入って感動し、「街道をゆく 40 台湾紀行」などは絶品だと思いますが、さらに世間的には評判申し分のない「竜馬がゆく」にやっとたどり着いたという感じです。
+ただ、現在3巻目ですが、まだ、盛り上がりには欠けるかな、と思っています。2巻目でちょっと来たかなと思ったのですが、3巻目に至ってもまだあてもなくふらふらしている印象です。
+で、こんな状態だと一気に読んでしまうのではなく、地道に読み進めていく形になるのですが、ちょっと油断するとしばらく放置ということにもなります。
+そこで、以前書いた
+https://www.programmers-office.ml/2017/12/03/%E6%9C%80%E4%BD%8E%E9%99%90%E3%81%AE%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AB/
+習慣化リストに、「竜馬がゆく」という習慣を登録しています。毎日のチェック時に今日読んだかどうかをチェックすることで、継続のきっかけとしています。
+他に登録している習慣は、毎日の習慣として「単語コレクション」（中国語単語学習アプリを使ったか）、「明日の予定」（明日のタスクをバレットしたか（バレットする＝明日のタスクを書きだす（今考えた造語）））、毎週の習慣として「レシート整理」と「フォルダ整理」です。
+地道に、地道に。
+坂の上の雲 全8巻セット (新装版) (文春文庫)
+posted with カエレバ 司馬 遼太郎 文藝春秋 2010-07-15 Amazon 楽天市場 7net 街道をゆく 40 台湾紀行 (朝日文庫)
+posted with カエレバ 司馬 遼太郎 朝日新聞出版 2009-05-07 Amazon 楽天市場 7net</description></item><item><title>台湾の色々な値段</title><link>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%AE%E8%89%B2%E3%80%85%E3%81%AA%E5%80%A4%E6%AE%B5/</link><pubDate>Wed, 03 Jan 2018 04:59:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E5%8F%B0%E6%B9%BE%E3%81%AE%E8%89%B2%E3%80%85%E3%81%AA%E5%80%A4%E6%AE%B5/</guid><description>セブンイレブンでキャッシング（100NTDの手数料）
+12/16　5000　18793円（3.758）
+12/17　2000　7517円（3.758）
+（参考）空港両替12/16掲示　0.259（3.861）手数料別？
+※今回初めてキャッシングを試しましたが、直接カードで決済するより、キャッシングして現金払いの方が安いという結論？そうなんですね…
+桃園空港から台北MRT
+160
+＜高铁＞
+台北-嘉义　自由席
+1045　カード：3992円（3.820）
+台南-桃园　自由席
+1150　カード：4392円（3.819）
+乌山头タクシー
+800
+※日本語の案内の紙が用意されていて定額800元。ネット情報だと700元とかの情報もありましたが、うまいことやってますね。でも、おじいちゃんが中国語・英語・日本語交じりで頑張ってるので、良いと思います。
+SIMカード
+300
+サントスホテル（三徳大飯店）
+2100　カード：8242円（3.924）
+※今回最高レート。ホテルはカード手数料を多くとっている？
+星空（絵本）
+499
+※意外と高い本だったんですね。紀伊国屋でも2000円でしたっけ？ほとんど変わらないというのは紀伊国屋がすごい。
+PC HOME（雑誌）
+180
+※これも週刊アスキーが360円だとすると若干割高感。
+うどん屋最低消費
+250
+喷水鸡饭（嘉义）
+45
+カフェ鮭チャーハン
+200
+芋圆达人（台南）
+40
+※おしゃれカフェ風の店で書き氷＋芋圓。
+台南の小さなお菓子屋のパイナップルケーキ10個×2
+360×2
+高鐵台南駅のパイナップルケーキ5個入り
+270
+※これはおしゃれタイプ。多いのは、8個とか10個で360元でしたかね。
+その他、タクシーの領収書をもらっていなかったようで、記憶もなくなってしまいました。コンビニの領収書もないな…</description></item><item><title>空港での過ごし方</title><link>https://jqinglong.github.io/programmers-office/%E7%A9%BA%E6%B8%AF%E3%81%A7%E3%81%AE%E9%81%8E%E3%81%94%E3%81%97%E6%96%B9/</link><pubDate>Tue, 02 Jan 2018 01:39:22 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E7%A9%BA%E6%B8%AF%E3%81%A7%E3%81%AE%E9%81%8E%E3%81%94%E3%81%97%E6%96%B9/</guid><description>早朝便発深夜便着ということで、空港の過ごし方は色々考えてはいましたが、思ったよりも快適でした。
+当然日によるのだとは思いますが、金曜日でしたが、ベンチも空きがないことはなかったです。そして、羽田空港は電源が豊富。Wi-Fiも飛んでいるので、ネット環境には不自由しませんでした。
+ただ、多くのお店は、10:30くらいに閉まり始めるようです。何かお目当てがある場合は、要時間確認、要時間調整です。
+ただ、24時間の店も当然あります。駅側から見て向かって右手奥の居酒屋もよさそうでしたし、左手奥のモスバーガーでグダグダするのも悪くないと思われます。並びの吉野家は、私としてはここまで来て牛丼食べなくても、という感じ。
+今回選んだのは、さらに並びの、和カフェテリア　Dining 24　羽田食堂。
+https://tabelog.com/tokyo/A1315/A131504/13172799/
+電源数も多いですし、雰囲気が良いです。軽くジントニックを飲みながら、やる時間がなかったe-Learningをやってましたが（苦）、カレー等食べてもよいかなと思いました。メニューは時間帯により、色々切り替わるようです。結局、帰りの到着後始発までもこちらで過ごしたのですが、トーストのモーニングはドリンク付きで500円という、場所的には破格と言ってもよいのではないでしょうか、これで朝食を済ませて会社に向かいました。
+後から入ってみればよかったと思っていますが、喫煙ルームの椅子がよさそうだった気がします。日中どれだけ混んでいるかは分かりませんが、普通にノマドスペースとしても使えそうだなと、そのうち再訪するかもしれません。
+何かに使えたらと思ってキットカットを買っていったのですが（結局使わず、今も仏壇に上がっていますが（泣））、セブンイレブンもドン・キホーテも同じ値段でしたね。空港のドンキは割安ではない？？
+セブンイレブンと言えば、今回、タイガーエアは旅程表を紙で印刷しておくこと、というのを行きがてら認識し、ネットプリントを初めて使ってみました。
+これも便利ですね。世の中色々あるんだなー。
+一つ予定外だったこと。行きは、出国エリアにあるトランジットホテルのリフレッシュルームを使用するつもりでした。
+https://www.rph-the.co.jp/haneda/refresh/
+1時間2000円なら良いかなと。
+しかし、行ってみたら満員。みんな1時間で出ないんですかね。使用する場合は予約必須です。逆に、カードラウンジはみんな深夜は閉まっているのかと思いこんでいたのですが、入って正面のラウンジは24時間だったので、そこで寝てました。
+帰りは、到着後、コインロッカーから荷物を出して、シャワールームに直行。
+http://www.haneda-airport.jp/…/prem…/service/relaxation.html
+こちらは30分なので、若干あわただしいのですが、シャワーを浴びたいというニーズに対しては設備的には十分です。ただ、歯ブラシ・髭剃りはないので、それだけ注意（シャンプーはある）。
+ちなみに、桃園空港は、非常にあわただしく帰ってきたので、ほとんど滞在時間がないので、どんな過ごし方ができるか不明です。電源はほとんどなさそうでした。
+こちらによると、食べるところはあるんですね。
+https://www.travel.co.jp/guide/article/11234/
+ちなみに、桃園から出発する際の文学之墙という展示は、もう少しじっくり見て見たかったです。
+さらにちなみに、概念という単語は、微妙に日本語と違う使われ方をしているなと感じつつ、これまで調べもしなかったのですが、英訳のconceptでしっくりきました。</description></item></channel></rss>

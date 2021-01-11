@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GCP on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/gcp/</link><description>Recent content in GCP on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 28 Jul 2019 01:01:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/gcp/index.xml" rel="self" type="application/rss+xml"/><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。 今回は、APIだけを公開するということで</description></item><item><title>Docker イメージを Google Container Registry に登録</title><link>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</link><pubDate>Fri, 26 Jul 2019 22:03:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</guid><description>時は遡り、画面が何とか動くようになったので、API連携しようとしたものの、失敗して終了していたこちら。ぬるさくapi連携（失敗） 画面も、色々試せそうになってきたので、とりあえず、APIを公開しようということで、ぬるさく本の「6.3 Docker イメージ</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。 なかなかハードルが高かったですが、できました！ Docker環境をどこに</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。 ・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ ・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ ・その他色々</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！ ドカベン プロ野球編 （1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。 始める前の準備 Container Registry のクイックスタート https://cloud.google.com/container-registry/docs/quickstart?hl=ja プロジェクトは既存のものを使用し</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GCP on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/gcp/</link><description>Recent content in GCP on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 28 Jul 2019 01:01:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/gcp/index.xml" rel="self" type="application/rss+xml"/><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。
+今回は、APIだけを公開するということで、API用のファイルだけ作成します。
+内容は、基本的には、githubの方を参照しています。
+https://github.com/pco2699/NullSuck-AI/tree/master/k8s
+また、イングレス用ファイルは下記のような感じで作りました。
+k8s/api/api-ingress.yml
+apiVersion: extensions/v1beta1 kind: Ingress metadata: name: api-ingress spec: rules: - http: paths: - path: /* backend: serviceName: api-svc servicePort: 5432 GKE周りの設定 これを適用するにあたり、まずは準備ということで、
+gcloud container clusters create nullsuck --num-nodes 2 --zone asia-northeast1-a を実行するとなっていますが、エラー。
+ERROR: (gcloud.container.clusters.create) ResponseError: code=403, message=Kubernetes Engine API is not enabled for this project. Please ensure it is enabled in Google Cloud Console and try again: visit https://console.</description></item><item><title>Docker イメージを Google Container Registry に登録</title><link>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</link><pubDate>Fri, 26 Jul 2019 22:03:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B7%E3%82%99%E3%82%92-google-container-registry-%E3%81%AB%E7%99%BB%E9%8C%B2/</guid><description>時は遡り、画面が何とか動くようになったので、API連携しようとしたものの、失敗して終了していたこちら。ぬるさくapi連携（失敗） 画面も、色々試せそうになってきたので、とりあえず、APIを公開しようということで、ぬるさく本の「6.3 Docker イメージを Google Container Registry に登録してみよう 」を試すことにします。
+GCPプロジェクトの作成 既存のアカウントにプロジェクトを追加します。
+プロジェクト名は真似して「nullsuck」、プロジェクトID「nullsuck-xxxxxx」は自動で振られます。
+Docker イメージを push ここで数日を要した・・・
+まず、今回はAPI側を公開することにするので、appとなっている部分は全てapiと読み替えて作業します。
+そこを間違えなければ（一旦間違えましたが・・・）、docker build はおそらく問題なし。docker tag は、結論としてはそこの問題ではなかったのですが、本でも、GCPドキュメントでも、プロジェクトIDを含めるように書かれているのですが、本の記述が「nullsuck」と書かれていて、若干混乱。「nullsuck-xxxxxx」の方を記述するようにしました。
+そして、gcloud docker — push をするのですが、まず、この記述は古いようで、現状では、docker pushでやる形になっています。
+が、やってみると、
+denied: Token exchange failed for project 'nullsuck-247713'. Caller does not have permission 'storage.buckets.create'. To configure permissions, follow instructions at: https://cloud.google.com/container-registry/docs/access-control で、権限の問題か、ということで、記載されているドキュメントを見て、バケットを作ってみたりとか、色々試してみていたのですが、最終的な問題点は、現在接続しているプロジェクトが、既存のプロジェクトであり、今回作成したnullsuckプロジェクトではない、ということでした。
+gcloud config list でプロジェクトが確認できます。これはdefault構成だったので、新しい構成を作成。
+gcloud config configurations create nullsuck そして、gcloud initは、対話式で聞いてくれるので、nullsuckプロジェクトを指定することにより、環境が切り替わります。
+そこで改めて、docker pushをすると、今度は成功しました。
+公開設定が「非公開」になっているのが、本とは異なるので、若干気になる・・・</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。
+なかなかハードルが高かったですが、できました！
+Docker環境をどこに公開するか 無料公開と考えた場合に、1年の期間制限のAWSは対象から外します。そして、本サイト自体がGCEで立っているので、一旦それも除外。そこで検討したのが、Azureです。
+Azure App Service Azureでは、素のApp Serviceは無料プランがあります。
+App Service の価格
+https://azure.microsoft.com/ja-jp/pricing/details/app-service/windows/
+この素のサービスはPaaSなので、Dockerをインストールして環境構築するということはできません。これと連携してコンテナを読み込む、Web App for Containersというサービスがありますが、これは無料プランでは利用できません。さらに、通常であれば利用を検討すべきContainer InstancesとかAKS（Azure Kubernetes Service）というものもありますが、これらも有料プランのみです。
+色々苦労した挙句、無料でDockerコンテナを立ち上げるのは無理ということで、あきらめました。
+Heroku Herokuでもコンテナを読み込んでリリースする機能が提供されています。
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+これは無料で使えるプランもあるのですが、Volumeはサポートされていません。
+なぜVolumeを使いたいかというと、ローカルの開発環境もDockerで構築したい、それと同一の環境をリリース環境に持っていきたい、ただ開発ツールはクライアントに持つことになるのでソースはローカルに持ちたい、そのソースをコミットすることでリリース環境にも反映したい、という理由です。
+そういう意味で、最近話題の、VSCodeのRemote Development機能
+https://crieit.net/posts/VSCode-Remote-Development
+開発ツールをローカルに持ちつつソースはローカルに持つ必要がないという意味ですごいと思うのですが、複数人開発と考えた時にはどうなんだろうとも思ったりします。
+さくらArukas https://arukas.io/
+今回試しませんでしたが、これもHerokuと同様、Volumeはサポートされません。ただ、無料プランが提供されているのは発見でした。
+GCE（Google Compute Engine） 結局VMをそのまま使わせてもらえる環境でなければ今回の条件には合わない、と理解し、そうなると使えるのはGCEしかないのでは、という結論になりました。すでにDocker立てているわけですが、そこはDocker。複数立てることもできるわけです。ということで、もう一つDocker環境を立てることにしました。
+公開用Docker構築 前回タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） ここではなるべくシンプルなDockerファイルを目指して設定をしましたが、これはDockerをUpした後にサービスを起動しなければならないということです。
+そうではなく、Upと共にNuxtサービスも立ち上げるということで試行錯誤しました。
+まず、最初はDocker Build、あるいはUpでのエラー。
+ERROR: Service ‘app’ failed to build: containerd-shim not installed on system
+DokerファイルをいじるとBuildだけはできたりして、大いに悩みましたが、最終的には、VMリスタートで解消。時間を返せ・・・
+再起動したらしたで、既存のDocker＝本サイトが立ち上がらないという問題発生！原因は、先にApaheが起動していてポート80を取られていたため。サービスを落として再度実行により問題解消。かなりの時間を費やして、やっと本題。
+最終的には下記のサイトを大いに参考にさせていただきました。
+dockerでnuxt.jsの環境を作ってみる
+https://qiita.com/reflet/items/e7c33f84ab43ab237ee4
+Dockerfile
+FROM node:12.1.0-alpine WORKDIR /app RUN npm install --global @vue/cli @vue/cli-init WORKDIR /app/titanic-client RUN yarn install ENV HOST 0.</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。
+・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ
+・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ
+・その他色々・・・
+公式ドキュメントはこちら
+Compute Engine への Docker コンテナのデプロイ
+https://cloud.google.com/compute/docs/instance-groups/deploying-docker-containers?hl=ja
+で、今回はシンプルそうな、VMインスタンス時にデプロイする方法を試します。
+公式ドキュメントはこちら
+VM およびマネージド インスタンス グループへのコンテナのデプロイ
+https://cloud.google.com/compute/docs/containers/deploying-containers?hl=ja&amp;amp;_ga=2.46174759.-1895702560.1541304432
+ですが、どうも分かりにくい。いくつか試してくれているサイトがありますが、どうも面倒なようにしか見えない・・・
+インスタンス作成時は、Always Freeの条件
+f1-micro インスタンス（1 か月あたり、バージニア州北部 [us-east4] を除く米国リージョンのみ）
+を踏まえて。
+ただこれ、イメージは一つだけなんですね。後から追加できるかな・・・とりあえず、DBのイメージだけ指定します。
+とりあえず、起動はします。
+DBだけだと動いているか分かりませんが、SSHで入って確認してみます。
+入ると
+########################[ Welcome ]########################
+# You have logged in to the guest OS. #
+# To access your containers use &amp;#8216;docker attach&amp;#8217; command #
+###########################################################
+と表示されています。
+docker images で目的のイメージが入っていることが確認できます。
+であれば、もう一つのイメージはpullを叩いても良いか。</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！
+ドカベン　プロ野球編　（1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。
+始める前の準備 Container Registry のクイックスタート
+https://cloud.google.com/container-registry/docs/quickstart?hl=ja
+プロジェクトは既存のものを使用します。
+課金の設定もしてあります。
+Container Registry APIの有効化は、こちらのページのリンクボタンからGCP画面へ飛んで行って、ボタンを押していけばできます。
+Google Cloud SDKはインストール済みでしたので、ここもスキップ。
+この時にインストールしたのですね。
+サイト引っ越し、そして、再引っ越し（Part2）
+https://www.programmers-office.ml/2018/12/22/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/
+Dockerもインストール済み。ビルド済み。
+認証から行きます。
+認証してpush gcloud auth configure-docker
+でDocker config fileへの更新確認をされるので、Yで進めます。
+次にイメージにタグをつけます。
+そしてpushしようとすると、認証できていない・・・
+denied: Token exchange failed for project &amp;#8216;xxx&amp;#8217;. Caller does not have permission &amp;#8216;storage.buckets.create&amp;#8217;. To configure permissions, follow instructions at: https://cloud.</description></item></channel></rss>

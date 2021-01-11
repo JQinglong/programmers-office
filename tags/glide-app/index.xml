@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Glide App on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/glide-app/</link><description>Recent content in Glide App on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jul 2019 13:44:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/glide-app/index.xml" rel="self" type="application/rss+xml"/><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。 OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、Ou</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。 Glide App（glideapps） のMap List 機能 https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。 今回取り上げたMap List</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Glide App on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/glide-app/</link><description>Recent content in Glide App on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Wed, 17 Jul 2019 13:44:52 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/glide-app/index.xml" rel="self" type="application/rss+xml"/><item><title>OutSystems でのアプリ自動生成</title><link>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</link><pubDate>Wed, 17 Jul 2019 13:44:52 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/outsystems-%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90/</guid><description>一連の投稿の続きになります。
+OutSystemsはローコード開発か。ノーコーディングにはならないのか、ということで、OutSystems とGlide App（glideapps）の比較用に、Glide で使用したものと同じデータを使用して、OutSystems でアプリ自動生成を行ってみます。
+使用するデータは、下記で調整を行なった、港区観光施設データです。Glideの味わい方〜オープンデータを活用しよう OutSystems 環境整備 OutSystems セルフトレーニングで、最後に肝心のデザイン変更のところを飛ばしてしまいましたが、そこでは、SILK UI フレームワークのDublin テンプレートを使用することになっていたので、まずは、そちらをインストールします。
+Forge page で「Dublin Template」を検索して、インストールします。
+そして、アプリケーションの作成。
+Dublinテンプレートによるアプリ作成（失敗） 順に進めていくと、初期画面が出来上がります。
+一度ここで起動してみるとこんな感じ。
+この辺が、どうも何をしているのか、何をすべきなのかよくわからない。
+そして、結局起動できず。
+もしかして、Mac版はダメだけど、Windows版なら、と思ったのですが、ダメでした。一応、画面生成まではできましたが、起動しません。一応、こんな画面ができるという感じです。
+Dublinの場合は、左上に、デバイス切り替え機能がつきます。
+基本テンプレによる画面作成 では基本テンプレートならどうかということ、こちらはできました。
+テンプレートとしてTop Menu を選択する以外は、上記Dublinの場合と同じです。
+デザイン画面を開いて、おもむろにExcelをインポートしますが、Google スプレッドシートからダウンロードしたものはExcelファイルではないと言われて、失敗しました。一度Office 365 で開いて保存し直したら大丈夫でした。
+ただ、シート名、1行目の名称でテーブルを作ってくれると思ったら、それは失敗しました。
+まずWindows版だと、ちゃんとシート名を認識はしてくれています。
+これが、Mac版だとこの時点でダメ。
+で、Windows版でも、Mac版でも、インポート結果はこの通り。
+単なる連番になってしまいました。これは、シート名、項目名が日本語のためかと思われます。
+それでも進めることはできます。
+基本テンプレの場合は、初期状態でMainFlowには何もありません。
+ここにEntity1 を２回ドロップすることで、リスト画面と詳細画面が生成されます。勝手に結合されている状態です。
+実行する前には、各画面のAnonymous プロパティをチェックOnにします（ログイン画面を表示させないため）。
+そして起動するとこのような画面が生成されます。明細部分のページングもされていますし、これをスタートとするのは大いにアリでしょう。
+Glide と違って、参照画面だけでなく、更新画面も生成されます。これは割と大きな違いかもしれません。
+ただ、これを完成品としては公開できないかなという感じがあり、その辺が繰り返しになりますが、Glide App と、OutSystems の違いになるような気がします。</description></item><item><title>Glide とOutSystems</title><link>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</link><pubDate>Mon, 15 Jul 2019 06:31:06 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/glide-%E3%81%A8outsystems/</guid><description>Qiita に初投稿してみました。
+Glide App（glideapps） のMap List 機能
+https://qiita.com/JQinglong/items/8c8cd2e2d5c29225972a
+ノーコーディングツールとしてのGlide App（glideapps）（検索で引っかかりにくいので、こういう書き方をしてみてます）のパワーは凄まじい。
+今回取り上げたMap List 機能で、地図上に複数展表示ができる。そして、これは単にスプレッドシートの場所情報を表示しているだけであり、スプレッドシートの更新は自由にできる。
+そして、ちょっと前に、Per-user data 機能も追加されており、ログインユーザごとのデータのフィルタリングができるようになっている。
+これらを組み合わせると、あんなことやこんなことや・・・
+そして、Glideの中では、一切コーディングさせない。コーディング的なこともさせない。
+一方、OutSystems。
+これもアプリの色々な要素の自動生成機能は凄まじい。ある意味、Glideと同じことは、ほぼ同様にできる（あとでやってみる）。
+そしてそこにとどまらない。基本的に、どんどん自動生成されたものに対してさらにカスタマイズできる。自動制裁されたアプリを見て、オブジェクト、変数、RDB構造のようなものを想定できるならば、どんどん「式」を書ける。
+これは考え方の違いでしょう。
+OutSystems は、ノーコーディングというよりはローコーディングであり、結局は従来と違う方法でコーディングしている。そして、たまにコーディングの影が見える。この影が見えると、拒絶反応を起こす人はそれなりにいて、それは自分の仕事ではないと感じるのだと思われる。
+OutSystems を見て、Accessだなと感じたのは、基本的には自動生成してくれるのだけれども、それで完了でもなくて、そこから手を入れるんだなというところ。だから利用者もエンドユーザではなく、開発者。
+Glide は徹底的にノーコーディングで完成品まで持っていくことに徹している。
+これにより利用者としてエンドユーザも入ってくると思われる。そのためには、痒いところに手が届かないのも、今はやむを得ないという考え方。イノベーションのジレンマが発生している状態ではあるが、一気にこの20数年の開発スタイルをひっくり返しかねないやり方だ、というのは言い過ぎ？？</description></item></channel></rss>

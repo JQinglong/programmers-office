@@ -1,1 +1,343 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/docker/</link><description>Recent content in Docker on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 28 Jul 2019 01:01:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。 今回は、APIだけを公開するということで</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。 なかなかハードルが高かったですが、できました！ Docker環境をどこに</description></item><item><title>タイタニックアプリを作ろう（Nuxt.js 開発環境の基本）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 05 May 2019 00:21:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Kaggleのタイタニック問題は、機械学習の基礎として面白いので、それを活用し、かつ、技術書典の2冊で学んだことも生かして、アプリを作ってみましょう。 Kaggleのタイタニック問題で機械学習 Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 コンテナ時代</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。 これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！ ご購入いただいた皆様、本当にありがとうございました！！！ BOOTHでのpdf販売を同時に開始しましたので ぜひ、#技術書典 にお越しいただ</description></item><item><title>コンテナ時代のWebサービスの作り方</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link><pubDate>Sat, 27 Apr 2019 15:06:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid><description>技術書典6で購入した本１冊目。 ガチで役に立つ本でした。 コンテナ時代のWebサービスの作り方 | 楽描商店 https://t.co/xFdOX3orNn 技術書典6で頒布した本をboothにて委託しております。ご活用ください。#booth_pm #技術書典 &amp;mdash; とまと（nasum）技術書典え35楽</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。 ・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ ・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ ・その他色々</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！ ドカベン プロ野球編 （1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。 始める前の準備 Container Registry のクイックスタート https://cloud.google.com/container-registry/docs/quickstart?hl=ja プロジェクトは既存のものを使用し</description></item><item><title>Docker push AWS ECR 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</link><pubDate>Sat, 19 Jan 2019 05:33:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</guid><description>色々な編ができていく・・・ ずっとはまっていてもダメなので、ちょっとGitLabからのPullはどこかで質問することにします。 そして、AWS ECS で pull するのであれば、当然相性良いだろうと思われる、ECR にpushしてみます。 イメージのプッシュ https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/docker-push-ecr-image.html も</description></item><item><title>Docker 環境をステージング環境へ（Docker pull編）part1</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</link><pubDate>Mon, 14 Jan 2019 14:36:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</guid><description>docker pushができたので、今度は、サーバ側からpullします。 サーバは、GCPのつもりでしたが、Mgentoの検証を行っていたAWSを使うか、と考え、それならば、Elastic Container Serviceを使ってみることにします。 Elastic Container Service（EC</description></item><item><title>Docker 環境をステージング環境へ（Docker push編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</link><pubDate>Mon, 14 Jan 2019 10:25:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</guid><description>まだ、全然途中ですが、いったんベンダー機能とショップ画面が見えるようになったところで、これを別サーバ（ステージング環境のつもり）に持っていきたいと思います。 Docker力強化の目的もあります。 Docker イメージのレジストリサービス ローカル開発環境の</description></item><item><title>WooCommerceを試す</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</link><pubDate>Sun, 13 Jan 2019 01:52:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</guid><description>MagentoのDocker環境を作った訳ですが、サンプルデータを後から投入しようとすると、やはり、「PHP Fatal error: Allowed memory size of xxx bytes exhausted」が発生したりして、Dockerの出来合いの環境ならもう少しすんなり行くかなと言う期待は、あまり応</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。 参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215 を入り口として、 https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861 https://principle-works.jp/blog/how2runm2ondocker-apache/ https://principle-works.jp/blog/how2runm2ondocker-compose/ も参照。 しつつ、いかにビジュアルに構築するかを考えます。 イメージ検索 まずは、Kitematic内で検索してみます。 最初は、一つしか</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。 しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストー</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part2）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 09:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</guid><description>WordPressサイトを引っ越したものの、なかなか苦労しましたという話の後編。 前編は サイト引っ越し、そして、再引っ越し（Part1） WordPressサイトの引っ越し方法 色々あると思いますが、毎回検討するのは、こちらのプラグイン。 All-in-One WP Migration –</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part1）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 02:30:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</guid><description>サイト引っ越しの目的 Lighthouseを知って調査してみると、そういえばこのご時世にHTTPS対応されていない。 また、体感としてページの読み込みが遅い。 サイト構成も、イマイチに感じられてきた。 ということで、引っ越しをすることにしました。 さ</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/docker/</link><description>Recent content in Docker on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 28 Jul 2019 01:01:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Kubernetes・GKEでの公開</title><link>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</link><pubDate>Sun, 28 Jul 2019 01:01:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kubernetes%E3%83%BBgke%E3%81%A7%E3%81%AE%E5%85%AC%E9%96%8B/</guid><description>続きます。Docker イメージを Google Container Registry に登録 kubectl で設定を行うためのyamlファイル作成 上記でGoogle Container Registryに登録したDockerイメージをGKE（GCP の Kubernetes Engine）で公開します。
+今回は、APIだけを公開するということで、API用のファイルだけ作成します。
+内容は、基本的には、githubの方を参照しています。
+https://github.com/pco2699/NullSuck-AI/tree/master/k8s
+また、イングレス用ファイルは下記のような感じで作りました。
+k8s/api/api-ingress.yml
+apiVersion: extensions/v1beta1 kind: Ingress metadata: name: api-ingress spec: rules: - http: paths: - path: /* backend: serviceName: api-svc servicePort: 5432 GKE周りの設定 これを適用するにあたり、まずは準備ということで、
+gcloud container clusters create nullsuck --num-nodes 2 --zone asia-northeast1-a を実行するとなっていますが、エラー。
+ERROR: (gcloud.container.clusters.create) ResponseError: code=403, message=Kubernetes Engine API is not enabled for this project. Please ensure it is enabled in Google Cloud Console and try again: visit https://console.</description></item><item><title>Docker内のNuxt.jsサイトを公開する</title><link>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</link><pubDate>Fri, 10 May 2019 20:49:51 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E5%86%85%E3%81%AEnuxt-js%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/</guid><description>Docker内に構築したNuxt.jsのサイトを公開する、条件として、公開サイトもDockerで構築し、かつ、ソースはボリューム機能でDocker外と共有とする。無料で。
+なかなかハードルが高かったですが、できました！
+Docker環境をどこに公開するか 無料公開と考えた場合に、1年の期間制限のAWSは対象から外します。そして、本サイト自体がGCEで立っているので、一旦それも除外。そこで検討したのが、Azureです。
+Azure App Service Azureでは、素のApp Serviceは無料プランがあります。
+App Service の価格
+https://azure.microsoft.com/ja-jp/pricing/details/app-service/windows/
+この素のサービスはPaaSなので、Dockerをインストールして環境構築するということはできません。これと連携してコンテナを読み込む、Web App for Containersというサービスがありますが、これは無料プランでは利用できません。さらに、通常であれば利用を検討すべきContainer InstancesとかAKS（Azure Kubernetes Service）というものもありますが、これらも有料プランのみです。
+色々苦労した挙句、無料でDockerコンテナを立ち上げるのは無理ということで、あきらめました。
+Heroku Herokuでもコンテナを読み込んでリリースする機能が提供されています。
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+これは無料で使えるプランもあるのですが、Volumeはサポートされていません。
+なぜVolumeを使いたいかというと、ローカルの開発環境もDockerで構築したい、それと同一の環境をリリース環境に持っていきたい、ただ開発ツールはクライアントに持つことになるのでソースはローカルに持ちたい、そのソースをコミットすることでリリース環境にも反映したい、という理由です。
+そういう意味で、最近話題の、VSCodeのRemote Development機能
+https://crieit.net/posts/VSCode-Remote-Development
+開発ツールをローカルに持ちつつソースはローカルに持つ必要がないという意味ですごいと思うのですが、複数人開発と考えた時にはどうなんだろうとも思ったりします。
+さくらArukas https://arukas.io/
+今回試しませんでしたが、これもHerokuと同様、Volumeはサポートされません。ただ、無料プランが提供されているのは発見でした。
+GCE（Google Compute Engine） 結局VMをそのまま使わせてもらえる環境でなければ今回の条件には合わない、と理解し、そうなると使えるのはGCEしかないのでは、という結論になりました。すでにDocker立てているわけですが、そこはDocker。複数立てることもできるわけです。ということで、もう一つDocker環境を立てることにしました。
+公開用Docker構築 前回タイタニックアプリを作ろう（Nuxt.js 開発環境の基本） ここではなるべくシンプルなDockerファイルを目指して設定をしましたが、これはDockerをUpした後にサービスを起動しなければならないということです。
+そうではなく、Upと共にNuxtサービスも立ち上げるということで試行錯誤しました。
+まず、最初はDocker Build、あるいはUpでのエラー。
+ERROR: Service ‘app’ failed to build: containerd-shim not installed on system
+DokerファイルをいじるとBuildだけはできたりして、大いに悩みましたが、最終的には、VMリスタートで解消。時間を返せ・・・
+再起動したらしたで、既存のDocker＝本サイトが立ち上がらないという問題発生！原因は、先にApaheが起動していてポート80を取られていたため。サービスを落として再度実行により問題解消。かなりの時間を費やして、やっと本題。
+最終的には下記のサイトを大いに参考にさせていただきました。
+dockerでnuxt.jsの環境を作ってみる
+https://qiita.com/reflet/items/e7c33f84ab43ab237ee4
+Dockerfile
+FROM node:12.1.0-alpine WORKDIR /app RUN npm install --global @vue/cli @vue/cli-init WORKDIR /app/titanic-client RUN yarn install ENV HOST 0.</description></item><item><title>タイタニックアプリを作ろう（Nuxt.js 開発環境の基本）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</link><pubDate>Sun, 05 May 2019 00:21:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%88nuxt-js-%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E5%9F%BA%E6%9C%AC/</guid><description>Kaggleのタイタニック問題は、機械学習の基礎として面白いので、それを活用し、かつ、技術書典の2冊で学んだことも生かして、アプリを作ってみましょう。
+Kaggleのタイタニック問題で機械学習  Nuxt.js と Python でつくるぬるさく AI アプリ開発入門 コンテナ時代のWebサービスの作り方 環境のイメージ たどり着けるかわかりませんが、ゴールのイメージとしては、下記のようになります。
+ローカルにDockerでNuxt.jsのWebアプリ環境 Jupyter Notebookで機械学習環境を作り、responder のAPIサービス環境はDockerで Dockerプライベートでレジストリとして、GitLab Container Registry プライベートレジストリからAzure App Service に公開 DockerによるNuxt環境構築 今回フォルダ構成はこのようにしています。
+titanic -app --docker-compose.yml --client ---Dockerfile --server ---Dockerfile 参考にさせていただいたのはこちら。
+Nuxt.jsの動作環境をdockerで作る
+https://qiita.com/FrozenVoice/items/2ae89ce820cade84924e
+若干新しいバージョンに変更しました。
+client/Dockerfile
+FROM node:12.1.0-alpine RUN mkdir /app WORKDIR /app RUN npm install -g vue-cli ENV HOST 0.0.0.0 EXPOSE 3000 docker-compose.yml
+version: '3' services: app: build: ./client volumes: - ./client:/app ports: - "</description></item><item><title>Nuxt.js と Python でつくるぬるさく AI アプリ開発入門</title><link>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</link><pubDate>Thu, 02 May 2019 06:49:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/nuxt-js-%E3%81%A8-python-%E3%81%A6%E3%82%99%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AC%E3%82%8B%E3%81%95%E3%81%8F-ai-%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80/</guid><description>技術書典6で購入した本2冊目。
+これも素晴らしい。#技術書典6 の #ぬるさくAI ですが 14時に完売しました！！
+ご購入いただいた皆様、本当にありがとうございました！！！
+BOOTHでのpdf販売を同時に開始しましたので
+ぜひ、#技術書典 にお越しいただけなかった方、ご購入ください！https://t.co/S7fajL0B8o &amp;mdash; takayama.k (@pco2699) April 14, 2019 なんとか連休中に平成最初のリリースまで持って行きたかったのですが、色々つまり出してきたので、実際に何かを作ってリリースするところを目指したいと思い、Docker環境構築までで一旦まとめておきたいと思います。
+Jupyter Notebook いきなり、あなたの知らない世界で、Jupyter Notebook のインストールから。
+こちらなども参考に。
+https://techacademy.jp/magazine/17430
+まずはAnaconda をインストール。Anaconddaで2.3GBも使うんですね・・・
+インストールしたら、
+Enviroments &amp;gt; 「analytics」
+Notebookをインストールしようとして間違えてJupyterLabをインストールしてしまいました。そうしたらNotebookも勝手に入りました。
+3.3.1 データセットを読み込む 第１章、第２章も読み応えありますが、作り始めるのは第３章からになります。
+初めてJupyter Notebook を使う身としては、色々不明点を抱えながら進めます。どうやって実行するんだ、というところから始まりますが、Runボタンで実行です。
+実行すると、エラー。
+ModuleNotFoundError Traceback (most recent call last) &amp;lt;ipython-input-2-aed2979e33dd in &amp;lt;module 1 # 分析に必要なライブラリをインポート ---- 2 import pandas as pd 3 import numpy as np 4 5 # データセットを読み込む ModuleNotFoundError: No module named 'pandas' 先に</description></item><item><title>コンテナ時代のWebサービスの作り方</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</link><pubDate>Sat, 27 Apr 2019 15:06:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E6%99%82%E4%BB%A3%E3%81%AEweb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9/</guid><description>技術書典6で購入した本１冊目。
+ガチで役に立つ本でした。
+コンテナ時代のWebサービスの作り方 | 楽描商店 https://t.co/xFdOX3orNn 技術書典6で頒布した本をboothにて委託しております。ご活用ください。#booth_pm #技術書典 &amp;mdash; とまと（nasum）技術書典え35楽描帳 (@tomato360) April 14, 2019 とりあえず、76/103ページまでやってみました。ここまで行くと、ソースをコミットしたら自動的にサイトに反映される仕組みが動きます。
+が、多少悪戦苦闘したところもありますので、その辺をメモ。
+リージョン 書籍では、東京リージョン（ap-northeast-1）を使うことになっていますが、元々オハイオを使っていたのでそちらのus-east-2を使うことにしてみました。
+すると、
+The image id '[ami-785c491f]' does not exist となります。これはリージョンによって異なるので、ami-8b92b4eeに変更します。（参考）https://docs.docker.com/machine/drivers/aws/
+Terraform Terraform初体験。インフラをコードで定義するとはこういうことなんだ。
+しかし、これも簡単に進ませてはくれません。
+Error inspecting states in the "s3" backend: BucketRegionError: incorrect region, the bucket is not in 'us-east-2' region status code: 301, request id: , host id: 今回一番ハマったかもしれないのはこのエラー。
+例えば、
+aws s3 ls なんかを叩くと帰ってくるので、この接続でs3の所定のバケットが見えていないわけでもない。結局、フォルダ全体を一回消して、再度やり直したらOKという最悪パターンでした。
+また、実際の発生順序は前後しますが、さらに進んでまたこのエラーが出るようになりましたが、書籍だと、aws_route_table.tf、aws_route_table_association.tfが、間違っているのでgithub（書籍に記載あり）のソースを見て記載しました。
+rubyバージョン 元々のローカル環境がruby2.3.7だったのが悪いと思うのですが、最初にそれで進めてしまい、いざbuildが動くと
+You must use Bundler 2 or greater with this lockfile が出るようになってしまいました。</description></item><item><title>Docker 環境をステージング環境へ（GCP編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</link><pubDate>Sun, 20 Jan 2019 04:57:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88gcp%E7%B7%A8%EF%BC%89/</guid><description>GCP環境にDockerコンテナを作る方法はいくつかあるようです。
+・GCE（Compute Engine）のVMインスタンス作成時に、コンテナ イメージをデプロイ
+・Google Kubernetes Engine（GKE）にクラスタ環境を構築してデプロイ
+・その他色々・・・
+公式ドキュメントはこちら
+Compute Engine への Docker コンテナのデプロイ
+https://cloud.google.com/compute/docs/instance-groups/deploying-docker-containers?hl=ja
+で、今回はシンプルそうな、VMインスタンス時にデプロイする方法を試します。
+公式ドキュメントはこちら
+VM およびマネージド インスタンス グループへのコンテナのデプロイ
+https://cloud.google.com/compute/docs/containers/deploying-containers?hl=ja&amp;amp;_ga=2.46174759.-1895702560.1541304432
+ですが、どうも分かりにくい。いくつか試してくれているサイトがありますが、どうも面倒なようにしか見えない・・・
+インスタンス作成時は、Always Freeの条件
+f1-micro インスタンス（1 か月あたり、バージニア州北部 [us-east4] を除く米国リージョンのみ）
+を踏まえて。
+ただこれ、イメージは一つだけなんですね。後から追加できるかな・・・とりあえず、DBのイメージだけ指定します。
+とりあえず、起動はします。
+DBだけだと動いているか分かりませんが、SSHで入って確認してみます。
+入ると
+########################[ Welcome ]########################
+# You have logged in to the guest OS. #
+# To access your containers use &amp;#8216;docker attach&amp;#8217; command #
+###########################################################
+と表示されています。
+docker images で目的のイメージが入っていることが確認できます。
+であれば、もう一つのイメージはpullを叩いても良いか。</description></item><item><title>Docker push Google Container Registry 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</link><pubDate>Sun, 20 Jan 2019 02:07:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-google-container-registry-%E7%B7%A8/</guid><description>さらに新しい編。ドカベンか！
+ドカベン　プロ野球編　（1-52巻 全巻） / 水島新司 / 秋田書店posted with カエレバ 楽天市場 Amazon 7net 今度は、Google Container Registry へのpushを試してみます。
+始める前の準備 Container Registry のクイックスタート
+https://cloud.google.com/container-registry/docs/quickstart?hl=ja
+プロジェクトは既存のものを使用します。
+課金の設定もしてあります。
+Container Registry APIの有効化は、こちらのページのリンクボタンからGCP画面へ飛んで行って、ボタンを押していけばできます。
+Google Cloud SDKはインストール済みでしたので、ここもスキップ。
+この時にインストールしたのですね。
+サイト引っ越し、そして、再引っ越し（Part2）
+https://www.programmers-office.ml/2018/12/22/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/
+Dockerもインストール済み。ビルド済み。
+認証から行きます。
+認証してpush gcloud auth configure-docker
+でDocker config fileへの更新確認をされるので、Yで進めます。
+次にイメージにタグをつけます。
+そしてpushしようとすると、認証できていない・・・
+denied: Token exchange failed for project &amp;#8216;xxx&amp;#8217;. Caller does not have permission &amp;#8216;storage.buckets.create&amp;#8217;. To configure permissions, follow instructions at: https://cloud.</description></item><item><title>Docker push AWS ECR 編</title><link>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</link><pubDate>Sat, 19 Jan 2019 05:33:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-push-aws-ecr-%E7%B7%A8/</guid><description>色々な編ができていく・・・
+ずっとはまっていてもダメなので、ちょっとGitLabからのPullはどこかで質問することにします。
+そして、AWS ECS で pull するのであれば、当然相性良いだろうと思われる、ECR にpushしてみます。
+イメージのプッシュ
+https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/docker-push-ecr-image.html
+もうpushするimageはできているところからスタートします。
+Docker 環境をステージング環境へ（Docker push編）
+https://www.programmers-office.ml/2019/01/14/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/
+python環境 pushするためには、まず1.の認証が必要です。
+そのために、AWS CLIのインストールが必要です。
+まあ、そうなんだろうけど面倒は面倒ですね。どんどん遡る・・・
+結局、開発環境をDockerで作るとしても、それを扱うための環境（ここで言えばpython環境）をローカルに作らなければいけない。もう少しローカル依存を減らしたいのですが・・・
+AWS CLI をインストールする方法
+https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-chap-install.html
+おもむろに
+$ pip install awscli &amp;#8211;upgrade &amp;#8211;user を叩くと、「pip: command not found」のつれないメッセージ。
+$ python -m pip -V
+/usr/bin/python: No module named pip そこからか・・・
+python3 そもそも、macの初期インストールpythonは
+python &amp;#8211;version
+Python 2.7.10 です。
+pipはPython 3.4以降には、標準で付属しているそうです。
+Python3系を入れましょう。
+Code4Startupの時は、普通にインストーラーをダウンロードする形でしたが、今時だとやはり、Homebrewでしょうか。
+https://brew.sh/index_ja.html
+インストールのスクリプトを素直に実行。
+インストール完了後、
+$ brew doctor</description></item><item><title>Docker 環境をステージング環境へ（Docker pull編）part1</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</link><pubDate>Mon, 14 Jan 2019 14:36:14 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-pull%E7%B7%A8%EF%BC%89part1/</guid><description>docker pushができたので、今度は、サーバ側からpullします。
+サーバは、GCPのつもりでしたが、Mgentoの検証を行っていたAWSを使うか、と考え、それならば、Elastic Container Serviceを使ってみることにします。
+Elastic Container Service（ECS） まず、ECSには二つの起動モデルがあります。
+・Fargate 起動タイプモデル
+・EC2 起動タイプモデル
+Fargateはコンテナ用のリソースで、EC2とは切り離されており、それ用の料金が発生します。逆に言えば、コンテナを使うためにEC2を増強するための料金は不要ということです。これに対して、EC2起動モデルの場合は、ECSの料金は不要です。
+今回は、EC2の１年間無料枠を利用して、EC2起動タイプで行ってみます。
+（AWSもDockerも初心者なのに大丈夫かどうかは不明です）
+ECSの手順については、こちらを参照させていただきました。
+https://dev.classmethod.jp/cloud/aws/amazon-ecs-entrance-1/
+最初の、タスク定義を作成するところで、FARGATEかEC2かを選択するボタンがあるので、EC2を選択します。
+タスク定義名は、タスク定義で指定する内容が、使用するDockerイメージだったり、ということなので、WooCommerceとしておきます。
+他は初期値のままで「コンテナの追加」をします。
+今回は、woocommerce_mariadb_1、woocommerce_wordpress_1として、二つ分追加します。
+ポートマッピングは悩みますが、mariadb側はなし、wordpress側は80:80と、443:443を追加しておきます。
+タスク定義が正常に作成されました、とのことです。
+続いて、クラスターを作成します。
+クラスターテンプレートは、Fargateではないので、「EC2 Linux + ネットワーキング」を指定します。
+インスタンスタイプは無料枠なので、t2.micro、キーペアは作成済みのものを選択します。
+「コンテナインスタンスの IAM ロール」はさらに不明なので、「新しいロールの作成」のまま進めます。
+分からないながら進めていき、起動します。
+「サービスの検出の統合の有効化」はさらに不明のため、チェックを外しておきます。（上記サイトの絵にはありませんので、貼っておきます）
+以上で立ち上がったはずですが、サービス画面に行ってみると、起動失敗。
+理由は、
+https://registry.gitlab.com/v2/aaa/bbb/woocommerce_wordpress_1/manifests/latest: denied: access forbidden
+まあ、そうですよね・・・
+コンテナの設定の、「プライベートレジストリの認証」「認証情報パラメータ」辺りだと思いますが、今日は時間切れです。</description></item><item><title>Docker 環境をステージング環境へ（Docker push編）</title><link>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</link><pubDate>Mon, 14 Jan 2019 10:25:10 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker-%E7%92%B0%E5%A2%83%E3%82%92%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E7%92%B0%E5%A2%83%E3%81%B8%EF%BC%88docker-push%E7%B7%A8%EF%BC%89/</guid><description>まだ、全然途中ですが、いったんベンダー機能とショップ画面が見えるようになったところで、これを別サーバ（ステージング環境のつもり）に持っていきたいと思います。
+Docker力強化の目的もあります。
+Docker イメージのレジストリサービス ローカル開発環境のDockerイメージを別サーバに持っていくために、まずは、Dockerイメージを共有することが必要と考えます。すると、レジストリサービスが必要ということが分かります。
+そしてレジストリサービスを調べてみると、ありがたいサービスが提供されていることが分かります。
+・Docker Hub
+・Amazon Elastic Container Registry (ECR)
+・Google Container Registry
+・Azure Container Registry
+・GitLab Container Registry
+などなど。
+構築先がGCPなのと、このサービスもAlways Free対象なので、Googleも有力な候補ではありますが、ソースをGit管理するなら、同じ管理にするのが合理的なのではということと、GitはGitLab派の私としては、GitLab Container Registryを使ってみることとします。
+GitLab Container Registryへのpush 流れとしては、まずcommitして、イメージ作成。
+これは、こちらを参照
+https://www.memotansu.jp/docker/626/
+commitなの、buildなの、というのはよく分かっていませんが、とりあえず、これで行ってみます。
+docker login registry.gitlab.com
+ログインはできます。
+しかし、pushは、3つあるイメージのうちの2つをpushしたいわけで、その仕組みがいまいち分かりません。
+gitlabのページに記載を参考に、最後に「:タグ名」を付けてみても、
+「An image does not exist locally with the tag」
+となります。
+この辺りを参考に、タグ付けします。
+http://docs.docker.jp/linux/step_six.html
+https://docs.docker.com/engine/reference/commandline/tag/
+そうすると、
+registry.gitlab.com/aaa/bbb/woocommerce_mariadb_1 v1.1 a4e11e5e5b41 3 hours ago 262MB
+registry.gitlab.com/aaa/bbb/woocommerce_wordpress_1 v1.1 eba2457b8e6a 4 hours ago 438MB というようなイメージが出来上がります。</description></item><item><title>WooCommerceを試す</title><link>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</link><pubDate>Sun, 13 Jan 2019 01:52:34 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/woocommerce%E3%82%92%E8%A9%A6%E3%81%99/</guid><description>MagentoのDocker環境を作った訳ですが、サンプルデータを後から投入しようとすると、やはり、「PHP Fatal error: Allowed memory size of xxx bytes exhausted」が発生したりして、Dockerの出来合いの環境ならもう少しすんなり行くかなと言う期待は、あまり応えてはもらえませんでした。
+そこで、ちょっと浮気をしてみます。
+Docker力強化も兼ねて、今回もDocker環境を作ります。
+WooCommerce入りのDocker Hubのイメージもありますが、そこは後からプラグイン入れても良いよね、ということでwordpress環境をまず作ります。
+イメージは、あえて公式ではなく、先日の構成を参考にして、bitnami版にしてみます。
+今回は、最初から、ymlに永続化用の記述をしておきます。
+mkdir docker/WooCommerce
+mkdir docker/WooCommerce/wc-mariadb-persistence
+mkdir docker/WooCommerce/wc-wordpress-persistence
+cd docker/WooCommerce/
+curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-wordpress/master/docker-compose.yml
+・・・yml編集・・・
+docker-compose up -d やはり、wordpressセットアップ画面をすっ飛ばして、サイトが立ち上がっている状態まで来てくれます。
+管理画面はwp-admin、ユーザ・パスワードは、Settings画面参照（WORDPRESS_USERNAME、WORDPRESS_PASSWORD）。
+日本語化はされていません。
+そして、おもむろに、Pluginsから、WooCommerceをInstall、Activate。PluginsのページにWelcome to WooCommerceのメッセージと「Run the Setup Wizard」ボタンが表示されているので、クリックします。
+基本情報を入力し、Payment画面では、PayPalとstripe、さらにCash on deliveryを有効にしてみます。Shippingはとりあえず適当に、オススメのAutomated TaxesとMailChimpも有効にしておいて、Jetpackは接続できないというメッセージになりましたがそのまま行きます。
+チュートリアルに従って商品登録し、「Visit Site」の下の「Visit Shop」をクリックすると、商品が表示され、カートに投入し、カートを見ると購入商品が表示されます。
+ただ、この状態ではあまりに見た目が投げやりなので、AppearanceのThemesからStorefront を検索して、Install、Activateします。
+「Design your store」という画面が表示されますので、流れに従って入力。多少見た目が整います。「Design your store」が公式のようなので入れてみましたが、なかなかのシンプルさではあります。
+https://shimesan.com/2018/03/24/woocommerce-netshop-003/
+この辺は参考になりそうです。
+試しにもう一つ、THESHOPというテーマを入れてみます。
+https://athemes.com/theme/theshop/#
+さすがの良い感じ。
+とりあえず、こうしておきます。
+さらに、今回やりたいのは単一ショップではないので、複数ベンダー対応のプラグイン、「WC Marketplace」を入れます。
+そして、ちょっと設定を初めてみましたが、これはなかなか骨が折れそうなので、また改めて。</description></item><item><title>DockerでMagento環境を構築する</title><link>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sun, 06 Jan 2019 09:52:07 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/docker%E3%81%A7magento%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>Dockerで、ビジュアルに、Magento環境を構築していきたいと思います。
+参考情報 https://qiita.com/kzkiq2nd/items/29f69c156f6f6e2fb215
+を入り口として、
+https://qiita.com/kzkiq2nd/items/b8162cfc41d13616f861
+https://principle-works.jp/blog/how2runm2ondocker-apache/
+https://principle-works.jp/blog/how2runm2ondocker-compose/
+も参照。
+しつつ、いかにビジュアルに構築するかを考えます。
+イメージ検索 まずは、Kitematic内で検索してみます。
+最初は、一つしかヒットしなかった気がしたのですが、気のせい？？
+まあまあ、結構な数がヒットします。
+Googleで「magento docker」で検索した場合は、bitnami/magentoが先頭でヒットします。
+さらに、DevBoxなるものもあるといいます。
+どれを使うべきか。
+DevBoxが正攻法のようではあります。
+https://magento.com/blog/technical/set-your-magento-2-development-environment-faster
+が、最初の参考情報によると、ちょっとフルスペックすぎる感じが無きにしも非ず。
+かつ、2.3には未対応っぽい。
+次は、Pulls 1M+ となっていて、利用者の多そうなこちら。
+https://hub.docker.com/r/alexcheng/magento2
+解説も丁寧にされているのが好印象。2.3.xとも書いてあるので安心。
+こちらにさらに情報あり。
+https://microbadger.com/images/alexcheng/magento2
+bitnami版も確認。
+https://hub.docker.com/r/bitnami/magento
+利点として書かれているのは、最新版追跡の速さですね。
+こちらにも、いくつかのパターンが置かれています。
+https://bitnami.com/stack/magento/containers
+ちょと悩むところではあるのですが、ブランド名を信じて、bitnamiにしてみます。
+bitnami版magento2のインストール 改めて、Kitematicで「bitnami/magento」で検索し、CREATEボタンを押します。
+しばらくダウンロード画面が表示され、追加されたかと思いきや、エラーメッセージ。
+Welcome to the Bitnami magento container
+Subscribe to project updates by watching https://github.com/bitnami/bitnami-docker-magento
+Submit issues and feature requests at https://github.com/bitnami/bitnami-docker-magento/issues
+ERROR == The MAGENTO_DATABASE_PASSWORD environment variable is empty or not set. This environment variable is required for Magento to be properly installed.</description></item><item><title>MacにDocker環境をビジュアルに構築する</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</link><pubDate>Sat, 05 Jan 2019 22:17:45 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%ABdocker%E7%92%B0%E5%A2%83%E3%82%92%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B/</guid><description>目的 2018年11月にMagentoが2.3にバージョンアップしたため、その環境を作りたい。
+しかし、現在AWSに構築している環境をバージョンアップするのは、素人には難しそう。そもそも、現状が綺麗にできていない気がするので、クリーンインストールすることにする。
+そして、今後も複数バージョンをどう取り扱うか問題は出てくると思うので、このWordpressサイト構築にあたって興味を持ったDockerをもう少し突き詰めてみる。
+考えること Dockerもコマンド打つだけじゃないでしょ、もっとビジュアルに行こうぜ！と思ったら、思いの外深い。
+参考
+https://yoshinorin.net/2017/08/30/try-docker-rancher/
+まず、Docker for Macにするのか、Docker Toolboxにするのかを考えなければなりません。
+一般的には、VirtualBoxが不要であるDocker for Macの方が、早い、ということのようです。
+そして、実際のビジュアルツールとして、やはり本命はDocker社純正のKitematicと言うことになるかと思います。
+ただ、上記参考サイトにあるように、これは「Docker for WindowsとDocker for Mac」用となるので、AWS等のLinux環境では同一環境にはならないと言うことになります。
+もっとも、それは「外側」が異なるという話であり、Dockerで構築される「中身」については同じでしょうから、それは別の話として良いのかなと考え、Kitematicで構築することにしてみます。
+なお、第二の選択肢として、Portainer、Rancherも興味深いです。
+Kitematicのインストール 手順としては、Docker for Macをインストールし、そうすると、Dockerアイコンが表示されるようになるので、そこからKitematicをインストールするということのようです。
+この辺が比較的新し目の情報かと思います。
+https://yatteq.com/localdev-docker
+で、Docker for Macをダウンロードしに行くわけですが、そこの名前はDocker Desktop (Mac)。分かりにくくないですか？？
+Dockerのアカウント登録をして、ダウンロードします。518MB、なかなかですね・・・
+インストール方法は特筆すべきことはないですが、本家docsでも眺めておけば良いでしょう。
+https://docs.docker.com/docker-for-mac/install/#install-and-run-docker-for-mac
+丁寧な手順はこちらとか。
+https://qiita.com/seijimomoto/items/357ac7aa84f98b96021f
+最初、Docker アイコンからKitematicをクリックしても反応なく焦りましたが、再度アプリケーションフォルダからDockerをダブルクリックしたら反応してくれました。
+ということで、インストールまでは、簡単に行きます。</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part2）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 09:09:33 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part2%EF%BC%89/</guid><description>WordPressサイトを引っ越したものの、なかなか苦労しましたという話の後編。
+前編は
+サイト引っ越し、そして、再引っ越し（Part1）
+WordPressサイトの引っ越し方法 色々あると思いますが、毎回検討するのは、こちらのプラグイン。
+All-in-One WP Migration – WordPress
+そして、毎回容量オーバーに引っかかっている気が・・・
+あまり、検索で引っかからないのですが、その後の作業の中で、以下のような方法もあるのではないか、と思っています。試してませんが、これをまとめておくと次回に役立ちそうな気はしますね。
+Jetpack、UpdraftPlus、あと忘れた・・・
+phpmyadminのイメージ追加 今回は結局、力業で、DBもダンプ取ってリストア、ファイルは丸ごとwp-content/uploadsを持ってくる。
+そのために、是非新サイトのDBもphpmyadminで参照したいということで、イメージを追加します。
+これ自体は比較的すんなりいきました。下記を参考にさせていただきました。
+https://qiita.com/furu8ma/items/50718efebee20fd24517
+/home/wordpress/mariadb/docker-compose.yml
+に下記を追加します。
+phpmyadmin:
+image: phpmyadmin/phpmyadmin
+environment:
+– PMA_ARBITRARY=1
+– PMA_HOST=db-data
+– MYSQL_USER=●●●
+– MYSQL_PASSWORD=●●●
+– MYSQL_ROOT_PASSWORD=●●●
+links:
+– mariadb
+ports:
+– 8080:80
+volumes:
+– /sessions
+networks:
+– common_link
+PMA_HOSTのdb-dataは、この直前で定義しているデータベースデータのコンテナ名です。
+また、8080で公開されるので、ファイアウォールのルールで8080を解放する必要があります。
+ファイルの移行 DB移行後、最初はそのままデータをINSERTしてしまったら、最初のページから旧サイトに飛ばされるという事態になり、文字列を変換してからINSERTするように修正。
+次にファイルの移行ですが、こちらについては、まずファイル20MB制限があったので（何の話か忘れてしまいましたが）、分割してzipでアップしました。
+そして、GCE初期状態ではzipが入っていなかったためインストール。
+sudo apt install unzip
+なぜだか、ずいぶん画像リンク切れが多発していますが、とりあえずは良しとします。
+サーバ停止 とりあえず良しとして、アナリティクスの設定をしていたら、数日後、サイトの検索が利いていないことに気づきました。
+おかしいと思い、Dockerのダウン・アップをすると利くようになるので、はて？と思っていたら、しばらくするとまた同じ現象。そして、だんだん間隔が短くなっていき、最後は、SSHが接続できなくなってしまいました。
+Webコンソールだからかなと、ここでgloudコマンドツールをインストールすることにします。
+しかし、gloudコマンドツールは使えるようになっても、そのSSHはやはり使えません。
+Google公式トラブルシューティングということで、
+https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-ssh?hl=ja
+を試していきます。
+「インスタンスをシャットダウンせずに検査する」あたりは、今回の件とは関係なくためになる、GCEの色々な機能の勉強になる手順でしたが、結局デバッグインスタンスにも接続できません。</description></item><item><title>サイト引っ越し、そして、再引っ越し（Part1）</title><link>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</link><pubDate>Sat, 22 Dec 2018 02:30:46 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%82%B5%E3%82%A4%E3%83%88%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E5%86%8D%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%97%EF%BC%88part1%EF%BC%89/</guid><description>サイト引っ越しの目的 Lighthouseを知って調査してみると、そういえばこのご時世にHTTPS対応されていない。
+また、体感としてページの読み込みが遅い。
+サイト構成も、イマイチに感じられてきた。
+ということで、引っ越しをすることにしました。
+さくらのレンタルサーバは使っているので、それでも良いと思いましたが、新しいことにも挑戦しようということで、引っ越し先を検討したところ、こちらのサイトが面白かったので、これに従いました。
+GCPの無料枠でdev.toなみの爆速WordPress環境を構築する 引っ越し手順でのトラブル色々 上記サイトの手順は、非常に良くできているので、基本的には、そのまま従えば大丈夫なのですが、私の環境の問題等で、若干はまったところがありました。
+freenom 大した話ではないですが、最初登録した際にエラーになりました。
+そういう場合は、Service &amp;gt; My Domainsから確認できる。
+プロキシサーバーコンテナを起動（nginx-proxy） 今回の方法では、Docker-composeで、いくつかのDockerコンテナを起動して、それらを連携して動作させます。
+大きな手順としては、Dockerインストール、Docker-composeインストール、Dockerネットワーク作成、プロキシサーバーコンテナを起動（nginx-proxy）、と進めていくのですが、最初のコンテナであるnginx-proxyの起動でエラーとなりました。
+Creating nginx-proxy … error
+・・・
+ERROR: for nginx-proxy Cannot start service nginx-proxy: b’driver failed programming external connectivity on endp
+oint nginx-proxy (・・・): Error starting userland proxy:
+listen tcp 0.0.0.0:80: bind: address already in use’
+という感じです。よく読めば、ポート80番がバッティングしているとわかります。
+元々、勉強用に色々立ち上げていたGCE環境のため発生した問題で、綺麗な環境であればこれは発生しないと思われます。
+これに対して、最初は、/home/wordpress/nginx-proxy/docker-compose.yml　を編集して、80:80　→　8088:8088　と変更しました。
+これにより、起動するようにはなりました。ただ、その後結局他のエラーが発生し、そもそも新しいサイトを8088で公開するのもありえないので、
+sudo service apache2 stop
+sudo update-rc.d -f apache2 remove</description></item></channel></rss>

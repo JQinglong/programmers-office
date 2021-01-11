@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WC Marketplace on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wc-marketplace/</link><description>Recent content in WC Marketplace on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 13 Jan 2019 15:53:13 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wc-marketplace/index.xml" rel="self" type="application/rss+xml"/><item><title>WC Marketplace（商品機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 15:53:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>商品登録方法は、素のWooCommerceとWC Marketplaceでは考え方が違う部分がありますので、その確認。 商品とベンダーの関係 Setting up – Assign Single Product to Multiple Vendors https://wc-marketplace.com/knowledgebase/setting-assign-single-product-multiple-seller/ WC Marketplaceプラグインインストール時に、「Single Product Multiple Vendors</description></item><item><title>WC Marketplace（ベンダー関連機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 09:17:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>しかし、WooCommerceも日本語情報は、豊富とは言えませんね・・・ ほとんどお一人で頑張られている？？ https://docs.artws.info/about-this-site/ WC Marketplaceと言っても、そもそもWooCommerceが分からなければ始まらないので、上記を参考にさせていただきながら、</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WC Marketplace on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/wc-marketplace/</link><description>Recent content in WC Marketplace on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 13 Jan 2019 15:53:13 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/wc-marketplace/index.xml" rel="self" type="application/rss+xml"/><item><title>WC Marketplace（商品機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 15:53:13 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>商品登録方法は、素のWooCommerceとWC Marketplaceでは考え方が違う部分がありますので、その確認。
+商品とベンダーの関係 Setting up – Assign Single Product to Multiple Vendors
+https://wc-marketplace.com/knowledgebase/setting-assign-single-product-multiple-seller/
+WC Marketplaceプラグインインストール時に、「Single Product Multiple Vendors」というチェックボックスがあります。
+同一商品を複数ベンダーから販売することができ、購入時に顧客がベンダーを選択することができる、というものです。
+これはしないので、スキップします。
+管理者による商品の登録 Setting up – Uploading products for WCMp
+https://wc-marketplace.com/knowledgebase/setting-up-uploading-products-for-wcmp/
+アップロードから始まるというのが、順番としてどうなのかと思わざるを得ませんが、必須機能ではある、というかむしろ最終的にはこちらが優先なので、これで良いのか。
+・・・と思って読み進めると、別にファイルアップロードの話ではなく、普通に商品登録の話でした。そういう言葉使いですか・・・
+最初に、承認を経由するかしないかの設定の話。
+そして、管理者が通常のWooCommerceの方法で、商品登録する場合の話。
+ここで、WC Marketplaceが入っていると、ベンダーを指定するプルダウンがあります。これをクリックすると、中身が空で、「？」と悩むのですが、テキストボックスに一文字入力するとそれにマッチするベンダーが選択できるようになります。まあ、ベンダーが大量に登録されていると、ずらっと出てこられても困るかもしれませんが・・・
+通常のWooCommerceの商品登録の方法については、
+https://docs.artws.info/document/managing-products/
+のお世話になるのが良いかと思います。
+特に商品タイプ、特に「バリエーションのある商品」（Variable product）は重要です。
+ベンダーによる商品登録 実際は、商品の登録は各ベンダーがやるでしょう、ということで、その機能についての説明です。
+ベンダーのユーザでログインして、Vendor Dashboard画面に入ります。
+こちらの画面からの登録も、細かい手順や画面構成が異なるのみで、登録内容は基本的に同じです。
+ところが、Product Typeで、「Simple product」しか選択できません。
+他のタイプを選択したい場合は、backendに行かなければならないということです。
+すなわち、ベンダー用画面には、2種類あります。ログイン直後のVendor Dashboard画面と、wp-adminの画面であるbackendです。
+こんなところから移動できます。
+こちらに移動すれば、機能制限された管理画面が表示される、というわけです。
+Advanced Frontend Manager https://wc-marketplace.com/knowledgebase/wcmp-frontend-manager/
+で、一応、AFMというものを使ってほしそうです。
+これを使えば、backendに移動せずに、「Simple product」以外の商品メンテもできるということです。
+ただ、そんなに、画面からメンテするのか、と考えたら、コスパはあまり良くないかなという気もします。
+https://wc-marketplace.com/product/wcmp-frontend-manager/
+という感じで、だいぶ理解はできてきました。</description></item><item><title>WC Marketplace（ベンダー関連機能）</title><link>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</link><pubDate>Sun, 13 Jan 2019 09:17:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/wc-marketplace%EF%BC%88%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E9%96%A2%E9%80%A3%E6%A9%9F%E8%83%BD%EF%BC%89/</guid><description>しかし、WooCommerceも日本語情報は、豊富とは言えませんね・・・
+ほとんどお一人で頑張られている？？
+https://docs.artws.info/about-this-site/
+WC Marketplaceと言っても、そもそもWooCommerceが分からなければ始まらないので、上記を参考にさせていただきながら、進めていきます。
+なお、現時点で、
+WooCommerce Version 3.5.3
+WC Marketplace Version 3.3.0
+です。
+基本ドキュメント インストールは、基本レベルだと特に悩まないとは思いますが、
+https://wc-marketplace.com/knowledgebase/wcmp-setup-guide/
+一応こちらを参照しておけば、安心かと思います。
+その他のドキュメントも、ここから辿っていきます。
+ベンダー管理システム Vendors Management System
+https://wc-marketplace.com/knowledgebase/vendors-submenu/
+まず、考え方として、Vendorを登録し、これは、wpサイトログインのユーザにもなります。そして一対一でShopが紐付きます。
+基本的には、管理者がVendorユーザを作って、詳細情報はそのVendorユーザが自分自身の情報を登録し、管理者がその登録内容を承認する、という流れのようで、そのためのステータス管理（Pending、Rejected、Suspended、）がされているという形のようです。
+これを登録すると、
+http://localhost/circlant/user1/
+という形で、そのベンダーのページが作成されるのですが、そこに表示される画像はどこで設定するのかが分からない。追々分かることを期待して進めます。
+ベンダー登録方法 Setting up – Vendor Registration for WCMp
+https://wc-marketplace.com/knowledgebase/setting-vendor-registration-wcmp/
+ベンダーについては、より詳細な登録方法として、さらにドキュメントが提供されています。
+管理者が登録する方法以外に、Registration Formも用意されており、それをするしない、承認を経由するしない、フォームで登録する内容、等が設定可能です。
+例えば、Store DescriptionとCountry　を追加すると、このような登録フォームになります。
+ベンダー用機能 Setting Up WCMp – A Vendor Guide
+https://wc-marketplace.com/knowledgebase/setting-wcmp-vendor-guide/
+どうもドキュメントの並びが綺麗ではないように思うのですが、ベンダー登録したところで、今度は、ベンダー用機能を見てみます。
+Vendorロールのユーザでwp管理画面にログインすると、ダッシュボードの見た目はだいぶ違います。
+上に書いた、店舗画面の見た目等はここから設定することになります。
+その他、商品や、支払い方法等を登録し、あるいは、注文情報の確認等を行いますが、ポイントは商品登録だと思いますので、今回はここで一旦終了します。</description></item></channel></rss>

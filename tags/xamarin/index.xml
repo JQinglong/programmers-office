@@ -1,1 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xamarin on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/xamarin/</link><description>Recent content in Xamarin on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 13 Apr 2019 23:47:31 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/xamarin/index.xml" rel="self" type="application/rss+xml"/><item><title>MacでVisual Studio 2019</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</link><pubDate>Sat, 13 Apr 2019 23:47:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</guid><description>Visual Studio 2019がリリースされ、Mac版にも対応されていますので、インストールしてみます。 最初にメッセージが出ますが、インストール中2、３回パスワード入力が必要ですので、完全放置はできませんでした。 インストールしたら、サンプルとして https://docs.microsoft.com/ja-jp/xamarin/cross-platform/samples/ Acquaint ⁨app</description></item><item><title>XamarinのXAMLのデザイナー</title><link>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</link><pubDate>Sat, 13 Oct 2018 14:11:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</guid><description>Xamarinも楽ではないですなー Xamarinのチュートリアル https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin で、最初のとっかかりは良かったのですが、構成がいまいちまとまりきっておらず、内容もビデオを見たりするのが多いのでちょっと進めにくい。 ということで、こちらをやってみようと思いま</description></item><item><title>とりあえずxamarinチュートリアル中（初心者の超入門編）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</link><pubDate>Sat, 13 Oct 2018 01:34:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</guid><description>Code4Startup xamarinの選択 Code4StartupはここからSwiftによるモバイルアプリ開発に入ります。 とっかかりの部分の講座を見てみましたが、やはり画面デザインから入りますよね。 さて、Windows上にswift環境は用意したつもりだったの</description></item><item><title>VSUG DAY 2013 Summer</title><link>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</link><pubDate>Sat, 20 Jul 2013 14:05:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</guid><description>参加してきました。 http://vsug.jp/tabid/228/EventID/23/Default.aspx しびれました。 「Web アプリケーション開発におけるテストの実践」 この分野は進んでいるような、進んでいないような。 進んでいる一つとして、Fakes アセンブリというものを挙げられるかもしれません。 http://msdn.microsoft.com/ja-jp/library/vstudio/hh549175.aspx 存在も知りませんでしたよ・</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xamarin on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/xamarin/</link><description>Recent content in Xamarin on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 13 Apr 2019 23:47:31 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/xamarin/index.xml" rel="self" type="application/rss+xml"/><item><title>MacでVisual Studio 2019</title><link>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</link><pubDate>Sat, 13 Apr 2019 23:47:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/mac%E3%81%A7visual-studio-2019/</guid><description>Visual Studio 2019がリリースされ、Mac版にも対応されていますので、インストールしてみます。
+最初にメッセージが出ますが、インストール中2、３回パスワード入力が必要ですので、完全放置はできませんでした。
+インストールしたら、サンプルとして
+https://docs.microsoft.com/ja-jp/xamarin/cross-platform/samples/
+Acquaint
+⁨app-acquaint⁩/App⁩/Acquaint.XForms.sln
+を開きますが、UWPは対応していないというメッセーが出るので、ソリューションからは削除します。
+で、左上に「Xcode 10.2でコマンドラインツールがありません」というメッセージが出ているので、これはインストールしてしまいます。
+https://developer.apple.com/download/more/
+次に、「アクティブな構成内でプロジェクトがビルドされていません」というメッセージが出て、ビルドが完了しませんが、これは下記が参考になりました。
+http://kuxumarin.hatenablog.com/entry/2016/12/01/Xamarin.iOS_%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A7_%22%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E6%A7%8B%E6%88%90%E5%86%85%E3%81%A7%E3%83%97%E3%83%AD
+ビルドするとそれでも警告は残っていますが、実行すると、何も設定をしていないのでさすがにデータ保存はできませんが、とりあえず、最初の画面表示はできました。</description></item><item><title>XamarinのXAMLのデザイナー</title><link>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</link><pubDate>Sat, 13 Oct 2018 14:11:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/xamarin%E3%81%AExaml%E3%81%AE%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC/</guid><description>Xamarinも楽ではないですなー
+Xamarinのチュートリアル https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin
+で、最初のとっかかりは良かったのですが、構成がいまいちまとまりきっておらず、内容もビデオを見たりするのが多いのでちょっと進めにくい。
+ということで、こちらをやってみようと思います。
+かずきのXamarin.Forms入門 posted with カエレバ 大田　一希 2016-12-29 Amazon 楽天市場 7net （もうすこし画像何とかすればよいのにと思いますが。もったいない・・・）
+16ページ
+StackLayout.Children
+省略可能となっているが、そもそも廃止されてないかな？？
+デザイナが使えない 19ページ
+グリッドの画面を作ってみるというところで、ここはデザイナを使ってみるか、と思ったわけですが。
+Xamarin.formsのデザイナは提供されていない？
+しかし、こんなページもあるので、ないことはないのでは？？
+https://docs.microsoft.com/ja-jp/visualstudio/designers/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2017
+Blendならもしかしたら、と思いさらに頑張って10GB空けてインストールしたが、そもそもXamarinのテンプレートがない。
+https://marketplace.visualstudio.com/items?itemName=mohamedalinouira.XamarinFormsTemplates
+をインストールしてみるがダメ。
+https://developercommunity.visualstudio.com/content/problem/272117/xamarin-designer-not-working.html
+を見てアルファ版のフィックスも入れてみたがダメ。
+よくよく見てみると、デザイナの説明は、Xamarinの説明ではない！
+Windowsユニバーサルとか、デスクトップアプリケーションをxamlで作る場合はデザイナが使えるけど、xamarinのxamlではデザイナは使えないというお話でした。
+プレビュー機能は提供されているので、こんな感じになります。
+この画面でいうと、左側のxml記述に、一番左のツールボックスからドラッグアンドドロップはできます。
+これで頑張るしかないのですね。
+なお、Windowsユニバーサルの方で作成したXamlからコピペできるかなと思ったら、色々違うようでそれもできず。
+厳しい！</description></item><item><title>とりあえずxamarinチュートリアル中（初心者の超入門編）</title><link>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</link><pubDate>Sat, 13 Oct 2018 01:34:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9Axamarin%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E4%B8%AD%EF%BC%88%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E8%B6%85%E5%85%A5%E9%96%80/</guid><description>Code4Startup
+xamarinの選択 Code4StartupはここからSwiftによるモバイルアプリ開発に入ります。
+とっかかりの部分の講座を見てみましたが、やはり画面デザインから入りますよね。
+さて、Windows上にswift環境は用意したつもりだったのですが、Ubuntu上でSwiftが動くというのは、言語自体が動く、コンパイルが動くというだけの話のようです。
+しかし、Swiftを使う目的は基本的にはiOSアプリを作るためであり（勝手な想像）、画面を作れないのであれば10割がた意味がないのではないかと思うのです。
+というわけで、改めてiOSアプリをどう作るか考えます。Monacaも経験したので当然それは考えるのですが、やはりまだ馴染めきれない。
+今後メジャー化していくと思われるFlutterもまだ早いような気がする。
+結局以前考えたxamarinに戻ってしまいました。
+やはり、慣れ親しんだ.NET（と言っても私の主戦場はVB.NETであり、C#はほぼ素人ですが、それでも）なら、他よりも生産性も高く進められるのではないかと思うのが大きな理由です。
+Visual Studio 2017 さて、そう思った段階でインストールされていたVisual Studioは2015でした。
+ただ、xamarinはインストールされていなかったので、入れようとしたら20GBくらい必要と言われます。
+きついぜ！と思いつつ、一生懸命不要ファイルの掃除をして、インストールしました。我が家のネットワークは不安定なのか、一晩たっても終わっておらず、その日帰って確認できたという、丸一日作業になってしまいました。
+ところが、いざ始めようとしたときに目についたのが、2017ならCommunity版でiOS リモート シミュレーターが使えるようになったという情報。iOSアプリを作りたいがためにこんなに悩んでいるのに、これを使わない手はないでしょう。ということでインストールし直し。
+2015を完全に削除するためには、膨大な手間がかかるということで、MS謹製の削除ツールを使用して削除しました。これも、朝起きたら1段階目が終わったような状態で、再度ツールを実行する必要があり、結局丸一日。
+インストール自体は順調に終わりましたが、なかなか手ごわいです。
+xamarinチュートリアル では、何はともあれチュートリアルということで、
+https://docs.microsoft.com/ja-jp/xamarin/xamarin-forms/get-started/hello-xamarin-forms/quickstart?tabs=vswin
+から始めてみます。
+最初はエミュレータで画面表示するのが目的ということで、ソースはコピペ。
+初回起動だけなのか、かなり時間がかかりましたが、Andoroid版画面はプレビューできました。
+問題はiOSです。
+結論としては、やはりMacOS機＝XCode機が必要ということです。
+Xamarin.iOS 開発のために Mac とペアリングする
+そうか、ということでちょっとがっかり。
+ほぼほぼの開発はWindows機で行って、リリース時の手続き的なところだけMacがあればよいのかと勘違いしていました。
+最近はMacを貸し出してくれるところもあるので、最後はそこを利用しようとしていたのですが、ちょっと方針が変わります。
+けど、Mac買うならSwiftでいいじゃんとなりますしね・・・
+（と言いつつMacBook欲しくなりつつある・・・
+買うなら、0.92kgが魅力のこれ）
+MacBook (12-inch/1.1GHz Dual Core Intel Core m3/256GB/8GB/802.11ac/USB-C/ローズゴールド) posted with カエレバ アップル 2016-04-20 Amazon 楽天市場 7net とりあえず、xamarin勉強を進めてみます。
+  Essential Xamarin　ネイティブからクロスプラットフォームまで モバイル.</description></item><item><title>VSUG DAY 2013 Summer</title><link>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</link><pubDate>Sat, 20 Jul 2013 14:05:54 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/vsug-day-2013-summer/</guid><description>参加してきました。
+http://vsug.jp/tabid/228/EventID/23/Default.aspx
+しびれました。
+「Web アプリケーション開発におけるテストの実践」 この分野は進んでいるような、進んでいないような。
+進んでいる一つとして、Fakes アセンブリというものを挙げられるかもしれません。
+http://msdn.microsoft.com/ja-jp/library/vstudio/hh549175.aspx
+存在も知りませんでしたよ・・・
+ただ、これは、そもそも、方式設計的なところの話で、外部ライブラリをラッパを噛まさずに使うのか、という問題があります。
+例がDateTime.Nowだからイマイチなのかもしれませんが。
+コード化された UI テスト
+http://msdn.microsoft.com/ja-jp/library/vstudio/dd286726.aspx#verifyingcodeusingcuitcreate
+も、動きはえぐいけど、昔もあったことはあったんですよね。
+名前忘れちゃいました。Rational製品。
+結局、面倒くささに勝てるほどにはなっていないのかな。
+イメージとしては、カバレッジを取ってくれるのではなくて、100%にしてくれるテストを生成してくれという感じです。
+「Xamarin で初めてのクロスプラットフォーム開発」 これも初耳。monoがこのようになっていたとは。
+むしろ、In App Purchaseという、こちらも初耳でしたが、後のセッションにも出てきますが、この辺の業務アプリにはない部分に興味を惹かれました。
+iPohneアプリも、泥臭いんですね。なかなか。
+「初めての Windows ストア アプリ開発」 しびれ度2.5。
+Windows ストア アプリのデザイン方法は、素直に面白かったです。
+ゲームを作って、ハイスコアの仕組みを作るために、リソースをどう管理するか。まさかの事件勃発も、場合によっては深刻ですが、今回は笑える内容でよかったです。
+こちらでも話題に出てくる課金の仕組み。
+課金状態をどうテストするか、ぱっと聞かれたら分からないですよね。
+http://blogs.msdn.com/b/windowsstore_ja/archive/2012/07/26/windows-making-money.aspx
+ちゃんと、CurrentAppSimulator という仕組みが用意されています。
+これはちょっと作ってみたくなりました。その前に、Surface 買っちゃうか、みたいな。買いませんけど。
+小ネタとして、多言語アプリ ツールキットはちょっと凄そう。
+http://msdn.microsoft.com/ja-jp/library/windows/apps/jj569303.aspx
+絵もないので、分かりにくいですが、多言語用のリソースファイルを管理するだけでなく、翻訳までしてしまう。
+こういうのは、本当に助かる気がします。（もちろん、そのまま使えることは想定しませんが、0からのスタートと10からのスタートは全然違うということです）
+もう一つ小ネタとして、Windows アプリ アート ギャラリー、良いと思うのですが、Windows 8 および Windows Phone 用アプリケーションの制作以外への本素材の利用禁止というのは、了見が狭いぞw
+【SIer と Developer のためのSQL Server 2012 アーキテクチャ】 しびれ度3超！ヘカトン級！！
+この資料は会社に置いておきます。絶対使える。
+また、調査用スクリプトも、そのうち公開したいとのことです。下記サイトを、要チェックです。
+http://www.microsoft.com/ja-jp/sqlserver/2008/r2/technology/takumi.aspx
+2012ってまだ使っていないんですけど、もう2014なんですね。
+http://technet.microsoft.com/ja-JP/evalcenter/dn205290?WT.mc_id=Blog_SQL_TEE_SQL2014</description></item></channel></rss>

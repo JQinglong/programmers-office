@@ -1,1 +1,441 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code4Startup on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/code4startup/</link><description>Recent content in Code4Startup on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 05 Jan 2019 02:23:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/code4startup/index.xml" rel="self" type="application/rss+xml"/><item><title>Code4StartUp ～ UberEatsを作ろう ～ ついに完了！</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</link><pubDate>Sat, 05 Jan 2019 02:23:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</guid><description>[ ][1] Code4Startup Task26では、ドライバー側マップでドライバーの移動ロケーションを追加し、カスタマー側マップにも追加します。 そして、シミュレータを二つ立ち上げて、動きを見ることができますよと言うテクニック。 最後にTask27でdanielgindi</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ドライバーサイドアプリ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</link><pubDate>Fri, 04 Jan 2019 23:09:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</guid><description>[][1] Code4Startup ここまでは、カスタマーサイドのアプリ。 Task24は、ドライバーサイドのアプリ。 このスピード感で画面を追加していける、というのがSwiftの強みだと思う。 そして、この段階で初めてCusotmerとDriverでディレクトリを分けていける</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図上の経路描画</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</link><pubDate>Tue, 01 Jan 2019 22:14:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</guid><description>Code4Startup Task23は、決済部分から、お店から配達先までの経路描画など、ある意味、講座のクライマックス。 経路は、import Mapkit しなければならないとすると、他の方式で開発する場合は、またちょっと苦労するということでしょうか。 画面作成の観点で、Swi</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</link><pubDate>Mon, 31 Dec 2018 02:45:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</guid><description>Code4Startup 年末なので、頑張ります。Task22まで来ました。 トレイ（ショッピングカート）画面で、注文者の住所を入力するところで、地図と連携。 とりあえず、キーワドとしては、 MKMapView CoreLocation.Framework info.plistの Privacy – Location When In Use Privacy – Location Always CLLocationManager というあたり。 次のTask23</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 詳細画面からショッピングカート</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</link><pubDate>Mon, 31 Dec 2018 00:24:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</guid><description>Code4Startup リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。 途中のミニ講座は、「pyramid if」。 pyramid ifで調べても何も出てこないので、この講座独特の言葉でしょうか。しかし、「Pyramid of d</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ リストの実装</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</link><pubDate>Sun, 23 Dec 2018 00:26:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</guid><description>Code4Startup Task19はレストランリストの実装。 最初は、仮実装でリスト表示の枠組みを作っておいて、ここで、API連携により実際のデータを表示させます。 合わせて、サーチバーの実装でデータのフィルタリングを行い、Activity Indivatorという</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ API呼び出し</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</link><pubDate>Sat, 17 Nov 2018 01:07:21 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</guid><description>Code4Startup 先に作ったFacebook連携用APIの呼び出し。 ここでログイン・ログアウトの機構を一気に作るので、ここをやっておかないとドライバー用アプリが進められなくなる。 が、とりあえず、一旦は一通りビデオを見てみることにする。 この先は、その他API</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook接続</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</link><pubDate>Tue, 13 Nov 2018 22:33:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</guid><description>Code4Startup Task17ではFacebookへの接続。 色々なものをインストールしますが、それによりこんなに簡単にできるのだ、ということが感じられます。 ただ、やればできそうなので、一旦ビデオだけ見てスルーしてます。 そして、Task18に入ると、Asyn</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ デザインなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 11 Nov 2018 01:59:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</guid><description>Code4Startup Task 16終了。 最後は、デザインの統一等を行いますが。 UIApplication.shared.statusBarStyle = .lightContent は、Setter for ‘statusBarStyle’ was deprecated in iOS 9.0: Use -[UIViewController preferredStatusBarStyle] という警告が出ます。しかし、 UIApplication.shared.preferredStatusBarStyle = .lightContent はダメです。これはこのままにしておきます。 また、 UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAtrributeName: UIColor.white] はエラーとなり、コメント欄</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ cocoapods</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</link><pubDate>Sat, 10 Nov 2018 12:14:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</guid><description>Code4Startup さて、クレジットカード情報入力画面を作るにあたっては、cocoapodsなるものを導入するようです。 ターミナルで、sudo gem install cocoapodsを叩きます。 ビデオでは1 gem installedであっさり終わっていましたが、私の環境では結構な量</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift続行中</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</link><pubDate>Sat, 10 Nov 2018 03:22:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</guid><description>Code4Startup さて、Swiftでの開発、ViewController、segue等の基本的な概念を、あまり理解せずに進めているので、これで一人で作れるのかと言ったら微妙ですが、それでも色々繰り返していくうちに何となくは解ってくるようには思われます。 で、</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</link><pubDate>Sun, 28 Oct 2018 14:30:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</guid><description>Code4Startup iMac購入 一旦Xamarinを始めたわけですが、そして第一印象はさほど悪くもなかったのですが、結局iOS版を作成するためにはXcodeの入ったMacが必要になるということで、熟慮した結果（1日ほど）iMacを購入しました。 iMac MK462J/A 一体型 PC 2</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Stripeの使用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</link><pubDate>Mon, 08 Oct 2018 02:45:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</guid><description>Code4Startup 自作サービスの決済手段として何を使うか、PayPalは開発者にやさしいなと思っていましたが、Stripeも十分良さそうです。 [][1]トップメニューに「開発者」があり、このサービスの向き先が伺える ちなみに、日本のサービスで、申込・審査を行</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Chart APIなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 07 Oct 2018 08:25:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</guid><description>Code4Startup Task14までdone。 途中結構長い時間はまったのが、 Order.objects.filter・・・ とすればよいところを OrderSerializer(Order.objects.filter・・・ としてしまったために、発生したエラー。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Postmanのはまりポイント</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link><pubDate>Mon, 01 Oct 2018 13:04:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</guid><description>Code4Startup Task11で、27分の長丁場のレッスンがあります。 いったん全部見てから、書いてみたのですが、途中ではまりました。 「AccessToken matching query does not exist.」 これは、結構な人がはまっているようなのですが、なかなかまともな回答がついていな</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 久しぶり</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</link><pubDate>Sat, 29 Sep 2018 13:59:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</guid><description>Code4Startup 色々並行ででやっていると、再開方法を確立しておかないと忘れますね。 source myvirtualenv/foodtasker/bin/activate cd foodtasker/ python manage.py runserver xxx.xxx.xxx.xxx:8000 これでhttp://xxx.xxx.xxx.xxx:8000/が動くようになる、という感じですね。 ということで、Task10まで終わらせました。 とありあえず</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</link><pubDate>Sun, 17 Jun 2018 00:01:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</guid><description>Code4Startup Task 8、9の辺りは、ひたすらページ作成のコーディングをしていきます。 こういうドリル的なこと：写経も必要。 すんなりいかないところとして、 modelの作成で restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE) 講義の中では、on_deleteは記載していませんが、必要と怒られます。 offs</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</link><pubDate>Fri, 15 Jun 2018 23:52:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</guid><description>以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・ Bootstrap4 講義はBootstrap3</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</link><pubDate>Fri, 15 Jun 2018 23:48:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</guid><description>Code4Startup 以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・ Bootstrap4 講義はBootstrap</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook認証</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</link><pubDate>Sat, 09 Jun 2018 00:26:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</guid><description>Code4Startup 続いて、oauthによるFacebook認証。 この辺の実践感がこの講座の良いところ。 https://developers.facebook.com/ スタートガイド→Facebook for Developersアカウントを作成するところから始めます。 画面構成は講義ビデオの時からは大分変っているようですが、何</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ heroku環境整備</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</link><pubDate>Fri, 08 Jun 2018 01:47:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</guid><description>Code4Startup さて、herokuが動作するようになると、おもむろにGunicornをインストールします。 Gunicornとは何か http://gunicorn.org/ Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX. Python製のWSGI サーバ WSGI とは何か http://gihyo.jp/dev/feature/01/wsgi/0001 WSGIはJavaにおけるJava</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道は続く</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</link><pubDate>Wed, 06 Jun 2018 13:57:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</guid><description>Code4Startup 前回からの続き インストールされたということで、heroku loginしてみると、 Error: login is not a heroku command. 再インストールしなさいという情報があるので、 curl https://cli-assets.heroku.com/install-ubuntu.sh | sh しかし、エラー変わらず。 手当たり次第という感じですが、 wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh 変わらない。 https://teratail.com/questions/125977 に従ってみる。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 01 Jun 2018 13:13:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Code4Startup 講義ビデオは突然heroku loginから始まった。 しかし、cloud9ではherokuコマンドは効かない。 よって、インストールから。 http://www.lib-arc.com/entry/2018/04/15/234355 こちらでは、nodeは入っている前提。しかし、少なくとも私の環境には入っていない。 そこから。となると、</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Djangoのデバッグ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</link><pubDate>Fri, 01 Jun 2018 07:14:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</guid><description>Code4Startup 前回に続き、Registration機能の実装ですが、どうもデータが登録されません。 では、ということでデバッグ実行をしようと思ったのですが、これがまたうまく動きません。 そもそもサービス起動のために python manage.py runserver xxx.xxx.xxx.xxx:8000 を叩かなければいけないということで</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Registration</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</link><pubDate>Mon, 28 May 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</guid><description>Code4Startup Djangoで持っているUser管理の機構を利用する部分。 それ以外に内容的に特筆すべきところはないですが、いったんエラーを発生させて、コンソールに表示されているエラーを確認して、対処するという流れ。 Cloud9だと、コンソールウインドウを</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Sign In &amp; Sign Out</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</link><pubDate>Sat, 26 May 2018 00:19:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</guid><description>Code4Startup 画面を横に並べて、動画見ながらコーディング、という形にすればよいのでしょうが、動画を見てから書こうとすると、しばしば間違いが。 ログインページのテンプレートファイルで {% load staticfiles %} を忘れずに。忘れるとinvalid block tag ‘static’というエラー</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Django環境続き</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</link><pubDate>Fri, 04 May 2018 03:48:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</guid><description>Djangoが動作する環境ができたら、アプリを作成していきます。 「python manage.py startapp foodtaskerapp」により foodtasker foodtaskerapp のディレクトリが並ぶ形になります。 ここから、行ったり来たりになりますが、 ・まずは、foodtaskerのsettings</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Python/Django環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 03 May 2018 00:31:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</guid><description>次は、Webアプリ側の環境で、Djangoです。 もう、これは、最初からCloud9で楽勝でしょう、と思っていたら甘かった・・・ AWS Cloud9とは 元々Cloud9を使用しており、開発環境をワンクリックで簡単に構築できることが売りだったので、そ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</link><pubDate>Wed, 02 May 2018 02:15:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</guid><description>Code4Startup こちらが本題の、UberEatsを作ろう（Create UberEats with Python/Django and Swift 3）。 まずは、環境構築から始まるのですが、Python、Heroku、Atomは使用するしないは良いとして、XcodeはWindows環境だとどうしようもない。 しかし、今の時</description></item><item><title>Code4StartUp ～ Landing Pageを作ろう</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</link><pubDate>Tue, 03 Apr 2018 14:44:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</guid><description>ちょっと、Noteを使ってみたりもしており、こちらはご無沙汰になりました。 Noteのような厳しい制約の中で書くのもそれはそれでありだと思うのですが、ちょっと厳しすぎる感もあり。 しかも、有償化はそんな簡単な話ではないなと。 ただ、ちゃんと構造化</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code4Startup on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/code4startup/</link><description>Recent content in Code4Startup on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 05 Jan 2019 02:23:12 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/code4startup/index.xml" rel="self" type="application/rss+xml"/><item><title>Code4StartUp ～ UberEatsを作ろう ～ ついに完了！</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</link><pubDate>Sat, 05 Jan 2019 02:23:12 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%81%A4%E3%81%84%E3%81%AB%E5%AE%8C%E4%BA%86%EF%BC%81/</guid><description>[ ][1] Code4Startup
+Task26では、ドライバー側マップでドライバーの移動ロケーションを追加し、カスタマー側マップにも追加します。
+そして、シミュレータを二つ立ち上げて、動きを見ることができますよと言うテクニック。
+最後にTask27でdanielgindiのチャートコントロールを使ってグラフを表示します。
+https://github.com/danielgindi/Charts
+と言うわけで完了！長かった・・・
+ただ、完成まではしないのですね・・・
+例えば、ドライバーが配達完了すると、ステータスが変わる、と言うところは作りますが、その時のドライバー画面は白いままとか。
+ともあれ、この画像でおめでとうと言われました！
+https://www.google.com/search?q=congratulations!+gif&amp;amp;tbm=isch&amp;amp;tbs=rimg:Cf_126g8pSGmDIjj2cw58GhEDRb1Tm-QQfezqphKGfD1O0NL-e3qT_1YKO7LZvVAYaur8hA3bBucnHSIqfOWhf0o2EKyoSCfZzDnwaEQNFEaLGpRKdOq-YKhIJvVOb5BB97OoROM0rrFOchCUqEgmmEoZ8PU7Q0hGkQsPwogAEjSoSCf57epP9go7sEcYO1TRi5KJ5KhIJtm9UBhq6vyERQUG6cqDuGNMqEgkDdsG5ycdIihE6TOBfMSUADCoSCZ85aF_1SjYQrEe5Ue_1GH1SA_1&amp;amp;tbo=u&amp;amp;sa=X&amp;amp;ved=2ahUKEwiOhtjjxdXfAhXXAIgKHaCBBUsQ9C96BAgBEBs&amp;amp;biw=1765&amp;amp;bih=1034&amp;amp;dpr=2#imgrc=__bqDylIaYNUMM:</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ ドライバーサイドアプリ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</link><pubDate>Fri, 04 Jan 2019 23:09:11 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/</guid><description>[][1] Code4Startup ここまでは、カスタマーサイドのアプリ。
+Task24は、ドライバーサイドのアプリ。
+このスピード感で画面を追加していける、というのがSwiftの強みだと思う。
+そして、この段階で初めてCusotmerとDriverでディレクトリを分けていけるのもよい。
+ということで、Task24がViewControllerで画面遷移のあたり。
+Task25で、API部分で、注文のピックアップのあたり。
+悩みながら、進めます。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図上の経路描画</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</link><pubDate>Tue, 01 Jan 2019 22:14:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3%E4%B8%8A%E3%81%AE%E7%B5%8C%E8%B7%AF%E6%8F%8F%E7%94%BB/</guid><description>Code4Startup
+Task23は、決済部分から、お店から配達先までの経路描画など、ある意味、講座のクライマックス。
+経路は、import Mapkit しなければならないとすると、他の方式で開発する場合は、またちょっと苦労するということでしょうか。
+画面作成の観点で、Swift最強だな、というのはひしひしと感じるわけですが、Android版も開発するとなった場合に、まるっきり別物の開発になってしまう、というのはやはり辛いなとも感じています。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 地図</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</link><pubDate>Mon, 31 Dec 2018 02:45:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E5%9C%B0%E5%9B%B3/</guid><description>Code4Startup
+年末なので、頑張ります。Task22まで来ました。
+トレイ（ショッピングカート）画面で、注文者の住所を入力するところで、地図と連携。
+とりあえず、キーワドとしては、
+MKMapView
+CoreLocation.Framework
+info.plistの
+Privacy – Location When In Use
+Privacy – Location Always
+CLLocationManager
+というあたり。
+次のTask23は決済部分で、Task24がお待ちかねドライバー機能、全27タスクの終わりが近づいてきました。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 詳細画面からショッピングカート</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</link><pubDate>Mon, 31 Dec 2018 00:24:58 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E8%A9%B3%E7%B4%B0%E7%94%BB%E9%9D%A2%E3%81%8B%E3%82%89%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%AB/</guid><description>Code4Startup
+リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。
+途中のミニ講座は、「pyramid if」。
+pyramid ifで調べても何も出てこないので、この講座独特の言葉でしょうか。しかし、「Pyramid of doom」という言葉はあるようです。
+https://en.wikipedia.org/wiki/Pyramid_of_doom_(programming)
+簡単に言えば、過剰な入れ子（ネスト）構造でしょうか。そこでなぜ「doom」なのかはやはり不明。
+そして、ifの多重入れ子回避の対応として、Swiftでは「guard」があるよ、というお話です。
+そして、この「ガード節による入れ子条件記述の置き換え」という方法は、ファウラー「リファクタリング プログラミングの体質改善テクニック」からきているのですか・・・。大昔に読んだ・・・
+  リファクタリング―プログラムの体質改善テクニック (Object Technology Series)posted with カエレバ マーチン ファウラー ピアソンエデュケーション 2000-05 Amazon 楽天市場 7net</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ リストの実装</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</link><pubDate>Sun, 23 Dec 2018 00:26:31 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E8%A3%85/</guid><description>Code4Startup Task19はレストランリストの実装。
+最初は、仮実装でリスト表示の枠組みを作っておいて、ここで、API連携により実際のデータを表示させます。
+合わせて、サーチバーの実装でデータのフィルタリングを行い、Activity Indivatorという、Windowsで言えば砂時計を表示させます。
+とりあえず、この辺は淡々と進めます。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ API呼び出し</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</link><pubDate>Sat, 17 Nov 2018 01:07:21 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-api%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97/</guid><description>Code4Startup
+先に作ったFacebook連携用APIの呼び出し。
+ここでログイン・ログアウトの機構を一気に作るので、ここをやっておかないとドライバー用アプリが進められなくなる。
+が、とりあえず、一旦は一通りビデオを見てみることにする。
+この先は、その他API呼び出しの部分なので、ある意味飛ばしても良いはず。
+一つへーと思ったのは、API呼び出しで、httpだと怒られる訳ですが、info.plistで、App Transport Security Settingsの設定を追加することで接続できるようになる。
+例えば、この辺の情報ですね。
+https://qiita.com/uhooi/items/68939999c2c31e5f5557
+ </description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook接続</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</link><pubDate>Tue, 13 Nov 2018 22:33:53 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E6%8E%A5%E7%B6%9A/</guid><description>Code4Startup
+Task17ではFacebookへの接続。
+色々なものをインストールしますが、それによりこんなに簡単にできるのだ、ということが感じられます。
+ただ、やればできそうなので、一旦ビデオだけ見てスルーしてます。
+そして、Task18に入ると、Asynchronousの世界の講義が始まりました。そして、Closureの解説。
+Appleのドキュメントも読みましょうと。
+https://docs.swift.org/swift-book/LanguageGuide/Closures.html
+ </description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ デザインなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 11 Nov 2018 01:59:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AA%E3%81%A9/</guid><description>Code4Startup
+Task 16終了。
+最後は、デザインの統一等を行いますが。
+UIApplication.shared.statusBarStyle = .lightContent
+は、Setter for ‘statusBarStyle’ was deprecated in iOS 9.0: Use -[UIViewController preferredStatusBarStyle]
+という警告が出ます。しかし、
+UIApplication.shared.preferredStatusBarStyle = .lightContent
+はダメです。これはこのままにしておきます。
+また、
+UINavigationBar.appearance().titleTextAttributes
+= [NSForegroundColorAtrributeName: UIColor.white]
+はエラーとなり、コメント欄では、[NSAttributedStringKey.foregroundColor: UIColor.white]
+にしたら良いというコメントがあるのですが、正しくは、
+[NSAttributedString.Key.foregroundColor: UIColor.white]でした。
+また、色選択の支援Webサービスが紹介されています。
+http://uicolor.xyz/#/hex-to-ui
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ cocoapods</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</link><pubDate>Sat, 10 Nov 2018 12:14:55 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-cocoapods/</guid><description>Code4Startup
+さて、クレジットカード情報入力画面を作るにあたっては、cocoapodsなるものを導入するようです。
+ターミナルで、sudo gem install cocoapodsを叩きます。
+ビデオでは1 gem installedであっさり終わっていましたが、私の環境では結構な量のインストールログが流れて、28 gem installed。そもそも、ターミナルを立ち上げるのさえ初めてというまっさら環境ですから、そんな感じなのでしょうか。
+次にpod initによって、Podfileというファイルができますが、それをVisual Studio Codeで開いて保存したらファイル名が「Pod file」になっていた。まあまあの驚き（何かの操作ミスかとは思いますが、そんなミスする？？）。
+さらに、pod installすると、ビデオではすぐにStripeのインストールが始まっていますが、私の環境では、Analyzing dependenciesから始まって、結構な量の何かをインストールし始めて、ちょっと不安になりましたが、無事完了。
+そして、これをインストールすることにより、Viewにクラスを指定するだけで、クレジットカード番号入力欄が勝手にでき上がるというのはセンス良い！
+という訳で、この辺も飛ばさずにやっておくべきですね。
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift続行中</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</link><pubDate>Sat, 10 Nov 2018 03:22:20 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%B6%9A%E8%A1%8C%E4%B8%AD/</guid><description>Code4Startup
+さて、Swiftでの開発、ViewController、segue等の基本的な概念を、あまり理解せずに進めているので、これで一人で作れるのかと言ったら微妙ですが、それでも色々繰り返していくうちに何となくは解ってくるようには思われます。
+で、一番興味があるのは、ドライバー用の地図と連携する部分なので、途中で一旦そちらに飛んでみたのですが、いつの間にかMVCのグループ分けがされていたり、ソースを流用したりするところがあるので、やはりそれは無理があるようです。
+ですので、ちょっと書くのは飛ばしながらでも一通りは見ていかないとダメかなということで、続行していきます。
+そして書きながら、Android版は全く作り直しだよな、と、やはり悩みは続きます・・・
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</link><pubDate>Sun, 28 Oct 2018 14:30:32 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-imac%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%A6%E7%B6%9A%E8%A1%8C/</guid><description>Code4Startup
+iMac購入 一旦Xamarinを始めたわけですが、そして第一印象はさほど悪くもなかったのですが、結局iOS版を作成するためにはXcodeの入ったMacが必要になるということで、熟慮した結果（1日ほど）iMacを購入しました。
+iMac MK462J/A 一体型 PC 27型 Retina 5K Late 2015 Core i5 6500 3.2GHz 24GB HDD1TB High Sierra 10.13
+中古ですが全く中古感なし。それでいてメモリが標準8GBのところ24GBに増設されており、値段は標準新品より7万円位安い。
+12インチMacBookの整備品も魅力はありましたが、使用中のThinkPad T430sも全然現役で使えることと、値段も上記中古品ならあまり変わらなくなってしまうということで、ちょっとだけ贅沢品を買いました。
+快適そのものです。
+swift開始 ということで、すぐさまXcodeをインストールし、と思ったらOSアップデートが必要と言われたのでアップデートし、環境を整えました。
+ちなみに、エディタどうしようかと思い、Macのエディタを検索したらいまだにCotEditorとか上位に出てきて、ムムとなりましたが（以前Mac使ってた時にはCotEditor派でしたけど）、素直にAtomとVSCodeで悩んでVSCodeにしました。
+始めてみると、やはりこのデザインツールは素晴らしい。ここまでサポートしてくれると、やる気の出方が違います。
+とりあえず4レッスンやってみてのハマりポイントは二つ。
+一つは、FoodTaskerMobile-Bridging-Header.hのファイルの場所。レッスンの中ではこれをLibディレクトリに移動するのですが、参照できませんというエラーになります。
+これを参照できる場所に戻しても良いのですが、やった対応は、プロジェクトのBuild SettingsのObjective-C Bridging Headerの記述を削除すること。これで、このエラーは解消しました。
+（2018/11/04）
+さすがにこれはダメ。後で、self.revealViewControllerというところの参照ができなくなります。
+FoodTaskerMobile/Lib/FoodTaskerMobile-Bridging-Header.h
+とすることで正常動作になります。
+もう一つは、画面遷移しても目的のページが表示されず、白いままになってしまうこと。これは、実はView Controllerのページが表示されていたのですが、なぜそうなるか。結論は、このコントローラに対しては、クラスSWRevealViewControllerを指定しなければならないのですが、それが漏れていたため。ビデオではちゃんと設定することになっているので、その部分で居眠りしていたかもしれません。
+ということで、基本的な画面の作り方と、遷移の仕方は完了。
+ついでに言うと、レッスンで使用しているアイコンはどこかで手に入れられるのか？？謎。
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Stripeの使用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</link><pubDate>Mon, 08 Oct 2018 02:45:59 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-stripe%E3%81%AE%E4%BD%BF%E7%94%A8/</guid><description>Code4Startup
+自作サービスの決済手段として何を使うか、PayPalは開発者にやさしいなと思っていましたが、Stripeも十分良さそうです。
+[][1]トップメニューに「開発者」があり、このサービスの向き先が伺える ちなみに、日本のサービスで、申込・審査を行わずに利用できるサービスはあるでしょうか？？
+ちょっと違うんだよなーと思ってしまいます。
+もちろん、そういうビジネスはそれでありなのですが、違うビジネスが展開されないのはなぜだろう、ということです。
+そして、PayPal。
+開発者向けサービスも充実しているし、無料でテストサイトでの決済を確認することもできるし、実際に運用する際の手数料も安いとは思いませんが（弱小サイトを前提とする場合）許容できるのではないかと思いますし、非常に使いやすいと思います。
+[][2]PayPalも開発者にやさしい ただ、唯一最大の問題が、決済サービスをしようとするためにはpaypalの会員登録が必要ということ。
+私のように一度登録してしまっている人としては、そういうものだと分かって使うのでよいのですが、paypalに縁のなかった人がいきなり支払いを行おうとしたらpaypal会員登録から始まってしまうというのは、ちょっとハードル高いのではないかと思われます。
+それに対して、Stripe。
+普通にクレジットカード情報を送信することにより（実際は端末にStripeのトークンが返されて、これをサービスに送信することで、サービスがそのトークンとサービスのAPIキーを紐づけて）決済されるので、違和感なしで決済完了できるということです。
+なお、開発中のアプリでは、ユーザ認識にユーザトークンのやり取りをしているので、トークントークン言われて分からんわ、という感じになりそうですが（実際それを間違えて送信しているというコーディングミスをしたり）、冷静になれば特に問題はありません。
+なお、開発者向けドキュメントの中でデモ機能が用意されていて、そこでダミーのカード情報を送信することによりStripeのトークンを取得できる（そして、それを使って開発サービスのテストができる）わけですが、講義の中で紹介されているURLは既に変わってしまっており、stripe docs→Payments→Stripe.js and Elements→Quickstart　（Card Element Quickstart）
+https://stripe.com/docs/stripe-js/elements/quickstart
+から利用できるようになっています。
+これは、別件のWordpressからの決済でも使ってみたいと思います。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Chart APIなど</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</link><pubDate>Sun, 07 Oct 2018 08:25:00 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-chart-api%E3%81%AA%E3%81%A9/</guid><description>Code4Startup
+Task14までdone。
+途中結構長い時間はまったのが、
+Order.objects.filter・・・
+とすればよいところを
+OrderSerializer(Order.objects.filter・・・
+としてしまったために、発生したエラー。
+他からのコピペで無意識についてしまったわけですが、これを探りながらの他のバグにも気づいたし、まあよいか。
+Task14ではレポート画面と言ことで、グラフを出力するために、
+Chart.js
+を使います。
+これはこれでよいなと思いますが、
+Google Charts
+もあるからね、とは思ってしまいます。
+そして、いよいよTask15でPythonは終了となりますが、一つの山場と考えているStripe連携。
+ここまで連休中に終わらわせておいて、Swiftに入りましょう。</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Postmanのはまりポイント</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</link><pubDate>Mon, 01 Oct 2018 13:04:47 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-postman%E3%81%AE%E3%81%AF%E3%81%BE%E3%82%8A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88/</guid><description>Code4Startup
+Task11で、27分の長丁場のレッスンがあります。
+いったん全部見てから、書いてみたのですが、途中ではまりました。
+「AccessToken matching query does not exist.」
+これは、結構な人がはまっているようなのですが、なかなかまともな回答がついていないように思われます。
+正しい回答はこちら。
+https://uploads.disquscdn.com/images/bcf707b4c65186dcfcc293547fc57bbae63e2fa0fbddc89aa6b82dbdb7418f69.png
+Postmanのパラメータ指定時に、Body→form-dataを指定する必要があります。
+そうしないと、request.POST.get(“access_token”)がNoneになってしまうのでした。
+改めて、ビデオを見返すと、ちゃんと説明してくれてますなぁ＞＜
+そして、同じ質問が、teratailに上がっていたので、初めて回答してみました。
+もう少し飛ばしていきたいのですが、必ずどこかではまりますね・・・</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 久しぶり</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</link><pubDate>Sat, 29 Sep 2018 13:59:15 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A/</guid><description>Code4Startup
+色々並行ででやっていると、再開方法を確立しておかないと忘れますね。
+source myvirtualenv/foodtasker/bin/activate
+cd foodtasker/
+python manage.py runserver xxx.xxx.xxx.xxx:8000
+これでhttp://xxx.xxx.xxx.xxx:8000/が動くようになる、という感じですね。
+ということで、Task10まで終わらせました。
+とありあえず、Task15まで一気に進めて、Tsk16からのSwiftによる顧客向けモバイルアプリ作成を早く試してみたい。
+ ちなみに、Pythonやってるなら、こちらも面白そうですね。
+Pythonで学ぶ『ブロックチェーンプログラミング入門』が良すぎた話
+ 関連記事 Code4StartUp ～ UberEatsを作ろう ～ Swift環境 Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加 https://www.programmers-office.ml/?s=code4</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ 淡々とページ追加</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</link><pubDate>Sun, 17 Jun 2018 00:01:38 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-%E6%B7%A1%E3%80%85%E3%81%A8%E3%83%9A%E3%83%BC%E3%82%B8%E8%BF%BD%E5%8A%A0/</guid><description>Code4Startup
+Task 8、9の辺りは、ひたすらページ作成のコーディングをしていきます。
+こういうドリル的なこと：写経も必要。
+すんなりいかないところとして、
+modelの作成で
+restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+講義の中では、on_deleteは記載していませんが、必要と怒られます。
+offsetの書き方は注意
+https://www.programmers-office.ml/2018/04/03/code4startup-%ef%bd%9e-landing-page%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86/
+Code4Startup
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 88013 by カエレバ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</link><pubDate>Fri, 15 Jun 2018 23:52:18 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8-2/</guid><description>以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・
+Bootstrap4 講義はBootstrap3ベースになっていますが、最新のBootstrap4を使おうとすると、色々調べながら進める必要があります。
+まず、jquery等の読み込みですが、講義で参照しているbasic templateは使用できないので、Introductionを見ると、そこにStarter templateがあります。
+必要なJS読み込みは
+となっています。
+さらに、django-bootstrap3をインストールしていますが、ここはpip install django-bootstrap4にします。
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 28003 by カエレバ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Bootstrapの適用</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</link><pubDate>Fri, 15 Jun 2018 23:48:08 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-bootstrap%E3%81%AE%E9%81%A9%E7%94%A8/</guid><description>Code4Startup
+以前もstaticの読み込みがうまくいっていなかったのですが、settings.pyを終始して戻して保存したら、style.cssを読んでくれたようです。まだ、完全に同じ見た目にはなっていませんが。もやもや・・・
+Bootstrap4 講義はBootstrap3ベースになっていますが、最新のBootstrap4を使おうとすると、色々調べながら進める必要があります。
+まず、jquery等の読み込みですが、講義で参照しているbasic templateは使用できないので、Introductionを見ると、そこにStarter templateがあります。
+必要なJS読み込みは
+となっています。
+さらに、django-bootstrap3をインストールしていますが、ここはpip install django-bootstrap4にします。
+スタイルの読み込みがちゃんとできていないので見た目はもやもやしますが、とりあえず進めます。
+Code4Startup
+シェアリング・エコノミー　―Uber、Airbnbが変えた世界 宮崎 康二 日本経済新聞出版社 2015-07-23 売り上げランキング : 28003 by カエレバ &amp;nbsp;</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Facebook認証</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</link><pubDate>Sat, 09 Jun 2018 00:26:26 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-facebook%E8%AA%8D%E8%A8%BC/</guid><description>Code4Startup
+続いて、oauthによるFacebook認証。
+この辺の実践感がこの講座の良いところ。
+https://developers.facebook.com/
+スタートガイド→Facebook for Developersアカウントを作成するところから始めます。
+画面構成は講義ビデオの時からは大分変っているようですが、何とか進められます。
+で、django-rest-framework-social-oauth2==1.0.4をインストールすることになっているのですが、
+ImportError: No module named ‘social_django’
+となります。
+↓
+https://teratail.com/questions/115059
+pip install social-auth-app-django
+↓
+ImportError: No module named ‘braces’
+↓
+pip install django-rest-framework-social-oauth2 -U
+→django-rest-framework-social-oauth2==1.1.0
+↓
+OK
+という感じで（分かりますか(^_^;;;)）、結局最新バージョンでないとライブラリ間の構成が合わないという話。
+requirements.txt　の記述は
+django-rest-framework-social-oauth2==1.0.4
+のままだけど・・・
+でうまくいったかと思いきや、アプリ画面を開くと
+You may need to add ‘x.x.x.x’ to ALLOWED_HOSTS. のエラー。
+settings.py
+のALLOWED_HOSTS に追記すれば確かに起動するようになった。
+https://www.deep-blog.jp/engineer/archives/4287
+しかし、これまで書いていなかったのになぜ？ちょっと気持ち悪い。
+Facebook認証の流れについては、
+https://stackoverflow.com/questions/18995448/rails-api-authenticate-users-from-native-mobile-apps-using-username-password-or
+と同じ内容の図がもう少しきれいに書かれていて、なるほど、と思いました。
+そして、ブラウザ・サーバアプリ・Facebook間でのやり取りは、アプリを作る前に試しましょうということで、POSTMAN。
+このJSON大流行のこのタイミングで、このツールをぶつけてくるところがなかなか（たまたま）。
+python-social-auth のPipelineの説明は、ビデオ見てると行方不明になりますが、下記になります。
+https://github.com/python-social-auth/social-docs/blob/master/docs/pipeline.rst
+ちょっと、Facebook認証で情報を取り出せるようになるので、GDPRが気になるところ。
+個人で試しているうちは気にしなくても良いかもしれませんが、早急に考えないといけないかと思っています。
+Code4Startup
+独学プログラマー Python言語の基本から仕事のやり方まで コーリー・アルソフ 日経BP社 2018-02-24 売り上げランキング : 204 by カエレバ</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ heroku環境整備</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</link><pubDate>Fri, 08 Jun 2018 01:47:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99/</guid><description>Code4Startup
+さて、herokuが動作するようになると、おもむろにGunicornをインストールします。
+Gunicornとは何か http://gunicorn.org/
+Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX.
+Python製のWSGI サーバ
+WSGI とは何か http://gihyo.jp/dev/feature/01/wsgi/0001
+WSGIはJavaにおけるJava Servelet APIと同じように，WebサーバとWebアプリケーション間の汎用的なインターフェースを定義しています。
+要するに、Djangoを動作させるための土台、と考えればよいでしょうか。
+次にインストールするのが、WhiteNoise
+WhiteNoiseとは何か https://pypi.org/project/whitenoise/
+http://furodrive.com/2016/01/white_noisedjango/
+WhiteNoiseとはWSGIアプリケーションのための静的ファイルを配信するのを簡単にしてくれるライブラリです。
+少しの設定をするだけでAmazon S3やNginxに頼ることなく静的ファイルを配信できます。
+本番サーバーで画像やcss等を参照できるようにするには色々と手順を踏まないといけなかったのですが、WhiteNoiseを使うとそのような手間が省けて大変便利です。
+続いて、dj-database-url
+dj-database-urlとは何か https://github.com/kennethreitz/dj-database-url
+http://y0m0r.hateblo.jp/entry/20121130/1354290868
+dj-database-urlを使うとdb接続文字列を環境変数DATABASE_URLから取得させることができます。
+さらにpsycopg2 PythonのPostgreSQL用ドライバ
+これで、herokuに乗せるわけですが、色々講義内で想定されているエラー以外に、想定外のエラーが。
+could not determine PostgreSQL version from ‘10.4’
+諸々のサイトを見るとpsycopg2のバージョンを上げろと。
+http://initd.org/psycopg/docs/
+こちらで表示されるのが、現時点で2.7.5なのでそうしてみます。
+そうすると、こんな感じのエラー
+Could not find a version that satisfies the requirement psycopg2==2.7.5 (from -r /tmp/build_f493d80720eb882b01a250f718f3b058/requirements.txt (line 6)) (from versions: 2.0.10, 2.0.11, 2.</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道は続く</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</link><pubDate>Wed, 06 Jun 2018 13:57:30 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93%E3%81%AF%E7%B6%9A%E3%81%8F/</guid><description>Code4Startup
+前回からの続き
+インストールされたということで、heroku loginしてみると、
+Error: login is not a heroku command.
+再インストールしなさいという情報があるので、
+curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+しかし、エラー変わらず。
+手当たり次第という感じですが、
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+変わらない。
+https://teratail.com/questions/125977
+に従ってみる。
+npm uninstall -g heroku
+これでもheroku –versionは出てくるが・・・
+wget https://cli-assets.heroku.com/heroku-cli/channels/stable/heroku-cli-linux-x64.tar.gz -O heroku.tar.gz
+tar -xvzf heroku.tar.gz
+mkdir -p /usr/local/lib /usr/local/bin
+sudo mv heroku-cli-v6.16.18-62346b1-linux-x64/ /usr/local/lib/heroku
+↓実際に作成されたディレクトリ名に変更
+sudo mv heroku-cli-v6.99.0-ec9edad-linux-x64/ /usr/local/lib/heroku
+sudo ln -s /usr/local/lib/heroku/bin/heroku /usr/local/bin/heroku
+失敗
+ln: failed to create symbolic link ‘/usr/local/bin/heroku’: File exists
+↓
+sudo unlink /usr/local/bin/heroku</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ herokuへの道</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</link><pubDate>Fri, 01 Jun 2018 13:13:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-heroku%E3%81%B8%E3%81%AE%E9%81%93/</guid><description>Code4Startup
+講義ビデオは突然heroku loginから始まった。
+しかし、cloud9ではherokuコマンドは効かない。
+よって、インストールから。
+http://www.lib-arc.com/entry/2018/04/15/234355
+こちらでは、nodeは入っている前提。しかし、少なくとも私の環境には入っていない。
+そこから。となると、こちらを参考。
+https://qiita.com/beplocks661/items/8d840b6efcdcd14009bf
+と思ったらnvm: command not found。
+https://qiita.com/seibe/items/36cef7df85fe2cefa3ea
+ここから。
+sudo apt-get install -y nodejs npm
+sudo npm cache clean
+sudo npm install n -g
+sudo n stable
+node -v
+v10.2.1
+ここからやっとherokuインストール
+npm install -g heroku-cli
+インストールは始まったけど、エラー
+・・・
+npm ERR! Please try running this command again as root/Administrator.
+・・・
+sudo npm install -g heroku-cli
+でOK
+heroku -v
+heroku-cli/7.0.9 linux-x64 node-v10.2.1
+という感じでよいのでしょうか。
+開発環境構築の基礎を学べます。
+ん？cloud9って、こういうものでしたっけ？？
+Code4Startup</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Djangoのデバッグ</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</link><pubDate>Fri, 01 Jun 2018 07:14:37 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E3%81%AE%E3%83%87%E3%83%90%E3%83%83%E3%82%B0/</guid><description>Code4Startup
+前回に続き、Registration機能の実装ですが、どうもデータが登録されません。
+では、ということでデバッグ実行をしようと思ったのですが、これがまたうまく動きません。
+そもそもサービス起動のために
+python manage.py runserver xxx.xxx.xxx.xxx:8000
+を叩かなければいけないということですから、普通にRunボタンを使って実行することができないわけです。
+では、と思って、New Terminalでコマンド実行用のウインドウを開いて、その中で上記のコマンドを叩こうとしましたが、cdコマンドが効いてくれないようです。
+ではでは、
+python foodtasker/manage.py runserver xxx.xxx.xxx.xxx:8000
+とすると、
+Traceback (most recent call last):
+File “foodtasker/manage.py”, line 17, in
+“Couldn’t import Django. Are you sure it’s installed and “
+ImportError: Couldn’t import Django. Are you sure it’s installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+となってしまいました。
+なお、こちらのサイトでも、2017年12月3日現在、デバッグ実行ができないと判断されているようです。
+むう。。。
+とりあえずはやむを得ないので、こちらを参考に、コンソールに出力。いつの時代も安定のコンソール出力。
+失敗の原因は色々で、objectsとobject（誤）とか、FalseとFALSE（誤）とか。
+もう少しエディタの力で何とかならないものか・・・
+Code4Startup
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 228</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Registration</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</link><pubDate>Mon, 28 May 2018 12:49:42 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-registration/</guid><description>Code4Startup
+Djangoで持っているUser管理の機構を利用する部分。
+それ以外に内容的に特筆すべきところはないですが、いったんエラーを発生させて、コンソールに表示されているエラーを確認して、対処するという流れ。
+Cloud9だと、コンソールウインドウを見ながらソースを書いているような画面構成で、ソースを保存した時点でエラーがあればエラーを表示してくれる。
+これは非常に便利。
+Code4Startup
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装
+posted with カエレバ
+斎藤 康毅 オライリージャパン 2016-09-24
+売り上げランキング : 231</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Sign In &amp; Sign Out</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</link><pubDate>Sat, 26 May 2018 00:19:17 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-sign-in-sign-out/</guid><description>Code4Startup
+画面を横に並べて、動画見ながらコーディング、という形にすればよいのでしょうが、動画を見てから書こうとすると、しばしば間違いが。
+ログインページのテンプレートファイルで
+{% load staticfiles %}
+を忘れずに。忘れるとinvalid block tag ‘static’というエラーが発生。
+{% csrf_token %}
+というお約束。こういうの見ると萌える。
+で、一通り書いてみましたが、
+http://（公開アドレス）:8000/restaurant/sign-in/
+で何も表示されない。なんだろうと探ります。
+あまりコーディング中の自動補完（clodu9のAce Editor）は正しくないのも、うーん（Visual Studioっ子なので）。
+django.contrib.auth のauthが表示されなかったり、
+auth_views.logoutは表示されるけど、auth_views.loginは表示されなかったり。
+かなり手間取りましたが、実際は単なる記述ミス。
+タグは自動補完が走り、例えば」を入力すると「」になってしまう罠。 ちなみに、url名は「sign-in」、テンプレート名は「sign_in.html」みたいなのは、一般ルールでしょうか？
+これもsign-inと書くべきところをsign_inと書いていたりしました（そういう補完候補が出る、というのもあるし）。
+なんとかかんとか、ログイン認証の仕組みができました。先は長いぞ。
+Code4Startup
+  ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 231</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Django環境続き</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</link><pubDate>Fri, 04 May 2018 03:48:48 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-django%E7%92%B0%E5%A2%83%E7%B6%9A%E3%81%8D/</guid><description>Djangoが動作する環境ができたら、アプリを作成していきます。
+「python manage.py startapp foodtaskerapp」により
+foodtasker
+foodtaskerapp
+のディレクトリが並ぶ形になります。
+ここから、行ったり来たりになりますが、
+・まずは、foodtaskerのsettings.pyのINSTALLED_APPSに追加
+・次に、foodtaskerappのviews.pyにhomeメソッド追加
+・次に、foodtaskerのurls.pyのurlpatternsに追加
+・次に、foodtaskerappにtemplateディレクトリを作成し、home.html作成
+という形で作成していきます。
+講義ビデオではatom＋emmetのスニペットが快適そうに見えますが、まあ、そんなに使うものでもないと思うので、Cloud9のAceエディタの機能で進めます。最低限のスニペットはありますので。
+いったん実行すると、「TemplateDoesNotExist」エラーが発生しましたが、単純に、
+テンプレートフォルダ名は「template」ではなく「templates」ということでした。失礼。そして、
+python manage.py migrate
+python manage.py createsuperuser
+により、管理画面が表示されます。
+bootstrapも組み込んで（Bootstrap 4ではグリフアイコンをサポートしないため、「fonts」フォルダは削除されましたとのことなので、最新版を取得するとここはちょっと違います）、次はTask3です。
+ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装 posted with カエレバ 斎藤 康毅 オライリージャパン 2016-09-24 売り上げランキング : 303</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Python/Django環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</link><pubDate>Thu, 03 May 2018 00:31:24 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-python-django%E7%92%B0%E5%A2%83/</guid><description>次は、Webアプリ側の環境で、Djangoです。
+もう、これは、最初からCloud9で楽勝でしょう、と思っていたら甘かった・・・
+AWS Cloud9とは 　元々Cloud9を使用しており、開発環境をワンクリックで簡単に構築できることが売りだったので、それでよいやと思っていたわけです。
+ただ、昨年AWSに統合されたバージョンがリリースされました。最初は旧版とAWS版並列で行くていくのかなと思っていたのですが、どうやら移行を促されるようなので、この機会にAWS版を使用することにしました。
+（旧版は新規プロジェクト作成時は、こんな感じでテンプレートを選択できます。ボタンを押すだけで、すぐに開発環境ができあがり、ソースを書き始めることができます。）
+　いざ使おうとすると、色々分かってきます。
+まず、AWS Cloud9は、IDEとしては無償なのですが、環境とセットにはなっていません。
+分かりにくいですが、他のサーバを使用してSSHで接続するか、AWSのEC2に乗せる必要があります。すなわち、環境自体は無償とは限らないということです。
+EC2も12か月間は無償利用できるというのがアピールされていますが、1年後にどうするか悩むことになるのであれば、そこには頼りたくないなという気持ちがわきました。
+選択肢として、たまたま最近さくらレンタルサーバを契約したので、それでもよいかと思ったのですが、それだと世間の人にとっては無償でもなんでもなくなりますし、そちらは今あまり壊したくないというのもありました。
+そこで他の選択肢を探し、見つけたのがGCE（Google Compute Engine）でした。
+GCE（Google Compute Engine）を使用する 　GCEは、最初にOSやCPU等を選択して、まっさらのOS環境が提供される、という意味で、レンタルサーバとほぼ同様と考えてよいかと思います。
+とはいえ最低限のものは入っていると予想して、設定を開始します。今回必要なのはPython3でDjangoを動かすことです。
+ここで頭の中に持っておいた方が良いと思うことは、Cloud9（AWS）側の設定と、GCEの設定がある、ということです。そして、ほとんどの作業はGCE側の設定です。Cloud9の画面を見ていますが、それはGCEに接続して作業しているということです。
+　話がいったんAWS Cloud9に戻りますが、新規プロジェクト作成時に、ワンクリックで環境設定してくれる、という機能はなくなってしまいました。繰り返しますが、あくまでもIDEです。ですから、SSHで接続した後は、必要なインストール作業を行う必要があります。IDEの中にターミナル機能が統合されている等は旧版と同じですので、そこで以下の作業を行います。
+　まず、Cloud9側でPython3を選択します。けど、これは要はIDEの設定であり、環境の設定ではありません。
+では、ということで、ここからCode4StartUpのビデオを見ながら環境を作っていこうと思います。
+そしていきなり躓きます。「sudo apt-get install python3-venv」ができません。以下失敗なので、簡単に流しますが、python3.4-venvなら成功しますが、ビデオの後の方で3.5であることを確認されますので、やばい、3.5にあげないと、と思います。Cloud9の画面では「/usr/local/lib/python2.7/dist-packages:/usr/local/lib/python3.4/dist-packages:/usr/local/lib/python3.5/dist-packages」と書いてあるのに何でないのだ？と思っていたましたが、これはあくまでもIDEの設定です。環境は別です。
+色々調べて、「sudo python -m pip install –upgrade pip」しようとしますが、ないと言われます。色々あって、3.5ではなく最新の3.6でよいやと思い「sudo add-apt-repository ppa:jonathonf/python-3.6」以下・・・（省略）でインストールします、しかし、「python3.6 –version」では3.6インストールが確認できますが、「python3 –version」ではまだ3.4を参照しています。
+そこで、pyenvというものの存在に出会い、「curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash」でインストールしようとしますが、gitが入っていない、とのエラー。なんと！そこからですか！
+gitインストールしてから再度pyenvインストールして、それでも「pyenv install –list」で表示されないので「sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils」して、「pyenv install 3.</description></item><item><title>Code4StartUp ～ UberEatsを作ろう ～ Swift環境</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</link><pubDate>Wed, 02 May 2018 02:15:27 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-ubereats%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86-%EF%BD%9E-swift%E7%92%B0%E5%A2%83/</guid><description>Code4Startup
+こちらが本題の、UberEatsを作ろう（Create UberEats with Python/Django and Swift 3）。
+まずは、環境構築から始まるのですが、Python、Heroku、Atomは使用するしないは良いとして、XcodeはWindows環境だとどうしようもない。
+しかし、今の時代、色々な方法はあるようで、Swiftのためだけなら、Xcodeがなくても何とかなるっぽい。
+ということで、環境作ってみました。
+IBM Swift Sandboxはもう存在しない？ まず、最初に、「IBM Swift Sandbox」というものが気になりましたが、現在はリンク切れです。
+ただ、もう少し粘ってみると、IBM Cloud App Service というものに誘導されます。
+こちらを登録すると、開発環境も使えるようになるのですが、その言語がSwiftになっています。
+（いろいろなタイプが選べますが、一番左上の「プロジェクトの作成」を選ぶとswiftになるのです。）
+けど、より簡単なのは、Swift Kituraを選択することのようです。
+しかし、いずれにせよ、Swift Sandboxで企図されていたようなものではないようです。その場でソースを書いて実行するのであればよかったのですが、あくまでもローカルでソースを書くのであれば、ちょっと必要性が薄いかなと。
+こちらは、いったん中断しておきます。
+ローカルにSwift環境を構築 ですので、ローカルに環境を構築することにします。
+基本的には、
+https://qiita.com/akira_/items/e5550dbb571a20deb3c1
+を参考にさせていただきました。
+Windows Subsystem for Linux、知りませんでした。
+途中再起動等入るのと、これを有効にした後に、Linuxパッケージを導入する、というところに注意です。
+Windowsでこんな選択画面を表示する、ということ自体驚きですが、いかがでしょうか。
+その後は、インストールされたUbuntuバージョンに合わせて、記述を調整しながら進めれば、環境構築完了し、Hello worldまでは行けました。
+なお、元々Git Bashが入っていた環境ですので、バッティング等も気にならないでもないですが、とりあえずどちらも動いています。
+（2018年10月）結局MAC購入 Code4StartUp ～ UberEatsを作ろう ～ iMac購入して続行 結局、iOSアプリ作ろうと思ったら買わざるを得ませんでした・・・
+ Code4Startup</description></item><item><title>Code4StartUp ～ Landing Pageを作ろう</title><link>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</link><pubDate>Tue, 03 Apr 2018 14:44:56 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/code4startup-%EF%BD%9E-landing-page%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86/</guid><description>ちょっと、Noteを使ってみたりもしており、こちらはご無沙汰になりました。
+Noteのような厳しい制約の中で書くのもそれはそれでありだと思うのですが、ちょっと厳しすぎる感もあり。
+しかも、有償化はそんな簡単な話ではないなと。
+ただ、ちゃんと構造化した文書、というものは意識したいなと思います。
+Code4StartUpを始めてみる 　実は結構前に始まっているサービスですが、最近知り、今の私に非常にマッチした学習ができそうということで始めることにしました。
+登録は無料なのですが、登録すると、時間限定で、プレミアムプロジェクトであるUBER EATSコースが、499ドルから99ドルになるとの表示。あざとい・・・と思いながらぽちりました。なぜならUBER EATSこそが、今回のきっかけだから。
+Landing Page作成プロジェクト 　しかし、最初は無料コースから。
+無料コースとはいえ、Bootstrapでランディングページを作って公開するところまでやってみよう、というのはなかなかセンスが良いのではと思います。
+そして、色々知らないサービスも勉強させてもらえました。
+Start Bootstrap
+https://startbootstrap.com/
+Bootstrapのデザインテンプレート。
+日本人向けだとまたちょっと違うかなという気もしますが、今回は日本人向けではないので、そういう意味でも役に立ちます。
+Font Awesome
+https://fontawesome.com/
+講義ビデオの中では、fontawesome.ioになっている。
+そして、envelope-opeのページに記載されているリンクも、講義ビデオだとclass=”fa … だけど、現在のページだとclass”fas …
+理由はFont Awesomeが4から5にアップグレードされているためでした。
+”fa fa-map-marker fa-stack-1x fa-inverse”でアイコンは変更されます。
+Chromeの右クリックInspectは日本語版だと検証（Ctrl+Shift+I）。
+講義の中で使われている記述”col-md-offset-3”が反応しない。→offset-md-3が正解。
+理由はBootstrapが3から4にアップグレードされているため。
+MailChimp
+https://mailchimp.com/
+メール送信サービス
+。昔DM送信で苦労した記憶が18年たっても忘れられない身としては、ありがたや。
+Wufoo
+https://www.wufoo.com/
+フォーム作成サービス。今どきはこんな風に実装するんですね。
+githubデスクトップ
+なかなかgithubを導入しきれませんが、これはちょっと良いかも？後日導入記を書くことになりそう。
+Bluehost
+海外有料サーバはあまり調べたことがなかったですが、ここが主力っぽいですね。日本だとさくらの位置づけ。ただ、日本のサービスと違い、1ドメイン取得無料は大きいかも。
+一通り見てみました。
+後は、公開前のセキュリティチェック等があるとよいのではと思いました。
+そして、UBER EATSコースに入っていきたいと思います。</description></item></channel></rss>

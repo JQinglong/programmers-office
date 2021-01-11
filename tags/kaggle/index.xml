@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kaggle on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/kaggle/</link><description>Recent content in Kaggle on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Fri, 03 May 2019 02:30:04 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/kaggle/index.xml" rel="self" type="application/rss+xml"/><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！ ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら Kaggle</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kaggle on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/kaggle/</link><description>Recent content in Kaggle on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Fri, 03 May 2019 02:30:04 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/kaggle/index.xml" rel="self" type="application/rss+xml"/><item><title>Kaggleのタイタニック問題で機械学習</title><link>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link><pubDate>Fri, 03 May 2019 02:30:04 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/kaggle%E3%81%AE%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF%E5%95%8F%E9%A1%8C%E3%81%A7%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid><description>ぬるさくで学んだ基礎を生かして、アプリを作ってみよう！
+ぬるさくの学習はこちらNuxt.js と Python でつくるぬるさく AI アプリ開発入門 参考はこちら【Kaggle初心者入門編】タイタニック号で生き残るのは誰？ Kaggleの説明もこちら
+Kaggleとは？機械学習初心者が知っておくべき3つの使い方 そしてKaggleの入門用コンペ
+Titanic: Machine Learning from Disaster
+https://www.kaggle.com/c/titanic
+最初にプロジェクト用のディレクトリ（例：titanic）を作成し、その中にdatasetフォルダを作成して、ダウンロードしたデータを配置。
+さらにworkspaceディレクトリも作成。
+Anaconda-Navigatorを起動
+Notebookを起動
+プロジェクト用のディレクトリのworkspaceに移動
+New &amp;gt; Python 3
+そうすると
+import pandas as pd import numpy as np train = pd.read_csv("../dataset/train.csv") test = pd.read_csv("../dataset/test.csv") で行ける。
+「データセットの欠損の確認」のスクリプトは、そのまま貼り付けるとインデントが効いていないので注意。
+「文字の数字への置き換え」のところでエラー発生。
+train["Sex"][train["Sex"] == "male"] = 0 train["Sex"][train["Sex"] == "female"] = 1 train["Embarked"][train["Embarked"] == "S" ] = 0 train["Embarked"][train["Embarked"] == "C" ] = 1 train["</description></item></channel></rss>
