@@ -3,7 +3,7 @@ title: "新しい決済システム 2020"
 date: 2021-01-11T09:03:51+09:00
 draft: false
 categories:
-  - プログラミング
+  - 関心ごと
 tags:
   - 決済
 
