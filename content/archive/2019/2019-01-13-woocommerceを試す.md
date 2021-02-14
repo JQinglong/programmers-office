@@ -34,7 +34,7 @@ WooCommerce入りのDocker Hubのイメージもありますが、そこは後�
   
 やはり、wordpressセットアップ画面をすっ飛ばして、サイトが立ち上がっている状態まで来てくれます。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?fit=1024%2C710&ssl=1" alt="" class="wp-image-2601" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?w=2286&ssl=1 2286w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=300%2C208&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=768%2C532&ssl=1 768w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=1024%2C710&ssl=1 1024w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?fit=1024%2C710&ssl=1" alt="" class="wp-image-2601" srcset="/uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?w=2286&ssl=1 2286w, /uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=300%2C208&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=768%2C532&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?resize=1024%2C710&ssl=1 1024w, /uploads/2019/01/スクリーンショット-2019-01-13-0.22.01.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 管理画面はwp-admin、ユーザ・パスワードは、Settings画面参照（WORDPRESS\_USERNAME、WORDPRESS\_PASSWORD）。  
 日本語化はされていません。

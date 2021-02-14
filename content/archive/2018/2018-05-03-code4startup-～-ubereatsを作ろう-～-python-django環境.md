@@ -24,7 +24,7 @@ tags:
 　ただ、昨年AWSに統合されたバージョンがリリースされました。最初は旧版とAWS版並列で行くていくのかなと思っていたのですが、どうやら移行を促されるようなので、この機会にAWS版を使用することにしました。
 
 （旧版は新規プロジェクト作成時は、こんな感じでテンプレートを選択できます。ボタンを押すだけで、すぐに開発環境ができあがり、ソースを書き始めることができます。）  
-[<img width="244" height="102" title="image" style="margin: 0px; display: inline; background-image: none;" alt="image" src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2018/05/image_thumb-4.png?resize=244%2C102&#038;ssl=1" border="0" data-recalc-dims="1" />][1]
+[<img width="244" height="102" title="image" style="margin: 0px; display: inline; background-image: none;" alt="image" src="/uploads/2018/05/image_thumb-4.png?resize=244%2C102&#038;ssl=1" border="0" data-recalc-dims="1" />][1]
 
 　いざ使おうとすると、色々分かってきます。  
 　まず、AWS Cloud9は、IDEとしては無償なのですが、環境とセットにはなっていません。  
@@ -64,4 +64,4 @@ tags:
 そんなことはありませんでした。GCPのファイアウォールの設定でtcp8000を許可すれば、外部アドレスで参照可能となりました。  
 ただし、サービス起動は「python manage.py runserver」ではダメで「python manage.py runserver 内部アドレス:8000」とする必要があります。
 
- [1]: https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/05/image-4.png?ssl=1
+ [1]: /uploads/2018/05/image-4.png?ssl=1

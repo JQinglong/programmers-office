@@ -15,7 +15,7 @@ categories:
 まず、Monacaで画面デザインを作っています。  
 新規プロジェクトでは、「Onsen UI V2 Vue Tabbar」を選択します。
 
-[<img style="display: inline; background-image: none;" title="monaca_newprj" src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/monaca_newprj_thumb.png?resize=244%2C172&#038;ssl=1" alt="monaca_newprj" width="244" height="172" border="0" data-recalc-dims="1" />][1]  
+[<img style="display: inline; background-image: none;" title="monaca_newprj" src="/uploads/2018/06/monaca_newprj_thumb.png?resize=244%2C172&#038;ssl=1" alt="monaca_newprj" width="244" height="172" border="0" data-recalc-dims="1" />][1]  
 しかし、各種サンプルを見ながらなんとかなるかなと思いいつつ、なかなかしんどいですね。
 
 この構成の場合、何かを調べようと思ったら、Monacaという基盤の話なのか、Onsen UIというデザインフレームワークの話なのか、Vueという画面制御フレームワークの話なのか、を切り分けながらそれぞれのマニュアルなり、情報なりを調べる必要があるわけです。
@@ -71,4 +71,4 @@ categories:
   </tr>
 </table>
 
- [1]: https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/monaca_newprj.png?ssl=1
+ [1]: /uploads/2018/06/monaca_newprj.png?ssl=1

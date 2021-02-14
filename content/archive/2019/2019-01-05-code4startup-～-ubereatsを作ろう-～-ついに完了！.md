@@ -15,10 +15,10 @@ tags:
   - Code4Startup
 
 ---
- <figure class="wp-block-image is-resized">[<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&ssl=1" alt="" class="wp-image-2504 jetpack-lazy-image jetpack-lazy-image--handled" width="800" height="425" data-recalc-dims="1" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px" />
+ <figure class="wp-block-image is-resized">[<img src="/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&ssl=1" alt="" class="wp-image-2504 jetpack-lazy-image jetpack-lazy-image--handled" width="800" height="425" data-recalc-dims="1" srcset="/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, /uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, /uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" data-lazy-loaded="1" sizes="(max-width: 800px) 100vw, 800px" />
 
 <noscript>
-  <img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&ssl=1" alt="" class="wp-image-2504" width="800" height="425" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" />
+  <img src="/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&ssl=1" alt="" class="wp-image-2504" width="800" height="425" srcset="/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, /uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, /uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" />
 </noscript>][1]<figcaption>
 
 [Code4Startup][1]</figcaption></figure> 

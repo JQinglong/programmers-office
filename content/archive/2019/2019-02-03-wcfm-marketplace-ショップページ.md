@@ -28,13 +28,13 @@ _WCFM MARKETPLACE – STORE HOURS_
 この辺は、おそらく使用しているテーマにも関係してくる。  
 Shop Isleを使っている訳ですが、テーマのカスタマイズで、「Vendor Store Sidebar」という設定項目があり、そこで、Store Hoursを追加できます。<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-03-9.53.58.jpg?ssl=1" alt="" class="wp-image-2805" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-03-9.53.58.jpg?ssl=1" alt="" class="wp-image-2805" data-recalc-dims="1" /> </figure> 
 
 で、これをやると表示されるようになった訳ですが、ただ、元々表示されていた、商品カテゴリー表示とか、店舗地図とかが消えちゃった。  
 まあ、あまりデフォルト表示に頼るのもどうかというのもあるので、必要な表示をここに追加していくことで、だいぶ見た目も整ってきました。  
 ※用意されているウィジェットも豊富です。<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?ssl=1" alt="" class="wp-image-2806" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?w=400&ssl=1 400w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?resize=199%2C300&ssl=1 199w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?ssl=1" alt="" class="wp-image-2806" srcset="/uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?w=400&ssl=1 400w, /uploads/2019/02/スクリーンショット-2019-02-03-10.03.18.jpg?resize=199%2C300&ssl=1 199w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /> </figure> 
 
 もう一点は、ABOUTとPOLICIESの入力場所。  
 これは、どうやら管理者ログインだと表示されないようで、ベンダーログインして設定。

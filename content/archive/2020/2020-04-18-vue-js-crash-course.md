@@ -61,11 +61,11 @@ vue\_crash\_todolist
 
 ダッシュボード画面<figure class="wp-block-image size-large">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?ssl=1" alt="" class="wp-image-3282" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?w=800&ssl=1 800w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=300%2C199&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=768%2C510&ssl=1 768w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=480%2C320&ssl=1 480w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?ssl=1" alt="" class="wp-image-3282" srcset="/uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?w=800&ssl=1 800w, /uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=300%2C199&ssl=1 300w, /uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=768%2C510&ssl=1 768w, /uploads/2020/04/スクリーンショット-2020-04-17-11.16.20.png?resize=480%2C320&ssl=1 480w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 プロジェクトタスク画面<figure class="wp-block-image size-large">
 
-<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?ssl=1" alt="" class="wp-image-3283" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?w=800&ssl=1 800w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?resize=300%2C198&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?resize=768%2C508&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?ssl=1" alt="" class="wp-image-3283" srcset="/uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?w=800&ssl=1 800w, /uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?resize=300%2C198&ssl=1 300w, /uploads/2020/04/スクリーンショット-2020-04-17-11.19.51.png?resize=768%2C508&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 main.js がエントリポイント
 

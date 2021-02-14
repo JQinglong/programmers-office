@@ -19,7 +19,7 @@ tags:
   - Code4Startup
 
 ---
-<img class="wp-image-2504 jetpack-lazy-image jetpack-lazy-image--handled" src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?ssl=1" sizes="(max-width: 800px) 100vw, 800px" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" alt="" data-recalc-dims="1" data-lazy-loaded="1" /><a href="https://code4startup.com/?ref=kiyotakakonno" target="_blank" rel="noreferrer noopener">Code4Startup</a>
+<img class="wp-image-2504 jetpack-lazy-image jetpack-lazy-image--handled" src="/uploads/2018/12/Code4Startup.jpg?ssl=1" sizes="(max-width: 800px) 100vw, 800px" srcset="/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, /uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, /uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" alt="" data-recalc-dims="1" data-lazy-loaded="1" /><a href="https://code4startup.com/?ref=kiyotakakonno" target="_blank" rel="noreferrer noopener">Code4Startup</a>
 
 リスト画面から詳細画面呼び出し、そこからショッピングカート（この講座ではTrayという言葉）への追加。  
 途中のミニ講座は、「pyramid if」。  

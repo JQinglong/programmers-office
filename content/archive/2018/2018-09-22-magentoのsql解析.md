@@ -97,7 +97,7 @@ stock\_status\_index.stock_status = 1
 また、Visibilityという項目で表示設定を行います。  
 ここで。「カタログ,検索」を指定しないと表示されません。  
 これの使い方として、例えば、商品タイプとして、Configurable Productを指定した時に、基本商品は一覧に出すけど、サイズ別の商品設定は一覧には出さない、という場合には、サイズ別の商品は非表示にしておくことでそのような動作になります。  
-[<img style="margin: 0px; display: inline; background-image: none;" title="image" src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/09/image_thumb-2.png?resize=244%2C154&#038;ssl=1" alt="image" width="244" height="154" border="0" data-recalc-dims="1" />][1]
+[<img style="margin: 0px; display: inline; background-image: none;" title="image" src="/uploads/2018/09/image_thumb-2.png?resize=244%2C154&#038;ssl=1" alt="image" width="244" height="154" border="0" data-recalc-dims="1" />][1]
 
 こんな感じで、SQLを見ながら商品設定をしていくと表示されるようになるのですが、最後の砦として、システム＞キャッシュ管理　で更新することにより表示された、ということもありましたので、油断は禁物です。
 
@@ -146,6 +146,6 @@ stock\_status\_index.stock_status = 1
   * [Magento ホームページカスタマイズへの道][2]
   * [Magento(マジェント)始めました][3]
 
- [1]: https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/09/image-2.png?ssl=1
+ [1]: /uploads/2018/09/image-2.png?ssl=1
  [2]: https://www.programmers-office.ml/2018/09/22/magento-%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e3%81%b8%e3%81%ae%e9%81%93/
  [3]: https://www.programmers-office.ml/2018/09/17/magento%e3%83%9e%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f/

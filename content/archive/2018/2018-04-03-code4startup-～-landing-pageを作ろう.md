@@ -24,7 +24,7 @@ tags:
 　実は結構前に始まっているサービスですが、最近知り、今の私に非常にマッチした学習ができそうということで始めることにしました。  
 　登録は無料なのですが、登録すると、時間限定で、プレミアムプロジェクトであるUBER EATSコースが、499ドルから99ドルになるとの表示。あざとい・・・と思いながらぽちりました。なぜならUBER EATSこそが、今回のきっかけだから。
 
-[<img width="244" height="185" title="code4" style="display: inline; background-image: none;" alt="code4" src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/04/code4_thumb.png?resize=244%2C185&#038;ssl=1" border="0" data-recalc-dims="1" />][1]
+[<img width="244" height="185" title="code4" style="display: inline; background-image: none;" alt="code4" src="/uploads/2018/04/code4_thumb.png?resize=244%2C185&#038;ssl=1" border="0" data-recalc-dims="1" />][1]
 
 ### Landing Page作成プロジェクト
 
@@ -67,6 +67,6 @@ tags:
 
 そして、UBER EATSコースに入っていきたいと思います。
 
- [1]: https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2018/04/code4.png?ssl=1
+ [1]: /uploads/2018/04/code4.png?ssl=1
  [2]: http://fontawesome.io/
  [3]: https://www.wufoo.com/ "https://www.wufoo.com/"

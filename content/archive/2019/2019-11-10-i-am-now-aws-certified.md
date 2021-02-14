@@ -15,7 +15,7 @@ categories:
 ---
 AWS Certified Solutions Architect &#8211; Associate試験に合格しました！<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?ssl=1" alt="" class="wp-image-3167" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?w=360&ssl=1 360w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?resize=300%2C50&ssl=1 300w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?ssl=1" alt="" class="wp-image-3167" srcset="/uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?w=360&ssl=1 360w, /uploads/2019/11/aws-certified-logo_color-horz_360x60.jpg?resize=300%2C50&ssl=1 300w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1" /> </figure> 
 
 合格者特権で、試験対策について書いてみたいと思います。  
 （まあ、こういうのは読み流すものです）

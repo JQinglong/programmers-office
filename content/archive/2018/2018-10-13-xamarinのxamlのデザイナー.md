@@ -84,7 +84,7 @@ Windowsユニバーサルとか、デスクトップアプリケーションをx
 
 プレビュー機能は提供されているので、こんな感じになります。
 
-[<img style="margin: 0px; display: inline; background-image: none;" title="image" src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/10/image_thumb-2.png?resize=244%2C132&#038;ssl=1" alt="image" width="244" height="132" border="0" data-recalc-dims="1" />][2]
+[<img style="margin: 0px; display: inline; background-image: none;" title="image" src="/uploads/2018/10/image_thumb-2.png?resize=244%2C132&#038;ssl=1" alt="image" width="244" height="132" border="0" data-recalc-dims="1" />][2]
 
 この画面でいうと、左側のxml記述に、一番左のツールボックスからドラッグアンドドロップはできます。  
 これで頑張るしかないのですね。
@@ -94,4 +94,4 @@ Windowsユニバーサルとか、デスクトップアプリケーションをx
 厳しい！
 
  [1]: https://developercommunity.visualstudio.com/content/problem/272117/xamarin-designer-not-working.html "https://developercommunity.visualstudio.com/content/problem/272117/xamarin-designer-not-working.html"
- [2]: https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/10/image-2.png?ssl=1
+ [2]: /uploads/2018/10/image-2.png?ssl=1

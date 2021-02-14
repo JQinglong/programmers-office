@@ -28,11 +28,11 @@ tags:
 すなわち、Google Maps Platformという大きな括りの中で、大きく三つのサービスが提供されています。そして、そのうちの一つが、Places APIです。  
 <a rel="noreferrer noopener" target="_blank" href="https://cloud.google.com/maps-platform/products/?hl=ja&authuser=0">https://cloud.google.com/maps-platform/products/?hl=ja</a><figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?ssl=1" alt="" class="wp-image-2781" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?w=600&ssl=1 600w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?resize=300%2C192&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?ssl=1" alt="" class="wp-image-2781" srcset="/uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?w=600&ssl=1 600w, /uploads/2019/02/スクリーンショット-2019-02-02-22.46.23.jpg?resize=300%2C192&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
 
 たしかに、3つ目をチェックしなかった気がします。  
 改めて、有効にするのはこちらの画面から。<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?ssl=1" alt="" class="wp-image-2782" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?w=800&ssl=1 800w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?resize=300%2C205&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?resize=768%2C524&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?ssl=1" alt="" class="wp-image-2782" srcset="/uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?w=800&ssl=1 800w, /uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?resize=300%2C205&ssl=1 300w, /uploads/2019/02/スクリーンショット-2019-02-02-22.48.16.jpg?resize=768%2C524&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 無事連動するようになりました。

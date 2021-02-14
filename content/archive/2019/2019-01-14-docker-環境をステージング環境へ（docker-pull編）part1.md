@@ -36,7 +36,7 @@ ECSの手順については、こちらを参照させていただきました�
 ポートマッピングは悩みますが、mariadb側はなし、wordpress側は80:80と、443:443を追加しておきます。  
 タスク定義が正常に作成されました、とのことです。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?ssl=1" alt="" class="wp-image-2696" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?w=800&ssl=1 800w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?resize=300%2C182&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?resize=768%2C465&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?ssl=1" alt="" class="wp-image-2696" srcset="/uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?w=800&ssl=1 800w, /uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?resize=300%2C182&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-14-22.27.42.jpg?resize=768%2C465&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 続いて、クラスターを作成します。  
 クラスターテンプレートは、Fargateではないので、「EC2 Linux + ネットワーキング」を指定します。  
@@ -45,13 +45,13 @@ ECSの手順については、こちらを参照させていただきました�
 分からないながら進めていき、起動します。  
 「サービスの検出の統合の有効化」はさらに不明のため、チェックを外しておきます。（上記サイトの絵にはありませんので、貼っておきます）<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?ssl=1" alt="" class="wp-image-2698" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?w=800&ssl=1 800w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?resize=300%2C268&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?resize=768%2C686&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?ssl=1" alt="" class="wp-image-2698" srcset="/uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?w=800&ssl=1 800w, /uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?resize=300%2C268&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-14-22.46.38.jpg?resize=768%2C686&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 以上で立ち上がったはずですが、サービス画面に行ってみると、起動失敗。  
 理由は、  
 https://registry.gitlab.com/v2/aaa/bbb/woocommerce\_wordpress\_1/manifests/latest: denied: access forbidden  
 まあ、そうですよね・・・<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?ssl=1" alt="" class="wp-image-2699" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?w=800&ssl=1 800w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?resize=300%2C146&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?resize=768%2C374&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?ssl=1" alt="" class="wp-image-2699" srcset="/uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?w=800&ssl=1 800w, /uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?resize=300%2C146&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-14-22.48.31.jpg?resize=768%2C374&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 コンテナの設定の、「プライベートレジストリの認証」「認証情報パラメータ」辺りだと思いますが、今日は時間切れです。

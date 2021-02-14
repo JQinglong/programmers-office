@@ -75,6 +75,6 @@ gitlabのページに記載を参考に、最後に「:タグ名」を付けて�
 
 gitlab.comのRegistryリンクからみてみると、こんな表示が二つされるようになりました。<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?fit=1024%2C133&ssl=1" alt="" class="wp-image-2691" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?w=1700&ssl=1 1700w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=300%2C39&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=768%2C99&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=1024%2C133&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?fit=1024%2C133&ssl=1" alt="" class="wp-image-2691" srcset="/uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?w=1700&ssl=1 1700w, /uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=300%2C39&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=768%2C99&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-14-19.09.40.png?resize=1024%2C133&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 ちょっと苦労したので、いったんここまで。

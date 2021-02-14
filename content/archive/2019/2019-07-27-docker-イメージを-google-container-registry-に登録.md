@@ -57,4 +57,4 @@ tags:
 
 公開設定が「非公開」になっているのが、本とは異なるので、若干気になる・・・<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?ssl=1" alt="" class="wp-image-3139" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?w=800&ssl=1 800w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?resize=300%2C97&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?resize=768%2C248&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure>
+<img src="/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?ssl=1" alt="" class="wp-image-3139" srcset="/uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?w=800&ssl=1 800w, /uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?resize=300%2C97&ssl=1 300w, /uploads/2019/07/スクリーンショット-2019-07-27-7.00.22.png?resize=768%2C248&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure>

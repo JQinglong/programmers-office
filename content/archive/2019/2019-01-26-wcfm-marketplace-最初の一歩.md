@@ -23,14 +23,14 @@ WooCommerce Multi vendor Marketplace (WCFM Marketplace)を使うにあたって�
 
 WPのダッシュボードはこんな感じになります。<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?fit=1024%2C825&ssl=1" alt="" class="wp-image-2736" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?w=1200&ssl=1 1200w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=300%2C242&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=768%2C619&ssl=1 768w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=1024%2C825&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?fit=1024%2C825&ssl=1" alt="" class="wp-image-2736" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?w=1200&ssl=1 1200w, /uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=300%2C242&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=768%2C619&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-26-16.51.31.jpg?resize=1024%2C825&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 そして、「Marketplace」からWCFM Marketplaceのメニューに移ります。
 
 手順としては、やはりVendorsから始めます。  
 登録内容自体は見れば分かるレベルなので良いですが、ドキュメント検索しても見つからないのは、ちょっと不安・・・。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?fit=1024%2C430&ssl=1" alt="" class="wp-image-2737" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?w=1200&ssl=1 1200w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=300%2C126&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=768%2C323&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=1024%2C430&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?fit=1024%2C430&ssl=1" alt="" class="wp-image-2737" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?w=1200&ssl=1 1200w, /uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=300%2C126&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=768%2C323&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-26-17.02.02.jpg?resize=1024%2C430&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 ## 商品
 
@@ -38,13 +38,13 @@ WPのダッシュボードはこんな感じになります。<figure class="wp-
 
 の前に、Categories。これが最初分かりにくかったですが、Productsメニューの中にあります。要するに、WooCommerceの機能なのか、Marketplaceの機能なのかを意識しながら考えることが必要です。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?ssl=1" alt="" class="wp-image-2738" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?w=600&ssl=1 600w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?resize=300%2C255&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?ssl=1" alt="" class="wp-image-2738" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?w=600&ssl=1 600w, /uploads/2019/01/スクリーンショット-2019-01-26-18.03.03.jpg?resize=300%2C255&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
 
 Productsについては、商品の種類を選択して、基本内容を登録し、バリエーション商品の場合は、属性を登録して、その属性によって金額等のバリエーション情報を登録。  
 この辺の仕組みは、WC Marketplaceでも同じ。というか、それはWooCommerceの機能ですね。  
 <a rel="noreferrer noopener" target="_blank" href="https://www.programmers-office.ml/2019/01/14/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/">https://www.programmers-office.ml/2019/01/14/wc-marketplace%EF%BC%88%E5%95%86%E5%93%81%E6%A9%9F%E8%83%BD%EF%BC%89/</a><figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?fit=1024%2C322&ssl=1" alt="" class="wp-image-2739" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?w=1200&ssl=1 1200w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=300%2C94&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=768%2C241&ssl=1 768w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=1024%2C322&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> <figure class="wp-block-image"><img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?ssl=1" alt="" class="wp-image-2740" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?w=800&ssl=1 800w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?resize=300%2C147&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?resize=768%2C375&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?fit=1024%2C322&ssl=1" alt="" class="wp-image-2739" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?w=1200&ssl=1 1200w, /uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=300%2C94&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=768%2C241&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-26-17.26.55.jpg?resize=1024%2C322&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> <figure class="wp-block-image"><img src="/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?ssl=1" alt="" class="wp-image-2740" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?w=800&ssl=1 800w, /uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?resize=300%2C147&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-26-17.27.24.jpg?resize=768%2C375&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></figure> 
 
 ちなみに、Welcartとかだと、バリエーションの分SKUコードを振って、それごとに金額等を設定。  
 <a rel="noreferrer noopener" target="_blank" href="https://www.welcart.com/documents/manual-2/%E5%95%86%E5%93%81%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC">https://www.welcart.com/documents/manual-2/%E5%95%86%E5%93%81%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC</a>  
@@ -58,7 +58,7 @@ _WOOCOMMERCE FRONTEND MANAGER – ULTIMATE_
 
 と思いきや、商品の基本情報について言えばWooCommerceの機能な訳なので、メインダッシュボードの方のImport機能は使えます。<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?ssl=1" alt="" class="wp-image-2741" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?w=600&ssl=1 600w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?ssl=1" alt="" class="wp-image-2741" srcset="/uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?w=600&ssl=1 600w, /uploads/2019/01/スクリーンショット-2019-01-26-17.50.27.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /> </figure> 
 
 ですので、そちらでImportして、どの店舗の商品化の情報だけ後で加える、という方法も不可能ではないですね。けど大量だとやはり厳しいので、ULTIMATEは購入しても良いのかもしれません。49ドルは良心的でしょう。
 

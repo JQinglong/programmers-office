@@ -15,7 +15,7 @@ tags:
   - Code4Startup
 
 ---
-<figure class="wp-block-image"><img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?ssl=1" alt="" class="wp-image-2504" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption><a rel="noreferrer noopener" href="https://code4startup.com/?ref=kiyotakakonno" target="_blank">Code4Startup</a></figcaption></figure> 
+<figure class="wp-block-image"><img src="/uploads/2018/12/Code4Startup.jpg?ssl=1" alt="" class="wp-image-2504" srcset="/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, /uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, /uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /><figcaption><a rel="noreferrer noopener" href="https://code4startup.com/?ref=kiyotakakonno" target="_blank">Code4Startup</a></figcaption></figure> 
 
 Task19はレストランリストの実装。  
 最初は、仮実装でリスト表示の枠組みを作っておいて、ここで、API連携により実際のデータを表示させます。  

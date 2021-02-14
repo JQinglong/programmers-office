@@ -129,7 +129,7 @@ JavaScriptを追加することができますので、
 
 ページテンプレートを作成したら、固定ページを作成して、そのページ属性として作成したテンプレートを選択します。テンプレートを指定することにより、その内容が出力されるので、固定ページ自体の内容は何も書かなくて構いません。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?ssl=1" alt="" class="wp-image-3159" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?w=480&ssl=1 480w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?resize=300%2C196&ssl=1 300w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?ssl=1" alt="" class="wp-image-3159" srcset="/uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?w=480&ssl=1 480w, /uploads/2019/09/スクリーンショット-2019-09-14-9.21.11.png?resize=300%2C196&ssl=1 300w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /> </figure> 
 
 受取側も、POST値を受け取って、APIに投げて、APIからのレスポンスに基づいて、加工する等して（というのをPHPで書いて）、Bootstrap的HTMLを組み立てる、ということになります。
 

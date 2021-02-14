@@ -25,7 +25,7 @@ tags:
 
 ASP.NETかJavaのソースを出力してくれるそうです。あまり何も考えずにチュートリアルをやってみたら、ASP.NET＋SQL Serverの環境を作ってくれたようです。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems1.png?ssl=1" alt="" class="wp-image-3003" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems1.png?w=878&ssl=1 878w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems1.png?resize=300%2C237&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems1.png?resize=768%2C608&ssl=1 768w" sizes="(max-width: 878px) 100vw, 878px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/06/outsystems1.png?ssl=1" alt="" class="wp-image-3003" srcset="/uploads/2019/06/outsystems1.png?w=878&ssl=1 878w, /uploads/2019/06/outsystems1.png?resize=300%2C237&ssl=1 300w, /uploads/2019/06/outsystems1.png?resize=768%2C608&ssl=1 768w" sizes="(max-width: 878px) 100vw, 878px" data-recalc-dims="1" /> </figure> 
 
 ## チュートリアルをやってみて
 
@@ -41,7 +41,7 @@ ASP.NETかJavaのソースを出力してくれるそうです。あまり何も
 
 画面テンプレートを選択すると、サンプルデータで動く形までできていて、EXCELデータを指定すると、それをDBに登録して、そちらを参照するように変更してくれる、というのはスマートな作りだと思います。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems2.png?resize=1024%2C478&#038;ssl=1" alt="" class="wp-image-3002" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems2.png?resize=1024%2C478&ssl=1 1024w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems2.png?resize=300%2C140&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems2.png?resize=768%2C358&ssl=1 768w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/06/outsystems2.png?w=1292&ssl=1 1292w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2019/06/outsystems2.png?resize=1024%2C478&#038;ssl=1" alt="" class="wp-image-3002" srcset="/uploads/2019/06/outsystems2.png?resize=1024%2C478&ssl=1 1024w, /uploads/2019/06/outsystems2.png?resize=300%2C140&ssl=1 300w, /uploads/2019/06/outsystems2.png?resize=768%2C358&ssl=1 768w, /uploads/2019/06/outsystems2.png?w=1292&ssl=1 1292w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /> </figure> 
 
 このような画面を作るのですが、リスト用のデータと、グラフ用のデータをそれぞれ指定するだけでここまでできてしまいます。リストから詳細ページへの流れも、詳細画面は勝手にそれっぽく作ってくれるという点で、Glideと同様の発想かと思います。
 

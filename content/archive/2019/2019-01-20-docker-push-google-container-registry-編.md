@@ -96,7 +96,7 @@ Regionalでus-east1を選択します。
 
 そうすると、pushできるようになりました。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?fit=1024%2C299&ssl=1" alt="" class="wp-image-2712" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?w=2320&ssl=1 2320w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=300%2C88&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=768%2C224&ssl=1 768w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=1024%2C299&ssl=1 1024w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?fit=1024%2C299&ssl=1" alt="" class="wp-image-2712" srcset="/uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?w=2320&ssl=1 2320w, /uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=300%2C88&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=768%2C224&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?resize=1024%2C299&ssl=1 1024w, /uploads/2019/01/スクリーンショット-2019-01-20-10.53.24.png?w=2000&ssl=1 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 pushはできるんですよ、pushは・・・
 

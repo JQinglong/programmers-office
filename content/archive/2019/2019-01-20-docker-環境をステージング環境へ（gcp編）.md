@@ -64,7 +64,7 @@ DBだけだと動いているか分かりませんが、SSHで入って確認し
 であれば、もう一つのイメージはpullを叩いても良いか。  
 で、pullコマンドはContainer Registryの画面で表示させることができるというので、見に行ってみると、<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?fit=1024%2C363&ssl=1" alt="" class="wp-image-2715" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?w=1200&ssl=1 1200w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=300%2C106&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=768%2C272&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=1024%2C363&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?fit=1024%2C363&ssl=1" alt="" class="wp-image-2715" srcset="/uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?w=1200&ssl=1 1200w, /uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=300%2C106&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=768%2C272&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-20-12.53.01.jpg?resize=1024%2C363&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 「pullコマンドを表示」だけでなく「GCEにデプロイ」という魅力的なメニュー。試してみようとしましたが、新しいインスタンスをもう一つ作ることになるようです。  
 ということで、pullコマンドをコピーして実行。  

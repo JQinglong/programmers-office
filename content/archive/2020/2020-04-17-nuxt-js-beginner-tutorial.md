@@ -321,7 +321,7 @@ nuxt.config.js
 
 以上で終了<figure class="wp-block-image size-large">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?ssl=1" alt="" class="wp-image-3279" srcset="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?w=800&ssl=1 800w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?resize=300%2C202&ssl=1 300w, https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?resize=768%2C516&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
+<img src="/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?ssl=1" alt="" class="wp-image-3279" srcset="/uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?w=800&ssl=1 800w, /uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?resize=300%2C202&ssl=1 300w, /uploads/2020/04/スクリーンショット-2020-04-17-10.18.15.png?resize=768%2C516&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /> </figure> 
 
 の割には終わり方があっさりしている・・・
 

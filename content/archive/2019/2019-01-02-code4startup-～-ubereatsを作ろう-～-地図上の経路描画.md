@@ -18,7 +18,7 @@ tags:
 ---
 [][1]<figure class="wp-block-image is-resized">
 
-[<img src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&#038;ssl=1" alt="" class="wp-image-2504" width="800" height="425" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" />][1]<figcaption>[Code4Startup][1]</figcaption></figure> 
+[<img src="/uploads/2018/12/Code4Startup.jpg?resize=800%2C425&#038;ssl=1" alt="" class="wp-image-2504" width="800" height="425" srcset="/uploads/2018/12/Code4Startup.jpg?w=800&ssl=1 800w, /uploads/2018/12/Code4Startup.jpg?resize=300%2C159&ssl=1 300w, /uploads/2018/12/Code4Startup.jpg?resize=768%2C408&ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" />][1]<figcaption>[Code4Startup][1]</figcaption></figure> 
 
 
 

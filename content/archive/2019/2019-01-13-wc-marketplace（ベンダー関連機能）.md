@@ -52,7 +52,7 @@ Setting up – Vendor Registration for WCMp
 管理者が登録する方法以外に、Registration Formも用意されており、それをするしない、承認を経由するしない、フォームで登録する内容、等が設定可能です。  
 例えば、Store DescriptionとCountry　を追加すると、このような登録フォームになります。<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?fit=1024%2C754&ssl=1" alt="" class="wp-image-2607" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?w=1690&ssl=1 1690w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=300%2C221&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=768%2C565&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=1024%2C754&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?fit=1024%2C754&ssl=1" alt="" class="wp-image-2607" srcset="/uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?w=1690&ssl=1 1690w, /uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=300%2C221&ssl=1 300w, /uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=768%2C565&ssl=1 768w, /uploads/2019/01/スクリーンショット-2019-01-13-17.54.17.png?resize=1024%2C754&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 ## ベンダー用機能
 

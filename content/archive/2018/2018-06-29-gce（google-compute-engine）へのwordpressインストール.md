@@ -18,9 +18,9 @@ categories:
 
 GCP・WordPressで検索すると、コンソールのCloud Launcherからインストールする方法が多数ヒットすると思います。  
 確かに、メニューから選択して簡単にインストールできそうです。  
-[<img style="display: inline; background-image: none;" title="gcp3" src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp3_thumb.png?resize=244%2C198&#038;ssl=1" alt="gcp3" width="244" height="198" border="0" data-recalc-dims="1" />][1]
+[<img style="display: inline; background-image: none;" title="gcp3" src="/uploads/2018/06/gcp3_thumb.png?resize=244%2C198&#038;ssl=1" alt="gcp3" width="244" height="198" border="0" data-recalc-dims="1" />][1]
 
-[<img style="display: inline; background-image: none;" title="gcp1" src="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp1_thumb.png?resize=244%2C130&#038;ssl=1" alt="gcp1" width="244" height="130" border="0" data-recalc-dims="1" />][2]  
+[<img style="display: inline; background-image: none;" title="gcp1" src="/uploads/2018/06/gcp1_thumb.png?resize=244%2C130&#038;ssl=1" alt="gcp1" width="244" height="130" border="0" data-recalc-dims="1" />][2]  
 この流れは魅力的。
 
 しかし、これは、WordPress用にインスタンスを立ち上げるサービスになります。  
@@ -43,7 +43,7 @@ GCE（Google Compute Engine）は、GCPのサービスの中の一つで、IaaS�
 そして、ここでも、GCPコンソールから「SQL」という魅力的なアイコンが見えます。  
 これをクリックすると、簡単にMySQLがインストールできそうです。
 
-[<img style="display: inline; background-image: none;" title="gcp2" src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp2_thumb.png?resize=244%2C144&#038;ssl=1" alt="gcp2" width="244" height="144" border="0" data-recalc-dims="1" />][3]
+[<img style="display: inline; background-image: none;" title="gcp2" src="/uploads/2018/06/gcp2_thumb.png?resize=244%2C144&#038;ssl=1" alt="gcp2" width="244" height="144" border="0" data-recalc-dims="1" />][3]
 
 しかし、これも、データベース用のインスタンス立ち上げサービスです。  
 あくまでも、既存のインスタンス内にインストールしたいので、これは使用しません。
@@ -102,6 +102,6 @@ Ask your administrator to install one of them
   </div>
 </div>
 
- [1]: https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp3.png?ssl=1
- [2]: https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp1.png?ssl=1
- [3]: https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2018/06/gcp2.png?ssl=1
+ [1]: /uploads/2018/06/gcp3.png?ssl=1
+ [2]: /uploads/2018/06/gcp1.png?ssl=1
+ [3]: /uploads/2018/06/gcp2.png?ssl=1

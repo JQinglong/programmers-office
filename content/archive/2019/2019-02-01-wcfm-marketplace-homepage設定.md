@@ -23,7 +23,7 @@ tags:
 
 設定画面のReadingから「Homepage」にショップページを指定します。<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?fit=1024%2C753&ssl=1" alt="" class="wp-image-2761" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?w=1596&ssl=1 1596w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=300%2C221&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=768%2C565&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=1024%2C753&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?fit=1024%2C753&ssl=1" alt="" class="wp-image-2761" srcset="/uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?w=1596&ssl=1 1596w, /uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=300%2C221&ssl=1 300w, /uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=768%2C565&ssl=1 768w, /uploads/2019/02/スクリーンショット-2019-01-31-7.16.08.jpg?resize=1024%2C753&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 最初Wordpressインストール時に日本語指定していたからか、日本語になってしまってますが、WooCommerce本体としてのトップページであり、これがWCFM Marketplaceでは、全店舗横断の商品ページ、という位置付けになります。  
 「Posts page」は指定すると、その画面はブログページになってしまうので、必要な場合はそれ用の固定ページを作る、ブログが不要な場合は非表示のページを指定しておく、というような形で良いかと思います。
@@ -91,12 +91,12 @@ _WCFM – TOOLSET MAPS_
 こちらの画面でも、Productsとの関連付けはありますが、Shop(Store, Vendor)はありません。  
 確かに、Productsの追加画面には地図機能が追加されます。（要はホテル等向けということですかね）<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?fit=1024%2C512&ssl=1" alt="" class="wp-image-2763" srcset="https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?w=1400&ssl=1 1400w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=300%2C150&ssl=1 300w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=768%2C384&ssl=1 768w, https://i1.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=1024%2C512&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?fit=1024%2C512&ssl=1" alt="" class="wp-image-2763" srcset="/uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?w=1400&ssl=1 1400w, /uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=300%2C150&ssl=1 300w, /uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=768%2C384&ssl=1 768w, /uploads/2019/02/スクリーンショット-2019-02-01-0.09.55.jpg?resize=1024%2C512&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 しかし、API Keyの指定はもう一箇所あります。  
 Marketplaceのメニューから、SettingsのMarketplace SettingsのGoogle Map API KeyGoogle。これを入力すると、自動的にショップページの上部に地図が表示されます。  
 そして、この状態でVendors画面を見ると、Store Locationの部分に地図が表示されています。ここでロケーションを設定すれば良いはずですが、住所を入力しても反応してくれない。<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?fit=1024%2C783&ssl=1" alt="" class="wp-image-2764" srcset="https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?w=1370&ssl=1 1370w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=300%2C229&ssl=1 300w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=768%2C587&ssl=1 768w, https://i2.wp.com/www.programmers-office.ml/wp-content/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=1024%2C783&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
+<img src="/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?fit=1024%2C783&ssl=1" alt="" class="wp-image-2764" srcset="/uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?w=1370&ssl=1 1370w, /uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=300%2C229&ssl=1 300w, /uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=768%2C587&ssl=1 768w, /uploads/2019/02/スクリーンショット-2019-02-01-0.29.38-1.jpg?resize=1024%2C783&ssl=1 1024w" sizes="(max-width: 1000px) 100vw, 1000px" /> </figure> 
 
 ここで一旦中断します。
