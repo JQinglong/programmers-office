@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KONNO Kiyotaka on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/author/konno-kiyotaka/</link><description>Recent content in KONNO Kiyotaka on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Mon, 10 Aug 2020 03:02:23 +0000</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/author/konno-kiyotaka/index.xml" rel="self" type="application/rss+xml"/><item><title>React にも入門</title><link>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</link><pubDate>Mon, 10 Aug 2020 03:02:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</guid><description>浮気症は治らず、今度は React にも手を出してみます。 React のチュートリアル まずはチュートリアル。 チュートリアル：React の導入 が、始めようとすると、ちゃんと JavaScript は抑えてねと。 なので、先にこちら。 JavaScript 「再」入門 Next.js のチュートリアル それぞれ、特に問題なく終了したので、すかさず Next.js に入ります。 大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました 途中、下記のエラーに悩まされました。 Failed to compile ./lib/posts.js Module not found: Can't resolve 'fs' in '/Users/konnokiyotaka/workspace/ReactTutorial/nextjs-blog/lib' 色々情報漁りましたが、結局は getStaticProps が getStaticprops になっていたのが原因。（大文字小文字） configに "fs": false を書くとか、 target: &amp;#8216;node&amp;#8217; を書くとか不要でした。 getStaticProps は サーバサイドでのみ 実行される！ 覚えておきましょう。 デプロイのところも、みんな Git は普通に使えるよね、というトーンなので、若干調べながらになりました。 こんな感じになりますね。 git checkout -b test1 # （いくつか変更を加えて、GitHub に push する） git push origin test1 TypeScript への変換は、まあそんな感じかということで途中でやめてしまいました。 が、やはり TypeScript の方が良いよなとは思っています。 git mv components/date.</description></item><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KONNO Kiyotaka on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/author/konno-kiyotaka/</link><description>Recent content in KONNO Kiyotaka on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sun, 20 Jun 2021 22:49:55 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/author/konno-kiyotaka/index.xml" rel="self" type="application/rss+xml"/><item><title>救命</title><link>https://jqinglong.github.io/programmers-office/post/kyumei/</link><pubDate>Sun, 20 Jun 2021 22:49:55 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/kyumei/</guid><description>ご無沙汰になってしまいましたが、ちゃんと整理して書いた文章は後から読んで面白いので、普段書き散らしているものをこちらにまとめておく、ということはしておこうと思います。
+救命―東日本大震災、医師たちの奮闘― 救命―東日本大震災、医師たちの奮闘―
+今年は、2011年（平成23年）3月11日の東日本大震災から10年目。 それと関係なく、いつ買ったかも忘れたくらい前に買った本でしたが、今年に入って読みました。
+震災時に尽力した医師たちのインタビュー集とでも言ったもの。2014年発行。海堂尊監修。
+海堂尊さんの代表作というべきチーム・バチスタの栄光については下記でも書いていますが、
+チーム・バチスタの栄光
+他も、ほとんど読んでいる状態です。
+ジェネラル・ルージュも格好良かった。
+ジェネラル・ルージュの凱旋
+尾身茂さん登場 本書で最初に登場するのは、南三陸志津川病院で働いていた医師。親戚のおばさんも通っていた病院ですから、いきなり引き込まれました。その他の医師たちも個性派揃いで、面白いです。
+その最初の医師の言葉の中で、唐突に尾身茂医師の名前が登場します。なんの注釈なしで出しても不自然じゃないというくらい、名の知られた、優秀な医師だったんだなと思いました。
+「だった」、二通りの解釈ができる言葉ですね。
+過去は優秀だったけど、今はそうでない。
+優秀ということを、自分は知らなかったけど今知った。
+どちらかは敢えて書きません。
+オートプシー・イメージング（Autopsy imaging、Ai） 海堂さんの本ですから、いつ出てくるのかと思っていたら、後書きで出てきました。
+「チーム・バチスタの栄光」が2006年。震災のあった2011年、それこそ、多数の死者の情報を調べるためには大きな武器となって良ささそうに感じますが、活用されなかった。本書の文庫版が出た2014年でも、海堂さんは怒りをぶちまけている。
+正直、なぜこれが広まらないかが、部外者から見ると全くわからないです。
+後書きで示唆されているのは、警察組織のプライド？
+必要な死後解剖はできる、やっている、ということでしょうか。
+分からなくもないですけど、他にやることいっぱいあるでしょう、という感想です。
+赤十字社への寄付の活用 さらに重たい話が出てきました。 素人でも想像できるように、市民の善意は日本赤十字社に寄付として託されることが多いと思うのですが、多額の寄付を集めながらそれが活用されずに留保されているという話。
+2021年のコロナ禍対策として確保されている予備費が執行されずにいるという件とも繋がるような…
+復興予算の流用 もっと重たい話。復興予算という名目に反して、結局直接的な目的とは異なる分野に流用されたという話。
+2013年の記事
+2021年の記事
+使えるものは使おう、と考えるのはある意味自然な話。けど、それをコントロールするのが政治の仕事。そもそも、復興という状態が曖昧なのはおくとしても、現時点で復興完了と考えるかの認識は問われる。
+2021年4月時点で、郡山市の仮設住宅はまだ3戸残っている。
+https://www.pref.fukushima.lg.jp/uploaded/life/553030_1500410_misc.pdf
+2月時点で、宮城県の復旧・復興事業369箇所のうち、完成は259箇所。
+https://www.pref.miyagi.jp/uploaded/attachment/837289.pdf
+・・・
+後書きの中で、ええじゃないか、という言葉も使われていましたが、これからオリンピックというお祭りの中で、まさに狂乱の世界に入っていくのか・・・</description></item><item><title>新しい決済システム 2020</title><link>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</link><pubDate>Mon, 11 Jan 2021 09:03:51 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/new-payment-sysytem2020/</guid><description>昨年2020年も、新しいタイプの決済システムが色々生まれました。 昨年以前に生まれたものも含まれるかもしれませんが、使ってみたものをまとめてみます。
+ローソン スマホで簡単 レジ待ち0秒！新しいお買い物のカタチ｜ローソン研究所
+個人的には、このタイプが広まるとよいなと思います。
+セルフレジも結局行列になったりするわけですが、このタイプだと、行列とは無縁なわけです。
+多くの人の心配は、万引きしたいという気持ちよりも、万引きを疑われたくないということだと思うのですが、最後に店舗設置機にバーコードをかざすことで「ありがとうございました」という音声が流れることで、その不安を取り除いてくれます。
+もっとも、そこが行列になるような場面に出会した（でくわすってこういう漢字なんだ・・・）ことはないですが、利用者が増えるとそういうリスクもあるとは思いますので、もう一工夫できるかもしれません。
+お店側の負担も少ないと思われるのも、よいと思うポイントです。
+TRIAL トライアル スマートレジカート トライアルレジカート | TRIAL -トライアル-
+買い物体験として楽しさがありました。
+直接クレジットカード等ではなく、プリペイドカード経由なのが、ちょっと我が家から遠いという事情の下では嬉しくないですが、まあしかたないか。
+最初にプリペイドカード会員登録が必要
+最初にプリペイドカードと連携させてから買い物スタート
+商品バーコードスキャン
+広告表示やクーポン等のプロモーションもできる
+最後に店員さんのチェックが入る（いくつかのパターンがあるかも？）
+JR高輪ゲートウェイ駅 TOUCH TO GO 高輪ゲートウェイ駅 無人AI決済店舗「TOUCH TO GO」がサービス開始 商品は手に取るだけ！“ウォークスルーの次世代お買い物体験”
+店舗デザイン含めて未来感が良いです。 オール無人ではなくて、よくコンビニにあるセルフレジの代わりにこれが置いてあると、だいぶ会計の流れがスムーズになるような気がしますが、どうでしょうか。
+オープン前の下見時
+SORRY・・・入店制限あり
+TOUCH TO GO オリジナル商品
+決済時は取った商品が自動表示される
+今後行ってみようと思う店 イオン レジゴー イオンリテールは３月より、“レジに並ばない”お買物スタイル「レジゴー」本格展開｜イオン株式会社のプレスリリース
+トライアル方式よりは店舗負担が少なそう。
+カスミ　Scan&amp;amp;Go USMH／カスミ本社に無人店舗「カスミラボ」スマホで商品登録・決済 | 流通ニュース
+この記事を見て、つくばまで行こうと思っていたのですが、もうかなりの店舗に導入されている模様。
+U.S.M.H公式アプリ Scan＆Goのご紹介！
+我が家から徒歩圏内の店でもやっているので、行ってみることにする。</description></item><item><title>初めての Hugo</title><link>https://jqinglong.github.io/programmers-office/archive/2020/first-hugo/</link><pubDate>Fri, 11 Dec 2020 23:27:56 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/archive/2020/first-hugo/</guid><description>経緯 これまで、あちこちで駄文を積み重ねてきました。
+最初は、ソネットで、無料ホームページを作成し、1999年当時はブログというものはなかったため、日記的なメモを書いていました。 これは、現在は、xdomainに置いています。 いまだに参照できるのはありがたいことです。
+select *
+2003年12月、Niftyと契約したこともあり、ココログでブログを始めました。 その後、契約をやめる2014年まで継続したものを、ブログ契約だけは継続し、情報を残しています。
+一プログラマのラグジュアリーな生活Ⅱ
+ココログは残したものの、WordPressを使ってみたいという欲求が出てきたことで、新たにブログを立ち上げました。
+一プログラマのチャイニーズな生活
+データは引き継いでいるので、2003年情報から残っており、2018年12月まで書いていました。
+今度は、サイトをSSL化したいという欲求と、合わせて、たまたまだったと思いますが、GCPの無料枠でWordPress環境を構築できるという情報を見て、GCPへの移行を行いました。
+Programmers Office
+これが直近のサイトですが、GCPの無料枠では若干遅さを感じるのと、原因はわかっていませんが、何度やっても Google AdSense 申請が通らない（前のサイトでは通っているので内容ではないと思われるが、その後の記事に問題があるのか）。 そしてこれが決定打ですが、無料ドメインサービス freenom の 無料での更新ができない（本来、無料枠での１年以内での更新期間の選択肢が出てくるはずなのですが、有料枠のの１年以上の更新しか出てきません。これも原因不明）。 ということでさらに別の移行を検討してみたところ、WordPressからの移行記事を見たということで、Hugoを試してみようか、ということにしました。
+謝辞 以下のサイトに大変お世話になりました。
+HUGOのテーマ「Mainroad」の設定方法を紹介
+Hugo によるブログ作成と mainroad テーマのカスタマイズ
+GitHub Actions による GitHub Pages への自動デプロイ</description></item><item><title>React にも入門</title><link>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</link><pubDate>Mon, 10 Aug 2020 03:02:23 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/react-%E3%81%AB%E3%82%82%E5%85%A5%E9%96%80/</guid><description>浮気症は治らず、今度は React にも手を出してみます。 React のチュートリアル まずはチュートリアル。 チュートリアル：React の導入 が、始めようとすると、ちゃんと JavaScript は抑えてねと。 なので、先にこちら。 JavaScript 「再」入門 Next.js のチュートリアル それぞれ、特に問題なく終了したので、すかさず Next.js に入ります。 大幅にリニューアルされた Next.js のチュートリアルをどこよりも早く全編和訳しました 途中、下記のエラーに悩まされました。 Failed to compile ./lib/posts.js Module not found: Can't resolve 'fs' in '/Users/konnokiyotaka/workspace/ReactTutorial/nextjs-blog/lib' 色々情報漁りましたが、結局は getStaticProps が getStaticprops になっていたのが原因。（大文字小文字） configに "fs": false を書くとか、 target: &amp;#8216;node&amp;#8217; を書くとか不要でした。 getStaticProps は サーバサイドでのみ 実行される！ 覚えておきましょう。 デプロイのところも、みんな Git は普通に使えるよね、というトーンなので、若干調べながらになりました。 こんな感じになりますね。 git checkout -b test1 # （いくつか変更を加えて、GitHub に push する） git push origin test1 TypeScript への変換は、まあそんな感じかということで途中でやめてしまいました。 が、やはり TypeScript の方が良いよなとは思っています。 git mv components/date.</description></item><item><title>【Udemy】超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)</title><link>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</link><pubDate>Sat, 25 Apr 2020 00:53:40 +0000</pubDate><guid>https://jqinglong.github.io/programmers-office/%E3%80%90udemy%E3%80%91%E8%B6%85vue-js-2-%E5%AE%8C%E5%85%A8%E3%83%91%E3%83%83%E3%82%AF-%E3%82%82%E3%81%86%E4%BB%96%E3%81%AE%E6%95%99%E6%9D%90%E3%81%AF%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%8F%E3%81%A6ok/</guid><description>Vueを一度基本から勉強しようということで、いろいろ探して、これにたどり着きました。
 超Vue JS 2 完全パック – もう他の教材は買わなくてOK！ (Vue Router, Vuex含む)
 以前、AWSの講座を受講した時も、感じましたが、I am Now AWS Certified ・本題以外の技を見せてもらえることがある。
 ・再生速度を上げて時短できる
