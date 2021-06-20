@@ -1,6 +1,11 @@
 ---
 title: "初めての Hugo"
+author: KONNO Kiyotaka
 date: 2020-12-11T23:27:56+09:00
+archives:
+    - 2020
+categories:
+  - プログラミング
 draft: false
 ---
 ## 経緯
