@@ -84,4 +84,7 @@
     {{ range $i, $src := .Site.Params.custom_css }}
     <link rel='stylesheet' id='custom_css_{{ $i }}'  href="{{ $src | absURL }}" type='text/css' media='all' />
     {{ end }}
-</head>
+    {{ if not .Site.IsServer }}
+        {{ partial "google/analytics" . }}
+    {{ end }}
+  </head>

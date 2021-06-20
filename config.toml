@@ -4,7 +4,8 @@ subtitle = "中華圏に興味があるプログラマのラグジュアリー�
 languageCode = "ja-JP"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
-GoogleAnalytics = "G-PSBJYDPZCN" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
+# GoogleAnalytics = "G-PSBJYDPZCN" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
+GoogleAnalytics = "" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
 canonifyURLs = true
 # rssURI = "feed/" #deprecated feature
 
