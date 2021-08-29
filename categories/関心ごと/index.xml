@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>関心ごと on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/</link><description>Recent content in 関心ごと on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 03 Jul 2021 15:49:07 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Worldcup2018</title><link>https://jqinglong.github.io/programmers-office/post/worldcup2018/</link><pubDate>Sat, 03 Jul 2021 15:49:07 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/worldcup2018/</guid><description>FBの「思い出」によると、3年前の今日は、ワールドカップ日本対ベルギーの日だったそうで。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>関心ごと on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/</link><description>Recent content in 関心ごと on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 28 Aug 2021 09:55:09 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Supercity</title><link>https://jqinglong.github.io/programmers-office/post/supercity/</link><pubDate>Sat, 28 Aug 2021 09:55:09 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/supercity/</guid><description>「スーパーシティ型国家戦略特別区域の区域指定に関する専門調査会」という政府の専門家会議が2021年8月から開催されています。 https://www.chisou.go.jp/tiiki/kokusentoc/supercity/supercity_senmonchyousakai.html
+第1回の議事録はこちら
+https://www.chisou.go.jp/tiiki/kokusentoc/supercity/senmonchyousakai/dai1/shidai.pdf
+自作アプリの方が多少見やすいでしょうか（単なる宣伝）
+https://polilink-web.netlify.app/council/cc6684f2-eb22-4d1c-b078-39ec8a2d28b5/8a562566-955b-4a4a-82b3-6472e8823922/
+以前は、「『スーパーシティ』構想の実現に向けた有識者懇談会」というものも開かれていました。
+https://www.chisou.go.jp/tiiki/kokusentoc/supercity.html
+https://polilink-web.netlify.app/council/a963c26a-aa93-4abf-aef7-0d2cc929e3fb/
+その後、実際に2021年4月に公募があり、それを受けての会議となっています。
+議事を見ると、大きなテーマが岩盤規制改革だと分かります。要するに、国家連略特区という枠組みの中で（それを活用して）、都市のスマート化を進める、ということのように思われます。違う言い方をすると、スマートシティは色々あるけど、特区というに値する岩盤規制破壊を行うものを特にスーパーシティとして支援する、という感じでしょうか。
+この岩盤規制とは何か。以前の会議で副座長を務めた、原英史さん（株式会社政策工房）が書かれている、こちらの記事表がわかりやすいかと思います。
+https://www.fsight.jp/articles/-/47308
+ということで見てみました。 ・・・感想としては、結局外資・大企業の力による効率化としか思えなかった・・・
+地域社会が求めるものはそれ？それを求める人は東京に移っているのでは。 ならば、東京でやれば良いのでは？本当はオリパラに絡めて、色々やりたかったのでしょうけど、それも中途半端な延期によって、中途半端な効果しか得ていないような気がしますが・・・
+そもそも、戦略特区の目的は、「“世界で一番ビジネスをしやすい環境”を作ること」だそうです。
+https://www.kantei.go.jp/jp/headline/kokkasenryaku_tokku2013.html
+その目的のために、地域を限定して実験しようということですが、地域が持っている課題の解決とこの目的の達成とが、そもそも近くないように感じられます。
+地域の課題とは何か。 田舎暮らしだと、医療、モビリティ、困っているような気はします。けど、それは規制のせいではないようにも思います。単純に、人が少ないから、その人たちを相手に商売しても自分が暮らしていけない。 仮にそこにビジネスをしやすい環境が生まれたとして、結局そのビジネスのお客様は、その地域の住民ではなくなる気がします。
+文化、これは地域差があると思う。大阪と東京でさえ差はあると思う。（30年前に暮らしてたときの大学生としての感想なので、今の現実は別かも） 例えば、我が父のふるさと宮城県登米市に映画館はなさそう。 ならば、人を集めて1000円の入場料取って上映会をやろうとしたら、これは規制される（というか色々面倒くさい）。こういうのは崩すと良いかもしれない。
+特区を各地域に作るなら、その地域の課題を解決することが必要であり、それを阻害している規制があるなら、それを崩すことを考えた方が良いだろう、ということです。
+そして、それを行うにあたっては、そもそもそれぞれの規制の趣旨に遡って考える必要がある。その規制は、何を保護するために存在したのか、保護は不要になったのか、違う形の保護のほうが良いのか… そう考えると、今まで保護されてきた人たちに影響が及ぶわけなので、その人たちとの合意プロセスが必要になる。 このプロセスがセットになっていないと、それは反対されるでしょうという話。
+その意味で、素人ながら、上記原英史さんの記事は怖い。 例えば、クリーニングの例。対面受け渡しという規制がなぜ行われているか。衛生管理という面からしか書いていないが、実際は、トラブル防止の観点が大きいように思われる（受け渡しの時に、シミとか穴の確認しますよね）。けど、多分こういう議論の中で、「衛生管理」を強調してしまうと、その観点だけで検討がされて、その場が終わってしまいかねない。トラブル対応に苦慮している関係者と合意しようとしないで、一方的に進めようとして、それに対する長老の反対電話があってストップする、何をしているのだろうと思わざるを得ない。
+加計学園問題、利益誘導が問題になっているという認識があるのに、根拠不明と言う。もし、獣医学部が西日本地域に必要というなら、その根拠（需要？）に基づくのと同時に、高度専門職業人養成が可能な仕様を作り上げて、公正な入札を行えば良かったわけです。特区関係ありますか？？ 「規制改革をやって、またあらぬ疑惑追及を受けたら堪らない」？公正・オープンで解決できると思います。
+主題が変わってきてしまいましたので、この辺で。</description></item><item><title>Worldcup2018</title><link>https://jqinglong.github.io/programmers-office/post/worldcup2018/</link><pubDate>Sat, 03 Jul 2021 15:49:07 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/worldcup2018/</guid><description>FBの「思い出」によると、3年前の今日は、ワールドカップ日本対ベルギーの日だったそうで。
 こちらにも転載してみようと思います。
 過去のこの日〜3年前 ちょっと語りたいモード。
 ワールドカップ2018日本最終戦、個人的には最高の結末でした。
