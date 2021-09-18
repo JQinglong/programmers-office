@@ -14,7 +14,7 @@ Facebookに載せた写真を転載。
 
 ---
 
-遅めの夏休み。やっと晴れてくれたので、遠足へ。
+2021年9月10日。遅めの夏休み。やっと晴れてくれたので、遠足へ。
 往復10kmちょっと。
 
 {{< figure src="https://lh3.googleusercontent.com/pw/AM-JKLUnFqTsDQYsQhfu1ABsW-MugyzZ7Lz6zn7p3rCi1gRTNg3_vDor8gQefBprV05FTsJ-KZgr0uDTPUXVSDoJO5LfNXrMGEdHH5X-F2cwJZld-xoFE_ewQu5CTFUufS5SssRGQ_2Kp4v9avvWGdFXylv9dw=w1736-h2314-no?authuser=0" width="480" >}}
