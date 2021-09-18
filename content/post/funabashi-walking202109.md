@@ -3,7 +3,7 @@ title: "船橋遠足散歩202109"
 date: 2021-09-17T22:13:59+09:00
 draft: false
 categories:
-  - 書籍
+  - 旅行
 tags:
   - 船橋
 ---
