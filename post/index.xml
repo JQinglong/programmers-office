@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/post/</link><description>Recent content in Posts on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Fri, 17 Sep 2021 22:13:59 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/post/index.xml" rel="self" type="application/rss+xml"/><item><title>船橋遠足散歩202109</title><link>https://jqinglong.github.io/programmers-office/post/funabashi-walking202109/</link><pubDate>Fri, 17 Sep 2021 22:13:59 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/funabashi-walking202109/</guid><description>色々買いていることをまめに残さないと、どこに何を書いたかわからなくなっている。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/post/</link><description>Recent content in Posts on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 06 Nov 2021 08:38:19 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/post/index.xml" rel="self" type="application/rss+xml"/><item><title>会社での開発環境を考える</title><link>https://jqinglong.github.io/programmers-office/post/devenv202111/</link><pubDate>Sat, 06 Nov 2021 08:38:19 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/devenv202111/</guid><description>ちょっと考えてみたことの記録
+用語的なこと 【ゼロトラスト】
+“社内は安全である”という前提に立って境界を守るやり方では守れなくなった現状を踏まえ、「信頼できない・しないこと（ゼロトラスト)を前提とし、全てのトラフィックを検査、ログ取得を行う」という性悪説のアプローチです。つまり、ネットワークの中と外を区別せずに接続者、接続端末がなんであれ、アクセス管理を徹底することです。
+★リソースとアクセス元と操作のチェックを常に行う
+【FIDOファイド】
+★パスワードレスでデバイスを奪われても良い生体認証を組み合わせる方法
+【EDR】
+マルウェアに感染しないようにするEPPに対し、EDRはマルウェア感染後に被害を抑えることを主目的としたセキュリティ対策です。
+Endpoint Detection and Response
+【SIEM】
+Security Information and Event Management
+ログ等を総合的に監視してインシデントを検知
+令和２年度経済産業省デジタルプラットフォーム構築事業報告書 令和２年度経済産業省デジタルプラットフォーム構築事業報告書
+スコープは絞っているけど
+1 - 7 . 構成要素
+意図しているものに近いと思われる
+2-1-2 . リスク対応を考慮した業務インフラの考え⽅
+脅威インテリジェンスサービスの利用
+2 - 2 . 基本⽅針を体現するアーキテクチャ
+各構成要素の選定理由
+p27
+データガバナンス
+3 プロジェクト管理等に関する
+ツールの調査・分析と
+効率化⼿法のための導⼊実証
+分割と統合の非効率性の解消 全ての情報を全ての人が共有するか、そうではない。
+セキュリティの観点で、情報の流通は限定する方が良い。
+契約の観点で、決められた役割を実行する、それ以外は行わない。
+QCDの観点で、不十分な情報は、迷惑をかけ、対処にコストと時間がかかる。
+だから、情報を出すのは慎重にというのがこれまでのスタンス。
+しかし、お客様が変わっている。 官庁の調達でも、アジャイルという言葉が普通になってきていて、とにかく素早いフィードバックをさせてくれ、という意識が出てきている。
+その前提に、セキュリティは当たり前ということはあるが、害が出ないなら、100%の品質よりもスピードが重要になってきている。
+そして、そもそも効率・コストの問題。
+100%のセキュリティ・品質のための作業を経由していては戦えない。
+部門ごとの意識の差 スピードとコストの問題は、当然みんな認識はしている。
+ただ、ルールが明確化、周知されていないと、人によって差が出る。
+ファイルの共有だけでなく、もっと情報の性質に特化されているサービスが多数ある。
+例えば、Webデザインを共有するための、FigmaとかAdobeXD。
+使って良いのか悪いのか、ブレる可能性がある。
+これは、
+過度に消極的になると競争力を失う 無防備に使うとセキュリティ上のリスクを抱える
+課題は、適切に活用できる全社共通のルールをどう整備するか 課題の解決方法 セキュリティがリリースのブロッカーにならないように常時監査を行う</description></item><item><title>船橋遠足散歩202109</title><link>https://jqinglong.github.io/programmers-office/post/funabashi-walking202109/</link><pubDate>Fri, 17 Sep 2021 22:13:59 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/funabashi-walking202109/</guid><description>色々買いていることをまめに残さないと、どこに何を書いたかわからなくなっている。
 Facebookに載せた写真を転載。
 2021年9月10日。遅めの夏休み。やっと晴れてくれたので、遠足へ。 往復10kmちょっと。
 最近とあるブログサイトを見てから、商店会・商店街の街灯が気になってます。 どれも主張が強い。
