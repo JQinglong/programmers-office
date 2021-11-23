@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>関心ごと on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/</link><description>Recent content in 関心ごと on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Sat, 28 Aug 2021 09:55:09 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Supercity</title><link>https://jqinglong.github.io/programmers-office/post/supercity/</link><pubDate>Sat, 28 Aug 2021 09:55:09 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/supercity/</guid><description>「スーパーシティ型国家戦略特別区域の区域指定に関する専門調査会」という政府の専門家会議が2021年8月から開催されています。 https://www.chisou.go.jp/tiiki/kokusentoc/supercity/supercity_senmonchyousakai.html
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>関心ごと on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/</link><description>Recent content in 関心ごと on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Tue, 23 Nov 2021 09:20:46 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/categories/%E9%96%A2%E5%BF%83%E3%81%94%E3%81%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>ふるさと納税の電子申請</title><link>https://jqinglong.github.io/programmers-office/post/furusatonozei/</link><pubDate>Tue, 23 Nov 2021 09:20:46 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/furusatonozei/</guid><description>ふるさと納税を行なった際に、「せっかくマイナンバーカードを持っているのに、なぜわざわざコピーして添付して、紙の申請書を出さないといけないのだ」という話はよく聞くように思います。
+確かにそう思うのですが、自治体によっては、電子申請で行えるところもあるようです。
+（と言っても、今のところ、岐阜県の大垣市しか知りませんが・・・）
+こんな感じで手続きできます。
+送られてきた、申請書のQRコードから画面起動。
+以下こんな流れです。
+マイナンバーカードがあれば写真を撮ってアップするだけ。コンビニにコピーしに行かなくて良いのは大きい。
+ちなみに、チェック欄は、この画像のように左上ではなく、QRコードの部分なので、ちょっと迷いました。
+非常に便利なのですが、なぜ、みんなこの方式にならないのか。
+そもそもこの方式は、どう成り立っているのか。
+これを実現するために、このサービスを使っているのですね。
+motiONE＜モーション＞
+ワンストップ特例通知書の作成アプリであり、スマホで添付書類を提出する機能は有料オプション。
+この辺がポイントですね。
+「寄附者さまはアクセスした申請画面で、個人番号確認書類と本人確認書類の写真を送信します。この際、送信される写真データはインターネット側へは保存されず、LGWAN側よりアクセスが可能な非公開ネットワークに保存されます。」
+ふむふむ・・・</description></item><item><title>Supercity</title><link>https://jqinglong.github.io/programmers-office/post/supercity/</link><pubDate>Sat, 28 Aug 2021 09:55:09 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/supercity/</guid><description>「スーパーシティ型国家戦略特別区域の区域指定に関する専門調査会」という政府の専門家会議が2021年8月から開催されています。 https://www.chisou.go.jp/tiiki/kokusentoc/supercity/supercity_senmonchyousakai.html
 第1回の議事録はこちら
 https://www.chisou.go.jp/tiiki/kokusentoc/supercity/senmonchyousakai/dai1/shidai.pdf
 自作アプリの方が多少見やすいでしょうか（単なる宣伝）

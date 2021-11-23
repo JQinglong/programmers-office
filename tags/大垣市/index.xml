@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>大垣市 on Programmers Office</title><link>https://jqinglong.github.io/programmers-office/tags/%E5%A4%A7%E5%9E%A3%E5%B8%82/</link><description>Recent content in 大垣市 on Programmers Office</description><generator>Hugo -- gohugo.io</generator><language>ja-JP</language><lastBuildDate>Tue, 23 Nov 2021 09:20:46 +0900</lastBuildDate><atom:link href="https://jqinglong.github.io/programmers-office/tags/%E5%A4%A7%E5%9E%A3%E5%B8%82/index.xml" rel="self" type="application/rss+xml"/><item><title>ふるさと納税の電子申請</title><link>https://jqinglong.github.io/programmers-office/post/furusatonozei/</link><pubDate>Tue, 23 Nov 2021 09:20:46 +0900</pubDate><guid>https://jqinglong.github.io/programmers-office/post/furusatonozei/</guid><description>ふるさと納税を行なった際に、「せっかくマイナンバーカードを持っているのに、なぜわざわざコピーして添付して、紙の申請書を出さないといけないのだ」という話はよく聞くように思います。
+確かにそう思うのですが、自治体によっては、電子申請で行えるところもあるようです。
+（と言っても、今のところ、岐阜県の大垣市しか知りませんが・・・）
+こんな感じで手続きできます。
+送られてきた、申請書のQRコードから画面起動。
+以下こんな流れです。
+マイナンバーカードがあれば写真を撮ってアップするだけ。コンビニにコピーしに行かなくて良いのは大きい。
+ちなみに、チェック欄は、この画像のように左上ではなく、QRコードの部分なので、ちょっと迷いました。
+非常に便利なのですが、なぜ、みんなこの方式にならないのか。
+そもそもこの方式は、どう成り立っているのか。
+これを実現するために、このサービスを使っているのですね。
+motiONE＜モーション＞
+ワンストップ特例通知書の作成アプリであり、スマホで添付書類を提出する機能は有料オプション。
+この辺がポイントですね。
+「寄附者さまはアクセスした申請画面で、個人番号確認書類と本人確認書類の写真を送信します。この際、送信される写真データはインターネット側へは保存されず、LGWAN側よりアクセスが可能な非公開ネットワークに保存されます。」
+ふむふむ・・・</description></item></channel></rss>
